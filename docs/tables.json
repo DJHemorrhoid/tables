@@ -105,10 +105,10 @@
       "name": "sl/st 密度下位10%",
       "slug": "slst-dens-bottom10",
       "description": "",
-      "symbol": "sl,st",
+      "symbol": "",
       "chart_count": 462,
       "folder_count": 26,
-      "updated_at": "2026-07-26 00:40",
+      "updated_at": "2026-07-26 01:03",
       "url": "./slst-dens-bottom10/",
       "header_url": "./slst-dens-bottom10/header.json"
     }
