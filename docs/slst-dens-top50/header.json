@@ -1,6 +1,6 @@
 {
   "name": "sl/st 密度上位50%",
-  "symbol": "sl,st",
+  "symbol": "",
   "data_url": "./data.json",
   "level_order": [
     "sl0",
