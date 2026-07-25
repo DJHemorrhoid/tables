@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "generated_by": "BMS難易度表生成ツール",
+  "version": "0.7.0",
+  "tables": {
+    "slst-code-sttream": {
+      "recipe_id": "d5cbfbb1eeb9",
+      "content_hash": "464f8ad3cd2c409f4a6c9cc432a4d55a8a8066f8a3ea4626cc1843e2abd4caba",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-mini-jack": {
+      "recipe_id": "2a10f95899c4",
+      "content_hash": "33d3e0f7fc170e39b026cc2018ff58e44ee50b418f1b5891df5429f62fcf331d",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-arm": {
+      "recipe_id": "df8e90264a21",
+      "content_hash": "f6e581a0a123bcbbff6a585cbb5081f599679d3b4feec66339c557c0fe4f08b3",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-delay": {
+      "recipe_id": "36e04c7f73cc",
+      "content_hash": "7172d519b746f293b7785a003e0818125728c56de5b24f2f8aab7c63fc90e5dd",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-dens-top10": {
+      "recipe_id": "b8e18ebd440f",
+      "content_hash": "1273789e2cd91e59c1b72a6c532c6a2f0c87ff9b5cf243199baff9d33b0080e2",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-dens-top25": {
+      "recipe_id": "8da8efb01a9d",
+      "content_hash": "23d133487b11ecd828641a358c88b9684e640d41d92cde7e0db7540fa718e824",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-dens-top50": {
+      "recipe_id": "137998b001b2",
+      "content_hash": "ef7970c4260f583f1d6978f87aa776b0c0eccd5b19bbab9a2298ba44490d1c16",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-dens-bottom50": {
+      "recipe_id": "fcf1258c4a5b",
+      "content_hash": "1fb3ef7f7995002fb138947c4da5c3d130a266f139181da5f37186d7894c7590",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-dens-bottom25": {
+      "recipe_id": "52779a429766",
+      "content_hash": "cf96b658ae54f35f8822fca3d3cb252384f59e33acc677c85bf382713e4f2ad3",
+      "published_at": "2026-07-26 00:40"
+    },
+    "slst-dens-bottom10": {
+      "recipe_id": "00caba753719",
+      "content_hash": "f1f1fc6e9b3aa51fab6d2ace7a2664d0baa0d07dc6cdb39d3644bb0b649195cf",
+      "published_at": "2026-07-26 00:40"
+    }
+  }
+}

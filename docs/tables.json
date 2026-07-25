@@ -1,0 +1,116 @@
+{
+  "site_name": "BMS難易度表",
+  "updated_at": "2026-07-26 00:40",
+  "tables": [
+    {
+      "name": "sl/st(16分乱打)",
+      "slug": "slst-code-sttream",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 1499,
+      "folder_count": 52,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-code-sttream/",
+      "header_url": "./slst-code-sttream/header.json"
+    },
+    {
+      "name": "sl/st(指ガチ)",
+      "slug": "slst-mini-jack",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 351,
+      "folder_count": 38,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-mini-jack/",
+      "header_url": "./slst-mini-jack/header.json"
+    },
+    {
+      "name": "sl/st(腕ガチ)",
+      "slug": "slst-arm",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 670,
+      "folder_count": 41,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-arm/",
+      "header_url": "./slst-arm/header.json"
+    },
+    {
+      "name": "sl/st(ディレイ)",
+      "slug": "slst-delay",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 461,
+      "folder_count": 56,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-delay/",
+      "header_url": "./slst-delay/header.json"
+    },
+    {
+      "name": "sl/st 密度上位10%",
+      "slug": "slst-dens-top10",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 462,
+      "folder_count": 26,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-dens-top10/",
+      "header_url": "./slst-dens-top10/header.json"
+    },
+    {
+      "name": "sl/st 密度上位25%",
+      "slug": "slst-dens-top25",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 1131,
+      "folder_count": 26,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-dens-top25/",
+      "header_url": "./slst-dens-top25/header.json"
+    },
+    {
+      "name": "sl/st 密度上位50%",
+      "slug": "slst-dens-top50",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 2246,
+      "folder_count": 26,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-dens-top50/",
+      "header_url": "./slst-dens-top50/header.json"
+    },
+    {
+      "name": "sl/st 密度下位50%",
+      "slug": "slst-dens-bottom50",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 2246,
+      "folder_count": 26,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-dens-bottom50/",
+      "header_url": "./slst-dens-bottom50/header.json"
+    },
+    {
+      "name": "sl/st 密度下位25%",
+      "slug": "slst-dens-bottom25",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 1131,
+      "folder_count": 26,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-dens-bottom25/",
+      "header_url": "./slst-dens-bottom25/header.json"
+    },
+    {
+      "name": "sl/st 密度下位10%",
+      "slug": "slst-dens-bottom10",
+      "description": "",
+      "symbol": "sl,st",
+      "chart_count": 462,
+      "folder_count": 26,
+      "updated_at": "2026-07-26 00:40",
+      "url": "./slst-dens-bottom10/",
+      "header_url": "./slst-dens-bottom10/header.json"
+    }
+  ]
+}

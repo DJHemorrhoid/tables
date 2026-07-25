@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="公開BMS難易度表一覧">
+  <title>BMS難易度表</title>
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+  <main class="container">
+    <header class="hero">
+      <p class="eyebrow">BMS DIFFICULTY TABLES</p>
+      <h1>BMS難易度表</h1>
+      <p class="lead">公開中の生成難易度表をまとめています。各ページのURLまたはheader.jsonをbeatoraja／LR2orajaへ登録できます。</p>
+    </header>
+    <section class="toolbar">
+      <input id="table-search" type="search" placeholder="表名・説明から検索" autocomplete="off">
+      <span id="table-count" class="muted"></span>
+    </section>
+    <section id="table-list" class="card-grid" aria-live="polite"></section>
+    <noscript>一覧表示にはJavaScriptが必要です。</noscript>
+  </main>
+  <script src="./assets/site.js"></script>
+</body>
+</html>
