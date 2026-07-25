@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-07-26 01:03",
+  "updated_at": "2026-07-26 01:57",
   "tables": [
     {
       "name": "sl/st(16分乱打)",
@@ -45,6 +45,17 @@
       "updated_at": "2026-07-26 01:02",
       "url": "./slst-delay/",
       "header_url": "./slst-delay/header.json"
+    },
+    {
+      "name": "sl/st限定",
+      "slug": "slst-only",
+      "description": "",
+      "symbol": "",
+      "chart_count": 1770,
+      "folder_count": 26,
+      "updated_at": "2026-07-26 01:57",
+      "url": "./slst-only/",
+      "header_url": "./slst-only/header.json"
     },
     {
       "name": "sl/st 密度上位10%",

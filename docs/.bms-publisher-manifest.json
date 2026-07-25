@@ -23,6 +23,11 @@
       "content_hash": "8ddfb90a6d148691c9c57a5b480ac70aaf76f9db01d003eba2e4531e3388edc8",
       "published_at": "2026-07-26 01:02"
     },
+    "slst-only": {
+      "recipe_id": "c281011d2d6b",
+      "content_hash": "89dc4f77421aab900cfcb9a13d55db386682eb95817856bc8626b387403fc3c2",
+      "published_at": "2026-07-26 01:57"
+    },
     "slst-dens-top10": {
       "recipe_id": "b8e18ebd440f",
       "content_hash": "800ea76cc0a47159ea3cbfccefdf7882ea41273df355d7a16ca214c67de770a1",
