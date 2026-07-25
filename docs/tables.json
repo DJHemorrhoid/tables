@@ -28,10 +28,10 @@
       "name": "sl/st(腕ガチ)",
       "slug": "slst-arm",
       "description": "",
-      "symbol": "sl,st",
+      "symbol": "",
       "chart_count": 670,
       "folder_count": 41,
-      "updated_at": "2026-07-26 00:40",
+      "updated_at": "2026-07-26 01:02",
       "url": "./slst-arm/",
       "header_url": "./slst-arm/header.json"
     },
