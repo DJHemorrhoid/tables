@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-07-26 01:57",
+  "updated_at": "2026-07-28 09:18",
   "tables": [
     {
       "name": "sl/st(16分乱打)",
@@ -62,9 +62,9 @@
       "slug": "slst-dens-top10",
       "description": "",
       "symbol": "",
-      "chart_count": 462,
+      "chart_count": 464,
       "folder_count": 26,
-      "updated_at": "2026-07-26 01:03",
+      "updated_at": "2026-07-28 09:18",
       "url": "./slst-dens-top10/",
       "header_url": "./slst-dens-top10/header.json"
     },
@@ -73,9 +73,9 @@
       "slug": "slst-dens-top25",
       "description": "",
       "symbol": "",
-      "chart_count": 1131,
+      "chart_count": 1134,
       "folder_count": 26,
-      "updated_at": "2026-07-26 01:03",
+      "updated_at": "2026-07-28 09:18",
       "url": "./slst-dens-top25/",
       "header_url": "./slst-dens-top25/header.json"
     },
@@ -84,9 +84,9 @@
       "slug": "slst-dens-top50",
       "description": "",
       "symbol": "",
-      "chart_count": 2246,
+      "chart_count": 2256,
       "folder_count": 26,
-      "updated_at": "2026-07-26 01:03",
+      "updated_at": "2026-07-28 09:18",
       "url": "./slst-dens-top50/",
       "header_url": "./slst-dens-top50/header.json"
     },
@@ -95,9 +95,9 @@
       "slug": "slst-dens-bottom50",
       "description": "",
       "symbol": "",
-      "chart_count": 2246,
+      "chart_count": 2256,
       "folder_count": 26,
-      "updated_at": "2026-07-26 01:03",
+      "updated_at": "2026-07-28 09:18",
       "url": "./slst-dens-bottom50/",
       "header_url": "./slst-dens-bottom50/header.json"
     },
@@ -106,9 +106,9 @@
       "slug": "slst-dens-bottom25",
       "description": "",
       "symbol": "",
-      "chart_count": 1131,
+      "chart_count": 1134,
       "folder_count": 26,
-      "updated_at": "2026-07-26 01:03",
+      "updated_at": "2026-07-28 09:18",
       "url": "./slst-dens-bottom25/",
       "header_url": "./slst-dens-bottom25/header.json"
     },
@@ -117,9 +117,9 @@
       "slug": "slst-dens-bottom10",
       "description": "",
       "symbol": "",
-      "chart_count": 462,
+      "chart_count": 464,
       "folder_count": 26,
-      "updated_at": "2026-07-26 01:03",
+      "updated_at": "2026-07-28 09:18",
       "url": "./slst-dens-bottom10/",
       "header_url": "./slst-dens-bottom10/header.json"
     }

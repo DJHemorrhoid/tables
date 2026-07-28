@@ -1007,6 +1007,23 @@
     "level": "sl0"
   },
   {
+    "md5": "45c5eee4bf0721b96d98d407c12255bc",
+    "sha256": "06ac5c047a4290db36b592089a08d8de5ff981c2b05d618cdf79d7d4ba45eec2",
+    "title": "#Za_illusory [sagANOTHER]",
+    "artist": "7olzo / obj:sagoo",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=102",
+    "url_diff": "https://www.dropbox.com/s/ytm2ei0t15rtfs3/%E5%B7%AE%E5%88%86%E3%81%BE%E3%81%A8%E3%82%81.rar?dl=1",
+    "level": "sl1"
+  },
+  {
+    "md5": "9f63a3a9c10a57be2d65bccbf0e8c70a",
+    "sha256": "2f1c93a1fce2bc3f6854deca327102908c942ffa548e939fb5eedc30c7179183",
+    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP ANOTHER]",
+    "artist": "立秋feat.ちょこ",
+    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.230101%20patch/newsongs/(%C2%B40%EF%BD%80%EF%BC%8A)%E2%99%AA(%E2%89%A7%CE%A3%E2%89%A6)%E2%99%AA(%E3%83%BB%CE%B5%E3%83%BB%E3%80%82)%E2%99%AA(%EF%BF%A3%E2%88%87%EF%BF%A3;)%E2%99%AA(0%E2%88%800)%EF%BC%9D3%E2%99%AAo(%E3%83%BB_%E3%83%BB%CE%B8.rar",
+    "level": "sl1"
+  },
+  {
     "md5": "d6a7a48757ba862ac0edd2f376c133e0",
     "sha256": "0989dd41cd9b408b30205ae895c83fe8237064fbfc791b851f868e143bff394a",
     "title": "5th Drop Shooter [ANOTHER]",
@@ -1631,15 +1648,6 @@
     "level": "sl1"
   },
   {
-    "md5": "c34c4fd1d26168568b79565ffbe4a1b9",
-    "sha256": "8f16dd599a88ea34aad004959669d1933d8859f8878414c5ed2d080cc9cb1a38",
-    "title": "Signal Stars [Radiance Ark]",
-    "artist": "Clotho feat.Salita obj:Magical Girl \"Alisa\"",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=348&event=104",
-    "url_diff": "http://ux.getuploader.com/monaka_sabun_2/download/84/%5BRe_Resolutions+-+Signal+Stars%5DMGA.zip",
-    "level": "sl1"
-  },
-  {
     "md5": "9aea1e1b53d0ff244097aa83e386f573",
     "sha256": "3a3d7ec600a76cb42689336a214a30d2fbf041430870ea7b4f77f65e1ea8ab1d",
     "title": "Sky is the Limit [Max]",
@@ -1806,6 +1814,14 @@
     "artist": "Ino(chronoize) feat. 柳瀬マサキ / A",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=350&event=123",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02445.zip",
+    "level": "sl1"
+  },
+  {
+    "md5": "d0d56af8a3b929e101150d0702a8eadd",
+    "sha256": "b7e8e8b95a505771f85486db95ee10ac7b43c88809e113eb08c18cd69c1bb9e0",
+    "title": "インフェリアジャーニー [Harder]",
+    "artist": "潮音きつね feat. すずにゃん / obj: Kitsune Shione",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=279&event=142",
     "level": "sl1"
   },
   {
@@ -2785,6 +2801,15 @@
     "level": "sl2"
   },
   {
+    "md5": "27b11d9858364cbc87459e6099403d6a",
+    "sha256": "f91ae9085224e2d8b6ac8acee522cfe43422cdfae5565313baec07dda4fc086e",
+    "title": "kindly breeze [ELITHER]",
+    "artist": "mo_no_chrome feat.Salita / obj:ELIGOS",
+    "url": "https://dropbox.bms.ms/u/87133313/BMS/kindly%20breeze%20.zip",
+    "url_diff": "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105",
+    "level": "sl2"
+  },
+  {
     "md5": "e3175508e73af1949ae3bad83bdfe750",
     "sha256": "71736187b8158e22b5c8fca50fbd156824558ccdcf716326ff671731bdd79cbf",
     "title": "locked girl@Scarlet-Devils Palace -Luna-",
@@ -3017,6 +3042,15 @@
     "artist": "BMS：Ｆ／Ａ１８　MIDI：徒桜　BGA：kaoru/さ",
     "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/%E5%A4%A9%E8%A1%A3%E7%84%A1%E7%B8%AB.rar?sign=vVqh-ZQjTW6NsEWbl-u6CZhvPrrtfyYVOBBGVMpXJVE=:0",
     "url_diff": "http://web.archive.org/web/20190211031819/http://sabosabun.tank.jp/sabun/tenimuhou.zip",
+    "level": "sl2"
+  },
+  {
+    "md5": "a76fc6d7c78689a56a7906aaabacfd6c",
+    "sha256": "b7baa629413e2d505ea6c4a0b1a57f20d28fb79880e36c4da6baa8f27754129a",
+    "title": "少女が見た日本の原風景-Spell Music Mix- [sagANOTHER]",
+    "artist": "nmk / obj:sagoo",
+    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/%E5%B0%91%E5%A5%B3%E3%81%8C%E8%A6%8B%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E9%A2%A8%E6%99%AF-Spell%20Music%20Mix-.rar?from=search",
+    "url_diff": "https://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip",
     "level": "sl2"
   },
   {
@@ -4410,6 +4444,15 @@
     "level": "sl4"
   },
   {
+    "md5": "2c245b43e351a5bce7a114d920c6970b",
+    "sha256": "9a807c13302e5689bbc7db324d66ee58ded4ca057838bd9e2122352616dc8f48",
+    "title": "The Fate of The Fairies",
+    "artist": "大臣",
+    "url": "http://tm2.toymusical.net/download.html",
+    "url_diff": "https://onedrive.live.com/?authkey=%21ANz1HhHo25YLkO0&id=CE038C7E1045ACD3%21897&cid=CE038C7E1045ACD3",
+    "level": "sl4"
+  },
+  {
     "md5": "6ef5608de046dc9c1f614a1f503c582e",
     "sha256": "9a6ce87c164e7682b314966dcdfaa7fcfa97f2a1ad6cf2e98fb8572338de1cd6",
     "title": "The Weakness (@w@)",
@@ -5693,6 +5736,15 @@
     "artist": "Sakamiya feat.小宮真央 mov:わっふゑ img:hrchem obj:BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
     "url_diff": "http://akred.web.fc2.com/baecon/_Farewell.bms",
+    "level": "sl6"
+  },
+  {
+    "md5": "d8a783bf7161ddca27b74e6037cc188b",
+    "sha256": "ee8d5334984d0f0eb31e28690f3f8b297a564eecfe44608658bcfe837e42c0cb",
+    "title": "Lyrith -迷宮リリス- [HARD]",
+    "artist": "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF/obj:赤い人",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=116",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/yume_Lyrith-HARD.bms",
     "level": "sl6"
   },
   {
@@ -7129,6 +7181,14 @@
     "level": "sl8"
   },
   {
+    "md5": "b9359e22677315fcc4215237dd1607d7",
+    "sha256": "fb31f8c7bfd1a319d99761e8b9b051810a5c56aacbe8fc2df3f070ea9c667863",
+    "title": "ふれぷらっ！ [F]",
+    "artist": "LLRK feat. 弦巻マキ(Synthesizer V2) obj:Fender",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=149",
+    "level": "sl8"
+  },
+  {
     "md5": "9b6d2dd9b6b43b991a9710de740100c7",
     "sha256": "5f33ac02fae551495f421ecd0d077be7bdfa855662e21751518aa6655a051d22",
     "title": "アリス・マーガトロイドの破滅的愛情論 [7key_Insane]",
@@ -7528,6 +7588,15 @@
     "title": "Fly☆High! [天皇賞(春)]",
     "artist": "MiKaDo /BGI:LLRK",
     "url": "https://venue.bmssearch.net/bmstukuru2025/18",
+    "level": "sl9"
+  },
+  {
+    "md5": "116b85b4c01a2cd2cc76ac9e4572e3fe",
+    "sha256": "47ef8a71213b4d5db5dfecc7279ae2637325cc023fe98490bc996b9e10803eab",
+    "title": "Free Hand zero [ANOTHER*]",
+    "artist": "菊田研究所/lactate",
+    "url": "http://web.archive.org/web/20051006002133/http://bof.nothing.sh:8080/file/kikuta-lactate-freehand_zero.zip",
+    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
     "level": "sl9"
   },
   {
@@ -8462,6 +8531,15 @@
     "level": "sl11"
   },
   {
+    "md5": "9f26ef451c5504fbc756abc0da17ff6f",
+    "sha256": "07220c114b7e90f611edf022047f997cdf729f0a23462d548d8633431d6b22f4",
+    "title": "B e l i - R [swayer]",
+    "artist": "+45 / obj:BAECON",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=91",
+    "url_diff": "http://akred.web.fc2.com/baecon/swayer.bme",
+    "level": "sl11"
+  },
+  {
     "md5": "1fda5d1c3600b1278688ba1f73286cf6",
     "sha256": "7d72f70a744ca0b47fcb3f566dede6d166c50dfd8aad4e90f5049317ef869351",
     "title": "BAMBOO TWIST [my treat]",
@@ -9060,15 +9138,6 @@
     "level": "sl11"
   },
   {
-    "md5": "6544dd7b7465eea7ba15c29b46e3b561",
-    "sha256": "f4c3b62426bd259c2744da30b50b4c6cc27cde154f277d46be2b035e3949b2ad",
-    "title": "建御名方神 [天 (fixed)_NoGimmick]",
-    "artist": "ZUN Remix by rider obj.Mallow♪",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E5%BB%BA%E5%BE%A1%E5%90%8D%E6%96%B9%E7%A5%9E%20(by%20ZUN%20Remix%20by%20rider).rar",
-    "url_diff": "https://stellabms.xyz/upload/1672",
-    "level": "sl11"
-  },
-  {
     "md5": "7444146c0ea0cd891d6114d2f66b7dc1",
     "sha256": "2dd93c20f960bc5444e5e173aa0ece3ffb66e5635d352d9ccf0aaa2a2ff3399b",
     "title": "未来予想図に淡い希望を [Ponder]",
@@ -9092,6 +9161,15 @@
     "artist": "Freezer feat. 妃苺 obj : BAECON vs Lapis",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=226",
     "url_diff": "http://akred.web.fc2.com/bmsfile/onsen_meijin.bms",
+    "level": "sl11"
+  },
+  {
+    "md5": "acde9160cc8b668d78580fc8cc247116",
+    "sha256": "3ea277c5c8bc56a5e22c711624f2c3df1d1c78088d7224e921b12d35beeb528c",
+    "title": "白と臙脂のオモチャバコ [Dead]",
+    "artist": "BACO feat. るぜ obj : Mary_Sue",
+    "url": "http://boxism8500.sakura.ne.jp/wp/wp-content/uploads/2016/03/whitelolita.rar",
+    "url_diff": "https://darksabun.club/event/renewal/",
     "level": "sl11"
   },
   {
@@ -10914,6 +10992,15 @@
     "level": "st1"
   },
   {
+    "md5": "9f8df86d3df3af71c44a07edd431527f",
+    "sha256": "9ca5ac843277fed324e9c40970e48457e28e762c776e4b87c86bcf533168ec5e",
+    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP MARYTHER]",
+    "artist": "立秋feat.ちょこ / obj: Mary_Sue",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=140",
+    "url_diff": "https://marysue.darksabun.club/",
+    "level": "st1"
+  },
+  {
     "md5": "f1d935b06e5b57073e3efc11b40045b1",
     "sha256": "b89b0004cf32fdc7bc50769e4f058f5e337283a4cd4af3079da186258577f5e2",
     "title": "5th Drop Shooter [SUGAR RUSH]",
@@ -12012,15 +12099,6 @@
     "level": "st1"
   },
   {
-    "md5": "401575189f3bf7fcccee7913cb2f49ef",
-    "sha256": "70dda2ba258e49c43a2d9fe9ec594f351bd0478e909319d03e01c7adf12cc68c",
-    "title": "円環の理 [ＱＢ]",
-    "artist": "鹿目まどか 佐倉杏子",
-    "url": "http://3t1a.net/bms/madoka_kaname_ogg.zip",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02016.zip",
-    "level": "st1"
-  },
-  {
     "md5": "ad53525085055d8b1184096eb890be6f",
     "sha256": "ddcc17c641f8203b07a16c1ddf3a2c2707ddb0e293a93027767ce285228dafaf",
     "title": "午後のこいしちゃん [EX]",
@@ -12942,6 +13020,15 @@
     "level": "st2"
   },
   {
+    "md5": "fd3fe90b3d5864ceca4fca8eef8c1f57",
+    "sha256": "5d8a3e1b3c9fb9af1a2a7a66d735cf9db23ac0814aa165e48e16b5b2f033ae94",
+    "title": "ZundaaaaaVPN",
+    "artist": "litmus* ft. ずんだもん&春日部つむぎ obj:四国めたん",
+    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=25&num=19&order=reg&odtype=a",
+    "url_diff": "https://stellabms.xyz/upload/6059",
+    "level": "st2"
+  },
+  {
     "md5": "c3c99394db35ed28295a589bafebbf5e",
     "sha256": "a1b440fc381438d3df018e4195920c2053f7c52855830ad1648ea55940920d91",
     "title": "adabana [HEARTFUL]",
@@ -13612,6 +13699,15 @@
     "level": "st3"
   },
   {
+    "md5": "ef63ebbd346256d7c333fef7c4e64070",
+    "sha256": "8102094099aebeee1b24d474128ede2e1a971cd02ad13ab29dd9a5de495c4272",
+    "title": "FakeAltar 0.6 [TERATOMA]",
+    "artist": "19XX / obj: Mary_Sue",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/236",
+    "url_diff": "https://marysue.darksabun.club/",
+    "level": "st3"
+  },
+  {
     "md5": "934ce1581be01ad8d9649388e7bb09a6",
     "sha256": "1cae9eecae5777925bc0a3f52badf630a1e60af5fee6f635c10f0ffa1995ca16",
     "title": "Faraway Sky (All I C Is U) [Fly Away]",
@@ -13858,15 +13954,6 @@
     "artist": "guna / obj. hplaner",
     "url": "https://aquaseeds.net/archives/miaplacidus_hq.rar",
     "url_diff": "https://web.archive.org/web/20180909234756id_/http://www.hyper-laner.com/sabun/miaplacidus_lanerlaner.bme",
-    "level": "st3"
-  },
-  {
-    "md5": "fe7588028c012ecbbf4e3930ccaf120e",
-    "sha256": "5f2010b2ec041c3e6d3fb110217f1c33cb2c3f26d317685319fd4443aa51a5b8",
-    "title": "Midnight Flux [Metropolis]",
-    "artist": "ProjectG / obj.2RLZ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
-    "url_diff": "https://darksabun.club/bceg/event/ondan9/",
     "level": "st3"
   },
   {

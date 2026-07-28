@@ -564,6 +564,15 @@
     "level": "sl2"
   },
   {
+    "md5": "27b11d9858364cbc87459e6099403d6a",
+    "sha256": "f91ae9085224e2d8b6ac8acee522cfe43422cdfae5565313baec07dda4fc086e",
+    "title": "kindly breeze [ELITHER]",
+    "artist": "mo_no_chrome feat.Salita / obj:ELIGOS",
+    "url": "https://dropbox.bms.ms/u/87133313/BMS/kindly%20breeze%20.zip",
+    "url_diff": "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105",
+    "level": "sl2"
+  },
+  {
     "md5": "03417b581b562a1e56ab5026c70a1824",
     "sha256": "76c8cbcef880b6d9c3583a12e1b4ff9f2d4b01eeb87ca8aac2db3ce7ef5abf45",
     "title": "neo tinnitus [ANOTHER]",
@@ -1486,6 +1495,14 @@
     "level": "sl8"
   },
   {
+    "md5": "93b67c02de2d55b9ef1564a5f179d1bc",
+    "sha256": "da6df0bc4c7783d8033d1cccdab7a3e847aca0b86acf6bf6a5a65c4c45ce1d7b",
+    "title": "諦胆/Teitan (kyou1110 & Takuya Namba remix) [EX]",
+    "artist": "Takuya Namba / Remixed by kyou1110 & Takuya Namba illust:morph / obj:LED",
+    "url": "https://mega-mor-fest.netlify.app/",
+    "level": "sl8"
+  },
+  {
     "md5": "0667537412f3a67e74dc4dac75b91f2d",
     "sha256": "1119b215ed305682bb47d55099d2c80f90c6ae1e6c1591befffc7879e59cb37c",
     "title": "音碧のマギア・オムニア [MANIAC]",
@@ -1744,21 +1761,21 @@
     "level": "sl11"
   },
   {
+    "md5": "9f26ef451c5504fbc756abc0da17ff6f",
+    "sha256": "07220c114b7e90f611edf022047f997cdf729f0a23462d548d8633431d6b22f4",
+    "title": "B e l i - R [swayer]",
+    "artist": "+45 / obj:BAECON",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=91",
+    "url_diff": "http://akred.web.fc2.com/baecon/swayer.bme",
+    "level": "sl11"
+  },
+  {
     "md5": "05bf35f6228e73c8f6ae8766a9ad933d",
     "sha256": "a4f65000988838a42ac7d437b90627ac78b0400e308f16c6853a14fe30c8a7e2",
     "title": "Bittersweet Magic [Aestar]",
     "artist": "Kuwagata obj:1mi",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=188&event=116",
     "url_diff": "https://stellabms.xyz/upload/4316",
-    "level": "sl11"
-  },
-  {
-    "md5": "1abcae664a42b09d1b25dc7696b3769f",
-    "sha256": "b04ed18e94304ae9b1f550acfa4811e5959cbf5c2c3576b0c1914486dd4a508f",
-    "title": "Black Lair [EXPERT]",
-    "artist": "削除 feat. void / 浪漫映像制作倶楽部 / obj : И",
-    "url": "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
-    "url_diff": "http://bms.parksulab.xyz",
     "level": "sl11"
   },
   {
@@ -2245,6 +2262,15 @@
     "level": "st0"
   },
   {
+    "md5": "9f8df86d3df3af71c44a07edd431527f",
+    "sha256": "9ca5ac843277fed324e9c40970e48457e28e762c776e4b87c86bcf533168ec5e",
+    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP MARYTHER]",
+    "artist": "立秋feat.ちょこ / obj: Mary_Sue",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=140",
+    "url_diff": "https://marysue.darksabun.club/",
+    "level": "st1"
+  },
+  {
     "md5": "3d11da08834644a1c8af528a027649f9",
     "sha256": "a64c905fb41d7ab208df0018834319e97b68c4550637832633104d9f154408a3",
     "title": "Alastor [Dead End]",
@@ -2411,15 +2437,6 @@
     "artist": "Reku Mochizuki obj:Guanacoite",
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=5&order=reg&odtype=a",
     "url_diff": "https://stellabms.xyz/upload/3101",
-    "level": "st1"
-  },
-  {
-    "md5": "431d7cd7c5f9169411468bdccfc0f322",
-    "sha256": "9dd652764632fd3660d5716eed96612b84d02354a1461b61092dea2a1dfa46aa",
-    "title": "ZundaVPN [RandaVPN]",
-    "artist": "litmus* ft. ずんだもん&春日部つむぎ / obj:らんだもん",
-    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=25&num=19&order=reg&odtype=a&ckattempt=1",
-    "url_diff": "https://stellabms.xyz/upload/5327",
     "level": "st1"
   },
   {
@@ -2762,6 +2779,15 @@
     "level": "st3"
   },
   {
+    "md5": "ef63ebbd346256d7c333fef7c4e64070",
+    "sha256": "8102094099aebeee1b24d474128ede2e1a971cd02ad13ab29dd9a5de495c4272",
+    "title": "FakeAltar 0.6 [TERATOMA]",
+    "artist": "19XX / obj: Mary_Sue",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/236",
+    "url_diff": "https://marysue.darksabun.club/",
+    "level": "st3"
+  },
+  {
     "md5": "17d338c35f165386365a47beb1a2a942",
     "sha256": "dfc67946a37812e59af483a35004cfc5dc765732a7eafc92e691149e056419be",
     "title": "Fly up to : the Sky [AETHER]",
@@ -2964,15 +2990,6 @@
     "artist": "秋山 澪 / obj:BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
     "url_diff": "http://akred.web.fc2.com/baecon/_crystal-world_r_7GOD.bme",
-    "level": "st3"
-  },
-  {
-    "md5": "e5cef40f408b17039e59f4b6e97cd0e2",
-    "sha256": "6100a2e859668d12298eff7ea36430e9e92de650acc1482ee1d1cfa4a3b6a380",
-    "title": "浮世絵横丁 [Hexagon]",
-    "artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj.hex",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=116",
-    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
     "level": "st3"
   },
   {

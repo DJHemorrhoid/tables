@@ -597,6 +597,15 @@
     "level": "sl2"
   },
   {
+    "md5": "5af7b045a8a94526472265322fbe61d3",
+    "sha256": "fd88af13ea9e93e23f8b14387539e42a529679b55b4feb2c4355ae3ecebf1b06",
+    "title": "soyosoyo [SP MiKather]",
+    "artist": "K4Y5 obj:MiKaDo",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=146",
+    "url_diff": "https://stellabms.xyz/upload/4518",
+    "level": "sl2"
+  },
+  {
     "md5": "e03b6b7e78bafcc7e0defccabe5ee780",
     "sha256": "ecfc9db0fc3313ea2913187f2f6935dc6abf72eeafda4a92645293e4cee944aa",
     "title": "ふたりの-><-シグナル [SP INSANE]",
@@ -1407,6 +1416,15 @@
     "artist": "sukuramu42 Illust:恋々 / obj:LIEF",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=101",
     "url_diff": "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_3_E.html",
+    "level": "sl8"
+  },
+  {
+    "md5": "43ae0b9401b3b2214322b520b662f62a",
+    "sha256": "c69f47d83f2d44ce87c756f2b57b5989aad6f436a4998ef9294837a7dc9b048d",
+    "title": "Fuzzy-Navel [Nemesis]",
+    "artist": "Music:わかどり | Movie:もがみ Obj.Triforce",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=137",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/32",
     "level": "sl8"
   },
   {
@@ -2579,15 +2597,6 @@
     "level": "st2"
   },
   {
-    "md5": "51c54a58f1b9c6a6c9f9642ec2779370",
-    "sha256": "3fe69f64d2d1793b2ae1cae777c5550bc1a041f907bbd63663767ac5545c698a",
-    "title": "Girl's Heart ～人形少女 [Dishonest]",
-    "artist": "おみー obj. LuvTek",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=133",
-    "url_diff": "https://darksabun.club/event/bofxvi/",
-    "level": "st2"
-  },
-  {
     "md5": "57762b6934a6462cad1bd616b6f5b5b0",
     "sha256": "c55dd9e572547117d5e2a3ee6eadb84bc02dbefbe737e10488faf4b58856745d",
     "title": "Grimheart [Project AG]",
@@ -2744,6 +2753,15 @@
     "artist": "tarolabo × 月雫 /差分　赤い人 浪漫映像制作倶楽部",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=74",
     "url_diff": "http://absolute.pv.land.to/bof/upload.html?1326780348",
+    "level": "st2"
+  },
+  {
+    "md5": "5dd3d0e5f0dce9ce6549b8efa56e678f",
+    "sha256": "7da85729ef8910c3380ca6d0030dcf8084906ac0dcd702f2eafd3bc5a9cd117e",
+    "title": "無機質世界に彩を [Monochrome]",
+    "artist": "MisomyL /obj.turbow",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=137",
+    "url_diff": "https://darksabun.club/event/bofxvii/",
     "level": "st2"
   },
   {

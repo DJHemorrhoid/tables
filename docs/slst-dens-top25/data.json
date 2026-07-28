@@ -510,6 +510,23 @@
     "level": "sl0"
   },
   {
+    "md5": "45c5eee4bf0721b96d98d407c12255bc",
+    "sha256": "06ac5c047a4290db36b592089a08d8de5ff981c2b05d618cdf79d7d4ba45eec2",
+    "title": "#Za_illusory [sagANOTHER]",
+    "artist": "7olzo / obj:sagoo",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=102",
+    "url_diff": "https://www.dropbox.com/s/ytm2ei0t15rtfs3/%E5%B7%AE%E5%88%86%E3%81%BE%E3%81%A8%E3%82%81.rar?dl=1",
+    "level": "sl1"
+  },
+  {
+    "md5": "9f63a3a9c10a57be2d65bccbf0e8c70a",
+    "sha256": "2f1c93a1fce2bc3f6854deca327102908c942ffa548e939fb5eedc30c7179183",
+    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP ANOTHER]",
+    "artist": "立秋feat.ちょこ",
+    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.230101%20patch/newsongs/(%C2%B40%EF%BD%80%EF%BC%8A)%E2%99%AA(%E2%89%A7%CE%A3%E2%89%A6)%E2%99%AA(%E3%83%BB%CE%B5%E3%83%BB%E3%80%82)%E2%99%AA(%EF%BF%A3%E2%88%87%EF%BF%A3;)%E2%99%AA(0%E2%88%800)%EF%BC%9D3%E2%99%AAo(%E3%83%BB_%E3%83%BB%CE%B8.rar",
+    "level": "sl1"
+  },
+  {
     "md5": "d6a7a48757ba862ac0edd2f376c133e0",
     "sha256": "0989dd41cd9b408b30205ae895c83fe8237064fbfc791b851f868e143bff394a",
     "title": "5th Drop Shooter [ANOTHER]",
@@ -994,14 +1011,6 @@
     "level": "sl1"
   },
   {
-    "md5": "ce73f117ef9c4a3ff40fb8069e1c3dda",
-    "sha256": "a399dc8e429694da0ae9caa17aa74e87eedbfc5fafd14a830f30e6b7897b7dde",
-    "title": "絵空事の世界と私 [Another]",
-    "artist": "イヴ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=83",
-    "level": "sl1"
-  },
-  {
     "md5": "357d04fd549a574a147f8fa44b11e614",
     "sha256": "fade61b9553f76e98c1af771049d6b55e8d9f8cbdd9f8d0b1eafb759ac29d7d4",
     "title": "舞姫 ～buki～　[★Beginner]",
@@ -1026,15 +1035,6 @@
     "url": "http://media.outphase.com/bms_database/sen-goku/tori_eurotechno.rar",
     "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
     "level": "sl1"
-  },
-  {
-    "md5": "843e88268a449b08a1e76a5320ef9a4f",
-    "sha256": "419633189fcaca8579dc6ac0e82ecfcac40683b8430ef8ec36d32572e141db7b",
-    "title": "A c i - L - - t w i  l i g h t -",
-    "artist": "裏 吉 川 / selene.",
-    "url": "http://malie.noor.jp/",
-    "url_diff": "https://stellabms.xyz/upload/5755",
-    "level": "sl2"
   },
   {
     "md5": "289e3298016255adb4a065fdccc1f1c1",
@@ -1393,6 +1393,15 @@
     "level": "sl2"
   },
   {
+    "md5": "27b11d9858364cbc87459e6099403d6a",
+    "sha256": "f91ae9085224e2d8b6ac8acee522cfe43422cdfae5565313baec07dda4fc086e",
+    "title": "kindly breeze [ELITHER]",
+    "artist": "mo_no_chrome feat.Salita / obj:ELIGOS",
+    "url": "https://dropbox.bms.ms/u/87133313/BMS/kindly%20breeze%20.zip",
+    "url_diff": "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105",
+    "level": "sl2"
+  },
+  {
     "md5": "e3175508e73af1949ae3bad83bdfe750",
     "sha256": "71736187b8158e22b5c8fca50fbd156824558ccdcf716326ff671731bdd79cbf",
     "title": "locked girl@Scarlet-Devils Palace -Luna-",
@@ -1520,6 +1529,15 @@
     "artist": "BMS：Ｆ／Ａ１８　MIDI：徒桜　BGA：kaoru/さ",
     "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/%E5%A4%A9%E8%A1%A3%E7%84%A1%E7%B8%AB.rar?sign=vVqh-ZQjTW6NsEWbl-u6CZhvPrrtfyYVOBBGVMpXJVE=:0",
     "url_diff": "http://web.archive.org/web/20190211031819/http://sabosabun.tank.jp/sabun/tenimuhou.zip",
+    "level": "sl2"
+  },
+  {
+    "md5": "a76fc6d7c78689a56a7906aaabacfd6c",
+    "sha256": "b7baa629413e2d505ea6c4a0b1a57f20d28fb79880e36c4da6baa8f27754129a",
+    "title": "少女が見た日本の原風景-Spell Music Mix- [sagANOTHER]",
+    "artist": "nmk / obj:sagoo",
+    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/%E5%B0%91%E5%A5%B3%E3%81%8C%E8%A6%8B%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E9%A2%A8%E6%99%AF-Spell%20Music%20Mix-.rar?from=search",
+    "url_diff": "https://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip",
     "level": "sl2"
   },
   {
@@ -4266,6 +4284,15 @@
     "level": "sl11"
   },
   {
+    "md5": "9f26ef451c5504fbc756abc0da17ff6f",
+    "sha256": "07220c114b7e90f611edf022047f997cdf729f0a23462d548d8633431d6b22f4",
+    "title": "B e l i - R [swayer]",
+    "artist": "+45 / obj:BAECON",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=91",
+    "url_diff": "http://akred.web.fc2.com/baecon/swayer.bme",
+    "level": "sl11"
+  },
+  {
     "md5": "1fda5d1c3600b1278688ba1f73286cf6",
     "sha256": "7d72f70a744ca0b47fcb3f566dede6d166c50dfd8aad4e90f5049317ef869351",
     "title": "BAMBOO TWIST [my treat]",
@@ -4589,6 +4616,15 @@
     "level": "sl11"
   },
   {
+    "md5": "acde9160cc8b668d78580fc8cc247116",
+    "sha256": "3ea277c5c8bc56a5e22c711624f2c3df1d1c78088d7224e921b12d35beeb528c",
+    "title": "白と臙脂のオモチャバコ [Dead]",
+    "artist": "BACO feat. るぜ obj : Mary_Sue",
+    "url": "http://boxism8500.sakura.ne.jp/wp/wp-content/uploads/2016/03/whitelolita.rar",
+    "url_diff": "https://darksabun.club/event/renewal/",
+    "level": "sl11"
+  },
+  {
     "md5": "d6992c5eedc7555c00b5ce6dfa27e0fb",
     "sha256": "ba32ba9a4deb48bcc9cf9c4280e5f9a988366fd528d4df80fb108fdd0fd9c1a6",
     "title": "空",
@@ -4603,15 +4639,6 @@
     "artist": "Sakamiya feat.前野 mov:hx / obj: qtp13",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=123",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02286.zip",
-    "level": "sl11"
-  },
-  {
-    "md5": "aaacaf55f87a99f832bf8ba44127f7f9",
-    "sha256": "deb6f9f51024a38e06453d150dea51939c01268cc3a3439dfa2954d1f22ed05f",
-    "title": "魔法でカエルになっちゃったみたい！ [茹でガエル]",
-    "artist": "sharkyo / obj: Mary_Sue",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=363&event=142",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
     "level": "sl11"
   },
   {
@@ -5504,6 +5531,15 @@
     "level": "st0"
   },
   {
+    "md5": "9f8df86d3df3af71c44a07edd431527f",
+    "sha256": "9ca5ac843277fed324e9c40970e48457e28e762c776e4b87c86bcf533168ec5e",
+    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP MARYTHER]",
+    "artist": "立秋feat.ちょこ / obj: Mary_Sue",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=140",
+    "url_diff": "https://marysue.darksabun.club/",
+    "level": "st1"
+  },
+  {
     "md5": "6760300a0d92727479a23a4bea5d5999",
     "sha256": "1a5b1f57199767dda9e7d58df5827840f8840ddb7076ba4bfb04d778310dcf45",
     "title": "After School Dessert(Uzawa&Kazusa HardCore Remix) [SP ShootingStar]",
@@ -5965,14 +6001,6 @@
     "artist": "がむつ氏 + けえ氏/さ (a.k.a. witch's slave)",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=83",
     "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
-    "level": "st1"
-  },
-  {
-    "md5": "7a8b1a11f82d2d97b45f794812369610",
-    "sha256": "353e3712a702d34984aaf27ed5c868740d0bf035c68ef32d868c978db5e04edf",
-    "title": "exists Uniquely [GOD]",
-    "artist": "Lipschitz",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=88",
     "level": "st1"
   },
   {
@@ -6843,6 +6871,15 @@
     "level": "st3"
   },
   {
+    "md5": "ef63ebbd346256d7c333fef7c4e64070",
+    "sha256": "8102094099aebeee1b24d474128ede2e1a971cd02ad13ab29dd9a5de495c4272",
+    "title": "FakeAltar 0.6 [TERATOMA]",
+    "artist": "19XX / obj: Mary_Sue",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/236",
+    "url_diff": "https://marysue.darksabun.club/",
+    "level": "st3"
+  },
+  {
     "md5": "934ce1581be01ad8d9649388e7bb09a6",
     "sha256": "1cae9eecae5777925bc0a3f52badf630a1e60af5fee6f635c10f0ffa1995ca16",
     "title": "Faraway Sky (All I C Is U) [Fly Away]",
@@ -7053,15 +7090,6 @@
     "artist": "Reku Mochizuki obj : LindBlum",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=133",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05444.zip",
-    "level": "st3"
-  },
-  {
-    "md5": "0d6e7a4bb86fc4019f91e177309c1d61",
-    "sha256": "6fe4fb4268e5e6eedac99ceb26dd5b7672ae5adb0069d391514d64a5ae75ebad",
-    "title": "black opal [Pentagon]",
-    "artist": "TAK vs General / Jeff obj.hex",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=49",
-    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
     "level": "st3"
   },
   {
