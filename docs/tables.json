@@ -166,17 +166,6 @@
       "updated_at": "2026-07-28 09:35",
       "url": "./slst-and-delay/",
       "header_url": "./slst-and-delay/header.json"
-    },
-    {
-      "name": "sl/st(全傾向統合)",
-      "slug": "slst-and-all",
-      "description": "",
-      "symbol": "",
-      "chart_count": 7989,
-      "folder_count": 434,
-      "updated_at": "2026-07-28 09:35",
-      "url": "./slst-and-all/",
-      "header_url": "./slst-and-all/header.json"
     }
   ]
 }
