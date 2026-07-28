@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-07-28 09:18",
+  "updated_at": "2026-07-28 09:26",
   "tables": [
     {
       "name": "sl/st(16分乱打)",
@@ -122,6 +122,50 @@
       "updated_at": "2026-07-28 09:18",
       "url": "./slst-dens-bottom10/",
       "header_url": "./slst-dens-bottom10/header.json"
+    },
+    {
+      "name": "sl/st(16分乱打統合)",
+      "slug": "slst-and-code-stream",
+      "description": "",
+      "symbol": "",
+      "chart_count": 6037,
+      "folder_count": 104,
+      "updated_at": "2026-07-28 09:26",
+      "url": "./slst-and-code-stream/",
+      "header_url": "./slst-and-code-stream/header.json"
+    },
+    {
+      "name": "sl/st(指ガチ統合)",
+      "slug": "slst-and-mini-jack",
+      "description": "",
+      "symbol": "",
+      "chart_count": 4980,
+      "folder_count": 91,
+      "updated_at": "2026-07-28 09:26",
+      "url": "./slst-and-mini-jack/",
+      "header_url": "./slst-and-mini-jack/header.json"
+    },
+    {
+      "name": "sl/st(腕ガチ統合)",
+      "slug": "slst-and-arm",
+      "description": "",
+      "symbol": "",
+      "chart_count": 5314,
+      "folder_count": 95,
+      "updated_at": "2026-07-28 09:26",
+      "url": "./slst-and-arm/",
+      "header_url": "./slst-and-arm/header.json"
+    },
+    {
+      "name": "sl/st(ディレイ統合)",
+      "slug": "slst-and-delay",
+      "description": "",
+      "symbol": "",
+      "chart_count": 5658,
+      "folder_count": 134,
+      "updated_at": "2026-07-28 09:26",
+      "url": "./slst-and-delay/",
+      "header_url": "./slst-and-delay/header.json"
     }
   ]
 }
