@@ -155,17 +155,6 @@
       "updated_at": "2026-07-28 09:26",
       "url": "./slst-and-arm/",
       "header_url": "./slst-and-arm/header.json"
-    },
-    {
-      "name": "sl/st(ディレイ統合)",
-      "slug": "slst-and-delay",
-      "description": "",
-      "symbol": "",
-      "chart_count": 5658,
-      "folder_count": 134,
-      "updated_at": "2026-07-28 09:26",
-      "url": "./slst-and-delay/",
-      "header_url": "./slst-and-delay/header.json"
     }
   ]
 }

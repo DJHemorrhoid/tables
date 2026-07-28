@@ -59,23 +59,18 @@
       "published_at": "2026-07-28 09:18"
     },
     "slst-and-code-stream": {
-      "recipe_id": "ee8e17b66c9e",
+      "recipe_id": "ff9152372662",
       "content_hash": "822203595f1e272a2ed6da546e468a34f867b6eb6e8d01720477765279223d95",
       "published_at": "2026-07-28 09:26"
     },
     "slst-and-mini-jack": {
-      "recipe_id": "c459eb86267e",
+      "recipe_id": "69bb3e4b068a",
       "content_hash": "25cb0a1a719747462f877f31eae21b46fb4ca8e7bf9b89fdcbc0c14d3492b9c1",
       "published_at": "2026-07-28 09:26"
     },
     "slst-and-arm": {
-      "recipe_id": "7d8f113a1bf6",
+      "recipe_id": "8237600c3377",
       "content_hash": "d89d3b05c5e40778edc8769cc58050ff8938ee13909022b459f17680056e2930",
-      "published_at": "2026-07-28 09:26"
-    },
-    "slst-and-delay": {
-      "recipe_id": "1ac9862aaacc",
-      "content_hash": "230c04cfce67869eb1ed861531b5e106f8a8164846e453df1c7249454bc0e6e0",
       "published_at": "2026-07-28 09:26"
     }
   }
