@@ -1,7 +1,7 @@
 {
   "format": 1,
   "generated_by": "BMS難易度表生成ツール",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "tables": {
     "slst-code-stream": {
       "recipe_id": "d5cbfbb1eeb9",
@@ -60,8 +60,8 @@
     },
     "slst-and-code-stream": {
       "recipe_id": "ff9152372662",
-      "content_hash": "822203595f1e272a2ed6da546e468a34f867b6eb6e8d01720477765279223d95",
-      "published_at": "2026-07-28 09:26"
+      "content_hash": "c865de715614ef163d4b60f83a15f52c12f002a98d842b27a20500bdf4357d02",
+      "published_at": "2026-07-29 04:00"
     },
     "slst-and-mini-jack": {
       "recipe_id": "69bb3e4b068a",
