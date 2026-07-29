@@ -1,7 +1,7 @@
 {
   "format": 1,
   "generated_by": "BMS難易度表生成ツール",
-  "version": "0.7.4",
+  "version": "0.7.7",
   "tables": {
     "slst-code-stream": {
       "recipe_id": "d5cbfbb1eeb9",
