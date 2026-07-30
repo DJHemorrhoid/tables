@@ -1,7 +1,18 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-07-29 04:00",
+  "updated_at": "2026-07-30 09:29",
   "tables": [
+    {
+      "name": "sl/st",
+      "slug": "slst",
+      "description": "Satellite+Stella",
+      "symbol": "",
+      "chart_count": 4633,
+      "folder_count": 26,
+      "updated_at": "2026-07-30 09:29",
+      "url": "./slst/",
+      "header_url": "./slst/header.json"
+    },
     {
       "name": "sl/st(16分乱打)",
       "slug": "slst-code-stream",
@@ -130,7 +141,7 @@
       "symbol": "",
       "chart_count": 6037,
       "folder_count": 104,
-      "updated_at": "2026-07-29 04:00",
+      "updated_at": "2026-07-30 09:29",
       "url": "./slst-and-code-stream/",
       "header_url": "./slst-and-code-stream/header.json"
     },
