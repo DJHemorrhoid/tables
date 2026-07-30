@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-07-30 09:33",
+  "updated_at": "2026-07-30 09:37",
   "tables": [
     {
       "name": "sl/st",
@@ -23,6 +23,17 @@
       "updated_at": "2026-07-30 09:33",
       "url": "./ude-arm/",
       "header_url": "./ude-arm/header.json"
+    },
+    {
+      "name": "ディレイ",
+      "slug": "delay",
+      "description": "Delay小学校難易度表+ディレイjoy",
+      "symbol": "",
+      "chart_count": 1486,
+      "folder_count": 52,
+      "updated_at": "2026-07-30 09:37",
+      "url": "./delay/",
+      "header_url": "./delay/header.json"
     },
     {
       "name": "sl/st(16分乱打)",
