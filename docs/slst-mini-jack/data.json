@@ -1488,6 +1488,15 @@
     "level": "st4,連打複合4"
   },
   {
+    "md5": "e332debea050f1700fd92aa40dfc8e0b",
+    "sha256": "ca5cf948fb0574f39899a135e39471d18cf00a07573b4ac30d18f38ea8462566",
+    "title": "MASAMUNE [Hexagon]",
+    "artist": "NS-Factory obj.hex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=392&event=104",
+    "url_diff": "http://bms.hexlataia.xyz/",
+    "level": "st4,連打複合4"
+  },
+  {
     "md5": "3661ecd6136f9a452b7914a02c980286",
     "sha256": "da90952f95fe8169a54a005bc68f32dd0c462c8ee0bbca225b695c6f2b8954f6",
     "title": "MMXI [ULTIMATE]",
@@ -1503,6 +1512,33 @@
     "artist": "ProjectG / И",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
     "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
+    "level": "st4,連打複合4"
+  },
+  {
+    "md5": "23cd5397dfc775dbecc756214b6c73e4",
+    "sha256": "64ad9b017d0d208b366b8b71bb5371e1a750fc8c028ec96f172edffb553cff44",
+    "title": "Mondlicht [Moonlight]",
+    "artist": "Nycticebus / obj.fuko",
+    "url": "https://venue.bmssearch.net/bmsshuin3/72",
+    "url_diff": "https://stellabms.xyz/upload/1619",
+    "level": "st4,連打複合4"
+  },
+  {
+    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
+    "sha256": "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
+    "title": "No namer [Pentagon]",
+    "artist": "削除 obj.hex",
+    "url": "https://www.axfc.net/u/956768&key=bms",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "level": "st4,連打複合4"
+  },
+  {
+    "md5": "6eccdf96feaaf862005f3b2c86e78336",
+    "sha256": "218b41711fe17c9850e642b1aa21176c937c607a118187a7b554d91ee8ea86d5",
+    "title": "Oriental Landscape [Pleinair]",
+    "artist": "カレイドサンスイ(4696-D＋庭師)/(mov：REI-K with カラっぽのいろ) Pleinair",
+    "url": "https://drive.google.com/file/d/1hG1QKfjdjRJdkK_yXLjezr9L-sz3u0ND/view?usp=drive_link",
+    "url_diff": "https://venue.bmssearch.net/sd_black/10",
     "level": "st4,連打複合4"
   },
   {

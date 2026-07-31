@@ -1744,6 +1744,15 @@
     "level": "sl2,乱打2"
   },
   {
+    "md5": "7fa3c9a9ceaabaeecb8361e668a04f2b",
+    "sha256": "d12dd30e684f7a8bf80b6b6d3bac66019e685ab4ca1b73f6ffbd4d57165845f5",
+    "title": "TakeTrip [Gate]",
+    "artist": "Remixed by ⑮ BGA:えらる obj : dfsty",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=102",
+    "url_diff": "https://stellabms.xyz/upload/1920",
+    "level": "sl2,乱打2"
+  },
+  {
     "md5": "3826ab33b2c885380fbcf3826f5884c0",
     "sha256": "7a47afe8de4cef902bc210590248893a8b27a8ce7df28355cad42021db26ce24",
     "title": "Time files -Hope-",
@@ -4448,6 +4457,15 @@
     "level": "sl8,乱打8"
   },
   {
+    "md5": "345dfeb5851aa5054c7555ad0365a4d7",
+    "sha256": "faeefcb33fa8d8a73e3dca235f7058e2d43886e18bb8845c81f28729aacca0a9",
+    "title": "ArcanicA [ARCANIC]",
+    "artist": "RNY",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=151",
+    "url_diff": "https://mocha-repository.info/song.php?sha256=faeefcb33fa8d8a73e3dca235f7058e2d43886e18bb8845c81f28729aacca0a9",
+    "level": "sl8,乱打8"
+  },
+  {
     "md5": "4c75b2e852718a5bdb7235b51a8dc878",
     "sha256": "777c6f8e503abdca40ed1b134d872eaf1e90527605e9860191032be56458d9fd",
     "title": "Artificial Rose [Replica]",
@@ -5170,7 +5188,7 @@
     "sha256": "059c2fad119e033ed4f5d73eb63fde472c5175c71375bb025389c20489d0500c",
     "title": "Kronos [HARDEST]",
     "artist": "削除 / うまい棒 / 差分 赤い人",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=374&event=83",
+    "url": "https://drive.google.com/file/d/1m3EaOcp1zHO_GDIRtSLRmOFUf4_p7rI7/view?usp=sharing",
     "url_diff": "http://akred.web.fc2.com/bmsfile/kronos-HARDEST.bms",
     "level": "sl9,乱打9"
   },
@@ -7391,15 +7409,6 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=137",
     "url_diff": "https://trfce.github.io/sabun/(146)tonakai_no_mukuro_triforce.zip",
     "level": "sl12,乱打12"
-  },
-  {
-    "md5": "6fa27258f041e271b1e42078f4f5c9d6",
-    "sha256": "872cabaa1d646781991a931ace8b33aec94e8505db6398468b839f78368e5c61",
-    "title": "Against the Destiny [暴れフレイル]",
-    "artist": "K4Y5 + 売る + 独楽コンバット / obj.旧石器ジャベリン",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=142",
-    "url_diff": "https://stellabms.xyz/upload/7352",
-    "level": "sl12,重発狂0"
   },
   {
     "md5": "2f8beb8e0b2472121ec9c5f774f8fcef",
@@ -11986,15 +11995,6 @@
     "level": "st5,重発狂5"
   },
   {
-    "md5": "af8d8ec0e7a859d96519f2b74b0a85e3",
-    "sha256": "dba0272dcf5c4103e51a87d159c04334b9b6f85ae954fdf1e663c885247527b3",
-    "title": "Throoughout [HEARTFUL2]",
-    "artist": "MoVIIkA movie:Arishima_Caprico / obj:魔女",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=135",
-    "url_diff": "https://stellabms.xyz/upload/6231",
-    "level": "st5,重発狂5"
-  },
-  {
     "md5": "1e363649c9762aa94c4b7f4a6eb92302",
     "sha256": "3eeffdbbaa2a651574c338038e08cb272b77a657fac53111a4a01ccd522f850b",
     "title": "Ultimate Dream [INSANE]",
@@ -12180,6 +12180,15 @@
     "artist": "lazward / BGI:ミロ飲め夫 obj.Mallow♪",
     "url": "https://drive.google.com/file/d/10eC5HcDHQYFztqM771RiDImCEppgMrXO/view?usp=drive_link",
     "url_diff": "https://stellabms.xyz/upload/1646",
+    "level": "st5,重発狂6"
+  },
+  {
+    "md5": "af8d8ec0e7a859d96519f2b74b0a85e3",
+    "sha256": "dba0272dcf5c4103e51a87d159c04334b9b6f85ae954fdf1e663c885247527b3",
+    "title": "Throoughout [HEARTFUL2]",
+    "artist": "MoVIIkA movie:Arishima_Caprico / obj:魔女",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=135",
+    "url_diff": "https://stellabms.xyz/upload/6231",
     "level": "st5,重発狂6"
   },
   {

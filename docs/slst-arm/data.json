@@ -527,14 +527,6 @@
     "level": "sl2,Ude2"
   },
   {
-    "md5": "03417b581b562a1e56ab5026c70a1824",
-    "sha256": "76c8cbcef880b6d9c3583a12e1b4ff9f2d4b01eeb87ca8aac2db3ce7ef5abf45",
-    "title": "neo tinnitus [ANOTHER]",
-    "artist": "SP-# remixed by LeaF",
-    "url": "https://venue.bmssearch.net/bmstukuru2024/9",
-    "level": "sl2,Ude2"
-  },
-  {
     "md5": "d7e0a3bf116e734ab1194e99dbfb3684",
     "sha256": "06d69f6e85bbb3be1a7adfc58bf3d15eb03479b8265762489f30070a8e870e8d",
     "title": "orangegirl sentiment [Maniac]",
@@ -1019,6 +1011,15 @@
     "level": "sl4,Ude5"
   },
   {
+    "md5": "354fde4fd39f40af7760a9284995e2cc",
+    "sha256": "a8d8ecff430af467b4fa8988e335b7980add1a72db67352a21484f7cb869e429",
+    "title": "Argentite [M1NG]",
+    "artist": "REVLIS obj:M1NG",
+    "url": "https://horie.synology.me:1048/BMS%20Library/Song/[REVLIS]%20Argentite.zip",
+    "url_diff": "https://stellabms.xyz/upload/5399",
+    "level": "sl5,Ude5"
+  },
+  {
     "md5": "85c0986764c694d970873d72d028dfda",
     "sha256": "646267e1678bc8e09cb95dc8a193017d53f8b5d850eb6b3f9d6176e2137715e3",
     "title": "CLOUDY PARK [Crepuscular Ray]",
@@ -1061,15 +1062,6 @@
     "artist": "paraoka / 制限",
     "url": "http://web.archive.org/web/20070301141729/http://homepage1.nifty.com:80/paraoka/index38.html",
     "url_diff": "https://bms.limiteknj.net",
-    "level": "sl5,Ude5"
-  },
-  {
-    "md5": "613f9ef44931e428223b74dd512a7b14",
-    "sha256": "2101d8845f4db55026c4d6b12cededcd3475a1150f127733d65e22df430d8e78",
-    "title": "Littlegirl Complex -Hope-",
-    "artist": "ぜらにも×bj.HaLo×小宮真央×LUKASH obj:七海千秋",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=123",
-    "url_diff": "https://www.dropbox.com/s/9v5hjjeipb7kgr3/_littlegirl_complex_nanami01.bms?dl=0",
     "level": "sl5,Ude5"
   },
   {
@@ -1973,6 +1965,14 @@
     "artist": "scytheleg / obj.siokaze",
     "url": "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
     "url_diff": "http://siokazebms.web.fc2.com/",
+    "level": "sl11,Ude10"
+  },
+  {
+    "md5": "8fba58e13d543bf5583591134189b51b",
+    "sha256": "207a4c0b4e9739c5ecb2bf1487068566826c74caefa4b8908753126f133a39eb",
+    "title": "茜月夜ノ禁猟区 [満月]",
+    "artist": "MiKaDo feat. A.Dokuga BGA:MiKaDo&たっくす",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=149",
     "level": "sl11,Ude10"
   },
   {

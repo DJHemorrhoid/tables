@@ -5918,15 +5918,6 @@
     "level": "sl2"
   },
   {
-    "md5": "7fa3c9a9ceaabaeecb8361e668a04f2b",
-    "sha256": "d12dd30e684f7a8bf80b6b6d3bac66019e685ab4ca1b73f6ffbd4d57165845f5",
-    "title": "TakeTrip [Gate]",
-    "artist": "Remixed by ⑮ BGA:えらる obj : dfsty",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=102",
-    "url_diff": "https://stellabms.xyz/upload/1920",
-    "level": "sl2"
-  },
-  {
     "md5": "a351300d947365b17ddcd1446b7fce96",
     "sha256": "9e24c78f5db4a4e04efd5e8da2f506cd461aabef874be4dcdcd0f65effa776b2",
     "title": "The Crack of Dawn [Morning Star]",
@@ -7041,6 +7032,15 @@
     "artist": "shimizushi BGA : AnD (Based on illustration by a.a) / obj:DJ.END",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=137",
     "url_diff": "同梱譜面",
+    "level": "sl2,乱打2"
+  },
+  {
+    "md5": "7fa3c9a9ceaabaeecb8361e668a04f2b",
+    "sha256": "d12dd30e684f7a8bf80b6b6d3bac66019e685ab4ca1b73f6ffbd4d57165845f5",
+    "title": "TakeTrip [Gate]",
+    "artist": "Remixed by ⑮ BGA:えらる obj : dfsty",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=102",
+    "url_diff": "https://stellabms.xyz/upload/1920",
     "level": "sl2,乱打2"
   },
   {
@@ -9768,6 +9768,14 @@
     "artist": "raii obj:SUZUKAZEΛ",
     "url": "https://www.dropbox.com/scl/fi/sco5bvalkv1ne7eqehz8y/raii-KOTETSU.zip?rlkey=7eles1thleeev594j57otfais&st=9r48tgiw&dl=1",
     "url_diff": "https://stellabms.xyz/upload/7224",
+    "level": "乱打3"
+  },
+  {
+    "md5": "fdcca8a02747e5b1728f8cf16366b376",
+    "title": "Kronos [PCS]",
+    "artist": "削除 / うまい棒 obj.Zink",
+    "url": "https://drive.google.com/file/d/1m3EaOcp1zHO_GDIRtSLRmOFUf4_p7rI7/view?usp=sharing",
+    "url_diff": "https://stellabms.xyz/upload/8059",
     "level": "乱打3"
   },
   {
@@ -18096,14 +18104,6 @@
     "level": "sl8"
   },
   {
-    "md5": "345dfeb5851aa5054c7555ad0365a4d7",
-    "sha256": "faeefcb33fa8d8a73e3dca235f7058e2d43886e18bb8845c81f28729aacca0a9",
-    "title": "ArcanicA [ARCANIC]",
-    "artist": "RNY",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=151",
-    "level": "sl8"
-  },
-  {
     "md5": "35aa9799ed7150c61c2ffa3c84f4a8d7",
     "sha256": "a8b1b5cb7cda2379349705ec3a8039d810f1fdcea5a38252c1206aaa443b0b72",
     "title": "BEYOND [KITSUNE]",
@@ -18902,6 +18902,15 @@
     "artist": "REX obj:K-SPIN",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=96",
     "url_diff": "https://web.archive.org/web/20160406092006/http://absolute.pv.land.to/bof/src/up0840.zip",
+    "level": "sl8,乱打8"
+  },
+  {
+    "md5": "345dfeb5851aa5054c7555ad0365a4d7",
+    "sha256": "faeefcb33fa8d8a73e3dca235f7058e2d43886e18bb8845c81f28729aacca0a9",
+    "title": "ArcanicA [ARCANIC]",
+    "artist": "RNY",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=151",
+    "url_diff": "https://mocha-repository.info/song.php?sha256=faeefcb33fa8d8a73e3dca235f7058e2d43886e18bb8845c81f28729aacca0a9",
     "level": "sl8,乱打8"
   },
   {
@@ -20804,7 +20813,7 @@
     "sha256": "059c2fad119e033ed4f5d73eb63fde472c5175c71375bb025389c20489d0500c",
     "title": "Kronos [HARDEST]",
     "artist": "削除 / うまい棒 / 差分 赤い人",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=374&event=83",
+    "url": "https://drive.google.com/file/d/1m3EaOcp1zHO_GDIRtSLRmOFUf4_p7rI7/view?usp=sharing",
     "url_diff": "http://akred.web.fc2.com/bmsfile/kronos-HARDEST.bms",
     "level": "sl9,乱打9"
   },
@@ -24911,6 +24920,15 @@
     "level": "sl12"
   },
   {
+    "md5": "6fa27258f041e271b1e42078f4f5c9d6",
+    "sha256": "872cabaa1d646781991a931ace8b33aec94e8505db6398468b839f78368e5c61",
+    "title": "Against the Destiny [暴れフレイル]",
+    "artist": "K4Y5 + 売る + 独楽コンバット / obj.旧石器ジャベリン",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=142",
+    "url_diff": "https://stellabms.xyz/upload/7352",
+    "level": "sl12"
+  },
+  {
     "md5": "179380ffe32b422e63a0f35bfedbe6a9",
     "sha256": "6ac336f6247ca18b34bd47380baacceeb649cb32a19e931cfa9fbc08f805c2cb",
     "title": "Amaranth [SILLY]",
@@ -26460,15 +26478,6 @@
     "level": "sl12,乱打12"
   },
   {
-    "md5": "6fa27258f041e271b1e42078f4f5c9d6",
-    "sha256": "872cabaa1d646781991a931ace8b33aec94e8505db6398468b839f78368e5c61",
-    "title": "Against the Destiny [暴れフレイル]",
-    "artist": "K4Y5 + 売る + 独楽コンバット / obj.旧石器ジャベリン",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=142",
-    "url_diff": "https://stellabms.xyz/upload/7352",
-    "level": "sl12,重発狂0"
-  },
-  {
     "md5": "2b58433bd9124e40c53276a7c4a821f9",
     "title": "* Crow Solace * (・ω・)",
     "artist": "m108/さ BGA : 砂糖天麩羅 / シキイチル",
@@ -26900,6 +26909,14 @@
     "artist": "celas respect for W.A.Mozart / obj:tun0307",
     "url": "https://web.archive.org/web/20140612154923/http://creation-records.info/bms/turkeymarch_r-hqbga.rar",
     "url_diff": "https://stellabms.xyz/upload/6121",
+    "level": "乱打12"
+  },
+  {
+    "md5": "b1d1736a1ff85c8cf4d338cd35906909",
+    "title": "プラズマ・プラス・プラチナ！ [Precious]",
+    "artist": "かんざきしおんスペシャル obj:ゆぐどらしるスペシャル",
+    "url": "https://www.mediafire.com/file/hmdir5woebymip4/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%21.zip/file%20MediaFire",
+    "url_diff": "https://stellabms.xyz/upload/8056",
     "level": "乱打12"
   },
   {
@@ -29443,6 +29460,14 @@
     "artist": "otokaz/obj:夢瑠",
     "url": "http://kbwnk.net/bms_oto11.htm",
     "url_diff": "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
+    "level": "重発狂0"
+  },
+  {
+    "md5": "b90fadbd310a2131f54333f3e9f96d69",
+    "title": "花嵐、空に溶けて [譜面、横に伸びて]",
+    "artist": "DJ Raisei vs. Setca. feat. 咲良ゆの Movie:蒼 obj:フィジカル、鍛え上げて",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=142",
+    "url_diff": "https://stellabms.xyz/upload/5045",
     "level": "重発狂0"
   },
   {
@@ -32070,14 +32095,6 @@
     "level": "重発狂1"
   },
   {
-    "md5": "86bc374a2ceb81a69be0e9d1af72638f",
-    "title": "Brain Fuel [numuther+]",
-    "artist": "arc.sys @obj:numuto",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=367&event=137",
-    "url_diff": "https://ux.getuploader.com/numuther/download/44",
-    "level": "重発狂1"
-  },
-  {
     "md5": "451ed38cdba0323388027129f5929645",
     "title": "CHMR -Automata-",
     "artist": "TEKINA / obj:夢瑠",
@@ -32163,6 +32180,14 @@
     "artist": "スーパー(21)(21)ハンターズ obj:ugd",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=148",
     "url_diff": "https://stellabms.xyz/upload/7697",
+    "level": "重発狂1"
+  },
+  {
+    "md5": "cd3efac7f4505ca96d902c53e8c7ab54",
+    "title": "Jack o' Frost [Ain't too proud to rely on!]",
+    "artist": "anubasu-anubasu BGA by zue-row obj:IBARAGI_YOSHIMI",
+    "url": "https://drive.usercontent.google.com/download?id=1kOukAlsYptBhkdBL6AKGPSkPzpar2_C-&export=download&authuser=0",
+    "url_diff": "https://stellabms.xyz/upload/7988",
     "level": "重発狂1"
   },
   {
@@ -32474,14 +32499,6 @@
     "artist": "ZUN (Arr.sun3) / obj:potechang",
     "url": "https://drive.usercontent.google.com/u/0/uc?id=1iDYqTa-SHZavSAYP0YluvBZMYNOBVyfW&export=download",
     "url_diff": "https://stellabms.xyz/upload/7494",
-    "level": "重発狂1"
-  },
-  {
-    "md5": "b90fadbd310a2131f54333f3e9f96d69",
-    "title": "花嵐、空に溶けて [譜面、横に伸びて]",
-    "artist": "DJ Raisei vs. Setca. feat. 咲良ゆの Movie:蒼 obj:フィジカル、鍛え上げて",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=142",
-    "url_diff": "https://stellabms.xyz/upload/5045",
     "level": "重発狂1"
   },
   {
@@ -35203,14 +35220,6 @@
     "level": "重発狂2"
   },
   {
-    "md5": "cd3efac7f4505ca96d902c53e8c7ab54",
-    "title": "Jack o' Frost [Ain't too proud to rely on!]",
-    "artist": "anubasu-anubasu BGA by zue-row obj:IBARAGI_YOSHIMI",
-    "url": "https://drive.usercontent.google.com/download?id=1kOukAlsYptBhkdBL6AKGPSkPzpar2_C-&export=download&authuser=0",
-    "url_diff": "https://stellabms.xyz/upload/7988",
-    "level": "重発狂2"
-  },
-  {
     "md5": "379d06f734a8ea490eb3c0ef59f58684",
     "title": "Jack o' Lantern [Earth]",
     "artist": "anubasu-anubasu BGA by 出前 obj.ぶんぺ～",
@@ -35240,6 +35249,14 @@
     "artist": "kohaxy obj:IBARAGI_YOSHIMI",
     "url": "https://venue.bmssearch.net/bmstukuru2026/82",
     "url_diff": "https://stellabms.xyz/upload/6971",
+    "level": "重発狂2"
+  },
+  {
+    "md5": "c25b5291d987e3d983083aa99586235e",
+    "title": "Miracletale [Narrative]",
+    "artist": "kooridori & TRIAL BGA:浪漫映像制作倶楽部 obj:ugd",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=142",
+    "url_diff": "https://stellabms.xyz/upload/8051",
     "level": "重発狂2"
   },
   {
@@ -38567,6 +38584,14 @@
     "level": "重発狂3"
   },
   {
+    "md5": "c7c5886dc633309ae9d5b768ed9f90be",
+    "title": "Divine-Fairness [Verdict]",
+    "artist": "DJ REGELN & Syless Stafford mov.Black&Kayo/花夜 obj.potechang",
+    "url": "https://drive.usercontent.google.com/download?id=1cKOiBEspX1v_I50m6wrcADmWuTthjmoA&export=download&authuser=0",
+    "url_diff": "https://stellabms.xyz/upload/8053",
+    "level": "重発狂3"
+  },
+  {
     "md5": "5c926baa5601e7e758d5210abe76632a",
     "title": "Eternal White [ESSENCE]",
     "artist": "shimizushi BGA : AnD / obj : 柴田リエ",
@@ -38750,6 +38775,14 @@
     "level": "重発狂3"
   },
   {
+    "md5": "e3964db896f00d3dc0534d61e1431927",
+    "title": "STARRY BERRY [7KEY STARSTORM]",
+    "artist": "AQ-CEL BGA:ぶるーこめっと obj:Frs1pw",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=147",
+    "url_diff": "https://stellabms.xyz/upload/5637",
+    "level": "重発狂3"
+  },
+  {
     "md5": "82f352d02eb99e889eb4aa7023f70e48",
     "title": "Stargaze Station [UNIVERSE]",
     "artist": "seatrus obj:ugd",
@@ -38842,6 +38875,14 @@
     "artist": "Show_G.bd obj:Orchis",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=104",
     "url_diff": "https://stellabms.xyz/upload/5954",
+    "level": "重発狂3"
+  },
+  {
+    "md5": "db4411be17fd36a878571f9efa4e1afe",
+    "title": "bioluminescence -Harether-",
+    "artist": "dandeless obj:HARE",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/43",
+    "url_diff": "https://stellabms.xyz/upload/8048",
     "level": "重発狂3"
   },
   {
@@ -41541,6 +41582,14 @@
     "level": "重発狂4"
   },
   {
+    "md5": "df21a1baa190b3c5968984300ca1ef68",
+    "title": "It's \"alice\" dream [Bad Dream]",
+    "artist": "polysha obj:IBARAGI_YOSHIMI",
+    "url": "https://drive.google.com/file/d/1peet6CtBdB8u9BhZHnwA9llt2xQXJXHg/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/8041",
+    "level": "重発狂4"
+  },
+  {
     "md5": "32292d155d7766eb58d323d0d9623925",
     "title": "Karakuri Plum -Earth-",
     "artist": "Mitsu☆ obj.ぶんぺ～",
@@ -41581,6 +41630,14 @@
     "level": "重発狂4"
   },
   {
+    "md5": "6a187b33ddff7a4b96b9fd6acb8aa731",
+    "title": "Miracletale [Storytelling]",
+    "artist": "kooridori & TRIAL BGA:浪漫映像制作倶楽部 obj:ugd",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=142",
+    "url_diff": "https://stellabms.xyz/upload/8051",
+    "level": "重発狂4"
+  },
+  {
     "md5": "960004817317a024bce51f13573051e0",
     "title": "Nexilion [Punish]",
     "artist": "Connexio obj:IBARAGI_YOSHIMI",
@@ -41618,14 +41675,6 @@
     "artist": "Yu^ta obj:1mi",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
     "url_diff": "https://stellabms.xyz/upload/6898",
-    "level": "重発狂4"
-  },
-  {
-    "md5": "e3964db896f00d3dc0534d61e1431927",
-    "title": "STARRY BERRY [7KEY STARSTORM]",
-    "artist": "AQ-CEL BGA:ぶるーこめっと obj:Frs1pw",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=147",
-    "url_diff": "https://stellabms.xyz/upload/5637",
     "level": "重発狂4"
   },
   {
@@ -43795,15 +43844,6 @@
     "level": "st5,重発狂5"
   },
   {
-    "md5": "af8d8ec0e7a859d96519f2b74b0a85e3",
-    "sha256": "dba0272dcf5c4103e51a87d159c04334b9b6f85ae954fdf1e663c885247527b3",
-    "title": "Throoughout [HEARTFUL2]",
-    "artist": "MoVIIkA movie:Arishima_Caprico / obj:魔女",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=135",
-    "url_diff": "https://stellabms.xyz/upload/6231",
-    "level": "st5,重発狂5"
-  },
-  {
     "md5": "1e363649c9762aa94c4b7f4a6eb92302",
     "sha256": "3eeffdbbaa2a651574c338038e08cb272b77a657fac53111a4a01ccd522f850b",
     "title": "Ultimate Dream [INSANE]",
@@ -43989,6 +44029,15 @@
     "artist": "lazward / BGI:ミロ飲め夫 obj.Mallow♪",
     "url": "https://drive.google.com/file/d/10eC5HcDHQYFztqM771RiDImCEppgMrXO/view?usp=drive_link",
     "url_diff": "https://stellabms.xyz/upload/1646",
+    "level": "st5,重発狂6"
+  },
+  {
+    "md5": "af8d8ec0e7a859d96519f2b74b0a85e3",
+    "sha256": "dba0272dcf5c4103e51a87d159c04334b9b6f85ae954fdf1e663c885247527b3",
+    "title": "Throoughout [HEARTFUL2]",
+    "artist": "MoVIIkA movie:Arishima_Caprico / obj:魔女",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=135",
+    "url_diff": "https://stellabms.xyz/upload/6231",
     "level": "st5,重発狂6"
   },
   {
@@ -46359,14 +46408,6 @@
     "level": "重発狂6"
   },
   {
-    "md5": "4475f756cc629f9f718eeae77f979010",
-    "title": "失望Choco[for C]",
-    "artist": "LeaF",
-    "url": "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=106",
-    "url_diff": "https://stellabms.xyz/upload/7987",
-    "level": "重発狂6"
-  },
-  {
     "md5": "d900e30bdfadb80b32cf6dd1b2754bc2",
     "title": "日溜りの街－あ！－ (GOD)",
     "artist": "猫蟹丸 / obj: black train",
@@ -48018,6 +48059,14 @@
     "artist": "LeaF obj:1mi",
     "url": "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=106",
     "url_diff": "https://stellabms.xyz/upload/7360",
+    "level": "重発狂7"
+  },
+  {
+    "md5": "4475f756cc629f9f718eeae77f979010",
+    "title": "失望Choco[for C]",
+    "artist": "LeaF",
+    "url": "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=106",
+    "url_diff": "https://stellabms.xyz/upload/7987",
     "level": "重発狂7"
   },
   {

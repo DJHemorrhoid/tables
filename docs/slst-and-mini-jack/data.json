@@ -11586,6 +11586,14 @@
     "level": "微縦連5"
   },
   {
+    "md5": "0b536b5d9311046200dcabf89f21a250",
+    "title": "Exploring the blue sky [INTENSE 7K]",
+    "artist": "sukuramu42 Illust:恋々 / obj:NORI46",
+    "url": "https://drive.google.com/file/d/1xDS4v4uIC1vxV4VOMshjVcRU6blr17bJ/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/8062",
+    "level": "微縦連5"
+  },
+  {
     "md5": "5077cd14b4759d0e8d61e854eac4e88a",
     "title": "Jack o' Lantern [UltimateRAVE]",
     "artist": "anubasu-anubasu/obj_jakko BGA by 出前",
@@ -16021,7 +16029,7 @@
     "sha256": "059c2fad119e033ed4f5d73eb63fde472c5175c71375bb025389c20489d0500c",
     "title": "Kronos [HARDEST]",
     "artist": "削除 / うまい棒 / 差分 赤い人",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=374&event=83",
+    "url": "https://drive.google.com/file/d/1m3EaOcp1zHO_GDIRtSLRmOFUf4_p7rI7/view?usp=sharing",
     "url_diff": "http://akred.web.fc2.com/bmsfile/kronos-HARDEST.bms",
     "level": "sl9"
   },
@@ -16745,6 +16753,14 @@
     "artist": "ProjectG as 'ProjectG' obj:Keysa as 'Keysa'",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=140",
     "url_diff": "https://stellabms.xyz/upload/7634",
+    "level": "微縦連9"
+  },
+  {
+    "md5": "694cefc52f9b0b7936b03f1593677685",
+    "title": "OAA-γ [令和]",
+    "artist": "dj sept-em / obj:sagoo",
+    "url": "http://web.archive.org/web/20180526052605/http://www.scn-net.ne.jp/~estine/bms.html",
+    "url_diff": "https://stellabms.xyz/upload/8033",
     "level": "微縦連9"
   },
   {
@@ -31935,30 +31951,12 @@
     "level": "st4"
   },
   {
-    "md5": "e332debea050f1700fd92aa40dfc8e0b",
-    "sha256": "ca5cf948fb0574f39899a135e39471d18cf00a07573b4ac30d18f38ea8462566",
-    "title": "MASAMUNE [Hexagon]",
-    "artist": "NS-Factory obj.hex",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=392&event=104",
-    "url_diff": "http://bms.hexlataia.xyz/",
-    "level": "st4"
-  },
-  {
     "md5": "390c99405cad2c49f91eeaa8153ba8c1",
     "sha256": "70ce249da21d439ce71f21793c153193c4072512e9974cc0bb82feee052e8c42",
     "title": "MOBILYS [nostalgie]",
     "artist": "Dachs / И Movie : わっふゑ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
     "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
-    "level": "st4"
-  },
-  {
-    "md5": "23cd5397dfc775dbecc756214b6c73e4",
-    "sha256": "64ad9b017d0d208b366b8b71bb5371e1a750fc8c028ec96f172edffb553cff44",
-    "title": "Mondlicht [Moonlight]",
-    "artist": "Nycticebus / obj.fuko",
-    "url": "https://venue.bmssearch.net/bmsshuin3/72",
-    "url_diff": "https://stellabms.xyz/upload/1619",
     "level": "st4"
   },
   {
@@ -31977,15 +31975,6 @@
     "artist": "Doggie vs D.J.Doggie obj:七海",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=497&event=133",
     "url_diff": "https://venue.bmssearch.net/bcel_pre/22",
-    "level": "st4"
-  },
-  {
-    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
-    "sha256": "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
-    "title": "No namer [Pentagon]",
-    "artist": "削除 obj.hex",
-    "url": "https://www.axfc.net/u/956768&key=bms",
-    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
     "level": "st4"
   },
   {
@@ -32013,15 +32002,6 @@
     "artist": "Lime",
     "url": "https://onedrive.live.com/?id=B32C1D1F5C2CC841%21111&cid=B32C1D1F5C2CC841",
     "url_diff": "https://drive.google.com/file/d/1UkCRWzg6AJEqG0KnlXfifsWl_oux1fdx/view?usp=drive_open",
-    "level": "st4"
-  },
-  {
-    "md5": "6eccdf96feaaf862005f3b2c86e78336",
-    "sha256": "218b41711fe17c9850e642b1aa21176c937c607a118187a7b554d91ee8ea86d5",
-    "title": "Oriental Landscape [Pleinair]",
-    "artist": "カレイドサンスイ(4696-D＋庭師)/(mov：REI-K with カラっぽのいろ) Pleinair",
-    "url": "https://drive.google.com/file/d/1hG1QKfjdjRJdkK_yXLjezr9L-sz3u0ND/view?usp=drive_link",
-    "url_diff": "https://venue.bmssearch.net/sd_black/10",
     "level": "st4"
   },
   {
@@ -32120,6 +32100,15 @@
     "artist": "RioRa obj. LuvTek",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=133",
     "url_diff": "https://darksabun.club/event/bofxvi/",
+    "level": "st4"
+  },
+  {
+    "md5": "59bc1b423c9558fd92dbfb21e95cbf6e",
+    "sha256": "5a0889b43acea9c3e18e3d56814c5001155f9df491ce344b162b55418adaca20",
+    "title": "Save Yourself [HEARTFUL]",
+    "artist": "litmus* ft. Miori Celesta obj:魔女",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=146",
+    "url_diff": "https://drive.usercontent.google.com/u/0/uc?id=1OqrD6nJH1eF-aw8PKtVrcSQ-McSRPl0h&export=download",
     "level": "st4"
   },
   {
@@ -33174,15 +33163,6 @@
     "level": "st4"
   },
   {
-    "md5": "59bc1b423c9558fd92dbfb21e95cbf6e",
-    "sha256": "5a0889b43acea9c3e18e3d56814c5001155f9df491ce344b162b55418adaca20",
-    "title": "Save Yourself [HEARTFUL]",
-    "artist": "litmus* ft. Miori Celesta obj:魔女",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=146",
-    "url_diff": "https://drive.usercontent.google.com/u/0/uc?id=1OqrD6nJH1eF-aw8PKtVrcSQ-McSRPl0h&export=download",
-    "level": "st4,双3"
-  },
-  {
     "md5": "b566416b7ded173490296f8650c07491",
     "sha256": "fe299c24c427c33ec51050c7209e2e7416ba937720465d48f5ce6fe2f652f092",
     "title": "Tiny Leda [TailSeeker]",
@@ -33291,6 +33271,15 @@
     "level": "st4,連打複合4"
   },
   {
+    "md5": "e332debea050f1700fd92aa40dfc8e0b",
+    "sha256": "ca5cf948fb0574f39899a135e39471d18cf00a07573b4ac30d18f38ea8462566",
+    "title": "MASAMUNE [Hexagon]",
+    "artist": "NS-Factory obj.hex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=392&event=104",
+    "url_diff": "http://bms.hexlataia.xyz/",
+    "level": "st4,連打複合4"
+  },
+  {
     "md5": "3661ecd6136f9a452b7914a02c980286",
     "sha256": "da90952f95fe8169a54a005bc68f32dd0c462c8ee0bbca225b695c6f2b8954f6",
     "title": "MMXI [ULTIMATE]",
@@ -33306,6 +33295,33 @@
     "artist": "ProjectG / И",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
     "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
+    "level": "st4,連打複合4"
+  },
+  {
+    "md5": "23cd5397dfc775dbecc756214b6c73e4",
+    "sha256": "64ad9b017d0d208b366b8b71bb5371e1a750fc8c028ec96f172edffb553cff44",
+    "title": "Mondlicht [Moonlight]",
+    "artist": "Nycticebus / obj.fuko",
+    "url": "https://venue.bmssearch.net/bmsshuin3/72",
+    "url_diff": "https://stellabms.xyz/upload/1619",
+    "level": "st4,連打複合4"
+  },
+  {
+    "md5": "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
+    "sha256": "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
+    "title": "No namer [Pentagon]",
+    "artist": "削除 obj.hex",
+    "url": "https://www.axfc.net/u/956768&key=bms",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "level": "st4,連打複合4"
+  },
+  {
+    "md5": "6eccdf96feaaf862005f3b2c86e78336",
+    "sha256": "218b41711fe17c9850e642b1aa21176c937c607a118187a7b554d91ee8ea86d5",
+    "title": "Oriental Landscape [Pleinair]",
+    "artist": "カレイドサンスイ(4696-D＋庭師)/(mov：REI-K with カラっぽのいろ) Pleinair",
+    "url": "https://drive.google.com/file/d/1hG1QKfjdjRJdkK_yXLjezr9L-sz3u0ND/view?usp=drive_link",
+    "url_diff": "https://venue.bmssearch.net/sd_black/10",
     "level": "st4,連打複合4"
   },
   {
@@ -36040,14 +36056,6 @@
     "level": "連打複合5"
   },
   {
-    "md5": "93a68ab9213c368d2b94d1f28884a8a3",
-    "title": "夢/あるいは在りし日の [Malefics]",
-    "artist": "BMS: Nego_tiator /Movie: Fiz obj:mukyu--",
-    "url": "https://www.dropbox.com/s/uhkqnwpkc5smu3r/%5BNego_tiator-Fiz%5D%E5%A4%A2%EF%BC%8F%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E5%9C%A8%E3%82%8A%E3%81%97%E6%97%A5%E3%81%AE.rar?dl=1",
-    "url_diff": "https://stellabms.xyz/upload/6085",
-    "level": "連打複合5"
-  },
-  {
     "md5": "fbc66f16e3f4ef6632f38a03c1bc0c74",
     "title": "翼の折れた天使たちのレクイエム [Pseudepigrapha]",
     "artist": "Sakamiya feat.前野 mov:hx",
@@ -36062,14 +36070,6 @@
     "url": "https://venue.bmssearch.net/bmsshuin2/7",
     "url_diff": "https://stellabms.xyz/upload/868",
     "level": "連打複合5"
-  },
-  {
-    "md5": "5c25b67c374c7c2753db5391edfee1de",
-    "title": "黒鳶～こくえん～ [迷彩模様]",
-    "artist": "うまるつふり / obj.meisaiidol",
-    "url": "https://drive.usercontent.google.com/u/0/uc?id=123-EK6fqaRhCkU7Iwp7DYsAR2a1xTTlT&export=download",
-    "url_diff": "https://stellabms.xyz/upload/7778",
-    "level": "dl6"
   },
   {
     "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
@@ -37718,6 +37718,14 @@
     "artist": "大前 司 movie:空読無 白眼 & 銹月 / obj:魔女",
     "url": "https://venue.bmssearch.net/bmstukuru2023/37",
     "url_diff": "https://stellabms.xyz/upload/5540",
+    "level": "連打複合6"
+  },
+  {
+    "md5": "93a68ab9213c368d2b94d1f28884a8a3",
+    "title": "夢/あるいは在りし日の [Malefics]",
+    "artist": "BMS: Nego_tiator /Movie: Fiz obj:mukyu--",
+    "url": "https://www.dropbox.com/s/uhkqnwpkc5smu3r/%5BNego_tiator-Fiz%5D%E5%A4%A2%EF%BC%8F%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E5%9C%A8%E3%82%8A%E3%81%97%E6%97%A5%E3%81%AE.rar?dl=1",
+    "url_diff": "https://stellabms.xyz/upload/6085",
     "level": "連打複合6"
   },
   {
@@ -40715,6 +40723,14 @@
     "level": "連打複合8"
   },
   {
+    "md5": "637e4da9e7554bbb5bc160703908a070",
+    "title": "インフィニット・パラダイムシフト [GABURI]",
+    "artist": "みーに feat. 音街ウナ obj:GARURU",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=137",
+    "url_diff": "https://stellabms.xyz/upload/8039",
+    "level": "連打複合8"
+  },
+  {
     "md5": "8c370fdb0ebbe49596b2b055daa9c4ee",
     "title": "セクシー・セクシー・ダイナマイト [HEARTFUL2]",
     "artist": "kei_iwata / Gt. stuv / KeiuO + 内村徹 obj:魔女",
@@ -42616,14 +42632,6 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
     "url_diff": "https://stellabms.xyz/upload/7908",
     "level": "連打複合10"
-  },
-  {
-    "md5": "027389017d46333cadd6927104f9ab6f",
-    "title": "Translate feat.めゆ [Obsessive Love]",
-    "artist": "otenami obj:結月ゆかり",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=147",
-    "url_diff": "https://stellabms.xyz/upload/7785",
-    "level": "dl11"
   },
   {
     "md5": "4e8047d3e6fc04366e2b92fcf67cef02",
