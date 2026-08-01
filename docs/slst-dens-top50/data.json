@@ -569,6 +569,15 @@
     "level": "sl0"
   },
   {
+    "md5": "fa0a38f2a1a45edbf0388492fde8c35b",
+    "sha256": "dbf751acfed875a6ce2465e568b9e0528dc4476bcfb71775da02182276cfd864",
+    "title": "SpellBound [CHARM]",
+    "artist": "SUZUKI obj.onzonium",
+    "url": "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
+    "url_diff": "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
+    "level": "sl0"
+  },
+  {
     "md5": "1d006915f1ecd17968d95b963728f78f",
     "sha256": "5e574a5fe2a12e6bd658c61d784dbffb01c2c02512412c506dc60bfc31e4f07b",
     "title": "Stand Up!! Stand Up!! [ANOTHER]",
@@ -700,15 +709,6 @@
     "level": "sl0"
   },
   {
-    "md5": "a8daf6a3798eea37f20e8d57af13bde4",
-    "sha256": "17d7d2ab63929e32f2995ba8c78685e0824d1b6b74ceef08752713fee48b6f9d",
-    "title": "gazer [F]",
-    "artist": "scytheleg obj:Fender",
-    "url": "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
-    "url_diff": "http://fenderbms.web.fc2.com/",
-    "level": "sl0"
-  },
-  {
     "md5": "0510ae5b16712861ea8776921859aed3",
     "sha256": "5ccd08f676201ca8476e30e99f8ff528cae218a7821904031003d63a88d2a3b3",
     "title": "in heart [ANOTHER]",
@@ -821,15 +821,6 @@
     "artist": "stuv + qfeileadh BGA:kazari / OBJ:hecando",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=142",
     "url_diff": "https://stellabms.xyz/upload/5533",
-    "level": "sl0"
-  },
-  {
-    "md5": "21d50f01b479f73ec2933299249b1008",
-    "sha256": "d3b489e80f49c278f34f5d17cff76654f723c4759993267f6f7d2811c6359b58",
-    "title": "カラフル・サウンズ・カッター [F]",
-    "artist": "カラフル・サウンズ・ポート obj:Fender",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%BB%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%20(by%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%BB%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%88).rar",
-    "url_diff": "http://fenderbms.web.fc2.com/",
     "level": "sl0"
   },
   {
@@ -1524,15 +1515,6 @@
     "title": "PANIC RACE!",
     "artist": "kinaphar",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=121",
-    "level": "sl1"
-  },
-  {
-    "md5": "81e79651371acfb5346c1290d1bb673b",
-    "sha256": "3898b0073bec45eb6815cf9cca4781ed6929066f458f8482a659bf3d5baf7048",
-    "title": "PUPA [Path]",
-    "artist": "モリモリあつし bga.HALLPBE.S / obj:th",
-    "url": "https://dropbox.bms.ms/u/37251493/PUPA.zip",
-    "url_diff": "https://venue.bmssearch.net/bcel_final/11",
     "level": "sl1"
   },
   {
@@ -9338,15 +9320,6 @@
     "level": "sl12"
   },
   {
-    "md5": "6756c59b2f10fc76c6601ea10023559a",
-    "sha256": "5022b4d73e3eb581127639bacd57648dc0dfa3385cb17505231e176d40bc4ea4",
-    "title": "Centurion [TRIUMPHAL]",
-    "artist": "Setca. vs. Lemi. feat. 咲良ゆの obj by Zethiwo",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=146",
-    "url_diff": "https://stellabms.xyz/upload/4591",
-    "level": "sl12"
-  },
-  {
     "md5": "3b3d206a284b5b246b3b413b75e41582",
     "sha256": "6a93796e20f2b37703a31cda5ffb24de66158dda06a462a5594c9da0d6555a61",
     "title": "Charlotte, -To The Future-",
@@ -11125,15 +11098,6 @@
     "level": "st1"
   },
   {
-    "md5": "24ffb1afeb859a845cf84885c1ec95bf",
-    "sha256": "e4eb0ba6d1059859795d67a20fdcc55e91dfb45fe06f7947c81a77b1d2c7608c",
-    "title": "Blooming Jump! [ケッコンカッコカリ]",
-    "artist": "おみー(卯月) / U",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=109",
-    "url_diff": "http://swamelo.web.fc2.com/_blooming_jump_.bms",
-    "level": "st1"
-  },
-  {
     "md5": "454d2e6762491f09893e0e6c605e115a",
     "sha256": "1a93fd5ef2b0acc66eef8cb3f5123a7e48b1985664cd84870b68754ad1d0819b",
     "title": "C.T.C. [c.t.c.]",
@@ -12099,6 +12063,15 @@
     "level": "st1"
   },
   {
+    "md5": "401575189f3bf7fcccee7913cb2f49ef",
+    "sha256": "70dda2ba258e49c43a2d9fe9ec594f351bd0478e909319d03e01c7adf12cc68c",
+    "title": "円環の理 [ＱＢ]",
+    "artist": "鹿目まどか 佐倉杏子",
+    "url": "http://3t1a.net/bms/madoka_kaname_ogg.zip",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02016.zip",
+    "level": "st1"
+  },
+  {
     "md5": "ad53525085055d8b1184096eb890be6f",
     "sha256": "ddcc17c641f8203b07a16c1ddf3a2c2707ddb0e293a93027767ce285228dafaf",
     "title": "午後のこいしちゃん [EX]",
@@ -13017,15 +12990,6 @@
     "artist": "TiS underground/差分　赤い人",
     "url": "http://cineraria-studio.com/?page_id=53",
     "url_diff": "http://akred.web.fc2.com/bmsfile/xrossdimension_INFELNO.bms",
-    "level": "st2"
-  },
-  {
-    "md5": "fd3fe90b3d5864ceca4fca8eef8c1f57",
-    "sha256": "5d8a3e1b3c9fb9af1a2a7a66d735cf9db23ac0814aa165e48e16b5b2f033ae94",
-    "title": "ZundaaaaaVPN",
-    "artist": "litmus* ft. ずんだもん&春日部つむぎ obj:四国めたん",
-    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=25&num=19&order=reg&odtype=a",
-    "url_diff": "https://stellabms.xyz/upload/6059",
     "level": "st2"
   },
   {
@@ -16733,15 +16697,6 @@
     "level": "st5"
   },
   {
-    "md5": "ac3278d0813aa75a39c59e7112a98614",
-    "sha256": "ddf06ec039950d5fc75c43c45747d52ece1a3435b18381066ee9c97231b22d93",
-    "title": "サプレッサ",
-    "artist": "LisicA vs ルゼ mov:XAIQI pattern for some reason",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=146",
-    "url_diff": "https://fsrs.darksabun.club/table.html",
-    "level": "st5"
-  },
-  {
     "md5": "268e4c71cb8ad33317299b09f0631f14",
     "sha256": "b607d42d1362fc0774150d53c00a47f2f02023d3cc84ed8481a17afc2625f617",
     "title": "タイトル画面／デモのうた [STARROD]",
@@ -18998,6 +18953,15 @@
     "level": "st9"
   },
   {
+    "md5": "cc132d5c5c8376fb945dbd40601493ef",
+    "sha256": "6f19633a404b71a3392a59be3a9b5684a5f03e9a408853270215dfb885859e2f",
+    "title": "Icicle Stinger -Solar Eclipse-",
+    "artist": "ROKINA / Illust:出前 obj:selene. vs 1/8",
+    "url": "https://onedrive.live.com/?authkey=%21AAHkZCIrFbkFuQQ&id=A0C4279F1B037701%21494&cid=A0C4279F1B037701",
+    "url_diff": "http://gnqg.rosx.net/upload/",
+    "level": "st9"
+  },
+  {
     "md5": "d38349f90945cbbe0fe3ad311f2f08a8",
     "sha256": "ae41057d11225a4ea5f2fd19c30575ceecb90e34777010d0de5593c09a47c379",
     "title": "In the Starlight, In the Moonlight [NOCTIVAGANT]",
@@ -19183,15 +19147,6 @@
     "artist": "er / obj:秘密",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=88",
     "url_diff": "http://hiiiii.web.fc2.com/sabun/",
-    "level": "st9"
-  },
-  {
-    "md5": "77ded564d6a9d994c414f4dd2ff5d5e3",
-    "sha256": "855c051dd035de8bd7c98e167182fb5244a2dd018f316c64ec2e386912e08019",
-    "title": "ペイペイ2000 [HEARTLESS]",
-    "artist": "モン・サン・ミシェル obj&arr:魔女",
-    "url": "https://drive.usercontent.google.com/download?id=1f8e-YQZ5V_AsgfKTy4_XGYqjTE2QE7KR&export=download",
-    "url_diff": "https://stellabms.xyz/upload/4059",
     "level": "st9"
   },
   {

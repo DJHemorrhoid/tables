@@ -627,15 +627,6 @@
     "level": "sl0"
   },
   {
-    "md5": "fa0a38f2a1a45edbf0388492fde8c35b",
-    "sha256": "dbf751acfed875a6ce2465e568b9e0528dc4476bcfb71775da02182276cfd864",
-    "title": "SpellBound [CHARM]",
-    "artist": "SUZUKI obj.onzonium",
-    "url": "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
-    "url_diff": "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
-    "level": "sl0"
-  },
-  {
     "md5": "b64e4e9646c4b566f6afb44dfe859232",
     "sha256": "e6f435bb303297ace3e519ae5bb4e66596da882829240ba7d81759cd09062000",
     "title": "Strada Piovosa [ANOTHER]",
@@ -1281,14 +1272,6 @@
     "title": "INLINE [7k Insane]",
     "artist": "isocosa",
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=8",
-    "level": "sl1"
-  },
-  {
-    "md5": "4ab77ff96c8b894850896dc31bef0ba5",
-    "sha256": "2ecefbf4b3e3e1d97e2ad8b06b0b0761956375da47ef269ff86ce15c7ee5df43",
-    "title": "Illusion Wings [7keys Insane (fix)]",
-    "artist": "LhoU BGA : LhoU / obj : LAPIS a.k.a. EtherCyanic",
-    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Illusion%20Wings.rar?from=search",
     "level": "sl1"
   },
   {
@@ -7609,6 +7592,15 @@
     "level": "sl9"
   },
   {
+    "md5": "116b85b4c01a2cd2cc76ac9e4572e3fe",
+    "sha256": "47ef8a71213b4d5db5dfecc7279ae2637325cc023fe98490bc996b9e10803eab",
+    "title": "Free Hand zero [ANOTHER*]",
+    "artist": "菊田研究所/lactate",
+    "url": "http://web.archive.org/web/20051006002133/http://bof.nothing.sh:8080/file/kikuta-lactate-freehand_zero.zip",
+    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "level": "sl9"
+  },
+  {
     "md5": "1f2a275c162bb77047cf9484a948707d",
     "sha256": "7633e9bcbd3cad8943ed8b4afd065ba8bd679c30d0023ec0ebf5e644e76db1db",
     "title": "Gang Riots [積み重ねる誓いの翼]",
@@ -7889,15 +7881,6 @@
     "title": "わーにんぴーぽー [Warning!]",
     "artist": "nekomimi_STRaw / obj.rat",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=293&event=140",
-    "level": "sl9"
-  },
-  {
-    "md5": "d5e3b8d81cb73e1d5f9a9549f3329de5",
-    "sha256": "2d847595f0054ce9f52774e8a193f66bd0bd3e04731df1139929ff8503d6983a",
-    "title": "アレア→イデア [Snother]",
-    "artist": "ケットシー /obj:スノート",
-    "url": "https://docs.google.com/uc?export=download&id=0B7qCw4hNijr4aW54OWZUbnU2Slk",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02589.zip",
     "level": "sl9"
   },
   {
@@ -9989,15 +9972,6 @@
     "artist": "くっちー Movie:HEART CREATE obj_jakko",
     "url": "http://web.archive.org/web/20160330181254/http://big.freett.com/otorakuk4/k_cosmos_ogg.rar",
     "url_diff": "https://darksabun.club/mirror/absolute/bof/up0568.lzh",
-    "level": "sl12"
-  },
-  {
-    "md5": "aa9c56ca0f09084d9554397e0ca013d6",
-    "sha256": "0cdc2f6ffd6a6ed21365dfc82cc16696c129445f099e4fedafff90e0de9ce719",
-    "title": "超度 [MANIAC]",
-    "artist": "Daily天利 | LED",
-    "url": "https://drive.google.com/file/d/19V-tEC4FWIrmeNQCn5dk8Tpe2EVc5LjL/view?usp=sharing",
-    "url_diff": "https://stellabms.xyz/upload/4236",
     "level": "sl12"
   },
   {
@@ -12542,15 +12516,6 @@
     "level": "st2"
   },
   {
-    "md5": "abeb89729071545993c8234d7f12e476",
-    "sha256": "f5580342d668b4925a9a63195c43b9ac67e3209c084f98dae23db471b5f8e646",
-    "title": "Gasoline Blood [BLEEDLEAK]",
-    "artist": "ですワ BGI:空読無 白眼 OBJ: LuvTek",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=142",
-    "url_diff": "https://fsrs.darksabun.club/table.html",
-    "level": "st2"
-  },
-  {
     "md5": "51c54a58f1b9c6a6c9f9642ec2779370",
     "sha256": "3fe69f64d2d1793b2ae1cae777c5550bc1a041f907bbd63663767ac5545c698a",
     "title": "Girl's Heart ～人形少女 [Dishonest]",
@@ -13728,15 +13693,6 @@
     "level": "st3"
   },
   {
-    "md5": "718c41af9ff148a9833489cedd1d43dd",
-    "sha256": "b1e173bb8bdaf978882c3d815d9900ed63cd3423c0ef89a68d0676c32ef93773",
-    "title": "Gypsy gets the Tek [Maryther]",
-    "artist": "Neun_jack mov:squidboy/obj:Mary_Sue",
-    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Gypsy%20gets%20the%20Tek%20(by%20Neun_jack).rar",
-    "url_diff": "https://stellabms.xyz/upload/82",
-    "level": "st3"
-  },
-  {
     "md5": "695543c1fa363b783d7a749524663102",
     "sha256": "71deffdafd5c119f1848060b3304ff987b34e67a8fc47c47d05270287a3206bf",
     "title": "HAMMER the TANGRAM　（ボケ+）",
@@ -14187,6 +14143,15 @@
     "artist": "Lime obj : BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04790.zip",
+    "level": "st3"
+  },
+  {
+    "md5": "a058b068bc83c336dfec1918f83611d8",
+    "sha256": "9df9649b1a68a5dc45ef27e6ca69ebac0308f416281b7b78cf89c07dd2c02dee",
+    "title": "Summerland [沖縄]",
+    "artist": "Lime obj:E",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=71",
+    "url_diff": "https://stellabms.xyz/upload/6262",
     "level": "st3"
   },
   {
@@ -16013,15 +15978,6 @@
     "level": "st5"
   },
   {
-    "md5": "899fde655fdd0213ab7df89fa577dfe8",
-    "sha256": "0337e4a85eb132b30ee4e4f252ccd2907ecd4e2b418a434b222e796dd5545412",
-    "title": "Crystal Wind [IR]",
-    "artist": "maxXx65535 obj:LuvTek",
-    "url": "https://onedrive.live.com/?id=26D9698EC1CEC044%21212&cid=26D9698EC1CEC044",
-    "url_diff": "https://darksabun.club/event/irbattle/",
-    "level": "st5"
-  },
-  {
     "md5": "b20c05c90a8c1fab6542c7ae46b7b276",
     "sha256": "197f386c9cb4fe5d12d334e5f53117d8c62630fc7084526c310e61e1c3385443",
     "title": "Daybreak",
@@ -16055,15 +16011,6 @@
     "artist": "SOMON / obj: Mary_Sue",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=445&event=146",
     "url_diff": "https://marysue.darksabun.club/",
-    "level": "st5"
-  },
-  {
-    "md5": "5873e00db2e5e8cecb776ba053b17d0f",
-    "sha256": "3aedbd62895861848f00f9120d5a83971257ad93327c88af4b6bd907067b16d9",
-    "title": "EXILE(大人のためのディレイ講座)",
-    "artist": "-45/obj.maco*j",
-    "url": "http://malie.noor.jp/",
-    "url_diff": "http://onmacodayo.web.fc2.com/exile/EXILE_deray_.bms",
     "level": "st5"
   },
   {
@@ -16701,6 +16648,15 @@
     "artist": "CYLTIE. Vo:初音ミク obj: qtp13",
     "url": "https://venue.bmssearch.net/bmstukuru2022/36",
     "url_diff": "https://venue.bmssearch.net/bcel_pre/12",
+    "level": "st5"
+  },
+  {
+    "md5": "ac3278d0813aa75a39c59e7112a98614",
+    "sha256": "ddf06ec039950d5fc75c43c45747d52ece1a3435b18381066ee9c97231b22d93",
+    "title": "サプレッサ",
+    "artist": "LisicA vs ルゼ mov:XAIQI pattern for some reason",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=146",
+    "url_diff": "https://fsrs.darksabun.club/table.html",
     "level": "st5"
   },
   {
