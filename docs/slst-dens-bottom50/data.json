@@ -421,14 +421,6 @@
     "level": "sl0"
   },
   {
-    "md5": "01451e0bc356463f3fc0e9369961c562",
-    "sha256": "51b6d6277ed8e4170ff1b891617137374c0011ed57260af207beca7012519774",
-    "title": "MEJIRUSHI",
-    "artist": "Zekk BGA : yusi",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=384&event=123",
-    "level": "sl0"
-  },
-  {
     "md5": "3599e8ee8015f43b843cb71300147f4c",
     "sha256": "4a93c886abe3e72e330a6921968d71531f8be21316d309054a3216aa2523517a",
     "title": "Memory of Rootage [ANOTHER]",
@@ -624,6 +616,15 @@
     "title": "SpellBound [7KEYS ANOTHER]",
     "artist": "Remixed by Yamajet Movie : iimo",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=132",
+    "level": "sl0"
+  },
+  {
+    "md5": "fa0a38f2a1a45edbf0388492fde8c35b",
+    "sha256": "dbf751acfed875a6ce2465e568b9e0528dc4476bcfb71775da02182276cfd864",
+    "title": "SpellBound [CHARM]",
+    "artist": "SUZUKI obj.onzonium",
+    "url": "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
+    "url_diff": "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
     "level": "sl0"
   },
   {
@@ -1259,11 +1260,29 @@
     "level": "sl1"
   },
   {
+    "md5": "6d5b9c4409daada59c8968f9129cb789",
+    "sha256": "e3cf4e91ca10580da33fb4376f001e317bcc89e6b8a56384df0538655444a3af",
+    "title": "Elina (feat. Reislaufer)[HARD]",
+    "artist": "Squar / 差分 赤い人",
+    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=62",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/Elina-HARD.bms",
+    "level": "sl1"
+  },
+  {
     "md5": "b3a5c942d242068ba9b64482a7287287",
     "sha256": "e220d39da2c073b3c6c03973f8f99ddca702f95bd0bd5d4a3384358d0ae6f15e",
     "title": "Frost Land",
     "artist": "Zris",
     "url": "https://venue.bmssearch.net/letsbmsedit3/17",
+    "level": "sl1"
+  },
+  {
+    "md5": "7bb3010f4c861453238216fca1487e2a",
+    "sha256": "880c864e651b04d880f10435686a1f87690a07ed03615096df017d33028f87ab",
+    "title": "Happiness Magical Kanon [DRIZZLE]",
+    "artist": "DJ Michelle illust. マルノ obj:Keysa",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=394&event=123",
+    "url_diff": "https://stellabms.xyz/upload/7363",
     "level": "sl1"
   },
   {
@@ -1344,6 +1363,15 @@
     "level": "sl1"
   },
   {
+    "md5": "8df803b14471901f78f92706a46880d4",
+    "sha256": "f7920ab7220748b7e609c6e9a2733f5923e2c90d6343622252bdb7640f88a8e3",
+    "title": "New Riviera [Golfo di Genova]",
+    "artist": "The New Riviera Electronic Symphony BAECON vs sak",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=104",
+    "url_diff": "https://darksabun.club/mirror/akred/baecon/Golfo_di_Genova.bms",
+    "level": "sl1"
+  },
+  {
     "md5": "35663719d861444989329168b0711850",
     "sha256": "1a8749757e5f5c9da73599ddc4b0abb483fc185d03b3f19975c57a6b22adf4b5",
     "title": "Nocturne [ANOTHER7]",
@@ -1358,15 +1386,6 @@
     "artist": "SHIKI obj: qtp13",
     "url": "https://web.archive.org/web/20210718121753/http://shiki2.sakura.ne.jp/shiki_orfe_ogg.rar",
     "url_diff": "https://stellabms.xyz/upload/7170",
-    "level": "sl1"
-  },
-  {
-    "md5": "81e79651371acfb5346c1290d1bb673b",
-    "sha256": "3898b0073bec45eb6815cf9cca4781ed6929066f458f8482a659bf3d5baf7048",
-    "title": "PUPA [Path]",
-    "artist": "モリモリあつし bga.HALLPBE.S / obj:th",
-    "url": "https://dropbox.bms.ms/u/37251493/PUPA.zip",
-    "url_diff": "https://venue.bmssearch.net/bcel_final/11",
     "level": "sl1"
   },
   {
@@ -1536,15 +1555,6 @@
     "artist": "箱崎 星梨花 / mov:永吉 昴 obj by DK",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=88",
     "url_diff": "https://frozensat.github.io/sabun/Serika_7I-fix.zip",
-    "level": "sl1"
-  },
-  {
-    "md5": "c34c4fd1d26168568b79565ffbe4a1b9",
-    "sha256": "8f16dd599a88ea34aad004959669d1933d8859f8878414c5ed2d080cc9cb1a38",
-    "title": "Signal Stars [Radiance Ark]",
-    "artist": "Clotho feat.Salita obj:Magical Girl \"Alisa\"",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=348&event=104",
-    "url_diff": "http://ux.getuploader.com/monaka_sabun_2/download/84/%5BRe_Resolutions+-+Signal+Stars%5DMGA.zip",
     "level": "sl1"
   },
   {
@@ -1825,6 +1835,15 @@
     "level": "sl1"
   },
   {
+    "md5": "6d9d2ba3845decc11c27b7f32f83b99e",
+    "sha256": "f404be95a7dc3f986f72f87a3fc3a80f0ce6abdea7fb231f06cc0bb98f91a285",
+    "title": "アヒル漂流記[HARD]",
+    "artist": "Yosk! /差分 赤い人",
+    "url": "https://drive.google.com/file/d/0B7qCw4hNijr4dVUtM0VIMUJaNDA/view?usp=sharing&resourcekey=0-pp5TSS7PhOVzq_BVv0wQDQ",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/duck-HARD.bms",
+    "level": "sl1"
+  },
+  {
     "md5": "89f97a839187a13096404c7807c33c00",
     "sha256": "8b493252e3b4c25021682b0da1c3cdec2c8565eb519829d804ccdbd0a3a42eee",
     "title": "エーデルワイス [SP ANOTHER]",
@@ -1839,6 +1858,15 @@
     "artist": "Ino(chronoize) feat. 柳瀬マサキ obj. DK",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=127&num=288",
     "url_diff": "https://frozensat.github.io/sabun/KarappoNonfiction_DK.zip",
+    "level": "sl1"
+  },
+  {
+    "md5": "8e9defab6d398dcfb491b0872b801e68",
+    "sha256": "4039019a7d43e929fd154164b59752ce0daa6dfc09c3986c95f19e28235c87ae",
+    "title": "サクライロフワリ　[HARD]",
+    "artist": "sweet smeller / 差分　赤い人",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=68",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/sakurairo_hard.bms",
     "level": "sl1"
   },
   {
@@ -1901,15 +1929,6 @@
     "artist": "iKz feat. 蘭音Reine obj:3830",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=411&event=140",
     "url_diff": "https://stellabms.xyz/upload/2124",
-    "level": "sl1"
-  },
-  {
-    "md5": "f392086bac9e3e315ec9330dbb00120c",
-    "sha256": "e9ec926997deaaf5d2cc8dd18d7dc9af6a3a7b721cccb9ec7e93c05a9ab5ef00",
-    "title": "冰月冰花 (BMS edit) [sagANOTHER]",
-    "artist": "Aglaia (Nego_tiator + Re:gats&) / obj:sagoo BGA: わっふゑ",
-    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/%E5%86%B0%E6%9C%88%E5%86%B0%E8%8A%B1.rar?from=search",
-    "url_diff": "https://1drv.ms/u/c/A972E7D14DCFAF93/AZOvz03R53IggKkmHQAAAAA?e=Zmop46",
     "level": "sl1"
   },
   {
@@ -2904,6 +2923,14 @@
     "level": "sl2"
   },
   {
+    "md5": "cd13bab728eaf1f1563d61c30e795f83",
+    "sha256": "e63cdae46cb6a89d65d64e784ff8eefb9eaddf21f7af2e877f6a6f7aa9962e8b",
+    "title": "Χαρων [SP-A]",
+    "artist": "Daily天利 vs Reku Mochizuki obj: PPG chart team \"Scely.L\"",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=146",
+    "level": "sl2"
+  },
+  {
     "md5": "ea3dcd2e9b13e7360c698fc9cfd2142f",
     "sha256": "25f306601a8dc2006a63429f21e2ceab609ba7a16d486ef8e867e23fc57a4205",
     "title": "《Ж》 [SP ANOTHER]",
@@ -2952,15 +2979,6 @@
     "title": "をしへ [法雲地]",
     "artist": "Pinktoe feat.はらもりよしな × ミドリノハサミ / BGA:新町たま × Nima",
     "url": "https://drive.google.com/file/d/1bdp37cCkgffAyxIf5pn3DroNkXfdQSJX/view?usp=sharing",
-    "level": "sl2"
-  },
-  {
-    "md5": "6d9d2ba3845decc11c27b7f32f83b99e",
-    "sha256": "f404be95a7dc3f986f72f87a3fc3a80f0ce6abdea7fb231f06cc0bb98f91a285",
-    "title": "アヒル漂流記[HARD]",
-    "artist": "Yosk! /差分 赤い人",
-    "url": "https://drive.google.com/file/d/0B7qCw4hNijr4dVUtM0VIMUJaNDA/view?usp=sharing&resourcekey=0-pp5TSS7PhOVzq_BVv0wQDQ",
-    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/duck-HARD.bms",
     "level": "sl2"
   },
   {
@@ -3466,6 +3484,14 @@
     "level": "sl3"
   },
   {
+    "md5": "de4b2ccfd35befc3aa9fd746343115c1",
+    "sha256": "3c41da118c531054fe4df8546509cd3e2d63a7808d81195a9d141834cef9a0f2",
+    "title": "MAGENTA POTION [INSANE]",
+    "artist": "EmoCo. × NO|SER obj. Lapis",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=127&num=123",
+    "level": "sl3"
+  },
+  {
     "md5": "b1c04d102bcf27b74a9257000f3f02cb",
     "sha256": "20d539b7c59a501f29a73e15d32553541d574ed9b5aa386a30448f1c90dc67eb",
     "title": "MORNINGLOOM [GUIDANCE]",
@@ -3895,6 +3921,15 @@
     "artist": "Lollipop bga: TARA#376, lyrics: Lollipop, イベライ/Emelia obj.KA2TA5",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=149",
     "url_diff": "https://stellabms.xyz/upload/6467",
+    "level": "sl3"
+  },
+  {
+    "md5": "9c0840b4bc096ab32d4173bb4b4c148a",
+    "sha256": "08fa3e05564bafd235a621d6423f4b15188a273eb7706544cd4b362e298b2e2b",
+    "title": "夢、幻。 -Hope-",
+    "artist": "NIKITA / misokabocha obj:七海",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=93",
+    "url_diff": "https://www.dropbox.com/s/okp0iysm103the1/yumemabo.zip?dl=1",
     "level": "sl3"
   },
   {
@@ -4364,6 +4399,15 @@
     "level": "sl4"
   },
   {
+    "md5": "c962ec11100d6174dbbe8ef052315dac",
+    "sha256": "92add8c7e23ae4182f7778100600133d06ef42af4d31b5df65b2c7c0a93aa586",
+    "title": "Musica de Aves [windmill]",
+    "artist": "Chitose (Movie:zue-row) / obj:ラピス vs K-SPIN",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=96",
+    "url_diff": "https://mega.nz/#!AUsGVaxb!jzIsQEepNPrC9BIcFwUA5lksRcASVhptmKCQD1kepZU",
+    "level": "sl4"
+  },
+  {
     "md5": "5d93733bacb93f78560825865e09575b",
     "sha256": "45027d1bbfff349147aca6d6f778ed376330e0f47849ffe0a603f1f00f4d4b32",
     "title": "Null Archive #Decimalized",
@@ -4588,6 +4632,15 @@
     "artist": "TKR feat.singo BGI:高松 / Obj.Triforce",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=545&event=110",
     "url_diff": "https://www.dropbox.com/s/4w88t40d1w6s2wn/ooisoo_triforce.bme?dl=0",
+    "level": "sl4"
+  },
+  {
+    "md5": "28950057e9b94ed4c72f0f6ff1b262a8",
+    "sha256": "bc743f17af1fb55ef8de26d81896e18617090f2ddb39f0ed51a0f5a5f461d440",
+    "title": "the lost delaycated (flowerbed)",
+    "artist": "哀愁マニア obj: qtp13",
+    "url": "https://onedrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB%21212",
+    "url_diff": "https://stellabms.xyz/upload/3778",
     "level": "sl4"
   },
   {
@@ -4842,6 +4895,15 @@
     "url": "http://web.archive.org/web/20070817081433/http://sasakure.bms.ms/bms/cinnamon.zip",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02528.zip",
     "level": "sl4"
+  },
+  {
+    "md5": "c3ae178709556d702341e64322ab2cd9",
+    "sha256": "8b2d5b868c30e786e54858afe465f963f4d5b0b11ad371223749c658b4c8cc85",
+    "title": "101 Ways [F]",
+    "artist": "ナタネ obj:Fender",
+    "url": "https://dump.shinonome.ca/BMS/101%20Ways.7z",
+    "url_diff": "http://fenderbms.web.fc2.com/",
+    "level": "sl5"
   },
   {
     "md5": "3163cb3c5569646dfbe058a762206ae8",
@@ -5162,6 +5224,14 @@
     "title": "SUNRISE OCEAN [F]",
     "artist": "shimizushi BGA : Black　obj:Fender",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=146",
+    "level": "sl5"
+  },
+  {
+    "md5": "7a3ce942c7bb206aa7a80cf4eae69e0e",
+    "sha256": "f7156dead9bb2399b595a17824e94277a5209636d4f757bcf1b9476a1bf9f2bc",
+    "title": "Secret Chaser [SP Insane]",
+    "artist": "utzbo BGA: ShakeJ / obj.rat",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=149",
     "level": "sl5"
   },
   {
@@ -5565,15 +5635,6 @@
     "level": "sl6"
   },
   {
-    "md5": "c3ae178709556d702341e64322ab2cd9",
-    "sha256": "8b2d5b868c30e786e54858afe465f963f4d5b0b11ad371223749c658b4c8cc85",
-    "title": "101 Ways [F]",
-    "artist": "ナタネ obj:Fender",
-    "url": "https://dump.shinonome.ca/BMS/101%20Ways.7z",
-    "url_diff": "http://fenderbms.web.fc2.com/",
-    "level": "sl6"
-  },
-  {
     "md5": "c6d9446a2418ffbe797d3a46ce7fe675",
     "sha256": "67ee6351dfeb96ac603c0a74d95d98d2cc87407c4f0c3184957ed6917c6164d8",
     "title": "202603 [sp_insane]",
@@ -5834,14 +5895,6 @@
     "level": "sl6"
   },
   {
-    "md5": "0b68dbd12fd4940c3432d7a9070925c9",
-    "sha256": "a6ee2831d4dbab654a0b02559cb95845eadd73526ce882d45beea70afe851851",
-    "title": "Sacrificio [INSANE]",
-    "artist": "Lian",
-    "url": "https://venue.bmssearch.net/ippaitukuru2019/37",
-    "level": "sl6"
-  },
-  {
     "md5": "08d63a18406f7d418e22f226f0aa644a",
     "sha256": "df9f86d922ac645421a65704e7d6f0bd6d6d7b99e438b7f3ef4c4ed50900677c",
     "title": "Sakura Fubuki [ZOI]",
@@ -5951,6 +6004,15 @@
     "title": "endlessky [antennatoheaven]",
     "artist": "望月真白 BGA: TARA#376 / OBJ: Reiaki",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=144",
+    "level": "sl6"
+  },
+  {
+    "md5": "cf078cc50af8f17cd95023ad28edc20c",
+    "sha256": "060f7a8cb33c57cc89744fbf2885f5b7d66a209218195f2cac811a865c8a49eb",
+    "title": "heartless wind -ceres remix- [sANOTHER*]",
+    "artist": "美月 正 / arranged by ridis",
+    "url": "https://web.archive.org/web/20040901192918/https://hat774.hp.infoseek.co.jp/ceres_r.zip",
+    "url_diff": "http://swamelo.web.fc2.com/01_HK.html",
     "level": "sl6"
   },
   {
@@ -6442,6 +6504,14 @@
     "artist": "あとぅす feat.橘花音 BGI:さのり obj.碧音",
     "url": "https://venue.bmssearch.net/bmstukuru2022/41",
     "url_diff": "https://stellabms.xyz/upload/5761",
+    "level": "sl7"
+  },
+  {
+    "md5": "0b68dbd12fd4940c3432d7a9070925c9",
+    "sha256": "a6ee2831d4dbab654a0b02559cb95845eadd73526ce882d45beea70afe851851",
+    "title": "Sacrificio [INSANE]",
+    "artist": "Lian",
+    "url": "https://venue.bmssearch.net/ippaitukuru2019/37",
     "level": "sl7"
   },
   {
@@ -7592,15 +7662,6 @@
     "level": "sl9"
   },
   {
-    "md5": "116b85b4c01a2cd2cc76ac9e4572e3fe",
-    "sha256": "47ef8a71213b4d5db5dfecc7279ae2637325cc023fe98490bc996b9e10803eab",
-    "title": "Free Hand zero [ANOTHER*]",
-    "artist": "菊田研究所/lactate",
-    "url": "http://web.archive.org/web/20051006002133/http://bof.nothing.sh:8080/file/kikuta-lactate-freehand_zero.zip",
-    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "level": "sl9"
-  },
-  {
     "md5": "1f2a275c162bb77047cf9484a948707d",
     "sha256": "7633e9bcbd3cad8943ed8b4afd065ba8bd679c30d0023ec0ebf5e644e76db1db",
     "title": "Gang Riots [積み重ねる誓いの翼]",
@@ -7785,6 +7846,15 @@
     "artist": "m108 BGA:メツヤ Illust:flap /obj:monaka",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=116",
     "url_diff": "https://ux.getuploader.com/monaka_sabun_2/download/129",
+    "level": "sl9"
+  },
+  {
+    "md5": "363519b2bec6e757cfd0e290ec1f8b9c",
+    "sha256": "e67400a26b87baae15091a8ca42f52e877f33e68c50a0d47799aae4b0090b4b4",
+    "title": "YOUR REALITY FLIP [INTENSE 7K]",
+    "artist": "kdcysth after codesynth obj:NORI46",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=151",
+    "url_diff": "https://stellabms.xyz/upload/7814",
     "level": "sl9"
   },
   {
@@ -8259,6 +8329,15 @@
     "artist": "BilliumMoto Illust: Metyayurusu, BGA: Fate, obj: Jakads",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=142",
     "url_diff": "https://stellabms.xyz/upload/3286",
+    "level": "sl10"
+  },
+  {
+    "md5": "0cdc24443d10e50d6a6e5f395988c4de",
+    "sha256": "88ef76937a51e1a77750ebf5d08bf616196596e47898618ea4368cdddeaceded",
+    "title": "Satori ～3rd EyEs[DELAYBEGINNER]",
+    "artist": "BMS:くっちー / BGA:あっきー / 差分　赤い人",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=60",
+    "url_diff": "http://akred.web.fc2.com/ak-red.html",
     "level": "sl10"
   },
   {
@@ -9892,6 +9971,15 @@
     "artist": "Dr.A (BGA:八嶋 OBJ:M-SPIИ)",
     "url": "https://web.archive.org/web/20141124132145/http://grooverise.sakura.ne.jp/dr.a_sentehissyohsentoukiohtori.rar",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03936.zip",
+    "level": "sl12"
+  },
+  {
+    "md5": "6060102b7322ff31a06d473eab0d7a6e",
+    "sha256": "28dbd046dffe8bcea0c3fd62244a6df596d7d3e979c6b62462f39ad51699f127",
+    "title": "切踏 (献花) [Z_style]",
+    "artist": "A.T.M. remixed by kju8 obj: zakoPeko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=127",
+    "url_diff": "https://stellabms.xyz/upload/7969",
     "level": "sl12"
   },
   {
@@ -13205,6 +13293,15 @@
     "level": "st2"
   },
   {
+    "md5": "724ba29ceece4e8966c3767c84d95f7c",
+    "sha256": "6be63d4fd95c0429c92647bf7a7f902d16dc3705714872c1c8fa325328450bdc",
+    "title": "さよならコスモノート [3544.11.01]",
+    "artist": "ああああ茶漬け / A",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=116",
+    "url_diff": "https://www.dropbox.com/s/nakc1c6gugbw47w/_sayonara_Cluster%20of%20Galaxies.zip?dl=0",
+    "level": "st2"
+  },
+  {
     "md5": "415ca7868e3d064f208e033f1aa5193e",
     "sha256": "53a73b935ebae02b5ad6e3b83ee080894aa19adc0fca884ddbeada15fbbd0b43",
     "title": "ようこそジャパリパークへ -KCG Mix- [ゴリラのフレンズ]",
@@ -14651,15 +14748,6 @@
     "level": "st3"
   },
   {
-    "md5": "9c2140fb5694ccb94d559e7d42bc5061",
-    "sha256": "4e77ed461b8cb2bd846980d8d6373502e75833acd184c6bf88f6cb3aad51f6da",
-    "title": "特効薬はカニピラフ (U+1F980)",
-    "artist": "セナ BGA：Milk_tya Illust：神奈川わか奈 obj：toraji",
-    "url": "https://web.archive.org/web/20140111153652/http://higehime.main.jp/bms/bof2013/kanipilaf.rar",
-    "url_diff": "https://stellabms.xyz/upload/5903",
-    "level": "st3"
-  },
-  {
     "md5": "32cba2222dc0c80c42f8c4aed09d0c8d",
     "sha256": "3ef0fd5a278ce527375c01afec67923a77b94c6cb337d9901c6ed5566bd30cdb",
     "title": "異説彼岸花 第一 -原初のアマリリス- [INFERNO]",
@@ -15772,6 +15860,15 @@
     "artist": "天束 feat.はらもりよしな / illust:mado / obj:potechang BMS:Chart_Generator",
     "url": "https://venue.bmssearch.net/letsbmsedit3/25",
     "url_diff": "https://drive.usercontent.google.com/u/0/uc?id=1bjYT3YvNJC-dC7dsPmL8VkPyR01HjRr6&export=download",
+    "level": "st4"
+  },
+  {
+    "md5": "9c2140fb5694ccb94d559e7d42bc5061",
+    "sha256": "4e77ed461b8cb2bd846980d8d6373502e75833acd184c6bf88f6cb3aad51f6da",
+    "title": "特効薬はカニピラフ (U+1F980)",
+    "artist": "セナ BGA：Milk_tya Illust：神奈川わか奈 obj：toraji",
+    "url": "https://web.archive.org/web/20140111153652/http://higehime.main.jp/bms/bof2013/kanipilaf.rar",
+    "url_diff": "https://stellabms.xyz/upload/5903",
     "level": "st4"
   },
   {
@@ -18238,6 +18335,15 @@
     "artist": "ROKINA obj:ほまれ",
     "url": "https://onedrive.live.com/?id=A0C4279F1B037701%21468&cid=A0C4279F1B037701",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00435.zip",
+    "level": "st8"
+  },
+  {
+    "md5": "5877233cbccd098147669abc5a5703e6",
+    "sha256": "ff40a3199ecce473e9f493a8dbf9a6eb9b2707607d4d0670b5e3cda3abb76fdd",
+    "title": "3XTRA3XPR3SS [TR4IND3LAY3D]",
+    "artist": "ragia / 0",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=121",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01879.zip",
     "level": "st8"
   },
   {

@@ -36,15 +36,6 @@
     "level": "sl0,Ude0"
   },
   {
-    "md5": "01451e0bc356463f3fc0e9369961c562",
-    "sha256": "51b6d6277ed8e4170ff1b891617137374c0011ed57260af207beca7012519774",
-    "title": "MEJIRUSHI",
-    "artist": "Zekk BGA : yusi",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=384&event=123",
-    "url_diff": "同梱譜面",
-    "level": "sl0,Ude0"
-  },
-  {
     "md5": "3599e8ee8015f43b843cb71300147f4c",
     "sha256": "4a93c886abe3e72e330a6921968d71531f8be21316d309054a3216aa2523517a",
     "title": "Memory of Rootage [ANOTHER]",
@@ -293,6 +284,15 @@
     "artist": "Est obj:SUZUKAZEΛ",
     "url": "https://www.dropbox.com/s/amob98b5rpf3x5y/est134_dog_ear.zip?dl=1",
     "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "level": "sl1,Ude1"
+  },
+  {
+    "md5": "7bb3010f4c861453238216fca1487e2a",
+    "sha256": "880c864e651b04d880f10435686a1f87690a07ed03615096df017d33028f87ab",
+    "title": "Happiness Magical Kanon [DRIZZLE]",
+    "artist": "DJ Michelle illust. マルノ obj:Keysa",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=394&event=123",
+    "url_diff": "https://stellabms.xyz/upload/7363",
     "level": "sl1,Ude1"
   },
   {
@@ -3835,15 +3835,6 @@
     "level": "st3,腕3"
   },
   {
-    "md5": "9c2140fb5694ccb94d559e7d42bc5061",
-    "sha256": "4e77ed461b8cb2bd846980d8d6373502e75833acd184c6bf88f6cb3aad51f6da",
-    "title": "特効薬はカニピラフ (U+1F980)",
-    "artist": "セナ BGA：Milk_tya Illust：神奈川わか奈 obj：toraji",
-    "url": "https://web.archive.org/web/20140111153652/http://higehime.main.jp/bms/bof2013/kanipilaf.rar",
-    "url_diff": "https://stellabms.xyz/upload/5903",
-    "level": "st3,腕3"
-  },
-  {
     "md5": "10b4f116f4f4140ee977e0bdf788e55a",
     "sha256": "f22dc7446105e708c01c4c00907b8793b860c8610669cb89ee149c61fe57b7ae",
     "title": "雪色夜望（BMS Edit） [whitest]",
@@ -3860,6 +3851,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
     "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
     "level": "st3,腕3"
+  },
+  {
+    "md5": "9c2140fb5694ccb94d559e7d42bc5061",
+    "sha256": "4e77ed461b8cb2bd846980d8d6373502e75833acd184c6bf88f6cb3aad51f6da",
+    "title": "特効薬はカニピラフ (U+1F980)",
+    "artist": "セナ BGA：Milk_tya Illust：神奈川わか奈 obj：toraji",
+    "url": "https://web.archive.org/web/20140111153652/http://higehime.main.jp/bms/bof2013/kanipilaf.rar",
+    "url_diff": "https://stellabms.xyz/upload/5903",
+    "level": "st4,腕3"
   },
   {
     "md5": "83f00578264e48fd02f27e5b117abd65",

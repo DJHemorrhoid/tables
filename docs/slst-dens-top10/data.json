@@ -75,14 +75,6 @@
     "level": "sl0"
   },
   {
-    "md5": "9710af92ded4027a05ecc59be1103072",
-    "sha256": "06f36ad7e762fed982d19cf59c8d4688bd8117fd189a065036d600d12dcee8bd",
-    "title": "Luminance",
-    "artist": "litmus* ft. 橘ルミ",
-    "url": "https://9domu46i.com/yuruyuru/phase21.html",
-    "level": "sl0"
-  },
-  {
     "md5": "03e8c2316d4dad4653234a0b185f90e1",
     "sha256": "298f88dfcfb128e01c1d2d97df5f8318469015a4e02ecd46b2b2235539b129c9",
     "title": "MILK × TEA[ANOTHER]",
@@ -154,6 +146,14 @@
     "title": "すいーつ・くえすと！ [SP ANOTHER+]",
     "artist": "YuKa feat.HALO Movie:ShakeJ / Illust:はしたかさん",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=151",
+    "level": "sl0"
+  },
+  {
+    "md5": "b36e9b9f4af7bc2fb56a56df422e450e",
+    "sha256": "45c054bdc7187d21d9a701491f1628296577b0c16eb63403d08f6b1e386f12a3",
+    "title": "せ",
+    "artist": "4",
+    "url": "https://event.yaruki0.net/kowloon/impression/33",
     "level": "sl0"
   },
   {
@@ -903,6 +903,15 @@
     "level": "sl4"
   },
   {
+    "md5": "ec782ea4b65922aea1e05056fcb27b9d",
+    "sha256": "69be49b7f28c2077a02ef9567bc393528f2ebbeb4e7594311d75df26505dfc40",
+    "title": "RAT ATTACK [BEYOND]",
+    "artist": "U-ske feat. MIE obj:京町精華",
+    "url": "https://www.dropbox.com/scl/fo/tx2xre1lb6abyn9y5mgxa/AD_GYToy9O5hAo1IHDezCu0?rlkey=k2l6r4h87u3exroia2kl0tllq&st=s6xj4kwf&dl=0",
+    "url_diff": "https://stellabms.xyz/upload/6546",
+    "level": "sl4"
+  },
+  {
     "md5": "cdf91341bffa3db8bcaa09c836df552f",
     "sha256": "7c80c38336c0b3a01a250d0404e5d2ccab28cab48e6a10cd3f9a6326166d1944",
     "title": "Red -reduction division- [EXTRA+]",
@@ -935,15 +944,6 @@
     "title": "dreamy traveler [insane]",
     "artist": "twinkle citrus obj. w",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=142",
-    "level": "sl4"
-  },
-  {
-    "md5": "ed753fcb1a6341597076f99ae77473ac",
-    "sha256": "74a7d17cfee828b68ed04ff930503c1c77de307ccd86f52fdbc16fcd5de3c79a",
-    "title": "nutty trip [Arcadia]",
-    "artist": "Aliesrite* (Ym1024 feat. lamie*) Movie : YABILITY, retu / obj : でっていう99",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=142",
-    "url_diff": "https://stellabms.xyz/upload/6990",
     "level": "sl4"
   },
   {
@@ -1050,6 +1050,14 @@
     "level": "sl5"
   },
   {
+    "md5": "ca63159b9f1b78d179e9fcdbc50e3b0e",
+    "sha256": "b49caf90ede557aa50201d49baecf443597d64a4cfc1481e8ed70276c3b7236e",
+    "title": "すいーつ・くえすと！ [SP INSANE]",
+    "artist": "YuKa feat.HALO Movie:ShakeJ / Illust:はしたかさん",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=151",
+    "level": "sl5"
+  },
+  {
     "md5": "9023f33c21e33d4d9429ab488c40d7ee",
     "sha256": "d590e69f44d9a1721f435f4ebe9121112689d0010b75ca9837596d70a338f2b6",
     "title": "イルルヤンカシュは神を弑逆する - Kue'n'zi -",
@@ -1065,14 +1073,6 @@
     "artist": "sweez & Meine Meinung / obj:Lorse",
     "url": "https://web.archive.org/web/20151210185406/http://str3.org/data/bms/bms04_niraikanai.zip",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00445.zip",
-    "level": "sl5"
-  },
-  {
-    "md5": "7e8138a072007fa7bf95265d8f9073b2",
-    "sha256": "fc459aca0ae644ca57ac5a5df2fb56d3cac7f608e87f4cc786c5999f74f3d523",
-    "title": "ラスティゲート [INSANE]",
-    "artist": "あとぅす feat.はらもりよしな BGI:りーふぱいザウルス / obj:Lian",
-    "url": "https://venue.bmssearch.net/bmstukuru2025/65",
     "level": "sl5"
   },
   {
@@ -1539,6 +1539,15 @@
     "level": "sl9"
   },
   {
+    "md5": "60b382221191302b26014563b168be27",
+    "sha256": "30e1e352a4dd5b41da77e9cbf5b89df6b48fe5ef7a48256a8c66536a8854f02d",
+    "title": "Close the Lights (EX)",
+    "artist": "カラフル・サウンズ・ポート/さ",
+    "url": "http://nekokan.dyndns.info/~pupuly/bms/view.cgi?id=24&section=orig",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "level": "sl9"
+  },
+  {
     "md5": "a2b9f3ec08635f29b86caf870f709a06",
     "sha256": "6d4e9b22019e39c4b89cfc571da785604c8dd07175653feb4e116887c127c827",
     "title": "Complex Colors -改 MIX- -Luna-",
@@ -1606,15 +1615,6 @@
     "title": "rand130 [INSANE7]",
     "artist": "momo★yama",
     "url": "https://drive.google.com/file/d/10GXlYoVonh2DLBea15yFnTAl9eUvkOeE/view?usp=sharing",
-    "level": "sl9"
-  },
-  {
-    "md5": "ebe7ae691b9cad8ab7b2323e37691f1c",
-    "sha256": "260a80b432138a02ea365ac3d7c1d506097f838dacbf0e6df91353ad8b21c7c4",
-    "title": "ナイト・オブ・ナイツ [HARDEST]",
-    "artist": "Izayoi/差分　赤い人",
-    "url": "https://www.axfc.net/u/1218872",
-    "url_diff": "http://akred.web.fc2.com/bmsfile/knights-HARDEST.bms",
     "level": "sl9"
   },
   {
@@ -1716,12 +1716,12 @@
     "level": "sl10"
   },
   {
-    "md5": "b1abccc7683703378fe49ebb00358399",
-    "sha256": "07c00863bc9b4d114ff8dc4492124be6e7e0f26e0655a0ac19647bbcc35fad16",
-    "title": "Love☆Spellcard -Luna-",
-    "artist": "uma feat. ましろ / selene.",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=118",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01420.zip",
+    "md5": "ebe7ae691b9cad8ab7b2323e37691f1c",
+    "sha256": "260a80b432138a02ea365ac3d7c1d506097f838dacbf0e6df91353ad8b21c7c4",
+    "title": "ナイト・オブ・ナイツ [HARDEST]",
+    "artist": "Izayoi/差分　赤い人",
+    "url": "https://www.axfc.net/u/1218872",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/knights-HARDEST.bms",
     "level": "sl10"
   },
   {

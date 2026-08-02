@@ -34,6 +34,15 @@
     "level": "sl1,///1"
   },
   {
+    "md5": "6d5b9c4409daada59c8968f9129cb789",
+    "sha256": "e3cf4e91ca10580da33fb4376f001e317bcc89e6b8a56384df0538655444a3af",
+    "title": "Elina (feat. Reislaufer)[HARD]",
+    "artist": "Squar / 差分 赤い人",
+    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=62",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/Elina-HARD.bms",
+    "level": "sl1,///1"
+  },
+  {
     "md5": "292d6206e00a4ae3fa28d7ea097ed24f",
     "sha256": "9564ad553c1d79a7842f9b318029917b4fb2f196ab9cca6d52dae02433a14174",
     "title": "Orfevre -Debut-",
@@ -66,6 +75,15 @@
     "artist": "BOKKEN PINK /object:lalha☆ BOKKEN DODOME+MAGENTA",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=65",
     "url_diff": "https://darksabun.club/mirror/absolute/uploader/up1582.zip",
+    "level": "sl1,///1"
+  },
+  {
+    "md5": "8e9defab6d398dcfb491b0872b801e68",
+    "sha256": "4039019a7d43e929fd154164b59752ce0daa6dfc09c3986c95f19e28235c87ae",
+    "title": "サクライロフワリ　[HARD]",
+    "artist": "sweet smeller / 差分　赤い人",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=68",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/sakurairo_hard.bms",
     "level": "sl1,///1"
   },
   {
@@ -183,12 +201,30 @@
     "level": "sl3,///3"
   },
   {
+    "md5": "28950057e9b94ed4c72f0f6ff1b262a8",
+    "sha256": "bc743f17af1fb55ef8de26d81896e18617090f2ddb39f0ed51a0f5a5f461d440",
+    "title": "the lost delaycated (flowerbed)",
+    "artist": "哀愁マニア obj: qtp13",
+    "url": "https://onedrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB%21212",
+    "url_diff": "https://stellabms.xyz/upload/3778",
+    "level": "sl4,///3"
+  },
+  {
     "md5": "a5ff700022943d49f34614cc181087f2",
     "sha256": "183dc5fe59bb886aeed9945cb3c2d9d57de53f68eec099f108e7fcd5c97b17b8",
     "title": "Altale [the story]",
     "artist": "削除 obj:LAPIS",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=96",
     "url_diff": "http://lapisbms.web.fc2.com/",
+    "level": "sl4,///4"
+  },
+  {
+    "md5": "4ec25d8bd7f63802c29892b910b744d9",
+    "sha256": "7bd616d89e54f0d45c601bfba4d2bc2cdc98468c73be6804c00545f0e010bfdf",
+    "title": "ETERNAL DRAIN(DELAY）",
+    "artist": "カラフル・サウンズ・ポート / 差分　赤い人",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/eternal_drain_delay-.bms",
     "level": "sl4,///4"
   },
   {
@@ -634,6 +670,15 @@
     "level": "sl9,///9"
   },
   {
+    "md5": "363519b2bec6e757cfd0e290ec1f8b9c",
+    "sha256": "e67400a26b87baae15091a8ca42f52e877f33e68c50a0d47799aae4b0090b4b4",
+    "title": "YOUR REALITY FLIP [INTENSE 7K]",
+    "artist": "kdcysth after codesynth obj:NORI46",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=151",
+    "url_diff": "https://stellabms.xyz/upload/7814",
+    "level": "sl9,dl-2,///9"
+  },
+  {
     "md5": "0cdc24443d10e50d6a6e5f395988c4de",
     "sha256": "88ef76937a51e1a77750ebf5d08bf616196596e47898618ea4368cdddeaceded",
     "title": "Satori ～3rd EyEs[DELAYBEGINNER]",
@@ -685,6 +730,15 @@
     "artist": "Omnipotenx /差分　赤い人",
     "url": "http://monochrome-world.sakura.ne.jp/peace_breaker.zip",
     "url_diff": "http://akred.web.fc2.com/bmsfile/_pb_B.onipote.HARDEST.bme",
+    "level": "sl10,dl-2,///10"
+  },
+  {
+    "md5": "414a4ca7a3af3e1b35b9bd1e0d456e3f",
+    "sha256": "26d8a50248e1803701b026cfa594bbd08572b3decbf7516c8e331d11699bb811",
+    "title": "The Question [黒塗り世界宛て書簡]",
+    "artist": "Personative feat. MC. NOREAJ / obj:Frsabun BGA : Photonskyto",
+    "url": "http://mournfinale.com/question/bms.html",
+    "url_diff": "https://stellabms.xyz/upload/7905",
     "level": "sl10,dl-2,///10"
   },
   {
@@ -865,6 +919,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=133",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05062.zip",
     "level": "sl12,dl-1"
+  },
+  {
+    "md5": "bb4cd894c657371dbf3a84d51db4b8c8",
+    "sha256": "f3c7f9dd0112294bbbff3de830aaa5802b592c2558055e18b55f5c81eda2472a",
+    "title": "Triumphal Return [Last Reminiscence]",
+    "artist": "TamaDo / obj:83929",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
+    "url_diff": "https://stellabms.xyz/upload/7753",
+    "level": "sl12,dl0"
   },
   {
     "md5": "c7f384d33fd08da0fda97112354a834c",
@@ -1080,15 +1143,6 @@
     "artist": "ixi's Movie : TAKRIDER / obj:LindBlum",
     "url": "https://drive.google.com/file/d/1H2MDi13btEfXRL02ZuCFVttqQTbGjQYr/view",
     "url_diff": "https://venue.bmssearch.net/bcel_pre/28",
-    "level": "st0,dl0"
-  },
-  {
-    "md5": "bb4cd894c657371dbf3a84d51db4b8c8",
-    "sha256": "f3c7f9dd0112294bbbff3de830aaa5802b592c2558055e18b55f5c81eda2472a",
-    "title": "Triumphal Return [Last Reminiscence]",
-    "artist": "TamaDo / obj:83929",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
-    "url_diff": "https://stellabms.xyz/upload/7753",
     "level": "st0,dl0"
   },
   {
@@ -3319,6 +3373,15 @@
     "artist": "Nizikawa Movie: 出前 obj: Guanacoite",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=110",
     "url_diff": "https://stellabms.xyz/upload/3972",
+    "level": "st8,dl8"
+  },
+  {
+    "md5": "641e70eb12f9e0f1a3a3f1b4361c5ee9",
+    "sha256": "9f333ce8df4530b6e9e4f2c9c602923320c8f5addfac317d6f6f8eda2bb51e90",
+    "title": "Name of oath [SP HiHiHiTHER]",
+    "artist": "void feat. コツキミヤ , Gt. えば / obj:秘密 BGA : Photonskyto",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=65",
+    "url_diff": "http://hiiiii.web.fc2.com/sabun/",
     "level": "st8,dl8"
   },
   {
