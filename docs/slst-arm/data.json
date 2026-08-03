@@ -2676,6 +2676,15 @@
     "level": "st0,腕0"
   },
   {
+    "md5": "6037f6542a71a552f173b591330c7b0e",
+    "sha256": "2e3d313eb69ae4b5614cc142fe86c5c9fdd85a02154aafd1ab9465ab6f7e00d7",
+    "title": "x-Aria [Snother]",
+    "artist": "ridis / obj:スノート",
+    "url": "http://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
+    "url_diff": "https://web.archive.org/web/20200306161944/http://gnqg.rosx.net/upload/upl/L5LhwOkStzV5IRw_DOk3/03284.zip",
+    "level": "st0,腕0"
+  },
+  {
     "md5": "a3c4f1060479d87a9a7d33a48ec1b094",
     "sha256": "53458e17c41d8c00b3df1c909505116757582f7fc0f7cb0b27f0c6a7483c4a85",
     "title": "ちんこ音頭2012",
@@ -2753,15 +2762,6 @@
     "artist": "/指紋",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=131",
     "level": "st0,腕0"
-  },
-  {
-    "md5": "6037f6542a71a552f173b591330c7b0e",
-    "sha256": "2e3d313eb69ae4b5614cc142fe86c5c9fdd85a02154aafd1ab9465ab6f7e00d7",
-    "title": "x-Aria [Snother]",
-    "artist": "ridis / obj:スノート",
-    "url": "http://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
-    "url_diff": "https://web.archive.org/web/20200306161944/http://gnqg.rosx.net/upload/upl/L5LhwOkStzV5IRw_DOk3/03284.zip",
-    "level": "st0,腕0,Ude12"
   },
   {
     "md5": "d1eecd43b53b618c8565bc459e2e1965",

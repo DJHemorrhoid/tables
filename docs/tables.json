@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-08-03 04:00",
+  "updated_at": "2026-08-04 04:01",
   "tables": [
     {
       "name": "sl/st",
@@ -20,7 +20,7 @@
       "symbol": "",
       "chart_count": 1356,
       "folder_count": 28,
-      "updated_at": "2026-08-03 04:00",
+      "updated_at": "2026-08-04 04:01",
       "url": "./ude-arm/",
       "header_url": "./ude-arm/header.json"
     },
@@ -41,8 +41,8 @@
       "description": "",
       "symbol": "",
       "chart_count": 1506,
-      "folder_count": 51,
-      "updated_at": "2026-08-03 04:00",
+      "folder_count": 48,
+      "updated_at": "2026-08-04 04:01",
       "url": "./slst-code-stream/",
       "header_url": "./slst-code-stream/header.json"
     },
@@ -51,9 +51,9 @@
       "slug": "slst-mini-jack",
       "description": "",
       "symbol": "",
-      "chart_count": 355,
-      "folder_count": 38,
-      "updated_at": "2026-07-31 23:09",
+      "chart_count": 354,
+      "folder_count": 36,
+      "updated_at": "2026-08-04 04:01",
       "url": "./slst-mini-jack/",
       "header_url": "./slst-mini-jack/header.json"
     },
@@ -63,8 +63,8 @@
       "description": "",
       "symbol": "",
       "chart_count": 670,
-      "folder_count": 42,
-      "updated_at": "2026-08-03 04:00",
+      "folder_count": 41,
+      "updated_at": "2026-08-04 04:01",
       "url": "./slst-arm/",
       "header_url": "./slst-arm/header.json"
     },
@@ -162,8 +162,8 @@
       "description": "",
       "symbol": "",
       "chart_count": 6064,
-      "folder_count": 103,
-      "updated_at": "2026-08-03 04:00",
+      "folder_count": 100,
+      "updated_at": "2026-08-04 04:01",
       "url": "./slst-and-code-stream/",
       "header_url": "./slst-and-code-stream/header.json"
     },
@@ -173,8 +173,8 @@
       "description": "",
       "symbol": "",
       "chart_count": 5005,
-      "folder_count": 88,
-      "updated_at": "2026-08-03 04:00",
+      "folder_count": 86,
+      "updated_at": "2026-08-04 04:01",
       "url": "./slst-and-mini-jack/",
       "header_url": "./slst-and-mini-jack/header.json"
     },
@@ -184,8 +184,8 @@
       "description": "",
       "symbol": "",
       "chart_count": 5343,
-      "folder_count": 96,
-      "updated_at": "2026-08-03 04:00",
+      "folder_count": 95,
+      "updated_at": "2026-08-04 04:01",
       "url": "./slst-and-arm/",
       "header_url": "./slst-and-arm/header.json"
     },
