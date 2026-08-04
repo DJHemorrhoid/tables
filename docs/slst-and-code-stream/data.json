@@ -21280,6 +21280,14 @@
     "level": "乱打9"
   },
   {
+    "md5": "e729f9290ab5450391e0711c5f96d1f2",
+    "title": "Dazzle Everyday (ビタミンc remix) [Unique Idea]",
+    "artist": "ビタミンc Original: Mitsukiyo / obj: foxtrot",
+    "url": "https://venue.bmssearch.net/morekivotos/6",
+    "url_diff": "https://stellabms.xyz/upload/8097",
+    "level": "乱打9"
+  },
+  {
     "md5": "10d6ab517e0de6921ca5ecb379fe7807",
     "title": "FUXXING YOUR BRAIN [Bang]",
     "artist": "q/stol obj:FriedSnow",
@@ -25742,6 +25750,15 @@
     "level": "sl12"
   },
   {
+    "md5": "6060102b7322ff31a06d473eab0d7a6e",
+    "sha256": "28dbd046dffe8bcea0c3fd62244a6df596d7d3e979c6b62462f39ad51699f127",
+    "title": "切踏 (献花) [Z_style]",
+    "artist": "A.T.M. remixed by kju8 obj: zakoPeko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=127",
+    "url_diff": "https://stellabms.xyz/upload/7969",
+    "level": "sl12"
+  },
+  {
     "md5": "9d5809ec143b89b4af366f8f1872f676",
     "sha256": "8619503a2d7cca5a5d734ed0bb77f95fe02610ef33c69c8f9231d9e2c4678f13",
     "title": "哀の羽音色 [Maryther]",
@@ -26503,15 +26520,6 @@
     "artist": "あとぅす feat.はらもりよしな BGI:りーふぱいザウルス obj. meta",
     "url": "https://venue.bmssearch.net/hanadayori/21",
     "url_diff": "https://stellabms.xyz/upload/4286",
-    "level": "sl12,乱打12"
-  },
-  {
-    "md5": "6060102b7322ff31a06d473eab0d7a6e",
-    "sha256": "28dbd046dffe8bcea0c3fd62244a6df596d7d3e979c6b62462f39ad51699f127",
-    "title": "切踏 (献花) [Z_style]",
-    "artist": "A.T.M. remixed by kju8 obj: zakoPeko",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=127",
-    "url_diff": "https://stellabms.xyz/upload/7969",
     "level": "sl12,乱打12"
   },
   {
@@ -29442,6 +29450,14 @@
     "level": "重発狂0"
   },
   {
+    "md5": "6db9fcdbce67d6ec4d2b488e9c028a29",
+    "title": "ZENITHALIZE [PONG]",
+    "artist": "姉ヶ崎 寧々 BGA : C.IKEDA",
+    "url": "https://electro-planet.net/loveplus/zenithalize.html",
+    "url_diff": "https://stellabms.xyz/upload/8107",
+    "level": "重発狂0"
+  },
+  {
     "md5": "13f835c7c1980d1497a96dbba1104bdc",
     "title": "Zero Dimension [pardieu]",
     "artist": "NiGHTS. / parabolam",
@@ -32255,6 +32271,14 @@
     "artist": "SHALE vs A4paper obj.ぶんぺ～",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=88",
     "url_diff": "https://stellabms.xyz/upload/3576",
+    "level": "重発狂1"
+  },
+  {
+    "md5": "71ef4abb3e0371518393b1eefde068fc",
+    "title": "Dear Glint [Nevermore Reverie]",
+    "artist": "ume / shigeno_aoi",
+    "url": "https://drive.google.com/file/d/1N3W8f6FiCPICRR9__sDCgEp7r5Fe06cD/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/8076",
     "level": "重発狂1"
   },
   {
@@ -38738,6 +38762,14 @@
     "level": "重発狂3"
   },
   {
+    "md5": "44480ea4a7a899c690f57939397e483b",
+    "title": "Dazzle Everyday (ビタミンc remix) [Fresh Inspiration]",
+    "artist": "ビタミンc original: Mitsukiyo / obj: foxtrot",
+    "url": "https://venue.bmssearch.net/morekivotos/6",
+    "url_diff": "https://stellabms.xyz/upload/8071",
+    "level": "重発狂3"
+  },
+  {
     "md5": "c7c5886dc633309ae9d5b768ed9f90be",
     "title": "Divine-Fairness [Verdict]",
     "artist": "DJ REGELN & Syless Stafford mov.Black&Kayo/花夜 obj.potechang",
@@ -44258,6 +44290,14 @@
     "artist": "照堕 remix by keyc",
     "url": "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
     "url_diff": "https://dl.dropboxusercontent.com/s/k434248ywqcak6q/_blackout_yume.rar",
+    "level": "重発狂5"
+  },
+  {
+    "md5": "defe232b73db7a830daf619511bd2a0a",
+    "title": "Black Lotus [Nebula]",
+    "artist": "wa. / 百舌谷 / obj:mirume",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=138",
+    "url_diff": "https://stellabms.xyz/upload/8069",
     "level": "重発狂5"
   },
   {

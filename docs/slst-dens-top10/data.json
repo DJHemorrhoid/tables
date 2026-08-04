@@ -3377,6 +3377,15 @@
     "level": "st5"
   },
   {
+    "md5": "88d8215caaff6ad0c5a2de1ae939f1e3",
+    "sha256": "5f509a43c439019f2011f6f4bd9dc1713cd624be12c14a89308eb2616e3b5ef8",
+    "title": "in daylight[7key,sabun]",
+    "artist": "mommy obj.akasaka",
+    "url": "https://www.dropbox.com/s/mz2996uczns1d90/in_daylight.rar?dl=1",
+    "url_diff": "https://siromarudaisuki.github.io/akather.sabun/sabun/%E2%98%8524%20in%20daylight%20[7key,sabun].zip",
+    "level": "st5"
+  },
+  {
     "md5": "b37297dd24af32877f8d890099a86ae2",
     "sha256": "7fd614619daaf3381752e19bd9af7ea3dcbbbb70f5f18d7629525ab96c081c87",
     "title": "shooting_moon (Moonlight)",
@@ -3848,15 +3857,6 @@
     "level": "st8"
   },
   {
-    "md5": "b320b8cf4b476baf51fbae08ff3fad40",
-    "sha256": "60aa37f29833c0d89f23273e625e8995f4526ef4a2fb608ffa2f41797778a022",
-    "title": "!nterroban(?, [SUPERFACTORIAL]",
-    "artist": "Aoi / obj:qfeileadh mov:出前",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=407&event=137",
-    "url_diff": "https://stellabms.xyz/upload/1464",
-    "level": "st9"
-  },
-  {
     "md5": "f6f6de31a6a7501e329374fc17b878dc",
     "sha256": "f87549db790b04403506d7ba4dc1c1a33fc154850e6b4fc97fef1194b14e2441",
     "title": "Armageddon [Other]",
@@ -3925,6 +3925,15 @@
     "artist": "みーにと琴葉葵 / ポテトン",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=133",
     "url_diff": "https://stellabms.xyz/upload/6442",
+    "level": "st9"
+  },
+  {
+    "md5": "77ded564d6a9d994c414f4dd2ff5d5e3",
+    "sha256": "855c051dd035de8bd7c98e167182fb5244a2dd018f316c64ec2e386912e08019",
+    "title": "ペイペイ2000 [HEARTLESS]",
+    "artist": "モン・サン・ミシェル obj&arr:魔女",
+    "url": "https://drive.usercontent.google.com/download?id=1f8e-YQZ5V_AsgfKTy4_XGYqjTE2QE7KR&export=download",
+    "url_diff": "https://stellabms.xyz/upload/4059",
     "level": "st9"
   },
   {

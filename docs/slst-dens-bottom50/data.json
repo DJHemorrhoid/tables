@@ -13790,6 +13790,15 @@
     "level": "st3"
   },
   {
+    "md5": "718c41af9ff148a9833489cedd1d43dd",
+    "sha256": "b1e173bb8bdaf978882c3d815d9900ed63cd3423c0ef89a68d0676c32ef93773",
+    "title": "Gypsy gets the Tek [Maryther]",
+    "artist": "Neun_jack mov:squidboy/obj:Mary_Sue",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/Gypsy%20gets%20the%20Tek%20(by%20Neun_jack).rar",
+    "url_diff": "https://stellabms.xyz/upload/82",
+    "level": "st3"
+  },
+  {
     "md5": "695543c1fa363b783d7a749524663102",
     "sha256": "71deffdafd5c119f1848060b3304ff987b34e67a8fc47c47d05270287a3206bf",
     "title": "HAMMER the TANGRAM　（ボケ+）",
@@ -14240,15 +14249,6 @@
     "artist": "Lime obj : BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04790.zip",
-    "level": "st3"
-  },
-  {
-    "md5": "a058b068bc83c336dfec1918f83611d8",
-    "sha256": "9df9649b1a68a5dc45ef27e6ca69ebac0308f416281b7b78cf89c07dd2c02dee",
-    "title": "Summerland [沖縄]",
-    "artist": "Lime obj:E",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=71",
-    "url_diff": "https://stellabms.xyz/upload/6262",
     "level": "st3"
   },
   {
@@ -16108,6 +16108,15 @@
     "artist": "SOMON / obj: Mary_Sue",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=445&event=146",
     "url_diff": "https://marysue.darksabun.club/",
+    "level": "st5"
+  },
+  {
+    "md5": "5873e00db2e5e8cecb776ba053b17d0f",
+    "sha256": "3aedbd62895861848f00f9120d5a83971257ad93327c88af4b6bd907067b16d9",
+    "title": "EXILE(大人のためのディレイ講座)",
+    "artist": "-45/obj.maco*j",
+    "url": "http://malie.noor.jp/",
+    "url_diff": "http://onmacodayo.web.fc2.com/exile/EXILE_deray_.bms",
     "level": "st5"
   },
   {

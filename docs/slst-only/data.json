@@ -1703,15 +1703,6 @@
     "level": "sl1"
   },
   {
-    "md5": "8df803b14471901f78f92706a46880d4",
-    "sha256": "f7920ab7220748b7e609c6e9a2733f5923e2c90d6343622252bdb7640f88a8e3",
-    "title": "New Riviera [Golfo di Genova]",
-    "artist": "The New Riviera Electronic Symphony BAECON vs sak",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=104",
-    "url_diff": "https://darksabun.club/mirror/akred/baecon/Golfo_di_Genova.bms",
-    "level": "sl1"
-  },
-  {
     "md5": "0cecd610a3ec8dd993edfc9907de5120",
     "sha256": "645dc3fb3b858ba4fc08794d9478812f8243542a2983f78fc344239507c892c6",
     "title": "NightTheater [SP AGASTIA]",
@@ -9833,6 +9824,15 @@
     "artist": "Sound piercer & Sobrem Obj.Triforce",
     "url": "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
     "url_diff": "https://trfce.github.io/sabun/SPSB_Progressive_Fantasia2_10_triforce_fix.zip",
+    "level": "sl12"
+  },
+  {
+    "md5": "6060102b7322ff31a06d473eab0d7a6e",
+    "sha256": "28dbd046dffe8bcea0c3fd62244a6df596d7d3e979c6b62462f39ad51699f127",
+    "title": "切踏 (献花) [Z_style]",
+    "artist": "A.T.M. remixed by kju8 obj: zakoPeko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=127",
+    "url_diff": "https://stellabms.xyz/upload/7969",
     "level": "sl12"
   },
   {

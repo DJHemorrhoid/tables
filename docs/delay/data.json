@@ -300,7 +300,7 @@
     "sha256": "aa9fc9b2fce8fda9eb7ae39ed1b5f7fc80b82bec990da5e92ab74569b56f1746",
     "title": "パガニーニによる超絶技巧練習曲第６番 「主題と変奏」[DIAVOLO]",
     "artist": "Franz Liszt",
-    "url": "https://www.dropbox.com/sh/o20wkpxb5wathq2/Kb2AMoIbip/TRANSCENDENTAL_ETUDES.zip",
+    "url": "https://pixeldrain.net/api/filesystem/hbAofipJ/%E3%83%8F%E3%82%9A%E3%82%AB%E3%82%99%E3%83%8B%E3%83%BC%E3%83%8B%E3%81%AB%E3%82%88%E3%82%8B%E8%B6%85%E7%B5%B6%E6%8A%80%E5%B7%A7%E7%B7%B4%E7%BF%92%E6%9B%B2%E7%AC%AC%EF%BC%96%E7%95%AA%20%E3%80%8C%E4%B8%BB%E9%A1%8C%E3%81%A8%E5%A4%89%E5%A5%8F%E3%80%8D.7z",
     "level": "///0"
   },
   {
@@ -877,7 +877,7 @@
     "sha256": "7a7007973077f7a2c9cb402b7ab7ecd372999d17a5a85cee3fdf8cfb3d88a3b5",
     "title": "Final of PuyoPuyo [ばよえ～ん]",
     "artist": "金ラメタキシード / obj.Alma",
-    "url": "https://onedrive.live.com/?authkey=%21ABUR3Bm95%5FUZKCA&cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21493&parId=FC95A680740CA8C9%21471&o=OneUp",
+    "url": "https://pixeldrain.net/api/filesystem/3i14cwSG/Final%20of%20PuyoPuyo.7z",
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3300.zip",
     "level": "///3"
   },
@@ -2910,6 +2910,14 @@
     "level": "///8"
   },
   {
+    "md5": "bd1905a68dc8439ad465ea0aca610424",
+    "title": "七つの鍵盤のディレイのためのソナタ -嬰ニ短調-",
+    "artist": "AKITO / obj: qtp13",
+    "url": "http://www.mediafire.com/file/zkt7kg9z400w4sb/7keys_sonata_mq.zip",
+    "url_diff": "https://stellabms.xyz/upload/8086",
+    "level": "///8"
+  },
+  {
     "md5": "eee414d4940507fcff251d2cad606adc",
     "sha256": "87e7b9bf5a8d4a977ce91ca629c82bec31a5899e1da30830dda4e24e3680be54",
     "title": "兎は舞い降りた[HARD]",
@@ -3904,7 +3912,7 @@
     "sha256": "7042874fa0924c3471d9a7e915ff87b941b5388b0ae8740a4db8469796aeda39",
     "title": "Final of PuyoPuyo [ばよえ～ん！ばよえ～ん！]",
     "artist": "金ラメタキシード / obj.Alma",
-    "url": "https://onedrive.live.com/?authkey=%21ABUR3Bm95%5FUZKCA&cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21493&parId=FC95A680740CA8C9%21471&o=OneUp",
+    "url": "https://pixeldrain.net/api/filesystem/3i14cwSG/Final%20of%20PuyoPuyo.7z",
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3300.zip",
     "level": "///12"
   },
@@ -4796,6 +4804,14 @@
     "level": "dl0"
   },
   {
+    "md5": "5fa9f3818d089e404cfc2c6dc9a736a8",
+    "title": "banana man [wow]",
+    "artist": "sa10 obj:syu2",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=180&event=65",
+    "url_diff": "https://stellabms.xyz/upload/8083",
+    "level": "dl0"
+  },
+  {
     "md5": "cfe593e24f84338070e782815006be52",
     "title": "suffruti -Lunatic-",
     "artist": "Black Lotus / selene.",
@@ -5424,6 +5440,14 @@
     "level": "dl1"
   },
   {
+    "md5": "af525a754c70329795eef4c424b5ad6b",
+    "title": "織姫 -ANAGOTHER-",
+    "artist": "DJ TAKUAN 及び 佐倉アヤキ obj:SUGAR.",
+    "url": "https://llllllllllll.sakura.ne.jp/djtakuan/bms.html",
+    "url_diff": "https://stellabms.xyz/upload/8090",
+    "level": "dl1"
+  },
+  {
     "md5": "bae158bfd21d2b328960e9d9f9dd5f05",
     "title": "聖剣伝説2 ～天使の怖れ～ [Delaymaster]",
     "artist": "mattaku / obj. Tristan97",
@@ -5681,6 +5705,14 @@
     "artist": "litmus* ft. ずんだもん&春日部つむぎ obj:四国めたん",
     "url": "https://k-bms.com/party_pabat/party.jsp?board_num=25&num=19&order=reg&odtype=a",
     "url_diff": "https://stellabms.xyz/upload/6059",
+    "level": "dl2"
+  },
+  {
+    "md5": "7823d0e3c59514afd12e63e99fc9fbae",
+    "title": "banana man [wow+]",
+    "artist": "sa10 obj:syu2",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=180&event=65",
+    "url_diff": "https://stellabms.xyz/upload/8083",
     "level": "dl2"
   },
   {
@@ -10957,6 +10989,14 @@
     "level": "dl10"
   },
   {
+    "md5": "2d492b3942ce07eee4f65af190d568b6",
+    "title": "banana man [wow++]",
+    "artist": "sa10 obj:syu2",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=180&event=65",
+    "url_diff": "https://stellabms.xyz/upload/8083",
+    "level": "dl10"
+  },
+  {
     "md5": "562b96a22a9084d6bc5059a34c3a9616",
     "title": "on Principle -Philosophy-",
     "artist": "Trerey-U obj : LindBlum",
@@ -12183,6 +12223,14 @@
     "artist": "Micelle NSFW ///// obj. tyrcs",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=140",
     "url_diff": "https://stellabms.xyz/upload/2150",
+    "level": "dl12"
+  },
+  {
+    "md5": "b1a15c84d080a7961b906aa8c15d2b7e",
+    "title": "ジェリーフィッシュは月を仰いで",
+    "artist": "Nuekawa obj:PiPiNeko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=137",
+    "url_diff": "https://stellabms.xyz/upload/8088",
     "level": "dl12"
   },
   {

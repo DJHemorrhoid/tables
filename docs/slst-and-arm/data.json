@@ -3076,15 +3076,6 @@
     "level": "sl1"
   },
   {
-    "md5": "8df803b14471901f78f92706a46880d4",
-    "sha256": "f7920ab7220748b7e609c6e9a2733f5923e2c90d6343622252bdb7640f88a8e3",
-    "title": "New Riviera [Golfo di Genova]",
-    "artist": "The New Riviera Electronic Symphony BAECON vs sak",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=104",
-    "url_diff": "https://darksabun.club/mirror/akred/baecon/Golfo_di_Genova.bms",
-    "level": "sl1"
-  },
-  {
     "md5": "0cecd610a3ec8dd993edfc9907de5120",
     "sha256": "645dc3fb3b858ba4fc08794d9478812f8243542a2983f78fc344239507c892c6",
     "title": "NightTheater [SP AGASTIA]",
@@ -4425,6 +4416,15 @@
     "title": "Missing Banquet [7KEY ANOTHER]",
     "artist": "U2 Remixed by rider",
     "url": "http://flowermaster.web.fc2.com/riderbms/index.html",
+    "level": "sl1,Ude1"
+  },
+  {
+    "md5": "8df803b14471901f78f92706a46880d4",
+    "sha256": "f7920ab7220748b7e609c6e9a2733f5923e2c90d6343622252bdb7640f88a8e3",
+    "title": "New Riviera [Golfo di Genova]",
+    "artist": "The New Riviera Electronic Symphony BAECON vs sak",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=104",
+    "url_diff": "https://darksabun.club/mirror/akred/baecon/Golfo_di_Genova.bms",
     "level": "sl1,Ude1"
   },
   {
@@ -20577,14 +20577,6 @@
     "level": "sl11,Ude10"
   },
   {
-    "md5": "8fba58e13d543bf5583591134189b51b",
-    "sha256": "207a4c0b4e9739c5ecb2bf1487068566826c74caefa4b8908753126f133a39eb",
-    "title": "茜月夜ノ禁猟区 [満月]",
-    "artist": "MiKaDo feat. A.Dokuga BGA:MiKaDo&たっくす",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=149",
-    "level": "sl11,Ude10"
-  },
-  {
     "md5": "1fcd59e7268114a78183d2ae04addf25",
     "sha256": "7651284dbfe4aae436b315f9ad9fbe788f48701d607371f16d39847d123ca740",
     "title": "7 colors* -To The Future-",
@@ -20770,6 +20762,14 @@
     "artist": "宮水 三葉 / obj. Tristan97",
     "url": "https://drive.google.com/file/d/0B3ZcNZMch7-QM0NzS05PZW54Zms/view?usp=sharing",
     "url_diff": "https://drive.google.com/open?id=0B7YPM4581YbMWlgyMkRYbVpSd3M",
+    "level": "sl11,Ude11"
+  },
+  {
+    "md5": "8fba58e13d543bf5583591134189b51b",
+    "sha256": "207a4c0b4e9739c5ecb2bf1487068566826c74caefa4b8908753126f133a39eb",
+    "title": "茜月夜ノ禁猟区 [満月]",
+    "artist": "MiKaDo feat. A.Dokuga BGA:MiKaDo&たっくす",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=149",
     "level": "sl11,Ude11"
   },
   {
