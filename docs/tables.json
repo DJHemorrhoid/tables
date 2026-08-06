@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-08-06 04:00",
+  "updated_at": "2026-08-07 04:00",
   "tables": [
     {
       "name": "sl/st",
@@ -29,9 +29,9 @@
       "slug": "delay",
       "description": "Delay小学校難易度表+ディレイjoy",
       "symbol": "",
-      "chart_count": 1502,
-      "folder_count": 52,
-      "updated_at": "2026-08-06 04:00",
+      "chart_count": 1503,
+      "folder_count": 53,
+      "updated_at": "2026-08-07 04:00",
       "url": "./delay/",
       "header_url": "./delay/header.json"
     },
@@ -161,9 +161,9 @@
       "slug": "slst-and-code-stream",
       "description": "",
       "symbol": "",
-      "chart_count": 6069,
+      "chart_count": 6071,
       "folder_count": 100,
-      "updated_at": "2026-08-05 04:01",
+      "updated_at": "2026-08-07 04:00",
       "url": "./slst-and-code-stream/",
       "header_url": "./slst-and-code-stream/header.json"
     },
@@ -172,9 +172,9 @@
       "slug": "slst-and-mini-jack",
       "description": "",
       "symbol": "",
-      "chart_count": 5006,
+      "chart_count": 5007,
       "folder_count": 86,
-      "updated_at": "2026-08-05 04:01",
+      "updated_at": "2026-08-07 04:00",
       "url": "./slst-and-mini-jack/",
       "header_url": "./slst-and-mini-jack/header.json"
     },
@@ -194,9 +194,9 @@
       "slug": "slst-and-delay",
       "description": "",
       "symbol": "",
-      "chart_count": 5690,
-      "folder_count": 133,
-      "updated_at": "2026-08-06 04:00",
+      "chart_count": 5691,
+      "folder_count": 134,
+      "updated_at": "2026-08-07 04:00",
       "url": "./slst-and-delay/",
       "header_url": "./slst-and-delay/header.json"
     }
