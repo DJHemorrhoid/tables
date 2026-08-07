@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-08-07 04:00",
+  "updated_at": "2026-08-08 04:00",
   "tables": [
     {
       "name": "sl/st",
@@ -163,7 +163,7 @@
       "symbol": "",
       "chart_count": 6071,
       "folder_count": 100,
-      "updated_at": "2026-08-07 04:00",
+      "updated_at": "2026-08-08 04:00",
       "url": "./slst-and-code-stream/",
       "header_url": "./slst-and-code-stream/header.json"
     },
