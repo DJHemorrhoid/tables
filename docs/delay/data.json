@@ -3384,6 +3384,8 @@
     "sha256": "8142f904362da22a6b7da24bd62570525b7178f72049bb875920b4bc205d6a76",
     "title": "Angel dust [hellsize]",
     "artist": "LV.4 /obj:月門",
+    "url": "http://beatmaniauet.sakura.ne.jp/BMS/angel_dustppoi_ogg.zip",
+    "url_diff": "https://www.dropbox.com/scl/fi/0pfcear6uhzl5g59z1hno/.zip?rlkey=xd7wpenbhkahb3mrkxgzcor6w&e=1&dl=0",
     "level": "///11"
   },
   {
@@ -4070,6 +4072,14 @@
     "artist": "XIO obj: ACRON",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=65",
     "url_diff": "http://acronsabun.web.fc2.com/white_acrotherRemake_edit.bms",
+    "level": "///12"
+  },
+  {
+    "md5": "a00524d2265cf818971c50394a1d83c4",
+    "title": "yoshi come here! [delay come here!]",
+    "artist": "fether obj:将軍",
+    "url": "https://fether.exblog.jp/",
+    "url_diff": "https://darksabun.club/event/consider/sabun/YoshiComeHere_shogun_18.zip",
     "level": "///12"
   },
   {
