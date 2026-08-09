@@ -1853,6 +1853,14 @@
     "level": "///5"
   },
   {
+    "md5": "6c5d364f29ad6776d4de94df63694409",
+    "title": "人形裁判　～ 人の形弄びし少女 [HARD]",
+    "artist": "由蘭 / ALICE*/差分 赤い人",
+    "url": "https://pixeldrain.net/api/filesystem/BeBpFniu/ningyou.7zz",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/ningyousaiban-HARD.bms",
+    "level": "///5"
+  },
+  {
     "md5": "f4e9aca685fa4e3ab896010474ea1d45",
     "sha256": "49b089ccaa9a1affb83f4f8ae73a0283c629e1e3deadb227f4be5a5624c6d5c8",
     "title": "八大地獄邪魂転生狂葬散火歌 [ZOI]",
@@ -2203,14 +2211,6 @@
     "artist": "LeaF × kana / obj:chack Movie:To7",
     "url": "http://yatai.ath.cx/c03_shuffle2/detail.php?n=47",
     "url_diff": "http://chack3sabun.web.fc2.com/",
-    "level": "///6"
-  },
-  {
-    "md5": "189d093b0f600c33d4578ad354d835f7",
-    "sha256": "326ff69e993712fb855e4679edf0201ee71a016884319a066b3eac5fc4de5caf",
-    "title": "えれくとろ　遅延寺",
-    "artist": "だめがね",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=110",
     "level": "///6"
   },
   {
@@ -4006,6 +4006,13 @@
     "level": "///12"
   },
   {
+    "md5": "80f374b0180623baccfb2b8f03033431",
+    "title": "Viridia (i7)",
+    "artist": "Y. obj. nbunnyuwu",
+    "url": "https://drive.google.com/file/d/1fJruvUCiHo1Ary5hojlfq72-IeGkOhow/view",
+    "level": "///12"
+  },
+  {
     "md5": "3cd43eefd82766295bb1a53079eb64c2",
     "sha256": "7a98ac8d772525bb42d434fa0f6c84e85fc8d7012a5d6b61a706a2ac083fa358",
     "title": "Vorota[Delay]",
@@ -4703,14 +4710,6 @@
     "level": "dl0"
   },
   {
-    "md5": "6d5c6f98c9eee638b6bc6d55e4997d50",
-    "title": "Exit (DERAY-DOOR)",
-    "artist": "Transin /obj NOLI.",
-    "url": "https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2972.zip",
-    "level": "dl0"
-  },
-  {
     "md5": "ab3748a5930454b1cf4ea1b86feec337",
     "title": "Fractal(i)xis [Cute Cute HOLOMORPHIC DYNAMICS]",
     "artist": "kanoryo obj:nanahira&choco",
@@ -4963,6 +4962,14 @@
     "artist": "Cres / obj:y",
     "url": "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1348.rar",
+    "level": "dl0,///13"
+  },
+  {
+    "md5": "6d5c6f98c9eee638b6bc6d55e4997d50",
+    "title": "Exit (DERAY-DOOR)",
+    "artist": "Transin /obj NOLI.",
+    "url": "https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2972.zip",
     "level": "dl0,///13"
   },
   {
