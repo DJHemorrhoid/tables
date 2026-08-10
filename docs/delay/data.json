@@ -2169,15 +2169,6 @@
     "level": "///6"
   },
   {
-    "md5": "d88c283a978974ebfa7a1da7bd151949",
-    "sha256": "52bd2d29e80c693ee5b0e903b7c863d3693310301f6da2542c1bf2c380241021",
-    "title": "nightmare -Luna-",
-    "artist": "U-hey Seta feat.madoka* / selene.",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=141",
-    "url_diff": "https://stellabms.xyz/upload/2927",
-    "level": "///6"
-  },
-  {
     "md5": "6c1c4ef3aa826995a721aa8430d7c5b2",
     "sha256": "d567d5e77f196823499151c3e01d53d0164d9324d7ae7b4409cc2805585d215b",
     "title": "polylattice [SPACE]",
@@ -2552,6 +2543,15 @@
     "artist": "TO-MAX remixed by LU obj:Fender",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=96",
     "url_diff": "http://fenderbms.web.fc2.com/",
+    "level": "///7"
+  },
+  {
+    "md5": "d88c283a978974ebfa7a1da7bd151949",
+    "sha256": "52bd2d29e80c693ee5b0e903b7c863d3693310301f6da2542c1bf2c380241021",
+    "title": "nightmare -Luna-",
+    "artist": "U-hey Seta feat.madoka* / selene.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=141",
+    "url_diff": "https://stellabms.xyz/upload/2927",
     "level": "///7"
   },
   {
@@ -11616,6 +11616,14 @@
     "artist": "nitro / obj:mezna",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=116",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01829",
+    "level": "dl11"
+  },
+  {
+    "md5": "8fb031da67c8dc3c656070e476dea5a3",
+    "title": "siorghlas [澄明]",
+    "artist": "まろにー BGI : いなが obj.baza-ru",
+    "url": "https://venue.bmssearch.net/bmstukuru2026/9",
+    "url_diff": "https://stellabms.xyz/upload/8081",
     "level": "dl11"
   },
   {

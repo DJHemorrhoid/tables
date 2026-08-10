@@ -2975,14 +2975,6 @@
     "level": "Ude9"
   },
   {
-    "md5": "17f67a7a258eb418d9ae9fb879064afc",
-    "title": "カードロボトル [DRIZZLE]",
-    "artist": "のこまむ / BMS：WesS_Gik372 / obj : Keysa",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=113",
-    "url_diff": "https://stellabms.xyz/upload/7865",
-    "level": "Ude9"
-  },
-  {
     "md5": "ecc9e5dec1dc93ad6fa741c4304b7530",
     "title": "サクライロフワリ (桜絵巻)",
     "artist": "sweet smeller obj:berimetros",
@@ -3156,6 +3148,14 @@
     "artist": "knot / Mary_Sue",
     "url": "https://mega.nz/file/i49DURSK#KHCNaz1DdrONaonrRcSFcqOeXplhlkrDkrlxLAema_Y",
     "url_diff": "https://stellabms.xyz/upload/6892",
+    "level": "Ude10"
+  },
+  {
+    "md5": "17f67a7a258eb418d9ae9fb879064afc",
+    "title": "カードロボトル [DRIZZLE]",
+    "artist": "のこまむ / BMS：WesS_Gik372 / obj : Keysa",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=113",
+    "url_diff": "https://stellabms.xyz/upload/7865",
     "level": "Ude10"
   },
   {
