@@ -10107,6 +10107,14 @@
     "level": "乱打3"
   },
   {
+    "md5": "970cf6af87bf54f9cb09bc38c5a71ff7",
+    "title": "black opal [Emerald]",
+    "artist": "TAK vs General / Jeff obj.koyuzu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=49",
+    "url_diff": "https://bms-ir.org/new/uploader/10/versions/1/download",
+    "level": "乱打3"
+  },
+  {
     "md5": "0b0d6d21968d624327b46f9546713b24",
     "title": "fragments J-CoreRemix [E]",
     "artist": "Cosmos remix by polysha obj:Fender",
@@ -26681,17 +26689,17 @@
     "level": "乱打12"
   },
   {
-    "md5": "7988b71d4ad70da77839da15abc347c6",
-    "title": "Arcanum Guardian [SABOTHER]",
-    "artist": "LeaF/さ Movie:q/stol",
-    "level": "乱打12"
-  },
-  {
     "md5": "852e5f920de608b18fb929368ded19b1",
     "title": "Arcanum Guardian [SABOTHER]",
     "artist": "LeaF/さ Movie:q/stol",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=83",
     "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/Arcanum%20Guardian%20sabun.zip",
+    "level": "乱打12"
+  },
+  {
+    "md5": "7988b71d4ad70da77839da15abc347c6",
+    "title": "Arcanum Guardian [SABOTHER]",
+    "artist": "LeaF/さ Movie:q/stol",
     "level": "乱打12"
   },
   {
