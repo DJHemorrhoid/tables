@@ -215,6 +215,15 @@
     "level": "sl1"
   },
   {
+    "md5": "37f5309c50a7cbc2d43243ace22c91ac",
+    "sha256": "904746165e22c9a6e295f63062ebb80605d2d57ddf01b30e1cd5e2d684fb2a43",
+    "title": "Alitatrieb [Madness]",
+    "artist": "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04060.zip",
+    "level": "sl1"
+  },
+  {
     "md5": "6a3bedc150a3115c6dfd84de6fbbe6eb",
     "sha256": "6754298f1806d5dd1d2cde7c3b28f262fc4f6b5365d6bce7c2854aac0ca2cd8c",
     "title": "Azure Zephyr [7A]",
@@ -700,6 +709,15 @@
     "level": "sl3"
   },
   {
+    "md5": "6300dfafb5c57ba753a9133f37ad890c",
+    "sha256": "c5078dd9d14ecf75e3063603636a589e1e09ca306e26f74053110583d6c655c3",
+    "title": "Precious!!![7key,Bonus]",
+    "artist": "mommy",
+    "url": "https://dump.shinonome.ca/BMS/Precious%21%21%21.7z",
+    "url_diff": "同梱譜面",
+    "level": "sl3"
+  },
+  {
     "md5": "4d1134c252eb5dfdf5dfa2424b035a89",
     "sha256": "73210ae1166d9ea73bb8f4eb39ff373e598c138e198aa89b97a2f2543d0fb06f",
     "title": "Shamshir -rough Pt.2- [7key,Another]",
@@ -721,14 +739,6 @@
     "title": "dotabata〆trickster [SP ANOTHER]",
     "artist": "浅黄ムツキ obj.浅黄ムツキ",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=142",
-    "level": "sl3"
-  },
-  {
-    "md5": "bc426185e85ebea40adbd6f6b9d867d6",
-    "sha256": "4b22bc4ac3c561cb092ec19fd4380198afc76273162b522cdc519e16071aec27",
-    "title": "stanciara",
-    "artist": "brz1128 vs. M-UE BGI:Rinne.6",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=133",
     "level": "sl3"
   },
   {
@@ -1275,6 +1285,14 @@
     "level": "sl7"
   },
   {
+    "md5": "6940ad2ab7812fcbc1a26b83035b49f6",
+    "sha256": "130e67bfdbb1e1abd60d74b5a71466bd83c1c07127410114e8e18df572dee10a",
+    "title": "Impulse of destruction [Insane]",
+    "artist": "Sakamiya feat.一花 img:ttv",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=132",
+    "level": "sl7"
+  },
+  {
     "md5": "b91ed7f26020b9397d47851d6f50300f",
     "sha256": "86bc0c9ccfda049f9c4ab180489bf4bd92d7ace3a868924734e2023db2519bbf",
     "title": "In The Wind -うままう-",
@@ -1623,7 +1641,7 @@
     "title": "モリオンの姫[HARDEST]",
     "artist": "wa. /差分　赤い人",
     "url": "http://skydrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21271#cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
-    "url_diff": "http://akred.web.fc2.com/bmsfile/_morion_HARDESTf.bme",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/_morion_HARDESTf.bme",
     "level": "sl9"
   },
   {

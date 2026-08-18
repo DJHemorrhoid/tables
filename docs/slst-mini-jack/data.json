@@ -2845,6 +2845,15 @@
     "level": "st8,連打複合8"
   },
   {
+    "md5": "67d12701384ed109de038d0c19a695a1",
+    "sha256": "962b2ff31a7175016997fc5cdcf83e06c6c5bdbdd969faa6507507fad3cc514d",
+    "title": "Levitation [Harether-]",
+    "artist": "TAK / 140 / obj:小鈎ハレ",
+    "url": "https://web.archive.org/web/20070627015638/http://www.geocities.jp/inthesilentdream/bms/levitation.zip",
+    "url_diff": "https://stellabms.xyz/upload/5785",
+    "level": "st8,連打複合8"
+  },
+  {
     "md5": "335633a88892395a7a0741ffae97d496",
     "sha256": "01fb266c8af8207ea4fc594be63192ce73133819669fe3c0789cabd02b1686f7",
     "title": "Micro Hazard",
@@ -2978,15 +2987,6 @@
     "url": "https://drive.google.com/file/d/0B3C7qRU5MILfY2M2YVlra0YzcFk/view",
     "url_diff": "https://stellabms.xyz/upload/1771",
     "level": "st8,連打複合8"
-  },
-  {
-    "md5": "67d12701384ed109de038d0c19a695a1",
-    "sha256": "962b2ff31a7175016997fc5cdcf83e06c6c5bdbdd969faa6507507fad3cc514d",
-    "title": "Levitation [Harether-]",
-    "artist": "TAK / 140 / obj:小鈎ハレ",
-    "url": "https://web.archive.org/web/20070627015638/http://www.geocities.jp/inthesilentdream/bms/levitation.zip",
-    "url_diff": "https://stellabms.xyz/upload/5785",
-    "level": "st9,連打複合8"
   },
   {
     "md5": "e50ee2da76698a7a60ee7ae14d91263b",

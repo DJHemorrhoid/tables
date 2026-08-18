@@ -590,15 +590,6 @@
     "level": "sl2,Ude2"
   },
   {
-    "md5": "dc50a276cd07be9dc30be7c8594c1990",
-    "sha256": "df4e1c45f9f156a49e8e3d856898db35a2c67c55766f3979e277730fcfc3859c",
-    "title": "勿忘草 [ZOI]",
-    "artist": "Sentire obj:SUZUKAZEΛ",
-    "url": "http://web.archive.org/web/20071010145904/http://sentire.jp/bms.htm",
-    "url_diff": "https://darksabun.club/mirror/absolute/uploader/up7128.zip",
-    "level": "sl2,Ude2"
-  },
-  {
     "md5": "df74fc6538c854e7366dbd51686ec056",
     "sha256": "39126b82c70efb4ee99d11bfcbe811ca847e5f0cda10027a9459d9895b157147",
     "title": "天衣無縫 (てんこ)",
@@ -650,6 +641,15 @@
     "artist": "tolz feat.音街ウナ obj:東風谷早苗",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=127",
     "url_diff": "https://drive.google.com/file/d/1oHQP2mcU9rU1EdjObH-puY4kWPryqqua/view?usp=sharing",
+    "level": "sl3,Ude2"
+  },
+  {
+    "md5": "dc50a276cd07be9dc30be7c8594c1990",
+    "sha256": "df4e1c45f9f156a49e8e3d856898db35a2c67c55766f3979e277730fcfc3859c",
+    "title": "勿忘草 [ZOI]",
+    "artist": "Sentire obj:SUZUKAZEΛ",
+    "url": "http://web.archive.org/web/20071010145904/http://sentire.jp/bms.htm",
+    "url_diff": "https://darksabun.club/mirror/absolute/uploader/up7128.zip",
     "level": "sl3,Ude2"
   },
   {
@@ -1502,6 +1502,15 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=149",
     "url_diff": "同梱譜面",
     "level": "sl7,Ude7"
+  },
+  {
+    "md5": "5ebbef850c17df85903936df0b446034",
+    "sha256": "69f5351621c4277dd5717391a5128520b8f9ea3833eb9cab435695e95d7a555a",
+    "title": "Noblesse Gloria [Earl Grey]",
+    "artist": "ダージリン obj:toraji",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=540&event=110",
+    "url_diff": "https://stellabms.xyz/upload/5661",
+    "level": "sl8,Ude10"
   },
   {
     "md5": "92e6f50171db838537b2a9317e497c0c",
@@ -5578,6 +5587,15 @@
     "level": "st8,腕8"
   },
   {
+    "md5": "ee23938b92f3fe21b194e4b46112b84f",
+    "sha256": "38559d54334ef088a4452a1463628ef8e8b02411118180dd10c4a07841781851",
+    "title": "far in the blue sky... [firmament]",
+    "artist": "saikoro obj:IBARAGI_YOSHIMI",
+    "url": "https://drive.google.com/file/d/1jMtZ_nQ7HJwHycac0T50KhzGpGusLPpn/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/7804",
+    "level": "st8,腕8"
+  },
+  {
     "md5": "8f2a82e4f1f3e299c5d761a4c673b9ae",
     "sha256": "2aa29ab3928732c5ab19ba2f5edd5e510739b09dfd610a11dbc8f5b2c6fc8033",
     "title": "the lost dedicated [life]",
@@ -5901,7 +5919,7 @@
     "sha256": "65e9b62a2b34290f11c607f1f68c48165ad1d50297e3e0b6c9006a59be5df8d7",
     "title": "No.337 [unknown celestial body \"N337\"]",
     "artist": "ATM obj. tyrcs",
-    "url": "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=345794",
+    "url": "http://web.archive.org/web/20140901092628/http://plugout4.com/plugout/ATM[vol.1].zip",
     "url_diff": "https://stellabms.xyz/upload/6002",
     "level": "st10,腕10"
   },
