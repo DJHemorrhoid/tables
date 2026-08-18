@@ -26772,17 +26772,17 @@
     "level": "乱打12"
   },
   {
-    "md5": "7988b71d4ad70da77839da15abc347c6",
-    "title": "Arcanum Guardian [SABOTHER]",
-    "artist": "LeaF/さ Movie:q/stol",
-    "level": "乱打12"
-  },
-  {
     "md5": "852e5f920de608b18fb929368ded19b1",
     "title": "Arcanum Guardian [SABOTHER]",
     "artist": "LeaF/さ Movie:q/stol",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=83",
     "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/Arcanum%20Guardian%20sabun.zip",
+    "level": "乱打12"
+  },
+  {
+    "md5": "7988b71d4ad70da77839da15abc347c6",
+    "title": "Arcanum Guardian [SABOTHER]",
+    "artist": "LeaF/さ Movie:q/stol",
     "level": "乱打12"
   },
   {
@@ -26950,6 +26950,14 @@
     "artist": "U-hey BGA:ユウノ obj:SUGAR.",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=373&event=110",
     "url_diff": "https://stellabms.xyz/upload/7583",
+    "level": "乱打12"
+  },
+  {
+    "md5": "2e8b126fcff1a00ad23db6cc019650df",
+    "title": "Miracle☆Fruit(BMS edit) [Fruity Luminous]",
+    "artist": "FLちゃん obj:sgn",
+    "url": "https://dropbox.bms.ms/u/13536802/bms/Miracle%e2%98%86Fruit(BMS%20edit).zip",
+    "url_diff": "https://stellabms.xyz/upload/7951",
     "level": "乱打12"
   },
   {
@@ -29443,14 +29451,6 @@
     "artist": "anubasu-anubasu / obj.meisaiidol BGA by FF9900",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=350&event=88",
     "url_diff": "https://stellabms.xyz/upload/7807",
-    "level": "重発狂0"
-  },
-  {
-    "md5": "2e8b126fcff1a00ad23db6cc019650df",
-    "title": "Miracle☆Fruit(BMS edit) [Fruity Luminous]",
-    "artist": "FLちゃん obj:sgn",
-    "url": "https://dropbox.bms.ms/u/13536802/bms/Miracle%e2%98%86Fruit(BMS%20edit).zip",
-    "url_diff": "https://stellabms.xyz/upload/7951",
     "level": "重発狂0"
   },
   {
@@ -32445,6 +32445,14 @@
     "level": "重発狂1"
   },
   {
+    "md5": "1eee98bf3b458d4fc37406c4d5bbd099",
+    "title": "Ivory Noctiluca [Intense]",
+    "artist": "SHELLCODE / obj:potechang",
+    "url": "https://drive.usercontent.google.com/download?id=1cKOiBEspX1v_I50m6wrcADmWuTthjmoA&export=download&authuser=0",
+    "url_diff": "https://stellabms.xyz/upload/8121",
+    "level": "重発狂1"
+  },
+  {
     "md5": "cd3efac7f4505ca96d902c53e8c7ab54",
     "title": "Jack o' Frost [Ain't too proud to rely on!]",
     "artist": "anubasu-anubasu BGA by zue-row obj:IBARAGI_YOSHIMI",
@@ -35226,7 +35234,6 @@
     "title": "勇者竜の旅路は続く [INSANE7]",
     "artist": "momo★yama　(キャラデザイン協力:石王マサト)",
     "url": "https://drive.google.com/file/d/1B7MJfwjsmnWRv5GimH5dtDdg0bcUQ9vR/view?usp=sharing",
-    "url_diff": "https://mocha-repository.info/song.php?sha256=18c0a87db4949255162816a04c878566a9bf892a834ff42bda5100efc68a7826",
     "level": "st2,重発狂3"
   },
   {
@@ -38874,6 +38881,14 @@
     "artist": "ビタミンc original: Mitsukiyo / obj: foxtrot",
     "url": "https://venue.bmssearch.net/morekivotos/6",
     "url_diff": "https://stellabms.xyz/upload/8071",
+    "level": "重発狂3"
+  },
+  {
+    "md5": "dee951e530b738c24c893b335d4bae98",
+    "title": "Debate Paradigm [Ain't too proud to rely on!]",
+    "artist": "utzbo VS ルゼ BGA:Nao_AnD & Chiru obj:IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=142",
+    "url_diff": "https://stellabms.xyz/upload/8151",
     "level": "重発狂3"
   },
   {
