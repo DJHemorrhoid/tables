@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-08-20 19:13",
+  "updated_at": "2026-08-21 04:01",
   "tables": [
     {
       "name": "sl/st",
@@ -161,9 +161,9 @@
       "slug": "slst-and-code-stream",
       "description": "",
       "symbol": "",
-      "chart_count": 6092,
+      "chart_count": 6094,
       "folder_count": 102,
-      "updated_at": "2026-08-20 19:13",
+      "updated_at": "2026-08-21 04:01",
       "url": "./slst-and-code-stream/",
       "header_url": "./slst-and-code-stream/header.json"
     },
@@ -172,9 +172,9 @@
       "slug": "slst-and-mini-jack",
       "description": "",
       "symbol": "",
-      "chart_count": 5029,
+      "chart_count": 5030,
       "folder_count": 86,
-      "updated_at": "2026-08-20 19:13",
+      "updated_at": "2026-08-21 04:01",
       "url": "./slst-and-mini-jack/",
       "header_url": "./slst-and-mini-jack/header.json"
     },
