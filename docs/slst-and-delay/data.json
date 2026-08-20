@@ -8822,15 +8822,6 @@
     "level": "sl3"
   },
   {
-    "md5": "79c79e34e9a95e37521011058b7ec167",
-    "sha256": "d4dc655a3e8b039195d576be6be146dd953ce6470c3b29f73b3d28439982ba42",
-    "title": "★LittlE HearTs★(虎の穴)",
-    "artist": "ねこみみ魔法使い / obj: black train",
-    "url": "https://darksabun.club/mirror/absolute/bms4/nm23_nm05.rar",
-    "url_diff": "https://darksabun.club/mirror/absolute/bms/littlehearts(bt1tora).bme",
-    "level": "sl3"
-  },
-  {
     "md5": "578cf24b6064631eb94e02d21db498e9",
     "sha256": "ccab01cb66be1d573666c134218fcbdabab479701455d9dc8229e23425c8a319",
     "title": "あきいろ アルバム [秋]",
@@ -32538,6 +32529,14 @@
     "level": "dl3"
   },
   {
+    "md5": "d74693214d76a1e9a50a5613da6c1b81",
+    "title": "燐寸と緞帳 [雪籠]",
+    "artist": "Juka_Box feat. 綜花 obj:kurekoduki vs toraji",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=149",
+    "url_diff": "https://stellabms.xyz/upload/8175",
+    "level": "dl3"
+  },
+  {
     "md5": "4a3d7c33d0265b3371ac7dfcf6bb8f43",
     "title": "聖剣伝説2 ～危機～[DERAYMASTER]",
     "artist": "mattaku/差分　赤い人",
@@ -38128,6 +38127,14 @@
     "level": "dl5"
   },
   {
+    "md5": "bd16163e61d2afa88e02fda8bdc86180",
+    "title": "せ [+]",
+    "artist": "4 obj:SNN",
+    "url": "https://event.yaruki0.net/kowloon/impression/33",
+    "url_diff": "https://stellabms.xyz/upload/8181",
+    "level": "dl5"
+  },
+  {
     "md5": "636193b8213e87172adb8c4e0b8e27a2",
     "title": "わたしはうたう -Despair-",
     "artist": "plastic feat.呉舞かなと obj:七海千秋",
@@ -40457,6 +40464,13 @@
     "level": "dl6"
   },
   {
+    "md5": "cae73a946a1fa77a704932b53abce8ed",
+    "title": "Fireball [sf]",
+    "artist": "tarolabo obj:syu2",
+    "url_diff": "https://stellabms.xyz/upload/8191",
+    "level": "dl6"
+  },
+  {
     "md5": "dce73bc5eb33f7a3da4133d0b705eb35",
     "title": "Idealized Land [Delay Land]",
     "artist": "えば vs. void BGA : TOHRU MiTSUHASHi　obj : IBARAGI_YOSHIMI",
@@ -40749,6 +40763,14 @@
     "artist": "秋山 澪 // Savior",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
     "url_diff": "https://stellabms.xyz/upload/2228",
+    "level": "dl6"
+  },
+  {
+    "md5": "4a97ce91ff5f474f8484978f816a3fcd",
+    "title": "燐寸と緞帳 [幕引]",
+    "artist": "Juka_Box feat. 綜花 obj:toraji vs kurekoduki",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=149",
+    "url_diff": "https://stellabms.xyz/upload/8175",
     "level": "dl6"
   },
   {
@@ -44030,6 +44052,14 @@
     "level": "dl8"
   },
   {
+    "md5": "402e8b2586a5bbb827ad45b7967da8bb",
+    "title": "DANCING KIWI [KUIYA]",
+    "artist": "えびです obj:クイヤ",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=489&event=133",
+    "url_diff": "https://stellabms.xyz/upload/8159",
+    "level": "dl8"
+  },
+  {
     "md5": "c65d0badebb7738e350022a59a1f0637",
     "title": "End Time [賢者タイム]",
     "artist": "Cres.",
@@ -47305,6 +47335,13 @@
     "level": "dl10"
   },
   {
+    "md5": "9978e128539ca5e87a594eb9e707631e",
+    "title": "Wandering Wings [Sturzflug]",
+    "artist": "ohon obj:PiPiNeko",
+    "url_diff": "https://stellabms.xyz/upload/8195",
+    "level": "dl10"
+  },
+  {
     "md5": "076ef0e0468d823044db025600ee5410",
     "title": "XIII Charlotte [Indigo]",
     "artist": "m108 BGA:メツヤ Illust:flap / Obj.Triforce",
@@ -48176,6 +48213,12 @@
     "level": "dl11"
   },
   {
+    "md5": "bc4f674c574f9284f1981b51b444f0df",
+    "title": "Hydreripia -Genocide-",
+    "artist": "Lafale / selene.",
+    "level": "dl11"
+  },
+  {
     "md5": "b956a0229c6057c6597b0db6971cdec1",
     "title": "Icecream Island [VSデデディレイ]",
     "artist": "BMS:9-zen obj:dedede",
@@ -48972,6 +49015,12 @@
     "level": "dl12"
   },
   {
+    "md5": "8e02f785b86231de20c463c8185c8a11",
+    "title": "Demon's Roar [成就]",
+    "artist": "鬼方カヨコ arrange&bms:BLACK DEATH POISON / illust:天雨アコ / 7鍵小僧",
+    "level": "dl12"
+  },
+  {
     "md5": "8614682b7a5826e4fe3e35adc7d10fd7",
     "title": "ETERNAL DRAIN (ETERNAL NOTEMASTER+)",
     "artist": "カラフル・サウンズ・ポート / extra",
@@ -49044,6 +49093,12 @@
     "level": "dl12"
   },
   {
+    "md5": "ff6a5e26d682da61d278e086a1684fe8",
+    "title": "Hybrid Galaxy [成就]",
+    "artist": "azu / 7鍵小僧",
+    "level": "dl12"
+  },
+  {
     "md5": "4619d2b02d8aae82d45c52063164b6c7",
     "title": "Infinite Dreams [Infinite Streams]",
     "artist": "あとぅす feat.橘花音 / obj.platinum BGI:もーどまん",
@@ -49113,6 +49168,14 @@
     "artist": "ZUN/arr.みょん / iimode-do / かげきち / extra",
     "url": "http://iimode-do.jp/obj/m/m11_plastic.zip",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05408",
+    "level": "dl12"
+  },
+  {
+    "md5": "36c64c5fc076a73b1c26269fe822f485",
+    "title": "Praying to the Snow [Angelus Territus]",
+    "artist": "おみー feat.Eleanor Forte obj:homare",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=149",
+    "url_diff": "https://stellabms.xyz/upload/8186",
     "level": "dl12"
   },
   {
@@ -49221,6 +49284,12 @@
     "artist": "ROKINA BGA:REI-K",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=104",
     "url_diff": "同梱譜面",
+    "level": "dl12"
+  },
+  {
+    "md5": "86210d108a534e84c92c1ef797994f69",
+    "title": "コスモワンダラー [Dreamer]",
+    "artist": "FALL feat. yufu_sekka obj:...",
     "level": "dl12"
   },
   {

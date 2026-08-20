@@ -3477,6 +3477,14 @@
     "level": "sl3"
   },
   {
+    "md5": "de4b2ccfd35befc3aa9fd746343115c1",
+    "sha256": "3c41da118c531054fe4df8546509cd3e2d63a7808d81195a9d141834cef9a0f2",
+    "title": "MAGENTA POTION [INSANE]",
+    "artist": "EmoCo. × NO|SER obj. Lapis",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=127&num=123",
+    "level": "sl3"
+  },
+  {
     "md5": "d9d7984f8dd5d70f8d9b7e1a4994634c",
     "sha256": "8e5003c6b7e2ff69a1e70d147b28985cc8b833655a1fe844ac46f5c402cdb4fb",
     "title": "Me & U [Q]",
@@ -3795,15 +3803,6 @@
     "artist": "ねこみみ魔法使い obj:SUZUKAZEΛ",
     "url": "http://necoco.2-d.jp/13_bms.html",
     "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "level": "sl3"
-  },
-  {
-    "md5": "79c79e34e9a95e37521011058b7ec167",
-    "sha256": "d4dc655a3e8b039195d576be6be146dd953ce6470c3b29f73b3d28439982ba42",
-    "title": "★LittlE HearTs★(虎の穴)",
-    "artist": "ねこみみ魔法使い / obj: black train",
-    "url": "https://darksabun.club/mirror/absolute/bms4/nm23_nm05.rar",
-    "url_diff": "https://darksabun.club/mirror/absolute/bms/littlehearts(bt1tora).bme",
     "level": "sl3"
   },
   {

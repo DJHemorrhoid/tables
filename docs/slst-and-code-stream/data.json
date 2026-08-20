@@ -7802,6 +7802,14 @@
     "level": "乱打2"
   },
   {
+    "md5": "79c79e34e9a95e37521011058b7ec167",
+    "title": "★LittlE HearTs★ (虎の穴)",
+    "artist": "ねこみみ魔法使い / obj: black train",
+    "url": "http://necoco.2-d.jp/",
+    "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
+    "level": "乱打2"
+  },
+  {
     "md5": "1ed817c52973073f8a5045f25a45217f",
     "title": "カーテンコール [Encore]",
     "artist": "パンダ18号 / Note:薄杏",
@@ -9162,15 +9170,6 @@
     "artist": "sukuramu42 BGI:恋々 / obj:SUZUKAZEΛ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=502&event=110",
     "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "level": "sl3,乱打2"
-  },
-  {
-    "md5": "79c79e34e9a95e37521011058b7ec167",
-    "sha256": "d4dc655a3e8b039195d576be6be146dd953ce6470c3b29f73b3d28439982ba42",
-    "title": "★LittlE HearTs★(虎の穴)",
-    "artist": "ねこみみ魔法使い / obj: black train",
-    "url": "https://darksabun.club/mirror/absolute/bms4/nm23_nm05.rar",
-    "url_diff": "https://darksabun.club/mirror/absolute/bms/littlehearts(bt1tora).bme",
     "level": "sl3,乱打2"
   },
   {
@@ -18099,6 +18098,14 @@
     "level": "乱打7"
   },
   {
+    "md5": "4367c88cfee407fe179ea64828cfd00f",
+    "title": "fushigichan [不思議の国]",
+    "artist": "牧野 obj;A1ice",
+    "url": "https://dump.shinonome.ca/BMS/fushigichan.7z",
+    "url_diff": "https://stellabms.xyz/upload/8173",
+    "level": "乱打7"
+  },
+  {
     "md5": "e0903b51799252ae9e0de88ca4c4d3d9",
     "title": "orbit -EX- (mania of mania mix)",
     "artist": "Urban Techno Cafe / obj:arufis",
@@ -21665,6 +21672,14 @@
     "artist": "ZUN (Arr.sun3) / ALICE*",
     "url": "http://web.archive.org/web/20071112063319/http://www14.plala.or.jp/sun3_bms/Re_final.rar",
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up0294.zip",
+    "level": "乱打9"
+  },
+  {
+    "md5": "eea82ac8683164e05a4d00b16076ffa3",
+    "title": "春をくれ[SUMMER]",
+    "artist": "Лет BGA:FALL obj:46*",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=292&event=116",
+    "url_diff": "https://stellabms.xyz/upload/8147",
     "level": "乱打9"
   },
   {
@@ -26748,6 +26763,13 @@
     "level": "乱打12"
   },
   {
+    "md5": "ce89da5f0a99a04bcc66fa32f729b077",
+    "title": "3AM [Missing-Lunar]",
+    "artist": "宮舞モカ / litmus* / obj:kurekoduki",
+    "url_diff": "https://stellabms.xyz/upload/8150",
+    "level": "乱打12"
+  },
+  {
     "md5": "c0a8230dead189fbb9cd3082024d1693",
     "title": "5.1.1(ReMix) [GoD]",
     "artist": "猫蟹丸 / obj:black train",
@@ -29371,6 +29393,14 @@
     "title": "E.V.E.R [BLACK ANOTHER]",
     "artist": "SOMON",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=445&event=146",
+    "level": "重発狂0"
+  },
+  {
+    "md5": "196b834a884d0ea9bc1cdd0751be8bcf",
+    "title": "EMOTIONAL POLARIZATION [BRILLIANT]",
+    "artist": "hard obj:でっていう99",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=135",
+    "url_diff": "https://stellabms.xyz/upload/6609",
     "level": "重発狂0"
   },
   {
@@ -39295,6 +39325,14 @@
     "artist": "nmk/-if-/obj:selene.",
     "url": "https://web.archive.org/web/20140111152912fw_/http://miohosina.moe.hm/bms/dl/nmk_reunion.zip",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00690",
+    "level": "重発狂3"
+  },
+  {
+    "md5": "c467a8b8a4330695816de07d5110e1fa",
+    "title": "インフェルノシティ [Egocentricity]",
+    "artist": "Ponchi feat.はぁち obj: 鈴木佳奈",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=133",
+    "url_diff": "https://stellabms.xyz/upload/8118",
     "level": "重発狂3"
   },
   {
@@ -52370,6 +52408,12 @@
     "artist": "ルゼ / lq",
     "url": "https://www.luzeria.net/music/bms.htm",
     "url_diff": "https://stellabms.xyz/upload/6835",
+    "level": "重発狂12"
+  },
+  {
+    "md5": "8e02f785b86231de20c463c8185c8a11",
+    "title": "Demon's Roar [成就]",
+    "artist": "鬼方カヨコ arrange&bms:BLACK DEATH POISON / illust:天雨アコ / 7鍵小僧",
     "level": "重発狂12"
   },
   {

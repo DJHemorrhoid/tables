@@ -1,15 +1,15 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-08-19 04:01",
+  "updated_at": "2026-08-20 19:13",
   "tables": [
     {
       "name": "sl/st",
       "slug": "slst",
       "description": "Satellite+Stella",
       "symbol": "",
-      "chart_count": 4671,
+      "chart_count": 4670,
       "folder_count": 26,
-      "updated_at": "2026-08-18 15:35",
+      "updated_at": "2026-08-20 19:13",
       "url": "./slst/",
       "header_url": "./slst/header.json"
     },
@@ -29,9 +29,9 @@
       "slug": "delay",
       "description": "Delay小学校難易度表+ディレイjoy",
       "symbol": "",
-      "chart_count": 1508,
+      "chart_count": 1519,
       "folder_count": 53,
-      "updated_at": "2026-08-19 04:01",
+      "updated_at": "2026-08-20 19:13",
       "url": "./delay/",
       "header_url": "./delay/header.json"
     },
@@ -40,9 +40,9 @@
       "slug": "slst-code-stream",
       "description": "",
       "symbol": "",
-      "chart_count": 1510,
+      "chart_count": 1509,
       "folder_count": 50,
-      "updated_at": "2026-08-19 04:01",
+      "updated_at": "2026-08-20 19:13",
       "url": "./slst-code-stream/",
       "header_url": "./slst-code-stream/header.json"
     },
@@ -108,7 +108,7 @@
       "symbol": "",
       "chart_count": 1142,
       "folder_count": 26,
-      "updated_at": "2026-08-18 15:35",
+      "updated_at": "2026-08-20 19:13",
       "url": "./slst-dens-top25/",
       "header_url": "./slst-dens-top25/header.json"
     },
@@ -119,7 +119,7 @@
       "symbol": "",
       "chart_count": 2272,
       "folder_count": 26,
-      "updated_at": "2026-08-18 15:35",
+      "updated_at": "2026-08-20 19:13",
       "url": "./slst-dens-top50/",
       "header_url": "./slst-dens-top50/header.json"
     },
@@ -161,9 +161,9 @@
       "slug": "slst-and-code-stream",
       "description": "",
       "symbol": "",
-      "chart_count": 6086,
+      "chart_count": 6092,
       "folder_count": 102,
-      "updated_at": "2026-08-19 04:01",
+      "updated_at": "2026-08-20 19:13",
       "url": "./slst-and-code-stream/",
       "header_url": "./slst-and-code-stream/header.json"
     },
@@ -172,9 +172,9 @@
       "slug": "slst-and-mini-jack",
       "description": "",
       "symbol": "",
-      "chart_count": 5023,
-      "folder_count": 85,
-      "updated_at": "2026-08-18 15:35",
+      "chart_count": 5029,
+      "folder_count": 86,
+      "updated_at": "2026-08-20 19:13",
       "url": "./slst-and-mini-jack/",
       "header_url": "./slst-and-mini-jack/header.json"
     },
@@ -183,9 +183,9 @@
       "slug": "slst-and-arm",
       "description": "",
       "symbol": "",
-      "chart_count": 5356,
+      "chart_count": 5355,
       "folder_count": 96,
-      "updated_at": "2026-08-19 04:01",
+      "updated_at": "2026-08-20 19:13",
       "url": "./slst-and-arm/",
       "header_url": "./slst-and-arm/header.json"
     },
@@ -194,9 +194,9 @@
       "slug": "slst-and-delay",
       "description": "",
       "symbol": "",
-      "chart_count": 5709,
+      "chart_count": 5719,
       "folder_count": 134,
-      "updated_at": "2026-08-19 04:01",
+      "updated_at": "2026-08-20 19:13",
       "url": "./slst-and-delay/",
       "header_url": "./slst-and-delay/header.json"
     }
