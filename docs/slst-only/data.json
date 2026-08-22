@@ -1191,15 +1191,6 @@
     "level": "sl1"
   },
   {
-    "md5": "2facbbdc4f399347675ab779d818d98d",
-    "sha256": "c7b04fd21afe51e3b473919b01d382dbbf22f6a6e97e5c22e109168ffb15ba79",
-    "title": "BEAKER [PULSE]",
-    "artist": "FROL obj.htyruei",
-    "url": "https://dump.shinonome.ca/BMS/BEAKER.7z",
-    "url_diff": "https://drive.google.com/file/d/1qyEk59DbDL8g0vvDum564APhJ4gl6XR2",
-    "level": "sl1"
-  },
-  {
     "md5": "35f9697e17de0d312054c732f29cba18",
     "sha256": "d9eeaf4e33f3e514f06ec6c7361b93c3778b2be4c2425c4cc0b5c231f9cd8eb2",
     "title": "BOUNCE THE TECH [SP ANOTHER]",
@@ -12222,6 +12213,15 @@
     "artist": "kanone obj.OXYGEN",
     "url": "http://kbpbms.x-y.net/xe/index.php?mid=kbp2012&document_srl=2887",
     "url_diff": "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U?usp=sharing",
+    "level": "st3"
+  },
+  {
+    "md5": "eca9b88bf38ea3bd5ab234c04453a65d",
+    "sha256": "42425b7491547adfd3ca4e618ac443d187de391dbe1e1d2082af46156abb2916",
+    "title": "Bohemian Chic [Eloise]",
+    "artist": "あるさん / obj. Tristan97",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
+    "url_diff": "https://drive.google.com/open?id=1GFQxlZGDq9utTq6Fscm59Dl5wGCiL9nK",
     "level": "st3"
   },
   {

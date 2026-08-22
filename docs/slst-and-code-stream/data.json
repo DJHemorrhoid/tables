@@ -2529,15 +2529,6 @@
     "level": "sl1"
   },
   {
-    "md5": "2facbbdc4f399347675ab779d818d98d",
-    "sha256": "c7b04fd21afe51e3b473919b01d382dbbf22f6a6e97e5c22e109168ffb15ba79",
-    "title": "BEAKER [PULSE]",
-    "artist": "FROL obj.htyruei",
-    "url": "https://dump.shinonome.ca/BMS/BEAKER.7z",
-    "url_diff": "https://drive.google.com/file/d/1qyEk59DbDL8g0vvDum564APhJ4gl6XR2",
-    "level": "sl1"
-  },
-  {
     "md5": "35f9697e17de0d312054c732f29cba18",
     "sha256": "d9eeaf4e33f3e514f06ec6c7361b93c3778b2be4c2425c4cc0b5c231f9cd8eb2",
     "title": "BOUNCE THE TECH [SP ANOTHER]",
@@ -4272,6 +4263,15 @@
     "artist": "xi / obj:sagoo",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=60",
     "url_diff": "\t http://uploader.bms.ms/data/bof2009/comgikokananika/xi_ascension_to_heaven.zip",
+    "level": "sl1,乱打1"
+  },
+  {
+    "md5": "2facbbdc4f399347675ab779d818d98d",
+    "sha256": "c7b04fd21afe51e3b473919b01d382dbbf22f6a6e97e5c22e109168ffb15ba79",
+    "title": "BEAKER [PULSE]",
+    "artist": "FROL obj.htyruei",
+    "url": "https://dump.shinonome.ca/BMS/BEAKER.7z",
+    "url_diff": "https://drive.google.com/file/d/1qyEk59DbDL8g0vvDum564APhJ4gl6XR2",
     "level": "sl1,乱打1"
   },
   {
@@ -21475,6 +21475,14 @@
     "level": "乱打9"
   },
   {
+    "md5": "2834a50a2535d6f0edebdfd6588386b7",
+    "title": "Qubit Re: (00, +, -)",
+    "artist": "aki BGA:ちゃば Obj:149",
+    "url": "https://www.dropbox.com/s/xhmw5pj5bhiu06m/_sengoku_qubit.zip",
+    "url_diff": "https://stellabms.xyz/upload/8203",
+    "level": "乱打9"
+  },
+  {
     "md5": "d8a03ec787a4a5303f8e9371d6e9b775",
     "title": "Sarllah [MAY.AN]",
     "artist": "Micelle obj. MAY.AM",
@@ -36220,6 +36228,15 @@
     "level": "st3"
   },
   {
+    "md5": "eca9b88bf38ea3bd5ab234c04453a65d",
+    "sha256": "42425b7491547adfd3ca4e618ac443d187de391dbe1e1d2082af46156abb2916",
+    "title": "Bohemian Chic [Eloise]",
+    "artist": "あるさん / obj. Tristan97",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
+    "url_diff": "https://drive.google.com/open?id=1GFQxlZGDq9utTq6Fscm59Dl5wGCiL9nK",
+    "level": "st3"
+  },
+  {
     "md5": "d2ebdecbb4610dc8a234c1d17734c97c",
     "sha256": "5ebb2b33eb2d9db155d345007dce2f89ad5a9c37f7588dbb3b7c7da8eb2a986e",
     "title": "Brave My Soul [Destiny]",
@@ -37901,15 +37918,6 @@
     "artist": "ツナマヨちゃんとかプレネールとか",
     "url": "http://web.archive.org/web/20070928164748/http://bof.nothing.sh/bof2005/tsunamayochan_birdsprite_HQ.rar",
     "url_diff": "https://venue.bmssearch.net/sd_gray/11",
-    "level": "st3,重発狂3"
-  },
-  {
-    "md5": "eca9b88bf38ea3bd5ab234c04453a65d",
-    "sha256": "42425b7491547adfd3ca4e618ac443d187de391dbe1e1d2082af46156abb2916",
-    "title": "Bohemian Chic [Eloise]",
-    "artist": "あるさん / obj. Tristan97",
-    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
-    "url_diff": "https://drive.google.com/open?id=1GFQxlZGDq9utTq6Fscm59Dl5wGCiL9nK",
     "level": "st3,重発狂3"
   },
   {
