@@ -1036,14 +1036,6 @@
     "level": "sl0"
   },
   {
-    "md5": "b36e9b9f4af7bc2fb56a56df422e450e",
-    "sha256": "45c054bdc7187d21d9a701491f1628296577b0c16eb63403d08f6b1e386f12a3",
-    "title": "せ",
-    "artist": "4",
-    "url": "https://event.yaruki0.net/kowloon/impression/33",
-    "level": "sl0"
-  },
-  {
     "md5": "53b47b074b03b421e1ee29cf5db4e6de",
     "sha256": "a96fff27a4bb5259e6f216a2ddd4a7195b76a62824956eebe44ec5503529efb8",
     "title": "ひらりゆらり水鏡 -another-",
@@ -2004,6 +1996,14 @@
     "title": "すいーつ・くえすと！ [SP ANOTHER+]",
     "artist": "YuKa feat.HALO Movie:ShakeJ / Illust:はしたかさん",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=151",
+    "level": "sl0,乱打0"
+  },
+  {
+    "md5": "b36e9b9f4af7bc2fb56a56df422e450e",
+    "sha256": "45c054bdc7187d21d9a701491f1628296577b0c16eb63403d08f6b1e386f12a3",
+    "title": "せ",
+    "artist": "4",
+    "url": "https://event.yaruki0.net/kowloon/impression/33",
     "level": "sl0,乱打0"
   },
   {
@@ -5311,15 +5311,6 @@
     "level": "sl2"
   },
   {
-    "md5": "06151126d54d26f674ba902bf6b1f37b",
-    "sha256": "179dd8f8ec14f78b759ae0b594e3b623eb058e56a71aec1d889b5d3fdc5cbe22",
-    "title": "DRAGONLADY [FAST FOOMEN]",
-    "artist": "Nankumo / BGA：Cube3 obj.Restia",
-    "url": "https://dump.shinonome.ca/BMS/DRAGONLADY.7z",
-    "url_diff": "https://stellabms.xyz/upload/545",
-    "level": "sl2"
-  },
-  {
     "md5": "9863fa6d88f44158a1d899cc2f0f9f87",
     "sha256": "e98bfe8687d6d15fbe2f60c2deb86d82d25d19c79819f068dd505e6de5e03ca1",
     "title": "Daybreak [ANOTHER]",
@@ -6803,6 +6794,15 @@
     "artist": "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
     "url": "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
     "url_diff": "http://fenderbms.web.fc2.com/",
+    "level": "sl2,乱打2"
+  },
+  {
+    "md5": "06151126d54d26f674ba902bf6b1f37b",
+    "sha256": "179dd8f8ec14f78b759ae0b594e3b623eb058e56a71aec1d889b5d3fdc5cbe22",
+    "title": "DRAGONLADY [FAST FOOMEN]",
+    "artist": "Nankumo / BGA：Cube3 obj.Restia",
+    "url": "https://dump.shinonome.ca/BMS/DRAGONLADY.7z",
+    "url_diff": "https://stellabms.xyz/upload/545",
     "level": "sl2,乱打2"
   },
   {
@@ -10825,14 +10825,6 @@
     "level": "sl4"
   },
   {
-    "md5": "8640baccb1477fe1bf5ea3acc967784a",
-    "sha256": "a722755b17c3664978fdbfea8f5b2cdbbce6a966fc248aeb9708befc25f55898",
-    "title": "Plug Into Heart [SP INSANE]",
-    "artist": "YuKa feat.ROSE",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=149",
-    "level": "sl4"
-  },
-  {
     "md5": "32eacd8032ca8155a1cc80e39753aabb",
     "sha256": "1219a1f601d5c0ef10d71994434675ce1934f5ada7b46156992d2214d2bbde6e",
     "title": "Pusha Plucka!! -SWAGGER-",
@@ -11770,6 +11762,14 @@
     "artist": "L-Mys / selene.",
     "url": "https://bms.kyouko.moe/torrent/BMS_Library/Lucifuge%20Rofocale%20(by%20L-Mys).rar",
     "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "level": "sl4,乱打4"
+  },
+  {
+    "md5": "8640baccb1477fe1bf5ea3acc967784a",
+    "sha256": "a722755b17c3664978fdbfea8f5b2cdbbce6a966fc248aeb9708befc25f55898",
+    "title": "Plug Into Heart [SP INSANE]",
+    "artist": "YuKa feat.ROSE",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=149",
     "level": "sl4,乱打4"
   },
   {
@@ -13479,14 +13479,6 @@
     "level": "sl5"
   },
   {
-    "md5": "ca63159b9f1b78d179e9fcdbc50e3b0e",
-    "sha256": "b49caf90ede557aa50201d49baecf443597d64a4cfc1481e8ed70276c3b7236e",
-    "title": "すいーつ・くえすと！ [SP INSANE]",
-    "artist": "YuKa feat.HALO Movie:ShakeJ / Illust:はしたかさん",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=151",
-    "level": "sl5"
-  },
-  {
     "md5": "fd77c0d3bd1f52d6c21c98ed9450d4a5",
     "sha256": "72321ce89af2a6045f5e7eace4e07637e5da92401cf64783ace362f46ac86727",
     "title": "せるびずむ！ [NIGHTMARE]",
@@ -14102,6 +14094,14 @@
     "artist": "吟世かいな Obj: 8posai",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=131",
     "url_diff": "同梱譜面",
+    "level": "sl5,乱打5"
+  },
+  {
+    "md5": "ca63159b9f1b78d179e9fcdbc50e3b0e",
+    "sha256": "b49caf90ede557aa50201d49baecf443597d64a4cfc1481e8ed70276c3b7236e",
+    "title": "すいーつ・くえすと！ [SP INSANE]",
+    "artist": "YuKa feat.HALO Movie:ShakeJ / Illust:はしたかさん",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=151",
     "level": "sl5,乱打5"
   },
   {
@@ -15407,15 +15407,6 @@
     "level": "sl6"
   },
   {
-    "md5": "cf078cc50af8f17cd95023ad28edc20c",
-    "sha256": "060f7a8cb33c57cc89744fbf2885f5b7d66a209218195f2cac811a865c8a49eb",
-    "title": "heartless wind -ceres remix- [sANOTHER*]",
-    "artist": "美月 正 / arranged by ridis",
-    "url": "https://web.archive.org/web/20040901192918/https://hat774.hp.infoseek.co.jp/ceres_r.zip",
-    "url_diff": "http://swamelo.web.fc2.com/01_HK.html",
-    "level": "sl6"
-  },
-  {
     "md5": "88e7d0747983b331e35a264719c41e67",
     "sha256": "d41380a6b19daf44f78c8073310286f5d3969ac7d072d757a25d6b28f9a27a5a",
     "title": "ouroVoros [SP AMETHER-A]",
@@ -15957,6 +15948,15 @@
     "artist": "fether obj: qtp13",
     "url": "https://bms.kyouko.moe/torrent/BMS_Library/happy%20core%20chocobo%20(by%20fether).rar",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03041.zip",
+    "level": "sl6,乱打6"
+  },
+  {
+    "md5": "cf078cc50af8f17cd95023ad28edc20c",
+    "sha256": "060f7a8cb33c57cc89744fbf2885f5b7d66a209218195f2cac811a865c8a49eb",
+    "title": "heartless wind -ceres remix- [sANOTHER*]",
+    "artist": "美月 正 / arranged by ridis",
+    "url": "https://web.archive.org/web/20040901192918/https://hat774.hp.infoseek.co.jp/ceres_r.zip",
+    "url_diff": "http://swamelo.web.fc2.com/01_HK.html",
     "level": "sl6,乱打6"
   },
   {
@@ -26975,6 +26975,14 @@
     "level": "乱打12"
   },
   {
+    "md5": "8c384d65d1f6a87d20bd89d71316ed55",
+    "title": "Mercury Prayer [aimuther]",
+    "artist": "anubasu-anubasu / obj.meisaiidol BGA by FF9900",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=350&event=88",
+    "url_diff": "https://stellabms.xyz/upload/7807",
+    "level": "乱打12"
+  },
+  {
     "md5": "8f93ce1a82a6109f73cf023d7aa375fd",
     "title": "Mercury Tears(bms edit) [Mercury Stream]",
     "artist": "U-hey BGA:ユウノ obj:SUGAR.",
@@ -29481,14 +29489,6 @@
     "artist": "kozato obj:mukyu--",
     "url": "https://pwsl.sakura.ne.jp/?download-data=126783&tmstv=1779610720",
     "url_diff": "https://stellabms.xyz/upload/7707",
-    "level": "重発狂0"
-  },
-  {
-    "md5": "8c384d65d1f6a87d20bd89d71316ed55",
-    "title": "Mercury Prayer [aimuther]",
-    "artist": "anubasu-anubasu / obj.meisaiidol BGA by FF9900",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=350&event=88",
-    "url_diff": "https://stellabms.xyz/upload/7807",
     "level": "重発狂0"
   },
   {
@@ -44635,14 +44635,6 @@
     "artist": "lixound mov:AiLANE / obj:ugd",
     "url": "https://9domu46i.com/yuruyuru/phase25.html",
     "url_diff": "https://stellabms.xyz/upload/7811",
-    "level": "重発狂5"
-  },
-  {
-    "md5": "1d7b7ec33c2f4f6f4c825e5b75b709ac",
-    "title": "Solfeggietto a Cinque [ANOTHER]",
-    "artist": "Marc-Andre' Hamelin",
-    "url": "https://stellabms.xyz/upload/5926",
-    "url_diff": "同梱譜面",
     "level": "重発狂5"
   },
   {

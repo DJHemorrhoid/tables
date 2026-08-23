@@ -851,14 +851,6 @@
     "level": "sl0"
   },
   {
-    "md5": "b36e9b9f4af7bc2fb56a56df422e450e",
-    "sha256": "45c054bdc7187d21d9a701491f1628296577b0c16eb63403d08f6b1e386f12a3",
-    "title": "せ",
-    "artist": "4",
-    "url": "https://event.yaruki0.net/kowloon/impression/33",
-    "level": "sl0"
-  },
-  {
     "md5": "53b47b074b03b421e1ee29cf5db4e6de",
     "sha256": "a96fff27a4bb5259e6f216a2ddd4a7195b76a62824956eebe44ec5503529efb8",
     "title": "ひらりゆらり水鏡 -another-",
@@ -2806,15 +2798,6 @@
     "title": "CΦLLAPSE [7Another]",
     "artist": "numuto",
     "url": "https://venue.bmssearch.net/freebattle/8",
-    "level": "sl2"
-  },
-  {
-    "md5": "06151126d54d26f674ba902bf6b1f37b",
-    "sha256": "179dd8f8ec14f78b759ae0b594e3b623eb058e56a71aec1d889b5d3fdc5cbe22",
-    "title": "DRAGONLADY [FAST FOOMEN]",
-    "artist": "Nankumo / BGA：Cube3 obj.Restia",
-    "url": "https://dump.shinonome.ca/BMS/DRAGONLADY.7z",
-    "url_diff": "https://stellabms.xyz/upload/545",
     "level": "sl2"
   },
   {
@@ -5438,14 +5421,6 @@
     "level": "sl4"
   },
   {
-    "md5": "8640baccb1477fe1bf5ea3acc967784a",
-    "sha256": "a722755b17c3664978fdbfea8f5b2cdbbce6a966fc248aeb9708befc25f55898",
-    "title": "Plug Into Heart [SP INSANE]",
-    "artist": "YuKa feat.ROSE",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=149",
-    "level": "sl4"
-  },
-  {
     "md5": "32eacd8032ca8155a1cc80e39753aabb",
     "sha256": "1219a1f601d5c0ef10d71994434675ce1934f5ada7b46156992d2214d2bbde6e",
     "title": "Pusha Plucka!! -SWAGGER-",
@@ -6494,14 +6469,6 @@
     "level": "sl5"
   },
   {
-    "md5": "ca63159b9f1b78d179e9fcdbc50e3b0e",
-    "sha256": "b49caf90ede557aa50201d49baecf443597d64a4cfc1481e8ed70276c3b7236e",
-    "title": "すいーつ・くえすと！ [SP INSANE]",
-    "artist": "YuKa feat.HALO Movie:ShakeJ / Illust:はしたかさん",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=151",
-    "level": "sl5"
-  },
-  {
     "md5": "fd77c0d3bd1f52d6c21c98ed9450d4a5",
     "sha256": "72321ce89af2a6045f5e7eace4e07637e5da92401cf64783ace362f46ac86727",
     "title": "せるびずむ！ [NIGHTMARE]",
@@ -7177,15 +7144,6 @@
     "title": "disperagioia [ANOTHER]",
     "artist": "witch's slave",
     "url": "http://web.archive.org/web/20180124133508/http://gmtn.sub.jp/bofu2017_disperagioia.zip",
-    "level": "sl6"
-  },
-  {
-    "md5": "cf078cc50af8f17cd95023ad28edc20c",
-    "sha256": "060f7a8cb33c57cc89744fbf2885f5b7d66a209218195f2cac811a865c8a49eb",
-    "title": "heartless wind -ceres remix- [sANOTHER*]",
-    "artist": "美月 正 / arranged by ridis",
-    "url": "https://web.archive.org/web/20040901192918/https://hat774.hp.infoseek.co.jp/ceres_r.zip",
-    "url_diff": "http://swamelo.web.fc2.com/01_HK.html",
     "level": "sl6"
   },
   {
@@ -9711,14 +9669,6 @@
     "artist": "utzbo obj.nozomi",
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=1&order=reg&odtype=a",
     "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymiv2jvGhjuvMn1qk?e=BDkAEl",
-    "level": "sl12"
-  },
-  {
-    "md5": "e7b9e195177092a076e305f2671ece45",
-    "sha256": "11b54961f7c762cac5dcc6fe142066fd1037379ec8f1f819cccd190c4471f31e",
-    "title": "MARENOIA [INSANE]",
-    "artist": "LeaF Movie:Optie&Fiz",
-    "url": "http://leafbms.web.fc2.com/song.html",
     "level": "sl12"
   },
   {
@@ -14874,15 +14824,6 @@
     "artist": "otoshi.b obj:mute",
     "url": "https://bmssearch.net/venue/detail?event=vfpq02&id=11",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01574.zip",
-    "level": "st9"
-  },
-  {
-    "md5": "2355780fef426145e88742863b5f9d50",
-    "sha256": "094659b2fcaa810a850a9ac3e75c139ba1b69238f9c71bb1bf0d0674446782f1",
-    "title": "LIFE [最大往生]",
-    "artist": "大前 司 × Reku Mochizuki feat. レゾナンスもえこ movie: Mido / illustration:linglvz / obj:Criyajuh",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=142",
-    "url_diff": "https://stellabms.xyz/upload/5255",
     "level": "st9"
   },
   {
