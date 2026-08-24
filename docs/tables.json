@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-08-24 04:01",
+  "updated_at": "2026-08-25 04:00",
   "tables": [
     {
       "name": "sl/st",
@@ -29,9 +29,9 @@
       "slug": "delay",
       "description": "Delay小学校難易度表+ディレイjoy",
       "symbol": "",
-      "chart_count": 1521,
+      "chart_count": 1520,
       "folder_count": 53,
-      "updated_at": "2026-08-24 04:01",
+      "updated_at": "2026-08-25 04:00",
       "url": "./delay/",
       "header_url": "./delay/header.json"
     },
@@ -163,7 +163,7 @@
       "symbol": "",
       "chart_count": 6096,
       "folder_count": 102,
-      "updated_at": "2026-08-24 04:01",
+      "updated_at": "2026-08-25 04:00",
       "url": "./slst-and-code-stream/",
       "header_url": "./slst-and-code-stream/header.json"
     },
@@ -194,9 +194,9 @@
       "slug": "slst-and-delay",
       "description": "",
       "symbol": "",
-      "chart_count": 5719,
+      "chart_count": 5718,
       "folder_count": 134,
-      "updated_at": "2026-08-24 04:01",
+      "updated_at": "2026-08-25 04:00",
       "url": "./slst-and-delay/",
       "header_url": "./slst-and-delay/header.json"
     }
