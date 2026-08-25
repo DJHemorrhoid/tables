@@ -3042,15 +3042,6 @@
     "level": "sl1"
   },
   {
-    "md5": "6452078bbc8398a8636d6334c5d6d467",
-    "sha256": "e01adbb92caae851886ed2d7c553c89006857826048dc78133ef99be9261d67a",
-    "title": "Love Like [a little]",
-    "artist": "eoll obj.にゃむ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=123",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02870.zip",
-    "level": "sl1"
-  },
-  {
     "md5": "b18e1e11d2f8f73fed1d229c04a1eafb",
     "sha256": "41d90cada779dda54cdc696cf02651577cf685139649897f1b36759b8ca05174",
     "title": "Luv of Magical Synth [Sour strawberry]",
@@ -4396,6 +4387,15 @@
     "title": "Lapis Lazuli Stern [sagANOTHER]",
     "artist": "litmus* / obj:sagoo",
     "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Lapis%20Lazuli%20Stern.rar?from=search",
+    "level": "sl1,乱打1"
+  },
+  {
+    "md5": "6452078bbc8398a8636d6334c5d6d467",
+    "sha256": "e01adbb92caae851886ed2d7c553c89006857826048dc78133ef99be9261d67a",
+    "title": "Love Like [a little]",
+    "artist": "eoll obj.にゃむ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=123",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02870.zip",
     "level": "sl1,乱打1"
   },
   {
@@ -35585,6 +35585,14 @@
     "level": "重発狂2"
   },
   {
+    "md5": "e8f0887867b337d687c159d8a152f217",
+    "title": "L.D.2025 [HEARTFUL]",
+    "artist": "silcostones feat. 小宮真央 BGI : morph / Original : Andy Lee / obj:魔女",
+    "url": "https://www.nicovideo.jp/watch/sm44420345",
+    "url_diff": "https://stellabms.xyz/upload/5294",
+    "level": "重発狂2"
+  },
+  {
     "md5": "4cd5970287086ed9d9320da5a4f19b32",
     "title": "Lava Control [HEARTFUL]",
     "artist": "Zris obj:魔女",
@@ -35796,6 +35804,14 @@
     "md5": "9b5ab5dc22de9fd3b62968bc78ab344f",
     "title": "Vermilion Comet* [SABOTHER]",
     "artist": "CELLON./仙人掌の人",
+    "level": "重発狂2"
+  },
+  {
+    "md5": "e69172498b0bef52d8dfa2273a48e04f",
+    "title": "Wandering Wings [Whither]",
+    "artist": "ohon obj:trainer",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=153",
+    "url_diff": "https://stellabms.xyz/upload/8211",
     "level": "重発狂2"
   },
   {
@@ -38999,14 +39015,6 @@
     "artist": "MONO",
     "url": "https://archive.org/download/no2_ho/Jack%20in%20the%20Vox.zip",
     "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
-    "level": "重発狂3"
-  },
-  {
-    "md5": "e8f0887867b337d687c159d8a152f217",
-    "title": "L.D.2025 [HEARTFUL]",
-    "artist": "silcostones feat. 小宮真央 BGI : morph / Original : Andy Lee / obj:魔女",
-    "url": "https://www.nicovideo.jp/watch/sm44420345",
-    "url_diff": "https://stellabms.xyz/upload/5294",
     "level": "重発狂3"
   },
   {
@@ -44491,6 +44499,14 @@
     "artist": "wa. / 百舌谷 / obj:mirume",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=138",
     "url_diff": "https://stellabms.xyz/upload/8069",
+    "level": "重発狂5"
+  },
+  {
+    "md5": "d81c82937c81ca51b1c333a32e3ed807",
+    "title": "CAFFEINE [玉露]",
+    "artist": "STO obj:SUGAR.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=149",
+    "url_diff": "https://stellabms.xyz/upload/8216",
     "level": "重発狂5"
   },
   {
