@@ -26781,6 +26781,14 @@
     "level": "st0,dl1,///13"
   },
   {
+    "md5": "26b9b7bb2e8059d321d386a3fc66fc2e",
+    "title": "Angelic layer [mildelay]",
+    "artist": "SHIKI obj.n",
+    "url": "http://shiki2.sakura.ne.jp/",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04864",
+    "level": "dl1"
+  },
+  {
     "md5": "9ca41c808d095222db6aa33849615483",
     "title": "BLAST [Re:Radiation]",
     "artist": "syzfonics obj: qtp13",
@@ -29625,14 +29633,6 @@
     "url": "https://dropbox.bms.ms/u/93651732/bms/reaju_panorama.rar",
     "url_diff": "https://stellabms.xyz/upload/5307",
     "level": "st1,dl1,///13"
-  },
-  {
-    "md5": "26b9b7bb2e8059d321d386a3fc66fc2e",
-    "title": "Angelic layer [mildelay]",
-    "artist": "SHIKI obj.n",
-    "url": "http://shiki2.sakura.ne.jp/",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04864",
-    "level": "dl2"
   },
   {
     "md5": "737339c654fdf9263cafea371e29c5f0",
@@ -37959,14 +37959,6 @@
     "level": "dl5"
   },
   {
-    "md5": "85533d3572edf715c119deebf160c078",
-    "title": "CROSS†SOUL [7key Challenger]",
-    "artist": "HyuN feat. Syepias / extra",
-    "url": "https://www.mediafire.com/file/6fk6tybshd8buyl/CROSSSOUL.zip/file",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05502",
-    "level": "dl5"
-  },
-  {
     "md5": "eb40c2cf51f7629ff755291a1b679341",
     "title": "CUNNY TRIO [Intense]",
     "artist": "福建高速音楽研究学会（猫龍+DJ NORMAL1ZER+DJ Momo）/ obj:potechang",
@@ -41635,6 +41627,15 @@
     "level": "st6"
   },
   {
+    "md5": "0a2ef1a74e2bf188bc129066c95b6e86",
+    "sha256": "c8d7cd9c3bb6d9cf0cba8d05bb77e26f53c42f6e39eb86384b529aeebd14fa7a",
+    "title": "not 桜 (KOOKY)",
+    "artist": "MITCH DOWNVELL / obj:qfeileadh",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=132",
+    "url_diff": "https://stellabms.xyz/upload/347",
+    "level": "st6"
+  },
+  {
     "md5": "9ac398d3e963c9338d3d0c8005bd097b",
     "sha256": "0b6f9f315b708eaf61c1d4f431d7c30b76583b38c4a6743d012ffceb3dfdc861",
     "title": "overtrue [Other]",
@@ -42138,15 +42139,6 @@
     "artist": "TamaDo / 逸見魔理男",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00701.zip",
-    "level": "st6,dl6"
-  },
-  {
-    "md5": "0a2ef1a74e2bf188bc129066c95b6e86",
-    "sha256": "c8d7cd9c3bb6d9cf0cba8d05bb77e26f53c42f6e39eb86384b529aeebd14fa7a",
-    "title": "not 桜 (KOOKY)",
-    "artist": "MITCH DOWNVELL / obj:qfeileadh",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=132",
-    "url_diff": "https://stellabms.xyz/upload/347",
     "level": "st6,dl6"
   },
   {

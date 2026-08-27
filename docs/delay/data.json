@@ -5088,6 +5088,14 @@
     "level": "dl0,///13"
   },
   {
+    "md5": "26b9b7bb2e8059d321d386a3fc66fc2e",
+    "title": "Angelic layer [mildelay]",
+    "artist": "SHIKI obj.n",
+    "url": "http://shiki2.sakura.ne.jp/",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04864",
+    "level": "dl1"
+  },
+  {
     "md5": "9ca41c808d095222db6aa33849615483",
     "title": "BLAST [Re:Radiation]",
     "artist": "syzfonics obj: qtp13",
@@ -5553,14 +5561,6 @@
     "md5": "3450980c996be99f58926660fb0f4c0b",
     "title": "7/8→6/8→7/8→6/8→7/8→6/8→17/16→10/8→3/4→7/8→14/16→6/8→9/8→4/4→7/8→6/8→12/16→7/4→4/4→13/16→5/8→3/4→14/16→4/4→14/16→10/16→5/16→7/8→3/4→11/16→7/8→3/4→9/8→7/8→4/4→3/4→5/4→7/8→3/8 [オサレ]",
     "artist": "kyou1110 + Takuya Namba / OBJ : Mary_Sue / BGI:morph + 空読無 白眼",
-    "level": "dl2"
-  },
-  {
-    "md5": "26b9b7bb2e8059d321d386a3fc66fc2e",
-    "title": "Angelic layer [mildelay]",
-    "artist": "SHIKI obj.n",
-    "url": "http://shiki2.sakura.ne.jp/",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04864",
     "level": "dl2"
   },
   {
@@ -7119,14 +7119,6 @@
     "level": "dl5"
   },
   {
-    "md5": "85533d3572edf715c119deebf160c078",
-    "title": "CROSS†SOUL [7key Challenger]",
-    "artist": "HyuN feat. Syepias / extra",
-    "url": "https://www.mediafire.com/file/6fk6tybshd8buyl/CROSSSOUL.zip/file",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05502",
-    "level": "dl5"
-  },
-  {
     "md5": "eb40c2cf51f7629ff755291a1b679341",
     "title": "CUNNY TRIO [Intense]",
     "artist": "福建高速音楽研究学会（猫龍+DJ NORMAL1ZER+DJ Momo）/ obj:potechang",
@@ -8105,14 +8097,6 @@
     "artist": "cy:cle obj:IBARAGI_YOSHIMI",
     "url": "https://www.luzeria.net/music/bms.htm",
     "url_diff": "https://stellabms.xyz/upload/6633",
-    "level": "dl6"
-  },
-  {
-    "md5": "0a2ef1a74e2bf188bc129066c95b6e86",
-    "title": "not 桜 (KOOKY)",
-    "artist": "MITCH DOWNVELL / obj:qfeileadh",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=132",
-    "url_diff": "https://stellabms.xyz/upload/347",
     "level": "dl6"
   },
   {
