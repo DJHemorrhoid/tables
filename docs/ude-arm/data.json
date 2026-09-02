@@ -2129,6 +2129,14 @@
     "level": "Ude6"
   },
   {
+    "md5": "8d0617566d71edca8602540770a9c8ea",
+    "title": "beyond [sonatine]",
+    "artist": "Lime mov:Roaring Flame obj:ugd",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=492",
+    "url_diff": "https://stellabms.xyz/upload/8228",
+    "level": "Ude6"
+  },
+  {
     "md5": "9d96062e99f3cc079d9e93fff7a4a597",
     "title": "dreamy traveler [NIGHTMARE7]",
     "artist": "ノア",
@@ -2906,6 +2914,14 @@
     "level": "Ude9"
   },
   {
+    "md5": "161e21c0c9193997f0b1577d3e80de73",
+    "title": "NS18 [DRIZZLE_f]",
+    "artist": "3034 Anomie / IllusionRain / obj:Keysa",
+    "url": "https://drive.google.com/drive/folders/1WE8TNtYJgLi31V-WomN-msZmtyFVTSEE",
+    "url_diff": "https://stellabms.xyz/upload/8214",
+    "level": "Ude9"
+  },
+  {
     "md5": "b0d6d9b4b164e79dc3728ec6d29a87d0",
     "title": "Nebul@ (4n07h3r m1x) [L1ber7y]",
     "artist": "Darknoid mov. 古氷 / obj. foxtrot",
@@ -3316,6 +3332,12 @@
     "artist": "MisomyL",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02895",
+    "level": "Ude11"
+  },
+  {
+    "md5": "bd51437a802fd2570011d96178f06c9b",
+    "title": "CHAINSAW PARTY",
+    "artist": "H.U.T GiGAR / obj : Mary_Sue BGI/かぜっと BGA/Unknown*",
     "level": "Ude11"
   },
   {
@@ -3908,11 +3930,9 @@
     "level": "Ude12"
   },
   {
-    "md5": "a3053a25cb3c319260188fff4d006350",
+    "md5": "83569c8569eea8bb866d51cf4dd23585",
     "title": "非徘徊主義 (-ω-)",
     "artist": "Hidingpast/さ",
-    "url": "https://web.archive.org/web/20160331123858/http://nextreflection.net/hihaikai.html",
-    "url_diff": "http://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/hihaikai%20sabun.zip",
     "level": "Ude12"
   },
   {

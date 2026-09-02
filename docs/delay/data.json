@@ -6174,14 +6174,6 @@
     "level": "dl3"
   },
   {
-    "md5": "bc4ff6a7fdfc78f307bf9c05ef0c6b22",
-    "title": "MoRedelayShift",
-    "artist": "COMPOSER 1 / VISUALIZER 1 / OBJECTOR 13",
-    "url": "https://drive.google.com/file/d/1BJW_FRaAJAfGKYItHtuAC75l5n8eeM48/view?usp=sharing",
-    "url_diff": "https://stellabms.xyz/upload/7653",
-    "level": "dl3"
-  },
-  {
     "md5": "b3eb5ca276dbf22570a28f510a78b39b",
     "title": "Nyan-Nyan Naughty Night [Naughty Nerd]",
     "artist": "かたぎり BGI: morph",
@@ -6694,6 +6686,14 @@
     "artist": "ueotan obj:Fender",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=84",
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4107.rar",
+    "level": "dl4"
+  },
+  {
+    "md5": "bc4ff6a7fdfc78f307bf9c05ef0c6b22",
+    "title": "MoRedelayShift",
+    "artist": "COMPOSER 1 / VISUALIZER 1 / OBJECTOR 13",
+    "url": "https://drive.google.com/file/d/1BJW_FRaAJAfGKYItHtuAC75l5n8eeM48/view?usp=sharing",
+    "url_diff": "https://stellabms.xyz/upload/7653",
     "level": "dl4"
   },
   {
@@ -7783,6 +7783,14 @@
     "level": "dl6"
   },
   {
+    "md5": "4937be99eac30480902868be49f88817",
+    "title": "CAT ROTATION [∽]",
+    "artist": "かたぎり BGA: mst obj:tsukisaka",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=148",
+    "url_diff": "https://stellabms.xyz/upload/6230",
+    "level": "dl6"
+  },
+  {
     "md5": "11966ecbd7a2bced3fd97aebf22086c9",
     "title": "Defeat awaken battle ship [STREAM]",
     "artist": "有賀 澪 BGA:しらたき Illust:Cleome obj:SNN",
@@ -8424,14 +8432,6 @@
     "artist": "aym / obj:qfeileadh",
     "url": "http://aym.pekori.to/",
     "url_diff": "https://stellabms.xyz/upload/339",
-    "level": "dl7"
-  },
-  {
-    "md5": "4937be99eac30480902868be49f88817",
-    "title": "CAT ROTATION [∽]",
-    "artist": "かたぎり BGA: mst obj:tsukisaka",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=148",
-    "url_diff": "https://stellabms.xyz/upload/6230",
     "level": "dl7"
   },
   {
@@ -9103,6 +9103,14 @@
     "artist": "kanone ランナー : あんた",
     "url": "https://www.axfc.net/u/2299297",
     "url_diff": "https://fsrs.github.io/sabun/M-SPIN/BD_LuvTek.zip",
+    "level": "dl8"
+  },
+  {
+    "md5": "1e2d5b2b42a0ee5b16e9493e2d5b97f9",
+    "title": "Buuuuuuurstraffic [slow]",
+    "artist": "HOUJIROU obj:syu2",
+    "url": "https://dropbox.bms.ms/u/107522853/bms/%5BMaple_brit%27S%5DBuuuuuuurstraffic-HOUJIROU.rar",
+    "url_diff": "https://stellabms.xyz/upload/8227",
     "level": "dl8"
   },
   {
@@ -11273,6 +11281,14 @@
     "artist": "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/obj:tyrcs",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
     "url_diff": "https://stellabms.xyz/upload/957",
+    "level": "dl11"
+  },
+  {
+    "md5": "8a80233ae73fc3c1f145c3e772d4b876",
+    "title": "Astral Hazard",
+    "artist": "ROKINA obj:PiPiNeko",
+    "url": "https://1drv.ms/u/s!AgF3AxufJ8SggRIbDPWDCIetku1F",
+    "url_diff": "https://stellabms.xyz/upload/8236",
     "level": "dl11"
   },
   {

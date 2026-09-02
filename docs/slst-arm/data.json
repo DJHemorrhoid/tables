@@ -1522,15 +1522,6 @@
     "level": "sl7,Ude7"
   },
   {
-    "md5": "5ebbef850c17df85903936df0b446034",
-    "sha256": "69f5351621c4277dd5717391a5128520b8f9ea3833eb9cab435695e95d7a555a",
-    "title": "Noblesse Gloria [Earl Grey]",
-    "artist": "ダージリン obj:toraji",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=540&event=110",
-    "url_diff": "https://stellabms.xyz/upload/5661",
-    "level": "sl8,Ude10"
-  },
-  {
     "md5": "92e6f50171db838537b2a9317e497c0c",
     "sha256": "270382a461b15b2acfe654c9db186f974885faabacb5ebb9c18c90e80e1988a9",
     "title": "4th Hyper Pressure [FULL-POWER]",
@@ -1735,6 +1726,15 @@
     "level": "sl8,Ude8"
   },
   {
+    "md5": "5ebbef850c17df85903936df0b446034",
+    "sha256": "69f5351621c4277dd5717391a5128520b8f9ea3833eb9cab435695e95d7a555a",
+    "title": "Noblesse Gloria [Earl Grey]",
+    "artist": "ダージリン obj:toraji",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=540&event=110",
+    "url_diff": "https://stellabms.xyz/upload/5661",
+    "level": "sl9,Ude10"
+  },
+  {
     "md5": "2d57926a4d22f505bad256c9c201df65",
     "sha256": "c493250bda6981a19f07830a1cf3c802327530b3f25a1fafc761b754fda5986c",
     "title": "AirTrip-SF#2-[はやい]",
@@ -1813,6 +1813,15 @@
     "artist": "Arr:Sakamiya img:しょーる:liberta",
     "url": "https://drive.google.com/file/d/13jlGXqorRrEUqVZWaMKz0oSDx4H7Q73w/view?usp=sharing",
     "url_diff": "隠し譜面",
+    "level": "sl9,Ude9"
+  },
+  {
+    "md5": "6643af65d1efbbb16901b87f27583ad2",
+    "sha256": "026380105f61e27d59bbb47b6ebe37bae55cd8a16560b181851adedcaad28a9c",
+    "title": "VampiЯ [DRIZZLE]",
+    "artist": "Tiv / BGI:焦げポテト obj:Keysa",
+    "url": "https://venue.bmssearch.net/bmstukuru2025/10",
+    "url_diff": "https://stellabms.xyz/upload/6985",
     "level": "sl9,Ude9"
   },
   {
@@ -2037,6 +2046,15 @@
     "artist": "MisomyL",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
     "url_diff": "https://parksu.darksabun.club/",
+    "level": "sl11,Ude11"
+  },
+  {
+    "md5": "bd51437a802fd2570011d96178f06c9b",
+    "sha256": "e482799ddf2850a5c92400996341fef702e9498da34e4b4179d2ede29de439c3",
+    "title": "CHAINSAW PARTY <MARYTHER>",
+    "artist": "H.U.T GiGAR / obj : Mary_Sue BGI/かぜっと BGA/Unknown*",
+    "url": "https://www.dropbox.com/sh/3itpljj607ltxvz/AABmbPOx3q650aPVjYbFIKLoa?dl=0",
+    "url_diff": "https://marysue.darksabun.club/",
     "level": "sl11,Ude11"
   },
   {
@@ -2452,12 +2470,12 @@
     "level": "sl12,Ude12"
   },
   {
-    "md5": "a3053a25cb3c319260188fff4d006350",
-    "sha256": "2014af723d742016884d9d7459e0b0914d0657e1108c49598e35c75042afd4b6",
+    "md5": "83569c8569eea8bb866d51cf4dd23585",
+    "sha256": "9f63136f6c0965954b5ad61eacf2ff66b551883088d5598c9b795195dda1908b",
     "title": "非徘徊主義 (-ω-)",
     "artist": "Hidingpast/さ",
     "url": "https://web.archive.org/web/20160331123858/http://nextreflection.net/hihaikai.html",
-    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/hihaikai%20sabun.zip",
     "level": "sl12,Ude12"
   },
   {
@@ -2798,6 +2816,15 @@
     "artist": "/指紋",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=131",
     "level": "st0,腕0"
+  },
+  {
+    "md5": "fa1ca33c2ecc343feed01bc48b2b9f2f",
+    "sha256": "517058e50cf01ebc61d5ea4fab3936e366eb6d1bdcd3f577e1595a5a1be78fb3",
+    "title": "きりんさん進化論 [Cycle of Life]",
+    "artist": "qfeileadh feat.レゾナンスもえこ Movie:むらたむうた obj:toraji",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=420&event=146",
+    "url_diff": "https://stellabms.xyz/upload/7149",
+    "level": "st0,腕1"
   },
   {
     "md5": "d1eecd43b53b618c8565bc459e2e1965",
@@ -3978,15 +4005,6 @@
     "level": "st4,腕4"
   },
   {
-    "md5": "05add19c1c613a77f8bca9e5e041c0c5",
-    "sha256": "bb259516a7c891109486de6380430e78a035b686e736d21184095c384041b2ae",
-    "title": "Desires to Live [Overdrive]",
-    "artist": "Setca.(original:ZUN) obj:potechang",
-    "url": "https://venue.bmssearch.net/tohobmsr/32",
-    "url_diff": "https://stellabms.xyz/upload/4306",
-    "level": "st4,腕4"
-  },
-  {
     "md5": "a4a8ff60bb83ed47e5e452942b138521",
     "sha256": "b05f0728b9a9fe60328ba9615ef43a7e4da14e89f5deedd5a713b098c305229b",
     "title": "EXCEED ENERGY [Ain't too proud to rely on!]",
@@ -4437,6 +4455,15 @@
     "artist": "otoshi.b BGI:鈴木なるひ obj:BAECON",
     "url": "https://venue.bmssearch.net/bmskanji2/23",
     "level": "st4,腕4"
+  },
+  {
+    "md5": "05add19c1c613a77f8bca9e5e041c0c5",
+    "sha256": "bb259516a7c891109486de6380430e78a035b686e736d21184095c384041b2ae",
+    "title": "Desires to Live [Overdrive]",
+    "artist": "Setca.(original:ZUN) obj:potechang",
+    "url": "https://venue.bmssearch.net/tohobmsr/32",
+    "url_diff": "https://stellabms.xyz/upload/4306",
+    "level": "st5,腕4"
   },
   {
     "md5": "a85994133df21871af5dc168d1fabbfd",
