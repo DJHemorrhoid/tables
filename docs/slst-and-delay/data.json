@@ -8286,7 +8286,7 @@
     "title": "PASERI [7keys EX]",
     "artist": "Nankumo obj.krg",
     "url": "http://nonona.iptime.org/BMS_Library/%e7%99%bd%e9%bb%92%e9%ab%98%e9%80%9f%e5%a4%a7%e5%9b%9e%e8%bb%a2%20%5b%e3%83%91%e3%83%b3%e3%83%80%e3%82%bd%e3%83%b3%e3%82%b0%5d.rar",
-    "url_diff": "http://iroirokiba.web.fc2.com/bms.html",
+    "url_diff": "http://iroirokiba.web.fc2.com/sabun/paseri_ex.rar",
     "level": "sl3"
   },
   {
@@ -30863,15 +30863,6 @@
     "level": "st2"
   },
   {
-    "md5": "b92c090db34f0054e3cec2cf4a93dc70",
-    "sha256": "194abc68c119f8059db69bf0a2badc1acec7279dadae2595ceaba13fd64d031e",
-    "title": "Legend of Seeker [loke]",
-    "artist": "remixed celas Notes:C4",
-    "url": "http://web.archive.org/web/20160808001644/http://creation-records.info:80/bms.htm",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02156",
-    "level": "st2"
-  },
-  {
     "md5": "a09e06c27e76cdfea8db0dcbaa88c0c0",
     "sha256": "8dda371dc130708bbbb6d3493a337a9675a04d1863b984e36d41eda36c2cf969",
     "title": "Lemuria [Wondering]",
@@ -32323,6 +32314,15 @@
     "artist": "45Is-m BGA:-45 obj:秘密",
     "url": "http://www.is-m.jp/bms/song/em41.html",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up6519.zip",
+    "level": "st2,dl2"
+  },
+  {
+    "md5": "b92c090db34f0054e3cec2cf4a93dc70",
+    "sha256": "194abc68c119f8059db69bf0a2badc1acec7279dadae2595ceaba13fd64d031e",
+    "title": "Legend of Seeker [loke]",
+    "artist": "remixed celas Notes:C4",
+    "url": "http://web.archive.org/web/20160808001644/http://creation-records.info:80/bms.htm",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02156",
     "level": "st2,dl2"
   },
   {

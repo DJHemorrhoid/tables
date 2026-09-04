@@ -8433,7 +8433,7 @@
     "title": "PASERI [7keys EX]",
     "artist": "Nankumo obj.krg",
     "url": "http://nonona.iptime.org/BMS_Library/%e7%99%bd%e9%bb%92%e9%ab%98%e9%80%9f%e5%a4%a7%e5%9b%9e%e8%bb%a2%20%5b%e3%83%91%e3%83%b3%e3%83%80%e3%82%bd%e3%83%b3%e3%82%b0%5d.rar",
-    "url_diff": "http://iroirokiba.web.fc2.com/bms.html",
+    "url_diff": "http://iroirokiba.web.fc2.com/sabun/paseri_ex.rar",
     "level": "sl3"
   },
   {
@@ -36814,15 +36814,6 @@
     "level": "st3"
   },
   {
-    "md5": "526935a5ba2ff2407ba817ede85745b7",
-    "sha256": "48677b8db76d937e2888c4f1310344472fcbf94a88096f7842b11a409ae418aa",
-    "title": "Legend of Seeker [Excelsior]",
-    "artist": "remixed celas / И",
-    "url": "https://web.archive.org/web/20160911094851/http://creation-records.info/bms/seeker_r_ogg.rar",
-    "url_diff": "https://parksu.darksabun.club",
-    "level": "st3"
-  },
-  {
     "md5": "6f3ecbf7172556b197f56579f8b9e7ca",
     "sha256": "79060c6a3fff3818e0e4695413f4e06cc6aa4faded032f0e392b4ff0904ca45b",
     "title": "Legend of Seeker [INFERNO]",
@@ -38391,6 +38382,15 @@
     "artist": "honey princess / po",
     "url": "https://web.archive.org/web/20111219094756/http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=33",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up4358.zip",
+    "level": "st3,重発狂3"
+  },
+  {
+    "md5": "526935a5ba2ff2407ba817ede85745b7",
+    "sha256": "48677b8db76d937e2888c4f1310344472fcbf94a88096f7842b11a409ae418aa",
+    "title": "Legend of Seeker [Excelsior]",
+    "artist": "remixed celas / И",
+    "url": "https://web.archive.org/web/20160911094851/http://creation-records.info/bms/seeker_r_ogg.rar",
+    "url_diff": "https://parksu.darksabun.club",
     "level": "st3,重発狂3"
   },
   {

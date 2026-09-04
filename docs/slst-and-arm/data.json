@@ -5878,15 +5878,6 @@
     "level": "sl2"
   },
   {
-    "md5": "cd35e9476ea81543f8b7ed2aa697b3be",
-    "sha256": "3fc90b53140a53fd975af7ce5bcf71f23fce2267d94430b0bf73e59dfae52090",
-    "title": "Swing It",
-    "artist": "Lalio",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=147",
-    "url_diff": "https://stellabms.xyz/upload/5718",
-    "level": "sl2"
-  },
-  {
     "md5": "0ae507fb799488c772a0d71b1fe1c506",
     "sha256": "e83d07d0c902110b8d5207102f9730f1fa4cf9f1293491fc1fe146d9001f24eb",
     "title": "THE CRISIS [SP ANOTHER]",
@@ -6809,6 +6800,15 @@
     "artist": "Hazel-D feat. Ms.Valentine / obj: 0samil0",
     "url": "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=28&order=reg&odtype=a",
     "url_diff": "同梱譜面",
+    "level": "sl2,Ude2"
+  },
+  {
+    "md5": "cd35e9476ea81543f8b7ed2aa697b3be",
+    "sha256": "3fc90b53140a53fd975af7ce5bcf71f23fce2267d94430b0bf73e59dfae52090",
+    "title": "Swing It",
+    "artist": "Lalio",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=147",
+    "url_diff": "https://stellabms.xyz/upload/5718",
     "level": "sl2,Ude2"
   },
   {
@@ -7798,7 +7798,7 @@
     "title": "PASERI [7keys EX]",
     "artist": "Nankumo obj.krg",
     "url": "http://nonona.iptime.org/BMS_Library/%e7%99%bd%e9%bb%92%e9%ab%98%e9%80%9f%e5%a4%a7%e5%9b%9e%e8%bb%a2%20%5b%e3%83%91%e3%83%b3%e3%83%80%e3%82%bd%e3%83%b3%e3%82%b0%5d.rar",
-    "url_diff": "http://iroirokiba.web.fc2.com/bms.html",
+    "url_diff": "http://iroirokiba.web.fc2.com/sabun/paseri_ex.rar",
     "level": "sl3"
   },
   {
@@ -13790,15 +13790,6 @@
     "level": "sl6"
   },
   {
-    "md5": "29c85049c3b5791b884687765d90b9c1",
-    "sha256": "a63fff1737ccc146313059500ed6321dab91acaeee80b72feb95d596762a7842",
-    "title": "翠蜜蝶[HARD]",
-    "artist": "雹花 / 差分 赤い人",
-    "url": "https://1drv.ms/u/s!AtL7mqL13VkrhRqcmU7z8c4kAhyB?e=p5fjYf",
-    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/yorugao-HARD.bms",
-    "level": "sl6"
-  },
-  {
     "md5": "04188c2d542f4c46f35c2c08a5104243",
     "sha256": "50b994764f950a8cc03c093f6eff7c451428aed0b4f086324428d99375efbcb6",
     "title": "超度 -Go Beyond-",
@@ -13974,6 +13965,15 @@
     "artist": "sound piercer / mov : kkkfff2 obj.?",
     "url": "https://k-bms.com/party_pabat/party.jsp?board_num=1&num=49&ckattempt=1",
     "url_diff": "https://stellabms.xyz/upload/7421",
+    "level": "sl6,Ude6"
+  },
+  {
+    "md5": "29c85049c3b5791b884687765d90b9c1",
+    "sha256": "a63fff1737ccc146313059500ed6321dab91acaeee80b72feb95d596762a7842",
+    "title": "翠蜜蝶[HARD]",
+    "artist": "雹花 / 差分 赤い人",
+    "url": "https://1drv.ms/u/s!AtL7mqL13VkrhRqcmU7z8c4kAhyB?e=p5fjYf",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/yorugao-HARD.bms",
     "level": "sl6,Ude6"
   },
   {

@@ -3392,15 +3392,6 @@
     "level": "sl2"
   },
   {
-    "md5": "cd35e9476ea81543f8b7ed2aa697b3be",
-    "sha256": "3fc90b53140a53fd975af7ce5bcf71f23fce2267d94430b0bf73e59dfae52090",
-    "title": "Swing It",
-    "artist": "Lalio",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=147",
-    "url_diff": "https://stellabms.xyz/upload/5718",
-    "level": "sl2"
-  },
-  {
     "md5": "0ae507fb799488c772a0d71b1fe1c506",
     "sha256": "e83d07d0c902110b8d5207102f9730f1fa4cf9f1293491fc1fe146d9001f24eb",
     "title": "THE CRISIS [SP ANOTHER]",
@@ -4402,7 +4393,7 @@
     "title": "PASERI [7keys EX]",
     "artist": "Nankumo obj.krg",
     "url": "http://nonona.iptime.org/BMS_Library/%e7%99%bd%e9%bb%92%e9%ab%98%e9%80%9f%e5%a4%a7%e5%9b%9e%e8%bb%a2%20%5b%e3%83%91%e3%83%b3%e3%83%80%e3%82%bd%e3%83%b3%e3%82%b0%5d.rar",
-    "url_diff": "http://iroirokiba.web.fc2.com/bms.html",
+    "url_diff": "http://iroirokiba.web.fc2.com/sabun/paseri_ex.rar",
     "level": "sl3"
   },
   {
@@ -7390,15 +7381,6 @@
     "artist": "Se-U-Ra/obj:赤い人",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=114",
     "url_diff": "https://darksabun.club/mirror/akred/bmsfile/_Qlifa_HARDEST.bms",
-    "level": "sl6"
-  },
-  {
-    "md5": "29c85049c3b5791b884687765d90b9c1",
-    "sha256": "a63fff1737ccc146313059500ed6321dab91acaeee80b72feb95d596762a7842",
-    "title": "翠蜜蝶[HARD]",
-    "artist": "雹花 / 差分 赤い人",
-    "url": "https://1drv.ms/u/s!AtL7mqL13VkrhRqcmU7z8c4kAhyB?e=p5fjYf",
-    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/yorugao-HARD.bms",
     "level": "sl6"
   },
   {
@@ -11645,15 +11627,6 @@
     "level": "st2"
   },
   {
-    "md5": "b92c090db34f0054e3cec2cf4a93dc70",
-    "sha256": "194abc68c119f8059db69bf0a2badc1acec7279dadae2595ceaba13fd64d031e",
-    "title": "Legend of Seeker [loke]",
-    "artist": "remixed celas Notes:C4",
-    "url": "http://web.archive.org/web/20160808001644/http://creation-records.info:80/bms.htm",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02156",
-    "level": "st2"
-  },
-  {
     "md5": "a09e06c27e76cdfea8db0dcbaa88c0c0",
     "sha256": "8dda371dc130708bbbb6d3493a337a9675a04d1863b984e36d41eda36c2cf969",
     "title": "Lemuria [Wondering]",
@@ -12456,15 +12429,6 @@
     "artist": "カラフル・サウンズ・ポート / obj.fuko",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=74",
     "url_diff": "https://stellabms.xyz/upload/1207",
-    "level": "st3"
-  },
-  {
-    "md5": "526935a5ba2ff2407ba817ede85745b7",
-    "sha256": "48677b8db76d937e2888c4f1310344472fcbf94a88096f7842b11a409ae418aa",
-    "title": "Legend of Seeker [Excelsior]",
-    "artist": "remixed celas / И",
-    "url": "https://web.archive.org/web/20160911094851/http://creation-records.info/bms/seeker_r_ogg.rar",
-    "url_diff": "https://parksu.darksabun.club",
     "level": "st3"
   },
   {
