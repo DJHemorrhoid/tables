@@ -38537,15 +38537,6 @@
     "level": "st7"
   },
   {
-    "md5": "a311f44cbf615b77cb40b5e62b22f207",
-    "sha256": "db889cf0d50913e76e6b57865502c83000c7db2e44bbdf7c371ce603245f8423",
-    "title": "Assault TAXI [Hi-GAIN]",
-    "artist": "∀S∀ / obj:Criyajuh",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=142",
-    "url_diff": "https://stellabms.xyz/upload/3723",
-    "level": "st7"
-  },
-  {
     "md5": "44fa89a69bc51bfe01bb95bdd479170d",
     "sha256": "60aa9f2e76b245efe93cb09ad3d2fd165639d603eb05834702a9fcf9bae0bcef",
     "title": "Assumptio [Death Penalty]",
@@ -39497,6 +39488,15 @@
     "artist": "- 4 5 /  s e l e n e .",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01642.zip",
+    "level": "st7,連打複合7"
+  },
+  {
+    "md5": "a311f44cbf615b77cb40b5e62b22f207",
+    "sha256": "db889cf0d50913e76e6b57865502c83000c7db2e44bbdf7c371ce603245f8423",
+    "title": "Assault TAXI [Hi-GAIN]",
+    "artist": "∀S∀ / obj:Criyajuh",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=142",
+    "url_diff": "https://stellabms.xyz/upload/3723",
     "level": "st7,連打複合7"
   },
   {
@@ -43757,6 +43757,14 @@
     "artist": "ねこみみ魔法使い / ガチ押しロボ",
     "url": "http://necoco.2-d.jp/13_bms.html",
     "url_diff": "https://stellabms.xyz/upload/7604",
+    "level": "連打複合11"
+  },
+  {
+    "md5": "c70d23d8405a2dadff4fa50b92323a2e",
+    "title": "Qronostasis -GABBA vs. Speedcore mix-",
+    "artist": "shio obj:Normid",
+    "url": "https://drive.google.com/file/d/1MYEb5O-A_yU1vEYdHeCHHpP09gjB-FDn/view?usp=sharing",
+    "url_diff": "https://stellabms.xyz/upload/8260",
     "level": "連打複合11"
   },
   {

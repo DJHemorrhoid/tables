@@ -20276,14 +20276,6 @@
     "level": "sl9"
   },
   {
-    "md5": "eb0567bfe455948b51c14d18ff48fb4d",
-    "sha256": "5e62b90f56d63b553f46ae26239ba4eee3f5eff964004b0da6589ab3b0affd36",
-    "title": "Aldebaran [SP INSANE]",
-    "artist": "DJ SA2KI  obj.メヒカリ",
-    "url": "https://sterrenbeeld-zoeker.neocities.org/",
-    "level": "sl9"
-  },
-  {
     "md5": "46a5f63f83827ca256f9caec48d57844",
     "sha256": "f5c040e7f5784fd093c3d7557ac906fc68f56b8c93b5dc06a2aece8b0914612d",
     "title": "Aloft -Montgolfier-",
@@ -20937,14 +20929,6 @@
     "level": "sl9"
   },
   {
-    "md5": "5a66dcc93d5bd1df65ff0f6d437da194",
-    "sha256": "7ac6555fb5b6364f1eabbe3d548fa6443f3a272bf4c21c2185be792a45851c18",
-    "title": "魚の日 [WANT MORE..?]",
-    "artist": "Psysia",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=149",
-    "level": "sl9"
-  },
-  {
     "md5": "836662d32209c2ac0f0ce119e8de96fe",
     "sha256": "22408ecad83a3dda54e70ad36d61108cb67b7a602db6e161afee8d871791684a",
     "title": "EVERLASTING HAPPiNESS↑ [INSANE]",
@@ -20969,6 +20953,14 @@
     "artist": "raii Movie:Albatrus obj:SANY",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=116",
     "url_diff": "同梱譜面",
+    "level": "sl9,乱打9"
+  },
+  {
+    "md5": "eb0567bfe455948b51c14d18ff48fb4d",
+    "sha256": "5e62b90f56d63b553f46ae26239ba4eee3f5eff964004b0da6589ab3b0affd36",
+    "title": "Aldebaran [SP INSANE]",
+    "artist": "DJ SA2KI  obj.メヒカリ",
+    "url": "https://sterrenbeeld-zoeker.neocities.org/",
     "level": "sl9,乱打9"
   },
   {
@@ -21489,6 +21481,14 @@
     "artist": "Lanait",
     "url": "https://venue.bmssearch.net/bmstukuru2025/94",
     "url_diff": "同梱譜面",
+    "level": "sl9,乱打9"
+  },
+  {
+    "md5": "5a66dcc93d5bd1df65ff0f6d437da194",
+    "sha256": "7ac6555fb5b6364f1eabbe3d548fa6443f3a272bf4c21c2185be792a45851c18",
+    "title": "魚の日 [WANT MORE..?]",
+    "artist": "Psysia",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=149",
     "level": "sl9,乱打9"
   },
   {
@@ -23218,6 +23218,14 @@
     "artist": "AcuticNotes(An/レク）",
     "url": "http://dl.dropbox.com/u/34035220/Xhroria.rarhttps://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/cI8VUR5C",
     "url_diff": "http://akred.web.fc2.com/bmsfile/Xhroria.HARDEST.bms",
+    "level": "乱打10"
+  },
+  {
+    "md5": "6e1000f5611b1ecde548444b9a013eef",
+    "title": "endemize[EriCore!@#] [EriCore!@#]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
+    "url_diff": "https://stellabms.xyz/upload/8265",
     "level": "乱打10"
   },
   {
@@ -31830,6 +31838,15 @@
     "level": "st1,重発狂1"
   },
   {
+    "md5": "e8f0887867b337d687c159d8a152f217",
+    "sha256": "f058b2c96885d8e459e645f809aa0025f14a6e1c1cd50df634b30191d0b560c1",
+    "title": "L.D.2025 [HEARTFUL]",
+    "artist": "silcostones feat. 小宮真央 BGI : morph / Original : Andy Lee / obj:魔女",
+    "url": "https://www.nicovideo.jp/watch/sm44420345",
+    "url_diff": "https://stellabms.xyz/upload/5294",
+    "level": "st1,重発狂1"
+  },
+  {
     "md5": "b5ac8582091269f60ed0d5f711c603bd",
     "sha256": "fbc90e05c54821e5d06cba0c62d97d35ee56221896e4c6a0cf5a1dd4aabf246c",
     "title": "Lacrimosa [SP Insane]",
@@ -32523,15 +32540,6 @@
     "artist": "HOUJIROU obj:1mi",
     "url": "https://venue.bmssearch.net/3/50",
     "url_diff": "https://stellabms.xyz/upload/4625",
-    "level": "st1,重発狂2"
-  },
-  {
-    "md5": "e8f0887867b337d687c159d8a152f217",
-    "sha256": "f058b2c96885d8e459e645f809aa0025f14a6e1c1cd50df634b30191d0b560c1",
-    "title": "L.D.2025 [HEARTFUL]",
-    "artist": "silcostones feat. 小宮真央 BGI : morph / Original : Andy Lee / obj:魔女",
-    "url": "https://www.nicovideo.jp/watch/sm44420345",
-    "url_diff": "https://stellabms.xyz/upload/5294",
     "level": "st1,重発狂2"
   },
   {
@@ -38134,6 +38142,15 @@
     "level": "st3,重発狂3"
   },
   {
+    "md5": "56c2d32406428e15adb228ed6acd0fe1",
+    "sha256": "61072b3281f300a78449b83a30de9be04dac8770e1ba98940221f554c5f72845",
+    "title": "BLACKOUT -Side Story- [EXTRA]",
+    "artist": "照堕 remix by keyc / obj:夢瑠",
+    "url": "https://drive.google.com/file/d/1AuPTQtt4w0MmJHe_2JuVLvEPuf4sC2ik/view?usp=drive_link",
+    "url_diff": "https://dl.dropboxusercontent.com/s/k434248ywqcak6q/_blackout_yume.zip",
+    "level": "st3,重発狂3"
+  },
+  {
     "md5": "9790a18e11e0a63b1fd35cdd52d2f310",
     "sha256": "3c662af622871551100c0c9114d04cd328e2f4f3f9569d3cacd6f1d7b7605c13",
     "title": "Bird Sprite -D.K.R. mix- (24maniaq)",
@@ -38986,15 +39003,6 @@
     "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/cAlmwSIC",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01394.zip",
     "level": "st3,重発狂4"
-  },
-  {
-    "md5": "56c2d32406428e15adb228ed6acd0fe1",
-    "sha256": "61072b3281f300a78449b83a30de9be04dac8770e1ba98940221f554c5f72845",
-    "title": "BLACKOUT -Side Story- [EXTRA]",
-    "artist": "照堕 remix by keyc / obj:夢瑠",
-    "url": "https://drive.google.com/file/d/1AuPTQtt4w0MmJHe_2JuVLvEPuf4sC2ik/view?usp=drive_link",
-    "url_diff": "https://dl.dropboxusercontent.com/s/k434248ywqcak6q/_blackout_yume.zip",
-    "level": "st3,重発狂5"
   },
   {
     "md5": "2dd1ed87822ec02eed4894e23535563b",
@@ -45901,15 +45909,6 @@
     "level": "st6"
   },
   {
-    "md5": "293782593fe94885a8651e47bdc1fd3e",
-    "sha256": "3684f862f95488088243cb03be21265436f2eff7d6d5f430ca77fffe12e262fc",
-    "title": "tinnitus [HEARTFUL]",
-    "artist": "SP-# obj:魔女",
-    "url": "https://www.mediafire.com/file/xf2omk242vysr8j/%255BSP-%2523%255D_tinnitus.zip",
-    "url_diff": "https://stellabms.xyz/upload/2900",
-    "level": "st6"
-  },
-  {
     "md5": "37ad4c1e0c6a1042dc4ffa5728068bed",
     "sha256": "d02a756cc467c523274bbaf7796d0d2f4ed9ba19d8328bd1490ffb8cad75ae5d",
     "title": "whence [d0uv3n0n5n0u59u350mm35n0u50u4110n5n0u5]",
@@ -46509,12 +46508,30 @@
     "level": "st6,重発狂6"
   },
   {
+    "md5": "5497cd98fc1a770a553ebe1068f8c1e9",
+    "sha256": "df62b99569058d17cff15b5622dc56c257cc2cea1ab23d3faec7c25308e607c4",
+    "title": "sweet pop [saccharine]",
+    "artist": "Ym1024 feat. lamie* Illustration : 恋々 Obj : И",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=103",
+    "url_diff": "https://parksu.darksabun.club",
+    "level": "st6,重発狂6"
+  },
+  {
     "md5": "b9450a30141bb6669f289147d6f003aa",
     "sha256": "63f8e42dfcfd89e7830494fe1d83188b16baf77123a13511197deb006adbda0a",
     "title": "tinnitus -Madness-",
     "artist": "SP-# / obj : LindBlum",
     "url": "https://onedrive.live.com/?cid=578814ACC2BD5A74&id=578814ACC2BD5A74!140",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01293.zip",
+    "level": "st6,重発狂6"
+  },
+  {
+    "md5": "293782593fe94885a8651e47bdc1fd3e",
+    "sha256": "3684f862f95488088243cb03be21265436f2eff7d6d5f430ca77fffe12e262fc",
+    "title": "tinnitus [HEARTFUL]",
+    "artist": "SP-# obj:魔女",
+    "url": "https://www.mediafire.com/file/xf2omk242vysr8j/%255BSP-%2523%255D_tinnitus.zip",
+    "url_diff": "https://stellabms.xyz/upload/2900",
     "level": "st6,重発狂6"
   },
   {
@@ -46622,15 +46639,6 @@
     "artist": "KARUT(Remixed by nekomimi_STRaw)  / BGA: MUSH.T obj.akasaka",
     "url": "https://venue.bmssearch.net/kivotos/3",
     "url_diff": "https://siromarudaisuki.github.io/akather.sabun/sabun/%E2%98%8525%20After%20School%20Dessert(Uzawa&Kazusa%20HardCore%20Remix)%20[akather%20v2].zip",
-    "level": "st6,重発狂7"
-  },
-  {
-    "md5": "5497cd98fc1a770a553ebe1068f8c1e9",
-    "sha256": "df62b99569058d17cff15b5622dc56c257cc2cea1ab23d3faec7c25308e607c4",
-    "title": "sweet pop [saccharine]",
-    "artist": "Ym1024 feat. lamie* Illustration : 恋々 Obj : И",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=103",
-    "url_diff": "https://parksu.darksabun.club",
     "level": "st6,重発狂7"
   },
   {
