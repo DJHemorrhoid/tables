@@ -20566,14 +20566,6 @@
     "level": "sl11"
   },
   {
-    "md5": "f260bcddb68a9443af4469c590778893",
-    "sha256": "8e9a3f974ffe1a25da8050a5aee990a3c262f215b1e32cc0f98775c4373b294e",
-    "title": "うさぎ祭り summer blossom [7K Insane: Blossom Bunny Retreat]",
-    "artist": "DJ Adrichii illust: ほったりょう obj: qtp13",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=144",
-    "level": "sl11"
-  },
-  {
     "md5": "9c7ed355c3c7734a6342cd0cf69da3b1",
     "sha256": "ef384cbc714783f492fce72c964b42e12144669385c5204576e150a50a55460e",
     "title": "ふれぷらっ！ [SP INSANE]",
@@ -20959,6 +20951,14 @@
     "artist": "ブースター / obj. hplaner",
     "url": "http://aquaseeds.net/",
     "url_diff": "http://www.hyper-laner.com/sabun.html",
+    "level": "sl11,Ude11"
+  },
+  {
+    "md5": "f260bcddb68a9443af4469c590778893",
+    "sha256": "8e9a3f974ffe1a25da8050a5aee990a3c262f215b1e32cc0f98775c4373b294e",
+    "title": "うさぎ祭り summer blossom [7K Insane: Blossom Bunny Retreat]",
+    "artist": "DJ Adrichii illust: ほったりょう obj: qtp13",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=144",
     "level": "sl11,Ude11"
   },
   {

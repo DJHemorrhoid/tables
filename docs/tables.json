@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-09-09 05:35",
+  "updated_at": "2026-09-10 11:48",
   "tables": [
     {
       "name": "sl/st",
@@ -18,9 +18,9 @@
       "slug": "ude-arm",
       "description": "ウーデオシ小学校難易度表+腕ガチ難易度表",
       "symbol": "",
-      "chart_count": 1365,
+      "chart_count": 1366,
       "folder_count": 28,
-      "updated_at": "2026-09-05 04:01",
+      "updated_at": "2026-09-10 11:48",
       "url": "./ude-arm/",
       "header_url": "./ude-arm/header.json"
     },
@@ -62,9 +62,9 @@
       "slug": "slst-arm",
       "description": "",
       "symbol": "",
-      "chart_count": 680,
+      "chart_count": 681,
       "folder_count": 44,
-      "updated_at": "2026-09-05 04:01",
+      "updated_at": "2026-09-10 11:48",
       "url": "./slst-arm/",
       "header_url": "./slst-arm/header.json"
     },
@@ -84,9 +84,9 @@
       "slug": "slst-only",
       "description": "",
       "symbol": "",
-      "chart_count": 1784,
+      "chart_count": 1783,
       "folder_count": 26,
-      "updated_at": "2026-09-06 04:01",
+      "updated_at": "2026-09-10 11:48",
       "url": "./slst-only/",
       "header_url": "./slst-only/header.json"
     },
@@ -185,7 +185,7 @@
       "symbol": "",
       "chart_count": 5392,
       "folder_count": 98,
-      "updated_at": "2026-09-05 04:01",
+      "updated_at": "2026-09-10 11:48",
       "url": "./slst-and-arm/",
       "header_url": "./slst-and-arm/header.json"
     },
