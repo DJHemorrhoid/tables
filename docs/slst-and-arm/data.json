@@ -17040,15 +17040,6 @@
     "level": "sl9"
   },
   {
-    "md5": "4f062e0b6a5143dca909152a316f05de",
-    "sha256": "4cb7dcf2ecf698f7a7e3ea16d1c0e38d10d093d31cfb265b22e351134e19047f",
-    "title": "Arcadia -幻眠る-",
-    "artist": "HaL feat. riri obj:れもんるり",
-    "url": "http://web.archive.org/web/20060621124303/http://www.remarkablesense.org/~hal/waveceptor/bms/bms_arcadia_LQ.zip",
-    "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
-    "level": "sl9"
-  },
-  {
     "md5": "9e8e7e04e1ce7709c9fb94ad85837550",
     "sha256": "2cc1e6b462a7d359252cdecced5e32e581b5d82fc1c5e606d3fafa5c6012b709",
     "title": "Armageddon -Luna-",
@@ -18085,6 +18076,15 @@
     "artist": "uma obj:Fender vs ELIGOS",
     "url": "https://www.dropbox.com/s/nh7fkxol0xkulm0/angelwing.zip?dl=0",
     "url_diff": "http://www.dropbox.com/s/1kskv1w498ojnti/_angelwingfeli_1to24bms_FendervsELIGOS_go.bme?dl=1",
+    "level": "sl9,Ude9"
+  },
+  {
+    "md5": "4f062e0b6a5143dca909152a316f05de",
+    "sha256": "4cb7dcf2ecf698f7a7e3ea16d1c0e38d10d093d31cfb265b22e351134e19047f",
+    "title": "Arcadia -幻眠る-",
+    "artist": "HaL feat. riri obj:れもんるり",
+    "url": "http://web.archive.org/web/20060621124303/http://www.remarkablesense.org/~hal/waveceptor/bms/bms_arcadia_LQ.zip",
+    "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
     "level": "sl9,Ude9"
   },
   {
@@ -28580,7 +28580,7 @@
     "title": "Legend of Seeker [loke]",
     "artist": "remixed celas Notes:C4",
     "url": "http://web.archive.org/web/20160808001644/http://creation-records.info:80/bms.htm",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02156",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02156.zip",
     "level": "st2"
   },
   {
