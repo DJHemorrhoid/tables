@@ -1195,6 +1195,15 @@
     "level": "sl1,乱打1"
   },
   {
+    "md5": "d9f16cec329ca6b573937fd82b7773fa",
+    "sha256": "e058b298231d4f17de9bb159700f79726614f15561d1cac98f65eb98b44882c5",
+    "title": "VERITAS [Crystal]",
+    "artist": "69 de 74 BGA:Kengo Nakao / OBJ:hecando",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=149",
+    "url_diff": "https://stellabms.xyz/upload/7036",
+    "level": "sl1,乱打1"
+  },
+  {
     "md5": "feb4d6ae86476a0ac748156dd7149f80",
     "sha256": "760c635003b4733b623d0323fc774b690e45dbff2689ec00b48a1c5ef47f4830",
     "title": "ZABANIYA [SP AZOTHER]",
@@ -3673,6 +3682,15 @@
     "level": "sl6,乱打5"
   },
   {
+    "md5": "f55d2595d0eda2db07775da666e26bc3",
+    "sha256": "1d6846fcaf0a8a117fa336adb1559603105441bf7f9464f0f0abc33e3086a71b",
+    "title": "Shelter (DOATHER)",
+    "artist": "ANKAKE obj:DOANOB",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=127",
+    "url_diff": "https://stellabms.xyz/upload/7914",
+    "level": "sl6,乱打5"
+  },
+  {
     "md5": "4d94884299fa5df74c8a05492257134e",
     "sha256": "6d1bf94fedbeeb9ede64c49a34e234491a1e88ef3f448d5de81a13bc8343fa8f",
     "title": "+i m a z i n e x o+ [returned nemesis]",
@@ -4354,15 +4372,6 @@
     "level": "sl7,乱打7"
   },
   {
-    "md5": "18b342075ee91d442c442f61e299d744",
-    "sha256": "9b8ba8ab097fddf9ac072dffa3ced6d1104396fb66b8dc9aa7c9e422ca0af860",
-    "title": "Weaponhuman [フィジカル横人間-1]",
-    "artist": "paraneumann obj:PhysicalThinhuman/arr:魔女",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
-    "url_diff": "https://stellabms.xyz/upload/7823",
-    "level": "sl7,乱打7"
-  },
-  {
     "md5": "bc9af91ef329755dcdbc743f9e76e680",
     "sha256": "41848245968555552746e16e52d830e081762de44ccef3e00f965a525dfebd35",
     "title": "Yellow Smile (bms edit) (ヽ*'∀')人 (*'∀'ノ)",
@@ -4557,6 +4566,15 @@
     "artist": "DashRaver feat. RainbowColors illust:れおん / obj:夢瑠",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=107",
     "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
+    "level": "sl8,乱打7"
+  },
+  {
+    "md5": "18b342075ee91d442c442f61e299d744",
+    "sha256": "9b8ba8ab097fddf9ac072dffa3ced6d1104396fb66b8dc9aa7c9e422ca0af860",
+    "title": "Weaponhuman [フィジカル横人間-1]",
+    "artist": "paraneumann obj:PhysicalThinhuman/arr:魔女",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
+    "url_diff": "https://stellabms.xyz/upload/7823",
     "level": "sl8,乱打7"
   },
   {
@@ -5086,6 +5104,15 @@
     "artist": "otoshi.b BGA:ShakeJ / obj : Atharnal",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=146",
     "url_diff": "https://stellabms.xyz/upload/4511",
+    "level": "sl9,乱打8"
+  },
+  {
+    "md5": "f685e88b8d29c38b37c5a94d4a94d2c2",
+    "sha256": "c2c0abb7d56e412461f135cabc32b9891faab4fa88d8e498cbad38a8d8f392a4",
+    "title": "わるいコ [Atharther]",
+    "artist": "nekomimi_STRaw obj. Atharnal",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=137",
+    "url_diff": "https://stellabms.xyz/upload/5516",
     "level": "sl9,乱打8"
   },
   {
@@ -7557,6 +7584,15 @@
     "level": "sl12,乱打12"
   },
   {
+    "md5": "2b58433bd9124e40c53276a7c4a821f9",
+    "sha256": "a5067639e8dcd734a7c0c52cae73174bbadcd945f1fdf9d003317910bef372a6",
+    "title": "* Crow Solace * (・ω・)",
+    "artist": "m108/さ BGA : 砂糖天麩羅 / シキイチル",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=83",
+    "url_diff": "https://web.archive.org/web/20181017230753/http://sabosabun.tank.jp/sabun/Crow%20Solace%20sabun.zip",
+    "level": "st0,乱打12"
+  },
+  {
     "md5": "9188a4c9876386173ba35158edf23a15",
     "sha256": "da6e707a6a87ee7732f7d9b399b429904b4935c29e6e6c3c6defc75971969494",
     "title": "#B2FFFF [SP Celeste Colored Strawberry]",
@@ -7633,6 +7669,15 @@
     "artist": "Yonder Voice / obj.かに",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
     "url_diff": "http://kanisabun.gozaru.jp/index.html",
+    "level": "st0,重発狂0"
+  },
+  {
+    "md5": "47c3b854d3a1b48bda856731a63a701f",
+    "sha256": "778274774def8a3282b22b9178e3a4f50460d0234e0beef077d06a1284e990b1",
+    "title": "Broken FM [Rehabilitation]",
+    "artist": "おわりん obj:therapist",
+    "url": "https://venue.bmssearch.net/bmstukuru2024/72",
+    "url_diff": "https://stellabms.xyz/upload/7967",
     "level": "st0,重発狂0"
   },
   {
@@ -7933,6 +7978,15 @@
     "level": "st0,重発狂0"
   },
   {
+    "md5": "acb300af338f3fd83aa733952aed6261",
+    "sha256": "9854a4edcb8ed1b7b45485bb97e8615da2e7d6ffae749b5847a4aa90f152f765",
+    "title": "P8107 (__)",
+    "artist": "onoken",
+    "url": "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+    "url_diff": "https://stellabms.xyz/upload/1170",
+    "level": "st0,重発狂0"
+  },
+  {
     "md5": "3a879bcfa26078e235a99b0e02f581cf",
     "sha256": "33b13f4fba8151d1aca9d9635ab207ef460a4b34597d0e94e4fae83b44418cd7",
     "title": "Quark -Baryon-",
@@ -7948,15 +8002,6 @@
     "artist": "NIKITA / obj:BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=88",
     "url_diff": "http://akred.web.fc2.com/baecon/RAPID-STRIKE_DTO.bms",
-    "level": "st0,重発狂0"
-  },
-  {
-    "md5": "1a2689b73230ed7231b99dcb9b44d026",
-    "sha256": "cf8e619fc7bc6f0853fbb7f3a2e60ecbc170893fa87ed4555ac4f3c493ca83aa",
-    "title": "Red End Dream[7key_EX]",
-    "artist": "daisan / Ds",
-    "url": "https://clockxellox.sakura.ne.jp/",
-    "url_diff": "http://sagena.harisen.jp/bms/redream_7X.zip",
     "level": "st0,重発狂0"
   },
   {
@@ -8352,6 +8397,15 @@
     "artist": "onoken obj: qtp13",
     "url": "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02247.zip",
+    "level": "st1,重発狂0"
+  },
+  {
+    "md5": "1a2689b73230ed7231b99dcb9b44d026",
+    "sha256": "cf8e619fc7bc6f0853fbb7f3a2e60ecbc170893fa87ed4555ac4f3c493ca83aa",
+    "title": "Red End Dream[7key_EX]",
+    "artist": "daisan / Ds",
+    "url": "https://clockxellox.sakura.ne.jp/",
+    "url_diff": "http://sagena.harisen.jp/bms/redream_7X.zip",
     "level": "st1,重発狂0"
   },
   {
@@ -9347,6 +9401,15 @@
     "level": "st1,重発狂2"
   },
   {
+    "md5": "6ff3185d3f334278393bf457664372c0",
+    "sha256": "3072b232103df635db00b3912f7708abc7dd24e10ef969fe179072b357e17d3b",
+    "title": "Steel Seraph [Polar-Lunar]",
+    "artist": "ROyama / obj:kurekoduki",
+    "url": "https://venue.bmssearch.net/bossbms/20",
+    "url_diff": "https://stellabms.xyz/upload/5900",
+    "level": "st1,重発狂2"
+  },
+  {
     "md5": "cf6201d2d84cd20628320ccaba9de49e",
     "sha256": "16d9485c9c22e9cf94505c2d85f349b5184b3ee499020e5a3a755082f719941f",
     "title": "WE ARE HARDCORE [ARE YOU READY?]",
@@ -9550,6 +9613,15 @@
     "artist": "kanone / mov:deadblue238 obj.Mallow♪",
     "url": "http://uploader.bms.ms/data/bof2011okfquh83/%5BSERENDIPITY-kanone%5DCross_Galaxy_ogg.rar",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03324.zip",
+    "level": "st2,重発狂2"
+  },
+  {
+    "md5": "70fe11d2dce993a95cb1151a02d7d6d0",
+    "sha256": "8230f923c5a2cbd3dc237e3573da4549673ab4d2dc4b182d894814f9db51bc62",
+    "title": "Crystal palace [GOD]",
+    "artist": "SHIKI movie:Nyu / putain",
+    "url": "http://shiki2.sakura.ne.jp/fohs.html",
+    "url_diff": "https://stellabms.xyz/upload/739",
     "level": "st2,重発狂2"
   },
   {
@@ -9984,6 +10056,15 @@
     "level": "st2,重発狂2"
   },
   {
+    "md5": "6612cd45753d2789670af9cf841e36ad",
+    "sha256": "6c02cc0814f60cba1653d6f7afb6be5a2dece07569edd18c69c4ae60529d171c",
+    "title": "Vermilion Comet* [EX]",
+    "artist": "CELLON./仙人掌の人",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=385&event=83",
+    "url_diff": "同梱譜面",
+    "level": "st2,重発狂2"
+  },
+  {
     "md5": "8f3cd17ee74b3367ca21b8dfb86624ad",
     "sha256": "587843829cd757ddb68985af77317cafe6cc6e974009b7062192328c74cf7610",
     "title": "Way of Life! -life-",
@@ -10330,6 +10411,15 @@
     "artist": "猫蟹丸 / obj: black train",
     "url": "http://wayback.archive.org/web/20090309205500/http://knm.sakura.ne.jp/pms/index.html",
     "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
+    "level": "st3,重発狂3"
+  },
+  {
+    "md5": "c3dcfb319494b245310bfc01dc78824e",
+    "sha256": "9177cb9272361df5a689f9d46faeed3e22bbf24e941b3668361c0d2bc7433a40",
+    "title": "AIWS [Bivdu]",
+    "artist": "くるぶっこちゃん BGA : geniway obj:1mi",
+    "url": "https://www.dropbox.com/s/o2i0op050jxjkeu/AIWS.zip?dl=1",
+    "url_diff": "https://stellabms.xyz/upload/5495",
     "level": "st3,重発狂3"
   },
   {
@@ -10827,6 +10917,15 @@
     "level": "st3,重発狂3"
   },
   {
+    "md5": "e67bf8439eaf9962485031d78b9c23a7",
+    "sha256": "ccf09808097eff486e756c5ffa3c41c335cf93e2c53e9b985aa2634802a5302a",
+    "title": "YAKUI [Intense]",
+    "artist": "はがね bgi.ばんぶー / arr&obj:potechang",
+    "url": "https://docs.google.com/uc?export=download&id=0B8Buw0z19S9DU0hUQnJTWE5vRzA",
+    "url_diff": "https://stellabms.xyz/upload/8258",
+    "level": "st3,重発狂3"
+  },
+  {
     "md5": "0d6e7a4bb86fc4019f91e177309c1d61",
     "sha256": "6fe4fb4268e5e6eedac99ceb26dd5b7672ae5adb0069d391514d64a5ae75ebad",
     "title": "black opal [Pentagon]",
@@ -11292,6 +11391,15 @@
     "artist": "Nuekawa obj: qtp13",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=137",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05798.zip",
+    "level": "st4,重発狂4"
+  },
+  {
+    "md5": "d8e98e08ac459eee47d65c5ddc9f3cf8",
+    "sha256": "5b1f53996a3cf9e76cfc7fb232d5555f1ad5cd6b38720ca892a3bdbdb51aabd7",
+    "title": "Dark Candy [HEARTFUL]",
+    "artist": "Aspid Cat (BGA Kusanegi & Cattohato / obj:魔女 / BMS Aspid Cat)",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=146",
+    "url_diff": "https://stellabms.xyz/upload/5994",
     "level": "st4,重発狂4"
   },
   {
@@ -12058,6 +12166,15 @@
     "level": "st5,重発狂5"
   },
   {
+    "md5": "158b98994ecf9d6ae473031f6305527b",
+    "sha256": "6b1f52e727c2b8e682eb1a97420b47061c343cb73e346cb6f12f3719ccd1f739",
+    "title": "Halcyon [LEGEND]",
+    "artist": "xi",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=65",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2062.zip",
+    "level": "st5,重発狂5"
+  },
+  {
     "md5": "7d80402a4a54bd90f14d46bb52677142",
     "sha256": "f77c2cba995cd79332733c6b9502995cd3aea51e7c9fe008049517a6f694c74e",
     "title": "Happico Happico -Genocide-",
@@ -12381,6 +12498,15 @@
     "level": "st5,重発狂5"
   },
   {
+    "md5": "ee97abac403633125e515f147a9dd4e2",
+    "sha256": "6b1a34e71101a917749f3639b4f7ec67054ec71db16b95ace21c21786a638b8a",
+    "title": "自強號 [EMU100+]",
+    "artist": "痛男次郎 obj:ELIGOS / Clodsire",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=395&event=88",
+    "url_diff": "https://stellabms.xyz/upload/2746",
+    "level": "st5,重発狂5"
+  },
+  {
     "md5": "1b1b4ccac295b1369af50edc300d0042",
     "sha256": "639cba0ea725cf26d8befc39ed9ffd9527b6f5300dc02265f89e03e324f1c958",
     "title": "虹夜パレッド [Hexagon]",
@@ -12388,6 +12514,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
     "url_diff": "http://bms.hexlataia.xyz/tables/hexajoy.html",
     "level": "st5,重発狂5"
+  },
+  {
+    "md5": "55cd97a4b5a44885caeab4a8c3eb7c7d",
+    "sha256": "b99e12ed47f65a6a879b03185a33ff418c3d4b8c3400689b39b361119f62847a",
+    "title": "Apocaliptix [Distress]",
+    "artist": "Juggernaut. BGA:Cube Obj:Guanacoite",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=233&event=127",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05036.zip",
+    "level": "st5,重発狂6"
   },
   {
     "md5": "8ab9993e183e8dd178d81fb7bf3183a5",
@@ -12605,6 +12740,15 @@
     "level": "st6,重発狂6"
   },
   {
+    "md5": "468cd7b788496fc8b0fc3dada8e49e11",
+    "sha256": "afffb4fa63dca77397744264a7c28bd7d061fb55369e18f687e064bd1d0739d0",
+    "title": "Plasmatic Universe [RE]",
+    "artist": "Quree BGA by Fiz obj:IBARAGI_YOSHIMI",
+    "url": "https://drive.google.com/file/d/1wuNfQbcbG2Y1b0yjxJM5m_tEhVhEc3PO/view",
+    "url_diff": "https://stellabms.xyz/upload/6314",
+    "level": "st6,重発狂6"
+  },
+  {
     "md5": "af0a6d6760d31da7492658fd33d712bb",
     "sha256": "1c26fb3ddec004c12ebc4a1758a2172d84c13becfad991e3353777426dbfd152",
     "title": "Puckish Angel [Bivdu]",
@@ -12656,6 +12800,15 @@
     "artist": "TamaDo / 逸見魔理男",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00701.zip",
+    "level": "st6,重発狂6"
+  },
+  {
+    "md5": "c873e16f8799bc2aee552edc351701ac",
+    "sha256": "2c70d464578dd9f09e95ba3143560e104bf60aaa3e95e60133c29ee52fb0c2f3",
+    "title": "Xerynth Zorok [Stiila]",
+    "artist": "wbr obj:1mi",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=149",
+    "url_diff": "https://stellabms.xyz/upload/6696",
     "level": "st6,重発狂6"
   },
   {
@@ -12826,6 +12979,15 @@
     "artist": "ROKINA / obj.TBJ",
     "url": "https://drive.google.com/file/d/1ZMr7a50XQU-rl13_PfE6w6O_762jC3W4/view?usp=drive_link",
     "url_diff": "https://stellabms.xyz/upload/2568",
+    "level": "st7,重発狂7"
+  },
+  {
+    "md5": "fdae8f1930fada14432827a0d02ebd39",
+    "sha256": "cf521a7e478aeeb06c851d67224c6249300e9b70f5ddffb7af219b126a84226a",
+    "title": "3回ミスったら死ぬBMS -Harether-",
+    "artist": "ビタミンc obj:HARE",
+    "url": "https://drive.google.com/file/d/1vYLSU4s9k_whlGuE2rs2zYIH4MnpSZAq/view?usp=sharing",
+    "url_diff": "https://stellabms.xyz/upload/7986",
     "level": "st7,重発狂7"
   },
   {
@@ -13151,6 +13313,15 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=142",
     "url_diff": "https://drive.usercontent.google.com/u/0/uc?id=1yyJTT2rvY8m9xh0BhUECfWK1HGKBCG3E&export=download",
     "level": "st7,重発狂7"
+  },
+  {
+    "md5": "c728cd2edf7b2f1aeefff43f5fc4e852",
+    "sha256": "42b2ef8ad1e437b3ec9808ffc93e5397a184dfd21199b74e2f4df6834c0b302c",
+    "title": "black opal [Pentagon+]",
+    "artist": "TAK vs General / Jeff obj.hex / Clodsire",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=49",
+    "url_diff": "https://stellabms.xyz/upload/2446",
+    "level": "st7,重発狂8"
   },
   {
     "md5": "f683f2748668a08e0674d9ad57e68df6",
@@ -13582,6 +13753,15 @@
     "artist": "CYLTIE.",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=139",
     "url_diff": "https://stellabms.xyz/upload/4130",
+    "level": "st10,重発狂10"
+  },
+  {
+    "md5": "8298c24c98efed81599ddf7a2fabec17",
+    "sha256": "e8faf08274b332c13d7a72d17dfb407ac74ee7bbd3d3107990f5d85742317c16",
+    "title": "Total Eclipse of the Sun -32HELL-",
+    "artist": "-45 obj:PiPiNeko",
+    "url": "https://drive.google.com/file/d/1dFmUVUO1oEPytDkYAjkOBF3MWG-uaDym/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/5638",
     "level": "st10,重発狂10"
   },
   {

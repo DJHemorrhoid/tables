@@ -751,6 +751,15 @@
     "level": "sl3"
   },
   {
+    "md5": "869cc79745fd54db3aa1824c2cc1ce5d",
+    "sha256": "f7f2b1eb59ef673dcd17ff8b24ca68befa8e8be900fd2277337358ca2f27d4ca",
+    "title": "on impetus -for noobetus-",
+    "artist": "ルゼ obj. AYhaz",
+    "url": "https://event.yaruki0.net/VSevent/impression/32",
+    "url_diff": "https://www.dropbox.com/s/5ze257zgjps140h/04_on_impetus_noobetus.bms?dl=0",
+    "level": "sl3"
+  },
+  {
     "md5": "81b481d6ddb5842343b7d3aaee216d5e",
     "sha256": "837443ae83d6239073bdc7c8dd500c2555f7c12da6774d3eb2d1f25b6193ddf9",
     "title": "strawberry happiness [UnHappiness]",
@@ -2342,6 +2351,15 @@
     "level": "st1"
   },
   {
+    "md5": "18055a611e8b97f4cc760aed807c6329",
+    "sha256": "0c06df839aeebb2bc01be8df97b9358fa9a11929e8cb4ce3091a7aa5957f2678",
+    "title": "Blizzard [Fierce]",
+    "artist": "38k/obj：双六",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=110",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01142.zip",
+    "level": "st1"
+  },
+  {
     "md5": "bd0108a46153ae6f082864843add540c",
     "sha256": "79d9dc44f63d8583e4645005cead33a94bab4829ee4c603bb5e3a531b5a90f2b",
     "title": "Canon (blazing summer mix) [mildelay]",
@@ -2623,6 +2641,15 @@
     "artist": "45Is-m BGA:-45 obj:秘密",
     "url": "http://www.is-m.jp/bms/song/em41.html",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up6519.zip",
+    "level": "st2"
+  },
+  {
+    "md5": "51c54a58f1b9c6a6c9f9642ec2779370",
+    "sha256": "3fe69f64d2d1793b2ae1cae777c5550bc1a041f907bbd63663767ac5545c698a",
+    "title": "Girl's Heart ～人形少女 [Dishonest]",
+    "artist": "おみー obj. LuvTek",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=133",
+    "url_diff": "https://darksabun.club/event/bofxvi/",
     "level": "st2"
   },
   {
@@ -3480,6 +3507,15 @@
     "level": "st5"
   },
   {
+    "md5": "a85af4af36c9702e1839f37478e40ca2",
+    "sha256": "72627d6f856789dafbcf65f2abdb8336fd3fc0733ee73b9e13860495bc6166ec",
+    "title": "キミとスキ [cutest]",
+    "artist": "Rinko Kobayakawa feat. Peko Azusawa / obj. laner",
+    "url": "https://drive.google.com/file/d/1tDO-bS6MC8nWua7x6Lyyo7W-uMfgU4bx/view?usp=drive_link",
+    "url_diff": "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "level": "st5"
+  },
+  {
     "md5": "b006f2f65fe0d08cd9f685fa56b8dfbf",
     "sha256": "0d4840561eab32a68f942f53e6ee6344ec07f44a3fa16c4b0175a67b62fdd532",
     "title": "スーパーマーケット モルフ　テーマソング [HEARTFUL2]",
@@ -3682,6 +3718,14 @@
     "artist": "MisomyL / obj : Mary_Sue",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
     "url_diff": "https://marysue.darksabun.club/",
+    "level": "st7"
+  },
+  {
+    "md5": "c83265a0c72d50293073db5295e147fe",
+    "sha256": "e97732887edd992c0cffc0eb82aa2031bf0934e2ec2aa69e66468fb051ffec17",
+    "title": "Corgito Ergosum [SP PERIOD]",
+    "artist": "Raimukun movie:Inukoro / obj:LuvTek",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=146",
     "level": "st7"
   },
   {

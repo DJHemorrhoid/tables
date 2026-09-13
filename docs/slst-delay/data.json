@@ -929,6 +929,15 @@
     "level": "sl12,dl-1"
   },
   {
+    "md5": "b93fcf928a9a4c5a47ab6a106b61fd89",
+    "sha256": "77cdf7580aca1bda0e47ff8a6aec003a8a9c41feb9de4d59bee9ddd13861a044",
+    "title": "work.it ＾＾overtime",
+    "artist": "dandeless obj:多要素糞譜面暴食症候群",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=133",
+    "url_diff": "同梱譜面",
+    "level": "sl12,dl-1"
+  },
+  {
     "md5": "78897b6144c95a866b645f8d0a222959",
     "sha256": "ca1428560a1d037ffaa5eef0e4ce13f0f10851deb927307195990486e013cc4b",
     "title": "タマモッチ [Snother]",
@@ -1710,6 +1719,15 @@
     "url": "https://drive.google.com/uc?export=download&id=1xBf49hr8l9KOSZJun7opuHQN5h3cnUzW",
     "url_diff": "https://darksabun.club/event/renewal2/sabun/23_LittlEHearTs_tyrcs.zip",
     "level": "st2,dl3"
+  },
+  {
+    "md5": "c3dcfb319494b245310bfc01dc78824e",
+    "sha256": "9177cb9272361df5a689f9d46faeed3e22bbf24e941b3668361c0d2bc7433a40",
+    "title": "AIWS [Bivdu]",
+    "artist": "くるぶっこちゃん BGA : geniway obj:1mi",
+    "url": "https://www.dropbox.com/s/o2i0op050jxjkeu/AIWS.zip?dl=1",
+    "url_diff": "https://stellabms.xyz/upload/5495",
+    "level": "st3,dl3"
   },
   {
     "md5": "cabb4c9e687aa2175a7b1f880bdac8b1",
@@ -3061,6 +3079,15 @@
     "level": "st7,dl7"
   },
   {
+    "md5": "bc38e962541240b069771ab046010708",
+    "sha256": "a76e5f0ff8155708cc23e6dce8de86bef20cb0a2f92f44de0d085f4c1f1163bc",
+    "title": "DRAGONLADY [HEARTLESS]",
+    "artist": "Nankumo BGA：Cube3 / obj&arr:魔女",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=60",
+    "url_diff": "https://stellabms.xyz/upload/3819",
+    "level": "st7,dl7"
+  },
+  {
     "md5": "a4741bb68417a82573d53da3cbb551b2",
     "sha256": "bfbfcb4d0b46a52358e3be03e8eed898bc9877969c482c006e9114ee988995b5",
     "title": "Dar [Terrible]",
@@ -3930,6 +3957,15 @@
     "artist": "Music:しらいし/ 差分　赤い人",
     "url": "https://web.archive.org/web/20181105202104/http://www.geocities.jp/musicmakeman/sabun.html",
     "url_diff": "http://akred.web.fc2.com/ak-red-new.html",
+    "level": "st10,dl10"
+  },
+  {
+    "md5": "8298c24c98efed81599ddf7a2fabec17",
+    "sha256": "e8faf08274b332c13d7a72d17dfb407ac74ee7bbd3d3107990f5d85742317c16",
+    "title": "Total Eclipse of the Sun -32HELL-",
+    "artist": "-45 obj:PiPiNeko",
+    "url": "https://drive.google.com/file/d/1dFmUVUO1oEPytDkYAjkOBF3MWG-uaDym/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/5638",
     "level": "st10,dl10"
   },
   {
