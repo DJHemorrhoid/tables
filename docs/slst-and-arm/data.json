@@ -3427,6 +3427,15 @@
     "level": "sl1"
   },
   {
+    "md5": "478e9793e0337833d835208626bcdacd",
+    "sha256": "8cf74962166852266d824b6b65c77cc9651f43e9eb8bae9f96f373c72a6545bd",
+    "title": "Showguts -otoshi.d-",
+    "artist": "Ninja Action Team / selene.",
+    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?5FMRQAaQ",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03805.zip",
+    "level": "sl1"
+  },
+  {
     "md5": "c34c4fd1d26168568b79565ffbe4a1b9",
     "sha256": "8f16dd599a88ea34aad004959669d1933d8859f8878414c5ed2d080cc9cb1a38",
     "title": "Signal Stars [Radiance Ark]",
@@ -4481,15 +4490,6 @@
     "artist": "sound piercer with MAY (mov : MEL & zue-row) / obj:BAECON",
     "url": "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=53",
     "url_diff": "http://app.box.com/s/mgxeban5yeqbicazs9ts",
-    "level": "sl1,Ude1"
-  },
-  {
-    "md5": "478e9793e0337833d835208626bcdacd",
-    "sha256": "8cf74962166852266d824b6b65c77cc9651f43e9eb8bae9f96f373c72a6545bd",
-    "title": "Showguts -otoshi.d-",
-    "artist": "Ninja Action Team / selene.",
-    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?5FMRQAaQ",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03805.zip",
     "level": "sl1,Ude1"
   },
   {
@@ -14947,7 +14947,7 @@
     "title": "Yellow Smile (bms edit) (ヽ*'∀')人 (*'∀'ノ)",
     "artist": "Junk BGA : YARITA / obj:あると vs りこぴー",
     "url": "https://www.axfc.net/u/3933668.zip",
-    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/bof/up0857.zip",
     "level": "sl7"
   },
   {
