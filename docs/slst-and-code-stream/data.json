@@ -18583,15 +18583,6 @@
     "level": "sl8"
   },
   {
-    "md5": "92c48ee11e5c2393b7349812fdb4b132",
-    "sha256": "2244987fd6f1b02cb8937ce1cb26a0e08d1874bc2d3a40fd854880142d82323d",
-    "title": "Emit [Emotional]",
-    "artist": "Re-Te obj.Mallow♪",
-    "url": "https://drive.google.com/file/d/1ps-0UXgztUVUzv9qgd9HBeWH1mgvLorl/view?usp=drive_link",
-    "url_diff": "https://drive.google.com/drive/u/0/folders/1NwG1RAKMGw_47NPdAM4GLnAKQPP_oPXe",
-    "level": "sl8"
-  },
-  {
     "md5": "1bc969cfd715e1bea67839599035c94e",
     "sha256": "d81fe8edb6461f1c1deeecf411c2e6710410963d7797c78c64e7e548ab87a8d8",
     "title": "Empress of Raizze [ストレッチ]",
@@ -19434,6 +19425,15 @@
     "artist": "きこにゃん BGI:らりる obj:Keysa",
     "url": "https://venue.bmssearch.net/bmstukuru2023/20",
     "url_diff": "https://stellabms.xyz/upload/7286",
+    "level": "sl8,乱打8"
+  },
+  {
+    "md5": "92c48ee11e5c2393b7349812fdb4b132",
+    "sha256": "2244987fd6f1b02cb8937ce1cb26a0e08d1874bc2d3a40fd854880142d82323d",
+    "title": "Emit [Emotional]",
+    "artist": "Re-Te obj.Mallow♪",
+    "url": "https://drive.google.com/file/d/1ps-0UXgztUVUzv9qgd9HBeWH1mgvLorl/view?usp=drive_link",
+    "url_diff": "https://drive.google.com/drive/u/0/folders/1NwG1RAKMGw_47NPdAM4GLnAKQPP_oPXe",
     "level": "sl8,乱打8"
   },
   {
@@ -28814,15 +28814,6 @@
     "level": "st0"
   },
   {
-    "md5": "5f39dc90e202ed59f1dd7221ab157c52",
-    "sha256": "6d6c8d8e69d8f024688b6781687ba629db37f2674cd68647d492a6c8b8d4e7b6",
-    "title": "私たちの恋は観音開き (百合とレズの境界)",
-    "artist": "髭姫 feat.しゆ＆橘花音＆えみゅう。 LYRICS：やんばるん BGA：髭姫 Arr.Milk_tya",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=96",
-    "url_diff": "https://darksabun.club/mirror/absolute/uploader/up4900.zip",
-    "level": "st0"
-  },
-  {
     "md5": "9b9d1319d72916a1fa54ee9fe3e741bb",
     "sha256": "9b18cbda2bcfad5d6c6ce46df4ee509098e1ffa9450e53ff984dd752e3d1ae35",
     "title": "翼が枯れている [SP ILLUSION+]",
@@ -29689,6 +29680,15 @@
     "artist": "こどものなみだ / y",
     "url": "http://tm2.toymusical.net/",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up0279.rar",
+    "level": "st0,重発狂0"
+  },
+  {
+    "md5": "5f39dc90e202ed59f1dd7221ab157c52",
+    "sha256": "6d6c8d8e69d8f024688b6781687ba629db37f2674cd68647d492a6c8b8d4e7b6",
+    "title": "私たちの恋は観音開き (百合とレズの境界)",
+    "artist": "髭姫 feat.しゆ＆橘花音＆えみゅう。 LYRICS：やんばるん BGA：髭姫 Arr.Milk_tya",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=96",
+    "url_diff": "https://darksabun.club/mirror/absolute/uploader/up4900.zip",
     "level": "st0,重発狂0"
   },
   {
@@ -32406,6 +32406,15 @@
     "level": "st1,重発狂1"
   },
   {
+    "md5": "6ff3185d3f334278393bf457664372c0",
+    "sha256": "3072b232103df635db00b3912f7708abc7dd24e10ef969fe179072b357e17d3b",
+    "title": "Steel Seraph [Polar-Lunar]",
+    "artist": "ROyama / obj:kurekoduki",
+    "url": "https://venue.bmssearch.net/bossbms/20",
+    "url_diff": "https://stellabms.xyz/upload/5900",
+    "level": "st1,重発狂1"
+  },
+  {
     "md5": "38e8eec9831456f09e51ef1f89a4035e",
     "sha256": "01105631efb0194ee312c6900248f2227c7480b599219b9fce57effaf0f15834",
     "title": "Subjection Method [人を怒らせる方法]",
@@ -32840,15 +32849,6 @@
     "artist": "HOUJIROU obj:1mi",
     "url": "https://venue.bmssearch.net/3/50",
     "url_diff": "https://stellabms.xyz/upload/4625",
-    "level": "st1,重発狂2"
-  },
-  {
-    "md5": "6ff3185d3f334278393bf457664372c0",
-    "sha256": "3072b232103df635db00b3912f7708abc7dd24e10ef969fe179072b357e17d3b",
-    "title": "Steel Seraph [Polar-Lunar]",
-    "artist": "ROyama / obj:kurekoduki",
-    "url": "https://venue.bmssearch.net/bossbms/20",
-    "url_diff": "https://stellabms.xyz/upload/5900",
     "level": "st1,重発狂2"
   },
   {
