@@ -22612,7 +22612,7 @@
     "title": "P8107 (__)",
     "artist": "onoken",
     "url": "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
-    "url_diff": "https://stellabms.xyz/upload/1170",
+    "url_diff": "https://yaritaihoudie.fr/sabun.html",
     "level": "st0"
   },
   {
@@ -29457,15 +29457,6 @@
     "level": "st3"
   },
   {
-    "md5": "ba406a1568dfdca620553f91f6ef8f9e",
-    "sha256": "f80d9f8e26f0b72cf06edc247dc4e5ec25afffba1e52efe36d5752b3c8e8a09d",
-    "title": "Apollo [Monsther++]",
-    "artist": "xelloscope / obj:Monsta",
-    "url": "http://www.luzeria.net/?p=387",
-    "url_diff": "https://web.archive.org/web/20200306155443/http://3228monsta.web.fc2.com/Apollo.zip",
-    "level": "st3"
-  },
-  {
     "md5": "c8f94305dd353be85579d3b8b4e377d4",
     "sha256": "64ab00614953adecaa74cffd806f20e09bd3d134eec1a0d146add0c17565c2e3",
     "title": "BIG LOVE [HEARTFUL]",
@@ -31815,6 +31806,15 @@
     "artist": "鳩 obj:sgn",
     "url": "https://drive.google.com/file/d/1XhGYHpULhcbWnfI6u0E0DdZfbvvhoEDw/view?usp=drive_link",
     "url_diff": "https://stellabms.xyz/upload/7628",
+    "level": "st3,連打複合3"
+  },
+  {
+    "md5": "ba406a1568dfdca620553f91f6ef8f9e",
+    "sha256": "f80d9f8e26f0b72cf06edc247dc4e5ec25afffba1e52efe36d5752b3c8e8a09d",
+    "title": "Apollo [Monsther++]",
+    "artist": "xelloscope / obj:Monsta",
+    "url": "http://www.luzeria.net/?p=387",
+    "url_diff": "https://web.archive.org/web/20200306155443/http://3228monsta.web.fc2.com/Apollo.zip",
     "level": "st3,連打複合3"
   },
   {
