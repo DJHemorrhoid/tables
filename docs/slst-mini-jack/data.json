@@ -8,6 +8,14 @@
     "level": "sl0,微縦連0"
   },
   {
+    "md5": "fb0233d3c4940c3bb183477811e012ce",
+    "sha256": "c68af01ff9e53518aa88a3e80791bc94e5ec252b2b6ed9fa835b261dfc109c8a",
+    "title": "Phantom [SP INSANE]",
+    "artist": "AuroD bga:wheatfox;obj:NebulaBunny_uwu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=140",
+    "level": "sl1,微縦連1"
+  },
+  {
     "md5": "1ffb42c741af167beccd7b4352daec39",
     "sha256": "f5fd1aa2399ed0c5a8cb467d80e0ad32a94d9dd40ac2e8e78e7b2a7632541965",
     "title": "last:wish (Another)",
@@ -617,6 +625,15 @@
     "artist": "Abel & litmus* feat. nayuta obj: Mary_Sue",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=448&event=140",
     "url_diff": "https://marysue.darksabun.club/",
+    "level": "st0,連打複合0"
+  },
+  {
+    "md5": "238a1fecf0ad5bac027a8667a721d37d",
+    "sha256": "8b4bfecef8236a29f16c91f5f367e01dafe7f1edfee1e9b8c5d113676a5d50ed",
+    "title": "Falling [insanity]",
+    "artist": "uma (Original:ZUN / obj:IBARAGI_YOSHIMI)",
+    "url": "https://venue.bmssearch.net/ondanre2/15",
+    "url_diff": "https://stellabms.xyz/upload/6132",
     "level": "st0,連打複合0"
   },
   {
@@ -2233,6 +2250,15 @@
     "level": "st5,連打複合5"
   },
   {
+    "md5": "eeda1c2a7b8f54376dd23b41e3e95f9c",
+    "sha256": "93b5789e72e119dc4110e117b607674b54d70a95eca11125fe87e45d970600e0",
+    "title": "魂姫～たまひめ～ [mhmh]",
+    "artist": "うまるつふり",
+    "url": "https://venue.bmssearch.net/bmsshuin2/7",
+    "url_diff": "https://stellabms.xyz/upload/868",
+    "level": "st5,連打複合5"
+  },
+  {
     "md5": "c103102d0ddb18751dc90b0ef4982ca7",
     "sha256": "508a3b67a2480e340e6922f3f17848a399306fd5c165380558676de0472af336",
     "title": "Against the Destiny [Genesis]",
@@ -2724,6 +2750,15 @@
     "artist": "stuv + qfeileadh bms:stuv | mov:kazari | obj:qfeileadh",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=142",
     "url_diff": "同梱譜面",
+    "level": "st7,連打複合7"
+  },
+  {
+    "md5": "259a6c8d2b078fa36010ae1bd31a219a",
+    "sha256": "048efaaaa265db2872f1a5326a7007ff5b5b34608bc35935c4a3a1234cf5c324",
+    "title": "キユビック [Cube]",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj:tyrcs",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=137",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
     "level": "st7,連打複合7"
   },
   {

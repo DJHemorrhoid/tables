@@ -878,6 +878,14 @@
     "level": "sl3,Ude3"
   },
   {
+    "md5": "4895bd23b4a853f09f3fcbe99a4876ad",
+    "sha256": "9a3d79cb499566fe3ae485778302d394838faca551967e377dda2ae34a090c15",
+    "title": "羅武浪漫好",
+    "artist": "けいずとふぁいん",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=393&event=140",
+    "level": "sl3,Ude3"
+  },
+  {
     "md5": "2706c01d9cbc702afe0db64d29ab44b5",
     "sha256": "bbea7f8d2ce35bada2056240876b9258d747cf039d7d2d0cffc5646337bccbfd",
     "title": "雪月夜鐘 [Maniac]",
@@ -947,6 +955,15 @@
     "artist": "tkqn14_Append Respect for Y.Y. obj . Atharnal",
     "url": "https://sukestonepyua.wixsite.com/bmspackprimitiv",
     "url_diff": "https://stellabms.xyz/upload/6195",
+    "level": "sl4,Ude4"
+  },
+  {
+    "md5": "c56c046eb75eee143e825ac045208f5a",
+    "sha256": "71e1ee735ac5fb36384cf2046507d741d7b63da3bb5846fc8e0890ac4d142bcd",
+    "title": "Kanon's Fantasia -Flower Forest- [ver.翠]",
+    "artist": "Tima obj.すいかいの譜面工房",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=74",
+    "url_diff": "https://bmscharteditorsgroup.wixsite.com/initialatoz",
     "level": "sl4,Ude4"
   },
   {
@@ -1384,6 +1401,15 @@
     "artist": "sasakure.UK/さ",
     "url": "http://web.archive.org/web/20070727155428/http://sasakure.bms.ms/music/pangaea.htm",
     "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/pangaea%20sabun.zip",
+    "level": "sl7,Ude6"
+  },
+  {
+    "md5": "66e1cf445cd971c7501a613010020a85",
+    "sha256": "982bde85a9e80a90a96eb230fde512bc8eae3d3a3916d5ff352c36b2f1874506",
+    "title": "Stargazer [流星雨が降る夜に]",
+    "artist": "Lime / A",
+    "url": "https://drive.google.com/file/d/1kpfALTbDlOa7Wr98thynrL0W8F0HebW0/view?usp=drive_link",
+    "url_diff": "https://darksabun.club/mirror/absolute/uploader/up6107.zip",
     "level": "sl7,Ude6"
   },
   {
@@ -3424,6 +3450,14 @@
     "level": "st2,腕2"
   },
   {
+    "md5": "31f984349a1ee40e6423ba003abf63ce",
+    "sha256": "a55271e023154d07d410d7c5e7cd55021cf1482cc0b532436f993f5d81c3116b",
+    "title": "MEGALOVANIA [do you wanna have a bed time?]",
+    "artist": "Toby Fox",
+    "url": "https://mega.nz/file/pSAziT4S#SkhPLebvU55quE7yf0B39THEkg9iIkXm9Ozin9V36UQ",
+    "level": "st2,腕2"
+  },
+  {
     "md5": "ebf75354a4bd0f8bfb8d1702a4a67bb6",
     "sha256": "ebbc80f7feda47aad921b32c034d38131648f416dc2b7b801554d664e4dd126c",
     "title": "Neo Side [Run Away]",
@@ -3545,6 +3579,15 @@
     "artist": "koushirou（卑屈P）/さ",
     "url": "http://jirai8.web.fc2.com/music.html",
     "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "level": "st2,腕2"
+  },
+  {
+    "md5": "31ad3e62e6f2af690e9f41a0f1b34f59",
+    "sha256": "80d9473f022a03c4a86d39c3b86182908f2a478eb5b74865eca316b00beaaf31",
+    "title": "プラネット [Pluto]",
+    "artist": "あまつち探検隊 Arkplot + 杠葉えりか / obj:Criyajuh",
+    "url": "https://venue.bmssearch.net/bmsshuin3/80",
+    "url_diff": "https://stellabms.xyz/upload/3053",
     "level": "st2,腕2"
   },
   {
@@ -4626,6 +4669,15 @@
     "level": "st5,腕5"
   },
   {
+    "md5": "8c32db5d6f816523669c42a3c78f4b36",
+    "sha256": "54489086b39f556fa2b6e0a3b6f89472485b08ea87a746a40afc82d66ba6ebd6",
+    "title": "Fading Star [Twilight]",
+    "artist": "ginkiha / obj.TBJ",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=83",
+    "url_diff": "https://stellabms.xyz/upload/2816",
+    "level": "st5,腕5"
+  },
+  {
     "md5": "66e996d348123b13b231b2b01847e3f8",
     "sha256": "0c5c5011ffd2fc607665efbda2a0930cc2ae0378b4d203c19623bd80b8b2a4ca",
     "title": "Falling in LOVE [You're special to me...]",
@@ -5198,6 +5250,15 @@
     "artist": "momo★yama obj.fuko",
     "url": "https://venue.bmssearch.net/msgkbms/11",
     "url_diff": "https://stellabms.xyz/upload/5236",
+    "level": "st6,腕6"
+  },
+  {
+    "md5": "f9c2d8dda9f181f880dadef52d515ff8",
+    "sha256": "1df144253f918084f54114a79bf1c6281c88f8b4736c9c2913ddefde9dddfaf0",
+    "title": "現実をカットアップしてみた [VR]",
+    "artist": "Yu^ta obj:antimongen",
+    "url": "http://famousbms.web.fc2.com/",
+    "url_diff": "https://stellabms.xyz/upload/2385",
     "level": "st6,腕6"
   },
   {

@@ -290,6 +290,15 @@
     "level": "sl4,///4"
   },
   {
+    "md5": "282117118fdaa21e5108edef77028b96",
+    "sha256": "eebe4bfc0619c0b96f01e728031b18af3cc3e62d29bb31739d5ea7b65702cff6",
+    "title": "MANHATTAN  [Debut]",
+    "artist": "ゆんゆん obj: qtp13",
+    "url": "https://drive.google.com/file/d/1rWBL1AB0rlZckgkLWhvV3a7tqj5BU7j5/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/7110",
+    "level": "sl5,///4"
+  },
+  {
     "md5": "d33950e1add0bf47a18e1c13e419ca9d",
     "sha256": "74cd080ff22139eb4b150923e7fc80886d2b90a2ee66d96a264d01e3737a6d66",
     "title": "Demon's Roar [SP ANOTHER]",
@@ -767,6 +776,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
     "url_diff": "http://lapisbms.web.fc2.com/",
     "level": "sl10,dl-2,///10"
+  },
+  {
+    "md5": "04588b6061302d121eee2491a7c8ecd2",
+    "sha256": "4b4c5aee92b0f449b274872643a7cf8b1edaf217ac825f340aa74346d4666500",
+    "title": "LOW [DRIZZLE]",
+    "artist": "エクスペリメンタル三郎 obj:Keysa",
+    "url": "https://venue.bmssearch.net/bmstukuru2024/58",
+    "url_diff": "https://stellabms.xyz/upload/7928",
+    "level": "sl11,///11"
   },
   {
     "md5": "b7143d7df5c81feddfdabefdf3704320",
@@ -2279,6 +2297,15 @@
     "level": "st4,dl4"
   },
   {
+    "md5": "2046085446bf578566b0eecdb7d0e1d2",
+    "sha256": "9967fcda51d59aff4061778d8ff41f7a17f483c8c53ef6ad9b6224298eb312ea",
+    "title": "あにまらいおっと [DELAYRIOT]",
+    "artist": "TOMA Remixed by FALL obj tyrcs",
+    "url": "http://www.likeside.net/2009/05/05/lolipicottemicknpop-animariot/",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05304.zip",
+    "level": "st4,dl4"
+  },
+  {
     "md5": "128d9f5885624da74a56c192dad41e5a",
     "sha256": "a48862e897e1731a5435093a10992f845d43f049c11a48d4ebefbefcfa07ca65",
     "title": "イナリッチ -midnight-",
@@ -2998,6 +3025,15 @@
     "level": "st6,dl6"
   },
   {
+    "md5": "955b948c5d56a5d36c0ce6b69199d00b",
+    "sha256": "f6bda63bfc014d95485b2442c51e5cdf72cddc7f11f8be71590c3e42f78aa959",
+    "title": "水晶世界 ～Fracture～ [Nightmare]",
+    "artist": "秋山 澪 // Savior",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
+    "url_diff": "https://stellabms.xyz/upload/2228",
+    "level": "st7,dl6"
+  },
+  {
     "md5": "4892ab3dc15868eabba8e1c704e78fcb",
     "sha256": "e7b0ff3742a1e68ad6c19e8c937ffa419a085f80defc3d6d036486f32b4d8a34",
     "title": "+84 [+700]",
@@ -3247,6 +3283,15 @@
     "artist": "ウラボロシ obj.akasaka",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=229&event=127",
     "url_diff": "https://siromarudaisuki.github.io/akather.sabun/sabun/%E2%98%8525%20shelf%20sabun.zip",
+    "level": "st7,dl7"
+  },
+  {
+    "md5": "259a6c8d2b078fa36010ae1bd31a219a",
+    "sha256": "048efaaaa265db2872f1a5326a7007ff5b5b34608bc35935c4a3a1234cf5c324",
+    "title": "キユビック [Cube]",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj:tyrcs",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=137",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
     "level": "st7,dl7"
   },
   {
@@ -3507,6 +3552,15 @@
     "artist": "Xacla / TOHRU MiTSUHASHi",
     "url": "http://onedrive.live.com/?cid=BEA3EA5126192983&id=BEA3EA5126192983%21112",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up5513.zip",
+    "level": "st8,dl8"
+  },
+  {
+    "md5": "4417ce8ee8ebbfe6f54603633cea42fd",
+    "sha256": "e8359f82d0f1ab92f67bd28d4b8a3a3ce0b496487def10eb3df4ca05a2ddb7f4",
+    "title": "res extensa [EX]",
+    "artist": "adamthix/さ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=83",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/res%20extensa%20sabun.zip",
     "level": "st8,dl8"
   },
   {
