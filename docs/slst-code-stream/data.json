@@ -1078,6 +1078,15 @@
     "level": "sl1,乱打1"
   },
   {
+    "md5": "81e79651371acfb5346c1290d1bb673b",
+    "sha256": "3898b0073bec45eb6815cf9cca4781ed6929066f458f8482a659bf3d5baf7048",
+    "title": "PUPA [Path]",
+    "artist": "モリモリあつし bga.HALLPBE.S / obj:th",
+    "url": "https://dropbox.bms.ms/u/37251493/PUPA.zip",
+    "url_diff": "https://venue.bmssearch.net/bcel_final/11",
+    "level": "sl1,乱打1"
+  },
+  {
     "md5": "baeac3fee0f258b93dac1e13e6fc3431",
     "sha256": "201e1c8a67de182425e8debdbe795f932bc40536c66de1d5b87dd47412349d30",
     "title": "Plastic Heart [SP ANOTHER]",
@@ -7878,6 +7887,15 @@
     "level": "st0,重発狂0"
   },
   {
+    "md5": "4174a088182306d0038818890b4950fc",
+    "sha256": "4a23c6109acf79664fb1c1e99e5b3b6b28ce734164049df6c8235ce2dba55c2b",
+    "title": "HAELEQUIN (・ω・)",
+    "artist": "orangentle / deadblue238/さ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/HAELEQUIN%20sabun.zip",
+    "level": "st0,重発狂0"
+  },
+  {
     "md5": "28d43d02b22a9bd755b8269a7d7cd497",
     "sha256": "1dfe776b7d902c3ff2144083f8704e9c781cdb9de6417e94bb93a6bddbaf134f",
     "title": "Harder Experience [yumether]",
@@ -8001,6 +8019,15 @@
     "artist": "EXCALIpUR / obj:muscleMEN",
     "url": "http://web.archive.org/web/20090416225824/http://homepage3.nifty.com/halm-berte/exc",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02014.zip",
+    "level": "st0,重発狂0"
+  },
+  {
+    "md5": "8b954e71882439e29c20461cfcdb679d",
+    "sha256": "95059a55986f4d790afd28fe744dfe511beb6031809f07a3238c8c50d12e3820",
+    "title": "Moon-gate [Confuse]",
+    "artist": "Music:しらいし/obj:月門",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/folder/UB8gABwB",
+    "url_diff": "https://drive.google.com/file/d/1lwSgeyE031IJHfDrdzpjZYNBrv3_ILIF/view?usp=sharing",
     "level": "st0,重発狂0"
   },
   {

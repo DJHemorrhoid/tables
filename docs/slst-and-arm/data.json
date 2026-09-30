@@ -4336,15 +4336,6 @@
     "level": "sl1"
   },
   {
-    "md5": "3e4b742f364c74353006203a5115623a",
-    "sha256": "371c8236a1f3887491b4c361149cd3fa5b89616786977c2f3b30e1e5e59a5e32",
-    "title": "芥川龍之介の河童　～Candid Friend [sagANOTHER]",
-    "artist": "zun bms:乙UN / obj:sagoo",
-    "url": "http://nekokan.dyndns.info/~lobsak/bms/kappa_ogg.zip",
-    "url_diff": "https://onedrive.live.com/?authkey=%21ADuXxYDZsf%5FL%2DI8&id=A972E7D14DCFAF93%21110&cid=A972E7D14DCFAF93",
-    "level": "sl1"
-  },
-  {
     "md5": "78b5e456ace4a0193fbf6aab0f10c8f8",
     "sha256": "b11546d90dc7cbcda33b6459f2466109ce4ac1615e2063117e60f0b233f85fd7",
     "title": "苦痛快楽Inverter [INSANE]",
@@ -4578,6 +4569,15 @@
     "artist": "nmk feat.℃ｉｅｌ / obj:秘密",
     "url": "https://dump.shinonome.ca/BMS/%E7%B4%85%E6%9C%88%E5%A4%9C%E6%83%B3%E3%80%80%20%EF%BD%9EScarlet%20Nocturne%EF%BD%9E.7z",
     "url_diff": "https://www.dropbox.com/s/xt2zkuh2vuzht29/_HiHiHi.bms?dl=1",
+    "level": "sl1,Ude1"
+  },
+  {
+    "md5": "3e4b742f364c74353006203a5115623a",
+    "sha256": "371c8236a1f3887491b4c361149cd3fa5b89616786977c2f3b30e1e5e59a5e32",
+    "title": "芥川龍之介の河童　～Candid Friend [sagANOTHER]",
+    "artist": "zun bms:乙UN / obj:sagoo",
+    "url": "http://nekokan.dyndns.info/~lobsak/bms/kappa_ogg.zip",
+    "url_diff": "https://onedrive.live.com/?authkey=%21ADuXxYDZsf%5FL%2DI8&id=A972E7D14DCFAF93%21110&cid=A972E7D14DCFAF93",
     "level": "sl1,Ude1"
   },
   {
@@ -34648,7 +34648,7 @@
     "sha256": "24cf7c4770313069482145a150307ccaa441f6907b9e271cf7405349d2c7aa31",
     "title": "POTATOMANIA [L]",
     "artist": "CHORO* / obj:potechang",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=139",
+    "url": "https://drive.usercontent.google.com/download?id=1h3Yg664Cn1wVgb3HEClq04gCHyDTIlHf&export=download&authuser=0",
     "url_diff": "https://stellabms.xyz/upload/7103",
     "level": "st4"
   },

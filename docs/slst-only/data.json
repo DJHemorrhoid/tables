@@ -1737,15 +1737,6 @@
     "level": "sl1"
   },
   {
-    "md5": "81e79651371acfb5346c1290d1bb673b",
-    "sha256": "3898b0073bec45eb6815cf9cca4781ed6929066f458f8482a659bf3d5baf7048",
-    "title": "PUPA [Path]",
-    "artist": "モリモリあつし bga.HALLPBE.S / obj:th",
-    "url": "https://dropbox.bms.ms/u/37251493/PUPA.zip",
-    "url_diff": "https://venue.bmssearch.net/bcel_final/11",
-    "level": "sl1"
-  },
-  {
     "md5": "4c086e143deaf315f8f4d0cf1bf8b527",
     "sha256": "1e3ada5c908bfe812faa3e6132821dc27f021d93c54c61a7fc2f92471bc4e972",
     "title": "Pandora [ANOTHER]",
@@ -2579,15 +2570,6 @@
     "artist": "HOUJIROU / obj.siokaze",
     "url": "http://houjirou.at-ninja.jp/",
     "url_diff": "http://siokazebms.web.fc2.com/",
-    "level": "sl1"
-  },
-  {
-    "md5": "3e4b742f364c74353006203a5115623a",
-    "sha256": "371c8236a1f3887491b4c361149cd3fa5b89616786977c2f3b30e1e5e59a5e32",
-    "title": "芥川龍之介の河童　～Candid Friend [sagANOTHER]",
-    "artist": "zun bms:乙UN / obj:sagoo",
-    "url": "http://nekokan.dyndns.info/~lobsak/bms/kappa_ogg.zip",
-    "url_diff": "https://onedrive.live.com/?authkey=%21ADuXxYDZsf%5FL%2DI8&id=A972E7D14DCFAF93%21110&cid=A972E7D14DCFAF93",
     "level": "sl1"
   },
   {
@@ -10184,15 +10166,6 @@
     "level": "st0"
   },
   {
-    "md5": "4174a088182306d0038818890b4950fc",
-    "sha256": "4a23c6109acf79664fb1c1e99e5b3b6b28ce734164049df6c8235ce2dba55c2b",
-    "title": "HAELEQUIN (・ω・)",
-    "artist": "orangentle / deadblue238/さ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
-    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/HAELEQUIN%20sabun.zip",
-    "level": "st0"
-  },
-  {
     "md5": "72b1ce4b2051bd2a396dfa11a2d785ee",
     "sha256": "20f37dc62287e8bdc7bee5427d76193d32894830a0bd09ffbbaa46d5daaf60f8",
     "title": "HEXPERUS [NEXTAGE]",
@@ -10284,15 +10257,6 @@
     "artist": "sun3 / BGA:Johnny / nbunnyuwu_fix",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=140",
     "url_diff": "https://stellabms.xyz/upload/2026",
-    "level": "st0"
-  },
-  {
-    "md5": "8b954e71882439e29c20461cfcdb679d",
-    "sha256": "95059a55986f4d790afd28fe744dfe511beb6031809f07a3238c8c50d12e3820",
-    "title": "Moon-gate [Confuse]",
-    "artist": "Music:しらいし/obj:月門",
-    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/folder/UB8gABwB",
-    "url_diff": "https://drive.google.com/file/d/1lwSgeyE031IJHfDrdzpjZYNBrv3_ILIF/view?usp=sharing",
     "level": "st0"
   },
   {
