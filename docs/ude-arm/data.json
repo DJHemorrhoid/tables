@@ -2710,6 +2710,14 @@
     "level": "Ude8"
   },
   {
+    "md5": "90c9690bea614ef7583562c561184433",
+    "title": "phantom-tears [MANIAC]",
+    "artist": "ridis(Rai) OBJ:ω",
+    "url": "https://archive.org/download/maki_bms",
+    "url_diff": "https://stellabms.xyz/upload/8342",
+    "level": "Ude8"
+  },
+  {
     "md5": "ce993eadd9f985f4a1b36aef9813f5fb",
     "title": "も～っと！おはなをそだてましょう！ [More Flower]",
     "artist": "freesia obj:Keysa",
@@ -3625,6 +3633,13 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
     "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
     "level": "Ude11"
+  },
+  {
+    "md5": "ab753f3d379b2fd497a601702a86707a",
+    "title": "7colors memories [E1]",
+    "artist": "Reku Mochizuki feat. せやかて硝酸太郎 / illust:きち BMS:Chart_Generator / obj:1mi",
+    "url_diff": "https://github.com/mi1-bm/1mi/raw/refs/heads/main/SABUN/_7colorsMemories_e1.bms",
+    "level": "Ude12"
   },
   {
     "md5": "e2a8109d9617fbe9bfc384ea7002ed04",
