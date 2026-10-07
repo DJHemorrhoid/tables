@@ -19041,14 +19041,6 @@
     "level": "sl11"
   },
   {
-    "md5": "9d969d1d1ce3e1f62508a6eb7b132f78",
-    "sha256": "f4fcc96502f4078aebe86389bc4fb98bcfe329b03b04ea73e181829a04d1f75b",
-    "title": "Head BONK ache [MIGRAINE]",
-    "artist": "saaa ft. MC iwata Bros. / BGA : 空読無 白眼",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=137",
-    "level": "sl11"
-  },
-  {
     "md5": "7e32af584080fb9965bbf497947de99f",
     "sha256": "7f0224a6b0022dfc9998f30f22d4065d784b04c9b482219db14a91bf730363f7",
     "title": "It's \"alice\" dream [HARDEST]",
@@ -20110,6 +20102,14 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=110",
     "url_diff": "https://bms-chart-editors-group.github.io/event/1998to2020/1998to2020_0606.zip",
     "level": "sl11,微縦連12"
+  },
+  {
+    "md5": "9d969d1d1ce3e1f62508a6eb7b132f78",
+    "sha256": "f4fcc96502f4078aebe86389bc4fb98bcfe329b03b04ea73e181829a04d1f75b",
+    "title": "Head BONK ache [MIGRAINE]",
+    "artist": "saaa ft. MC iwata Bros. / BGA : 空読無 白眼",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=137",
+    "level": "sl11,連打複合0"
   },
   {
     "md5": "dfcefcdfddef8852b126b99450833d2e",
@@ -39118,6 +39118,14 @@
     "level": "連打複合6"
   },
   {
+    "md5": "1abe2b40c7cac8f095948e9225b98bee",
+    "title": "cyber_state [aimuther]",
+    "artist": "doloky / obj.meisaiidol",
+    "url": "https://9domu46i.com/yuruyuru/phase12.html",
+    "url_diff": "https://stellabms.xyz/upload/8392",
+    "level": "連打複合6"
+  },
+  {
     "md5": "34dab00181955fc31ccf120e995d2ccf",
     "title": "Σxilio [RED INFERNO:Shadow]",
     "artist": "SOMON / extra / re:obj.shadow",
@@ -40883,6 +40891,14 @@
     "level": "連打複合7"
   },
   {
+    "md5": "62d4f56a178fc5f48a1e4f017543f91e",
+    "title": "electric butterfly [FORCE]",
+    "artist": "養土卵 光 / 浜 柔好 / 李 易徳",
+    "url": "https://www.mediafire.com/file/9b3icuzb8yiiadi/electric_butterfly_HQ.rar/file",
+    "url_diff": "https://stellabms.xyz/upload/8358",
+    "level": "連打複合7"
+  },
+  {
     "md5": "f48ec1bb75c76d429a9f66dd72164021",
     "title": "necromarionette [Pallida Mors]",
     "artist": "ROKINA obj:homare",
@@ -42167,6 +42183,13 @@
     "artist": "SHOCK.C / ガチ押しロボ",
     "url": "http://web.archive.org/web/20070720111728/http://bof.nothing.sh:8080/file/c_continent.rar",
     "url_diff": "https://stellabms.xyz/upload/4039",
+    "level": "連打複合8"
+  },
+  {
+    "md5": "d1219d185381a4bfe71864a94933e49d",
+    "title": "Creamy Sky [Splash!!!]",
+    "artist": "BTB Mov : mzet :-p & OLB / Obj. RAZ",
+    "url_diff": "https://stellabms.xyz/upload/8386",
     "level": "連打複合8"
   },
   {
@@ -44646,6 +44669,13 @@
     "level": "連打複合11"
   },
   {
+    "md5": "05e1466c68302d408b38e12dccc6202f",
+    "title": "Corgito Ergosum [UNLIMITED]",
+    "artist": "Raimukun movie:Inukoro/obj:SNN",
+    "url_diff": "https://stellabms.xyz/upload/8374",
+    "level": "連打複合11"
+  },
+  {
     "md5": "46eebe161784eefee04cadbe7d055f63",
     "title": "Ensa [Megalophobia]",
     "artist": "Aoi mov:出前 obj:IBARAGI_YOSHIMI",
@@ -44979,6 +45009,14 @@
     "artist": "SHIKI / obj:the IMP",
     "url": "https://mirror.bms.ms/shiki2.sakura.ne.jp/bms.shtml",
     "url_diff": "https://stellabms.xyz/upload/5698",
+    "level": "連打複合12"
+  },
+  {
+    "md5": "d20ede633f6a29116a07fb54fb969680",
+    "title": "Dogma Blade [HEARTLESS]",
+    "artist": "数％ウ obj:魔女",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=141",
+    "url_diff": "https://stellabms.xyz/upload/8393",
     "level": "連打複合12"
   },
   {
