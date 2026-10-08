@@ -2324,15 +2324,6 @@
     "level": "sl11,Ude11"
   },
   {
-    "md5": "70496702005657d9e0119ca78d400eb4",
-    "sha256": "d85ff31d8c4348b25cab09100bf1cb0f78531f662f45eaced7dd35ac899dac71",
-    "title": "Translate feat.めゆ [DRIZZLE]",
-    "artist": "otenami obj:Keysa",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=147",
-    "url_diff": "https://stellabms.xyz/upload/7282",
-    "level": "sl12,Ude11"
-  },
-  {
     "md5": "e2a8109d9617fbe9bfc384ea7002ed04",
     "sha256": "eb11a9965f7e4909616dd4a8f6ba6c0c6261a9b279d47f56462e3baee68e67bc",
     "title": "AIWS [chiral]",
@@ -2456,6 +2447,15 @@
     "artist": "-45 / selene.",
     "url": "http://malie.noor.jp/archive/archive.html",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02085.zip",
+    "level": "sl12,Ude12"
+  },
+  {
+    "md5": "70496702005657d9e0119ca78d400eb4",
+    "sha256": "d85ff31d8c4348b25cab09100bf1cb0f78531f662f45eaced7dd35ac899dac71",
+    "title": "Translate feat.めゆ [DRIZZLE]",
+    "artist": "otenami obj:Keysa",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=147",
+    "url_diff": "https://stellabms.xyz/upload/7282",
     "level": "sl12,Ude12"
   },
   {

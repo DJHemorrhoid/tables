@@ -3297,6 +3297,14 @@
     "level": "sl5,乱打5"
   },
   {
+    "md5": "8a686cbf0baac8736554680ca095ef0e",
+    "sha256": "33e39e911002b45ec8cdda641df2da8a7e3a01c5d055119ae5a6a19e9a6f3d7d",
+    "title": "Burning×Warning! [SP INSANE]",
+    "artist": "MiKaDo feat. はらもりよしな BGA:りにゃ / illust:いかお",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=146",
+    "level": "sl5,乱打5"
+  },
+  {
     "md5": "5e9dcfae52da50bc072e88eb1162684b",
     "sha256": "6ffdf6bfb6f2de021cd368321a16b1df6a672ff66b8cd0cfffff0b7346027e54",
     "title": "Cosmogazer [rainother]",
@@ -7663,15 +7671,6 @@
     "level": "sl12,乱打12"
   },
   {
-    "md5": "2b58433bd9124e40c53276a7c4a821f9",
-    "sha256": "a5067639e8dcd734a7c0c52cae73174bbadcd945f1fdf9d003317910bef372a6",
-    "title": "* Crow Solace * (・ω・)",
-    "artist": "m108/さ BGA : 砂糖天麩羅 / シキイチル",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=83",
-    "url_diff": "https://web.archive.org/web/20181017230753/http://sabosabun.tank.jp/sabun/Crow%20Solace%20sabun.zip",
-    "level": "st0,乱打12"
-  },
-  {
     "md5": "9188a4c9876386173ba35158edf23a15",
     "sha256": "da6e707a6a87ee7732f7d9b399b429904b4935c29e6e6c3c6defc75971969494",
     "title": "#B2FFFF [SP Celeste Colored Strawberry]",
@@ -8477,6 +8476,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=395&event=88",
     "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
     "level": "st0,重発狂0"
+  },
+  {
+    "md5": "2b58433bd9124e40c53276a7c4a821f9",
+    "sha256": "a5067639e8dcd734a7c0c52cae73174bbadcd945f1fdf9d003317910bef372a6",
+    "title": "* Crow Solace * (・ω・)",
+    "artist": "m108/さ BGA : 砂糖天麩羅 / シキイチル",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=83",
+    "url_diff": "https://web.archive.org/web/20181017230753/http://sabosabun.tank.jp/sabun/Crow%20Solace%20sabun.zip",
+    "level": "st0,重発狂1"
   },
   {
     "md5": "2d488edb0fad6b0bce38f0440eb6e755",

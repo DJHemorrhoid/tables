@@ -9079,6 +9079,14 @@
     "level": "Ude3"
   },
   {
+    "md5": "53233a632626f758f94f5a2a320529df",
+    "title": "Lake of Memories [ADVANCED 7K]",
+    "artist": "Abel & Inu (feat. zenur) obj:NORI46",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=400&event=142",
+    "url_diff": "https://stellabms.xyz/upload/8398",
+    "level": "Ude3"
+  },
+  {
     "md5": "14fdf948dc204784803690d74d55fc9f",
     "title": "Library at Noon [ANOTHER]",
     "artist": "Trina Lydia mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia",
@@ -9133,6 +9141,14 @@
     "level": "Ude3"
   },
   {
+    "md5": "deae2c87fad2c1d47f050abac79d4a85",
+    "title": "siorghlas [ZOI]",
+    "artist": "まろにー BGI : いなが / obj:SUZUKAZEΛ",
+    "url": "https://venue.bmssearch.net/bmstukuru2026/9",
+    "url_diff": "https://stellabms.xyz/upload/8322",
+    "level": "Ude3"
+  },
+  {
     "md5": "35fefef102b09edac139551e33568b11",
     "title": "twinkle notes [yumether]",
     "artist": "ume / obj:夢瑠",
@@ -9177,6 +9193,14 @@
     "artist": "うしろぎよあ (dawn-system) Movie: 自動車 原付 / うまるつふり obj:でっていう99",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=451&event=140",
     "url_diff": "https://stellabms.xyz/upload/6695",
+    "level": "Ude3"
+  },
+  {
+    "md5": "c9f60b2e8d7d24fbee987e8bee5741c6",
+    "title": "熱帯夜の祭り [残暑]",
+    "artist": "Pica X M2U Movie:PressVisualer obj:でっていう99",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=140",
+    "url_diff": "https://stellabms.xyz/upload/8309",
     "level": "Ude3"
   },
   {
@@ -22782,15 +22806,6 @@
     "level": "sl12"
   },
   {
-    "md5": "70496702005657d9e0119ca78d400eb4",
-    "sha256": "d85ff31d8c4348b25cab09100bf1cb0f78531f662f45eaced7dd35ac899dac71",
-    "title": "Translate feat.めゆ [DRIZZLE]",
-    "artist": "otenami obj:Keysa",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=147",
-    "url_diff": "https://stellabms.xyz/upload/7282",
-    "level": "sl12,Ude11"
-  },
-  {
     "md5": "e2a8109d9617fbe9bfc384ea7002ed04",
     "sha256": "eb11a9965f7e4909616dd4a8f6ba6c0c6261a9b279d47f56462e3baee68e67bc",
     "title": "AIWS [chiral]",
@@ -22914,6 +22929,15 @@
     "artist": "-45 / selene.",
     "url": "http://malie.noor.jp/archive/archive.html",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02085.zip",
+    "level": "sl12,Ude12"
+  },
+  {
+    "md5": "70496702005657d9e0119ca78d400eb4",
+    "sha256": "d85ff31d8c4348b25cab09100bf1cb0f78531f662f45eaced7dd35ac899dac71",
+    "title": "Translate feat.めゆ [DRIZZLE]",
+    "artist": "otenami obj:Keysa",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=147",
+    "url_diff": "https://stellabms.xyz/upload/7282",
     "level": "sl12,Ude12"
   },
   {

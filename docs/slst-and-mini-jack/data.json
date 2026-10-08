@@ -27667,15 +27667,6 @@
     "level": "st2"
   },
   {
-    "md5": "1a9b9bf9d7daa2f220b4ed73e09b0ef1",
-    "sha256": "452998cfbcc96b1359351dcaba055583b10d90883788668f6c98f153d5304899",
-    "title": "Odin -GOD-",
-    "artist": "しらいし/obj:y",
-    "url": "https://drive.google.com/file/d/1_JODLqgTEqgVrGXb-Di_pFfd6JKlOqHJ/view?usp=drive_link",
-    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3881.rar",
-    "level": "st2"
-  },
-  {
     "md5": "ef55e67fd19d4bd067dddef58a06f9d7",
     "sha256": "59b7357000463a335edbcded41e01ec2d1a2d2e028244c16b7ad0ade1668b1dc",
     "title": "Our Dream, Our Justice [SP Our Challenge]",
@@ -29100,6 +29091,15 @@
     "artist": "Yu^ta / アド / obj:.ctc",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=116",
     "url_diff": "同梱譜面",
+    "level": "st2,連打複合2"
+  },
+  {
+    "md5": "1a9b9bf9d7daa2f220b4ed73e09b0ef1",
+    "sha256": "452998cfbcc96b1359351dcaba055583b10d90883788668f6c98f153d5304899",
+    "title": "Odin -GOD-",
+    "artist": "しらいし/obj:y",
+    "url": "https://drive.google.com/file/d/1_JODLqgTEqgVrGXb-Di_pFfd6JKlOqHJ/view?usp=drive_link",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3881.rar",
     "level": "st2,連打複合2"
   },
   {
@@ -32192,6 +32192,14 @@
     "level": "連打複合3"
   },
   {
+    "md5": "e4bcebddca7300749f15530561c5858a",
+    "title": "My Hardcore -PROHIBITED-",
+    "artist": "dust.c obj:SNN",
+    "url": "https://www.dropbox.com/scl/fi/re1n4tnte12qe1zq87awx/My-Hardcore.zip?rlkey=k02edtm0tmmrbw2unxlypexad&e=1",
+    "url_diff": "https://stellabms.xyz/upload/8316",
+    "level": "連打複合3"
+  },
+  {
     "md5": "4c672fadce50922ee15950087197c2fc",
     "title": "Off-grid [FlamMania]",
     "artist": "Sobrem obj:E",
@@ -32213,6 +32221,14 @@
     "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス / obj:IBARAGI_YOSHIMI",
     "url": "https://venue.bmssearch.net/bmsshuin3/34",
     "url_diff": "https://stellabms.xyz/upload/7222",
+    "level": "連打複合3"
+  },
+  {
+    "md5": "e28a1930c25553ddbfb00b6cfe78b02a",
+    "title": "Six Pieces Dummy -Xe-",
+    "artist": "kyou1110 vs 九八式旋回機関銃 obj:LindBlum",
+    "url": "https://drive.google.com/file/d/0B-dlO0zMOBx5c2ZTN19xdXdRb1E/view?usp=sharing",
+    "url_diff": "https://stellabms.xyz/upload/8331",
     "level": "連打複合3"
   },
   {
@@ -40696,6 +40712,14 @@
     "level": "連打複合7"
   },
   {
+    "md5": "c78d0ee1faa9fed23715b4a5260d49c0",
+    "title": "Dilclumina [Ain't too proud to rely on!]",
+    "artist": "anco vs usb_nk / Movie: tayuru Obj:IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=149",
+    "url_diff": "https://stellabms.xyz/upload/8292",
+    "level": "連打複合7"
+  },
+  {
     "md5": "3a5e1c20635306d3dc8898ec45097993",
     "title": "Drop Down [SP Biginner]",
     "artist": "LunaticSounds / ShiginoEicar / KF MASTER",
@@ -43384,6 +43408,14 @@
     "level": "連打複合9"
   },
   {
+    "md5": "3c5bb38bd274e313b6ad961604a14527",
+    "title": "JUMMER (LASER PSY REMIX) [Zoom]",
+    "artist": "momo★yama obj:石川晟也",
+    "url": "https://drive.google.com/file/d/1OlAXQ4YwnkkAm8CUDKILecLZfsnc5B_r/view",
+    "url_diff": "https://stellabms.xyz/upload/8306",
+    "level": "連打複合9"
+  },
+  {
     "md5": "9df2416c2fb160b3cb3452ecaf15366f",
     "title": "Laplace[CM]",
     "artist": "削除 / 140 / obj:ZY",
@@ -44689,6 +44721,14 @@
     "artist": "kanone obj:HARE",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=127",
     "url_diff": "https://stellabms.xyz/upload/7766",
+    "level": "連打複合11"
+  },
+  {
+    "md5": "e9afcd4307fc093f48a8aa8ec7904751",
+    "title": "INSANER [苦]",
+    "artist": "saaa obj:打鍵マゾ",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=123",
+    "url_diff": "https://stellabms.xyz/upload/8310",
     "level": "連打複合11"
   },
   {
