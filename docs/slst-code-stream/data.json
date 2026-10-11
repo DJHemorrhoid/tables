@@ -2042,6 +2042,15 @@
     "level": "sl2,乱打3"
   },
   {
+    "md5": "73add22609ad1bc2f7a8437c591bade5",
+    "sha256": "2c782fb7348d8aee8c2858855f9f740ded64ae071b66eebb927990234b68590a",
+    "title": "Harder Experience [Heaven]",
+    "artist": "MONO obj/Captain",
+    "url": "https://drive.google.com/file/d/11thlxch18DSXoj9h0tsSAmxNBFyQ3DK4/view?usp=drive_link",
+    "url_diff": "http://captainbms.web.fc2.com/sabun/_hex_heaven.zip",
+    "level": "sl2,乱打3"
+  },
+  {
     "md5": "fdcca8a02747e5b1728f8cf16366b376",
     "sha256": "1b4707c9d825672c8ed938be9f738654e60b4c265189bd39a2b5c784d117b618",
     "title": "Kronos [PCS]",
@@ -2075,6 +2084,15 @@
     "artist": "鈎兎(KagiUsagi)",
     "url": "https://kagiusagi.official.jp/bms/AkiUraraTsukiyonoKarasutoKibidango.zip",
     "level": "sl2,乱打4"
+  },
+  {
+    "md5": "91f9dc675a8f646808b2834441ca423f",
+    "sha256": "d2a88a6cc0fe6196857012cd3b85ddcc1b537719fa51747269991664932fc55d",
+    "title": "Magical Love Words(Maniac)",
+    "artist": "源屋feat.ユスラ / air",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=36",
+    "url_diff": "https://www.dropbox.com/s/q74y3o7l1lwskd0/minamotoya_air_maniac.bms?dl=0",
+    "level": "sl3,乱打2"
   },
   {
     "md5": "f8222717e5b28238c41458d591e284ae",
@@ -2565,6 +2583,15 @@
     "level": "sl3,乱打3"
   },
   {
+    "md5": "eec9756065dc22ea19310758a1559c9c",
+    "sha256": "45780b6a4d0ad38612603ebe39a5eb58a9fca7f9426c65cd2d05c00882428699",
+    "title": "Coda [★]",
+    "artist": "mossari / obj:NASA",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=104",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00639.zip",
+    "level": "sl3,乱打4"
+  },
+  {
     "md5": "0c93c5057afe14d5516b037696198877",
     "sha256": "6ef3647fa581e7a6c2d871e6cca06ac5dea0393d4a1999a9d3f3ff65b3368bf0",
     "title": "SkyObject [LAPITHER]",
@@ -2687,15 +2714,6 @@
     "artist": "Yosk!",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=140",
     "url_diff": "同梱譜面",
-    "level": "sl4,乱打4"
-  },
-  {
-    "md5": "eec9756065dc22ea19310758a1559c9c",
-    "sha256": "45780b6a4d0ad38612603ebe39a5eb58a9fca7f9426c65cd2d05c00882428699",
-    "title": "Coda [★]",
-    "artist": "mossari / obj:NASA",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=104",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00639.zip",
     "level": "sl4,乱打4"
   },
   {
@@ -3241,6 +3259,15 @@
     "artist": "tkqn14 mov. WIC / obj. 七海",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=146",
     "url_diff": "同梱譜面",
+    "level": "sl5,乱打4"
+  },
+  {
+    "md5": "91091d6a56aac0ca1ddc65cb82969aa8",
+    "sha256": "24989efcd2d08773159711af5caad1ff78647e5c14fd00f9229304922d731078",
+    "title": "LONELY-MAZY [SABOTHER]",
+    "artist": "カラフル・サウンズ・ポート/さ",
+    "url": "http://www1.axfc.net/uploader/C/so/156765",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/lonely%20mezy%20sabun.zip",
     "level": "sl5,乱打4"
   },
   {
@@ -5320,6 +5347,15 @@
     "level": "sl9,乱打9"
   },
   {
+    "md5": "e729f9290ab5450391e0711c5f96d1f2",
+    "sha256": "ccf01fc7829d4a33f2dc1be23d8515d096ceb90af8fc99db1ae9b1201c152b64",
+    "title": "Dazzle Everyday (ビタミンc remix) [Unique Idea]",
+    "artist": "ビタミンc Original: Mitsukiyo / obj: foxtrot",
+    "url": "https://venue.bmssearch.net/morekivotos/6",
+    "url_diff": "https://stellabms.xyz/upload/8097",
+    "level": "sl9,乱打9"
+  },
+  {
     "md5": "aaa34f005a196fb7511133fa8e58c6fb",
     "sha256": "89cf48938d0fea024fd4be2c1d23d47ce5115948d84de21fae4fd3df2d4e63df",
     "title": "ELECTRiCiTY -illumination-",
@@ -5639,6 +5675,15 @@
     "artist": "KAH BGA:自動車 原付  Illust:榊原またぎ  obj:3830",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=122&event=140",
     "url_diff": "https://stellabms.xyz/upload/2134",
+    "level": "sl9,乱打9"
+  },
+  {
+    "md5": "e6be677e70f1f70607c0716409f84f39",
+    "sha256": "1ab967bac23c1f84fdcb7929a17188b095e242761226f20d04112cbcb86e2243",
+    "title": "バベルの塔が崩れても [Polar-Lunar]",
+    "artist": "ROyama vs. 19xx feat.羽累 / obj:kurekoduki",
+    "url": "https://venue.bmssearch.net/bmstukuru2026/5",
+    "url_diff": "https://stellabms.xyz/upload/6911",
     "level": "sl9,乱打9"
   },
   {
@@ -6637,6 +6682,15 @@
     "level": "sl11,乱打11"
   },
   {
+    "md5": "a89c86a36a02109b8ab06a6deb26be55",
+    "sha256": "334fc2217fedc9c2e44d1b8ab027f3ad61802900967d0128aec342e9331b9bd7",
+    "title": "Stargaze Station [Septentriones]",
+    "artist": "seatrus obj:toraji",
+    "url": "https://drive.usercontent.google.com/download?id=1wQXUX8nfIS3fN-gh0kB64WVCQR_9HnpL&export=download",
+    "url_diff": "https://stellabms.xyz/upload/5065",
+    "level": "sl11,乱打11"
+  },
+  {
     "md5": "1f1ada3e57c4ffeb74be2bbd9b01039c",
     "sha256": "57725d6523fc1764d407ea792970549c02834553618a36f492edf327dfc29246",
     "title": "Stellar Blue [Aesthetics]",
@@ -6877,6 +6931,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02429.zip",
     "level": "sl11,乱打11"
+  },
+  {
+    "md5": "9bef2f35eec9b029ee1686c498269d37",
+    "sha256": "da5b3ab8b8bfbb59eb251c9a7c2a96bde3b8d97ef6808fa861bd0de0a80a5942",
+    "title": "Throoughout [Bracket]",
+    "artist": "MoVIIkA movie:Arishima_/obj:SUGAR.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=135",
+    "url_diff": "https://stellabms.xyz/upload/8248",
+    "level": "sl12,乱打10"
   },
   {
     "md5": "d6e41bb94bf90bb014772838295b658f",
@@ -7515,6 +7578,15 @@
     "artist": "ノクティス・江口・チェラム obj:LAPIS",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
     "url_diff": "http://lapisbms.web.fc2.com/",
+    "level": "sl12,乱打12"
+  },
+  {
+    "md5": "b1d1736a1ff85c8cf4d338cd35906909",
+    "sha256": "384ae525a8c6812bbdbce496af0110deb74f38f5722372bca2c374eb28054099",
+    "title": "プラズマ・プラス・プラチナ！ [Precious]",
+    "artist": "かんざきしおんスペシャル obj:ゆぐどらしるスペシャル",
+    "url": "https://www.mediafire.com/file/hmdir5woebymip4/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%21.zip/file%20MediaFire",
+    "url_diff": "https://stellabms.xyz/upload/8056",
     "level": "sl12,乱打12"
   },
   {
@@ -8478,15 +8550,6 @@
     "level": "st0,重発狂0"
   },
   {
-    "md5": "2b58433bd9124e40c53276a7c4a821f9",
-    "sha256": "a5067639e8dcd734a7c0c52cae73174bbadcd945f1fdf9d003317910bef372a6",
-    "title": "* Crow Solace * (・ω・)",
-    "artist": "m108/さ BGA : 砂糖天麩羅 / シキイチル",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=83",
-    "url_diff": "https://web.archive.org/web/20181017230753/http://sabosabun.tank.jp/sabun/Crow%20Solace%20sabun.zip",
-    "level": "st0,重発狂1"
-  },
-  {
     "md5": "2d488edb0fad6b0bce38f0440eb6e755",
     "sha256": "cf0bc82ec8606dc718712c208f8bb410c0792cf2c1feb481caf4cf5584a24843",
     "title": "EUROBEATアイドル橘花音のテーマ [Muel]",
@@ -8521,6 +8584,15 @@
     "url": "https://clockxellox.sakura.ne.jp/",
     "url_diff": "http://sagena.harisen.jp/bms/redream_7X.zip",
     "level": "st1,重発狂0"
+  },
+  {
+    "md5": "2b58433bd9124e40c53276a7c4a821f9",
+    "sha256": "a5067639e8dcd734a7c0c52cae73174bbadcd945f1fdf9d003317910bef372a6",
+    "title": "* Crow Solace * (・ω・)",
+    "artist": "m108/さ BGA : 砂糖天麩羅 / シキイチル",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=83",
+    "url_diff": "https://web.archive.org/web/20181017230753/http://sabosabun.tank.jp/sabun/Crow%20Solace%20sabun.zip",
+    "level": "st1,重発狂1"
   },
   {
     "md5": "f1d935b06e5b57073e3efc11b40045b1",
@@ -9200,15 +9272,6 @@
     "artist": "ヲルバ＝田中・ヴァニラ / obj:夢瑠",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
     "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
-    "level": "st1,重発狂1"
-  },
-  {
-    "md5": "3e2db01a2b5c4f82d8bca4589089f0fc",
-    "sha256": "2253c00103738ad40f716cb9bf43062bf3db1126f5592d0f7b26b4de87fee7b9",
-    "title": "YAMAXANADU OF TWO [Harether]",
-    "artist": "nmk feat.Salita obj.小鈎ハレ",
-    "url": "https://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=19",
-    "url_diff": "https://stellabms.xyz/upload/6265",
     "level": "st1,重発狂1"
   },
   {
@@ -10196,6 +10259,15 @@
     "level": "st2,重発狂2"
   },
   {
+    "md5": "e69172498b0bef52d8dfa2273a48e04f",
+    "sha256": "a3fe5e88fedd3187aadb02806b35f299f05e15b1bb7f0f4d884da4ce263d094e",
+    "title": "Wandering Wings [Whither]",
+    "artist": "ohon obj:trainer",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=153",
+    "url_diff": "https://stellabms.xyz/upload/8211",
+    "level": "st2,重発狂2"
+  },
+  {
     "md5": "8f3cd17ee74b3367ca21b8dfb86624ad",
     "sha256": "587843829cd757ddb68985af77317cafe6cc6e974009b7062192328c74cf7610",
     "title": "Way of Life! -life-",
@@ -10599,6 +10671,15 @@
     "level": "st3,重発狂3"
   },
   {
+    "md5": "ad397111d7fa265915d483b7a6210f18",
+    "sha256": "3ecb0a639d645c4b1e33b610b913f83cf934f61f61b8892ef8653e1dce6d5ee1",
+    "title": "Celestial Axes [Equinox]",
+    "artist": "nmk / mov:わっふゑ obj:ugd",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=119",
+    "url_diff": "https://stellabms.xyz/upload/8257",
+    "level": "st3,重発狂3"
+  },
+  {
     "md5": "d0a980bc42189d7a726f12591e51492d",
     "sha256": "21c4cb9e62078c7df0cb9cca54b555043d4f18701bfdceebe5453be7f2fca0c6",
     "title": "Chasing Stars -Xe-",
@@ -10841,15 +10922,6 @@
     "level": "st3,重発狂3"
   },
   {
-    "md5": "1fe508c27d06be0577b2dbc3ece35267",
-    "sha256": "4b6eff4f3d6e8cf33958a70743dd77c80c6caff1a0c180ceacbb9d14ebed30e7",
-    "title": "Lewisia [Harether]",
-    "artist": "daiki / BGA:chromato graphy / obj:小鈎ハレ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=74",
-    "url_diff": "https://stellabms.xyz/upload/5959",
-    "level": "st3,重発狂3"
-  },
-  {
     "md5": "c3ad9a4de334476640f6f2f747e34758",
     "sha256": "f176767ced75ffa3ef7ff4d89739c235dfba74c330caf8b0d2f6e5162bb91b73",
     "title": "Liberator [HEARTFUL]",
@@ -10919,15 +10991,6 @@
     "artist": "Utuka obj:potechang",
     "url": "https://venue.bmssearch.net/freebattle/25",
     "url_diff": "https://stellabms.xyz/upload/4158",
-    "level": "st3,重発狂3"
-  },
-  {
-    "md5": "3dc53b62df6eae38feaa22a40761852d",
-    "sha256": "db4f334c8e17a8585c5943636ff0a8eb4e69dfd99fcb2f25e620799773e7a4f8",
-    "title": "Overdrive Power [妖怪MAX]",
-    "artist": "69 de 74 BGI:5argon / obj.小鈎ハレ",
-    "url": "https://event.yaruki0.net/VSevent/impression/2",
-    "url_diff": "https://stellabms.xyz/upload/6212",
     "level": "st3,重発狂3"
   },
   {
@@ -11315,6 +11378,15 @@
     "artist": "Micelle feat.Yshida / obj:Lian",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137",
     "url_diff": "同梱譜面",
+    "level": "st3,重発狂3"
+  },
+  {
+    "md5": "a21eab02f0416074866b1da8c96709fa",
+    "sha256": "73c17b9f444286133ca93210a7f7075cc25b0b3a43f66686c2862a906d120c79",
+    "title": "写儀の少女Lix [Ain't too proud to rely on!]",
+    "artist": "Se-U-Ra obj:IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=89",
+    "url_diff": "https://stellabms.xyz/upload/7109",
     "level": "st3,重発狂3"
   },
   {
@@ -11791,15 +11863,6 @@
     "artist": "Yu^ta",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
     "url_diff": "https://www.axfc.net/u/3942171",
-    "level": "st4,重発狂4"
-  },
-  {
-    "md5": "888988a17dcafec1cfe1de436133b81f",
-    "sha256": "d71aada83aa71bfcafe8c625ac000d7eff63662478bce66b91dcbc41385f9953",
-    "title": "Sigmoid -Harether-",
-    "artist": "Yu^ta feat. みずにんじん obj:HARE",
-    "url": "https://www.dropbox.com/s/dr6wvmv81lw0oo9/yuta_smcpack_3_full.zip?dl=1",
-    "url_diff": "https://stellabms.xyz/upload/7080",
     "level": "st4,重発狂4"
   },
   {
@@ -12782,6 +12845,15 @@
     "level": "st6,重発狂6"
   },
   {
+    "md5": "91cfcd10fed566c44ec125987b20dde2",
+    "sha256": "cea42f9e4dc5328511f019661a3f232a8b7f0bb2077faf3f11e1931c301368d7",
+    "title": "Blue-White Crazybits [WC-Washlet]",
+    "artist": "234 / air",
+    "url": "https://drive.google.com/file/d/1wrbXyRcbb62mNUvMXwbNLHv3AbKyyglM/view?usp=drive_link",
+    "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
+    "level": "st6,重発狂6"
+  },
+  {
     "md5": "8b8634ba54a3e177f0d174dfd0799843",
     "sha256": "969dcf1a8a8dc85c23dd83a9c51af68e4ac811583aa2bb4ec9f72cdfab739652",
     "title": "Cold Breath -Ragnarok-",
@@ -12797,6 +12869,15 @@
     "artist": "CYLTIE. obj:LindBlum",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=131",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05995.zip",
+    "level": "st6,重発狂6"
+  },
+  {
+    "md5": "b1d81c3d889491dfbc5c95a09185d4f8",
+    "sha256": "93c6e47595dc340c9fe59fa68932472cb59258b472dd706424ab35881f8cacbb",
+    "title": "EVERLASTING HAPPiNESS↑ [practice]",
+    "artist": "psi obj:onmaco",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
+    "url_diff": "https://onmacodayo.web.fc2.com/0728/hapiness_practice.bms",
     "level": "st6,重発狂6"
   },
   {
@@ -13051,6 +13132,15 @@
     "level": "st6,重発狂6"
   },
   {
+    "md5": "365816fd4a3bc8df11fe10823de3fd2e",
+    "sha256": "e1d0266c0fee4aab00ff2293e95547385cedc5a94773e2f463c5ee2f7b24b0ef",
+    "title": "★So SweeT LittlE HearT★ (GOD)",
+    "artist": "kbwnk max / obj:uet",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=80",
+    "url_diff": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=81",
+    "level": "st6,重発狂6"
+  },
+  {
     "md5": "61ec0d7ae48ceb26025aa885e9314e4b",
     "sha256": "d1119aa690ad194706a486d138b5c779bf2f7f5e358c898645453d2446e64f1a",
     "title": "ふぁんぶる！ [ふぃじかるテト認識]",
@@ -13182,15 +13272,6 @@
     "artist": "ROKINA / obj.TBJ",
     "url": "https://drive.google.com/file/d/1ZMr7a50XQU-rl13_PfE6w6O_762jC3W4/view?usp=drive_link",
     "url_diff": "https://stellabms.xyz/upload/2568",
-    "level": "st7,重発狂7"
-  },
-  {
-    "md5": "fdae8f1930fada14432827a0d02ebd39",
-    "sha256": "cf521a7e478aeeb06c851d67224c6249300e9b70f5ddffb7af219b126a84226a",
-    "title": "3回ミスったら死ぬBMS -Harether-",
-    "artist": "ビタミンc obj:HARE",
-    "url": "https://drive.google.com/file/d/1vYLSU4s9k_whlGuE2rs2zYIH4MnpSZAq/view?usp=sharing",
-    "url_diff": "https://stellabms.xyz/upload/7986",
     "level": "st7,重発狂7"
   },
   {
@@ -13389,6 +13470,15 @@
     "artist": "toby fox Remixed by uet BGI : morph obj:1mi",
     "url": "http://beatmaniauet.sakura.ne.jp/BMS/uet_spiderdancermx_ogg.zip",
     "url_diff": "https://stellabms.xyz/upload/7142",
+    "level": "st7,重発狂7"
+  },
+  {
+    "md5": "1881b6cda7e1363acc8d557a723b7735",
+    "sha256": "cdb84f183d1e43a5f117565eafe12e14624d54ba87ec6679d32d51d80c8014b6",
+    "title": "Titanomaquia[MAPLE]",
+    "artist": "ルゼ obj:LeaF",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=110",
+    "url_diff": "https://stellabms.xyz/upload/2428",
     "level": "st7,重発狂7"
   },
   {
