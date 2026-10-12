@@ -1,6 +1,6 @@
 {
   "site_name": "BMS難易度表",
-  "updated_at": "2026-10-12 04:00",
+  "updated_at": "2026-10-13 04:00",
   "tables": [
     {
       "name": "sl/st",
@@ -18,9 +18,9 @@
       "slug": "ude-arm",
       "description": "ウーデオシ小学校難易度表+腕ガチ難易度表",
       "symbol": "",
-      "chart_count": 1375,
+      "chart_count": 1377,
       "folder_count": 28,
-      "updated_at": "2026-10-10 04:01",
+      "updated_at": "2026-10-13 04:00",
       "url": "./ude-arm/",
       "header_url": "./ude-arm/header.json"
     },
@@ -29,9 +29,9 @@
       "slug": "delay",
       "description": "Delay小学校難易度表+ディレイjoy",
       "symbol": "",
-      "chart_count": 1533,
+      "chart_count": 1535,
       "folder_count": 53,
-      "updated_at": "2026-10-09 04:00",
+      "updated_at": "2026-10-13 04:00",
       "url": "./delay/",
       "header_url": "./delay/header.json"
     },
@@ -52,8 +52,8 @@
       "description": "",
       "symbol": "",
       "chart_count": 365,
-      "folder_count": 35,
-      "updated_at": "2026-10-12 04:00",
+      "folder_count": 34,
+      "updated_at": "2026-10-13 04:00",
       "url": "./slst-mini-jack/",
       "header_url": "./slst-mini-jack/header.json"
     },
@@ -62,9 +62,9 @@
       "slug": "slst-arm",
       "description": "",
       "symbol": "",
-      "chart_count": 699,
+      "chart_count": 701,
       "folder_count": 48,
-      "updated_at": "2026-10-12 04:00",
+      "updated_at": "2026-10-13 04:00",
       "url": "./slst-arm/",
       "header_url": "./slst-arm/header.json"
     },
@@ -84,9 +84,9 @@
       "slug": "slst-only",
       "description": "",
       "symbol": "",
-      "chart_count": 1835,
+      "chart_count": 1833,
       "folder_count": 26,
-      "updated_at": "2026-10-12 04:00",
+      "updated_at": "2026-10-13 04:00",
       "url": "./slst-only/",
       "header_url": "./slst-only/header.json"
     },
@@ -172,9 +172,9 @@
       "slug": "slst-and-mini-jack",
       "description": "",
       "symbol": "",
-      "chart_count": 5226,
-      "folder_count": 87,
-      "updated_at": "2026-10-12 04:00",
+      "chart_count": 5227,
+      "folder_count": 86,
+      "updated_at": "2026-10-13 04:00",
       "url": "./slst-and-mini-jack/",
       "header_url": "./slst-and-mini-jack/header.json"
     },
@@ -185,7 +185,7 @@
       "symbol": "",
       "chart_count": 5524,
       "folder_count": 101,
-      "updated_at": "2026-10-12 04:00",
+      "updated_at": "2026-10-13 04:00",
       "url": "./slst-and-arm/",
       "header_url": "./slst-and-arm/header.json"
     },
@@ -194,9 +194,9 @@
       "slug": "slst-and-delay",
       "description": "",
       "symbol": "",
-      "chart_count": 5896,
+      "chart_count": 5898,
       "folder_count": 138,
-      "updated_at": "2026-10-12 04:00",
+      "updated_at": "2026-10-13 04:00",
       "url": "./slst-and-delay/",
       "header_url": "./slst-and-delay/header.json"
     }

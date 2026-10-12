@@ -3522,15 +3522,6 @@
     "level": "sl2"
   },
   {
-    "md5": "a02c5e1e0f25498f921f70e9bba6bb48",
-    "sha256": "644c4c271a83d063cc7ee375f0db740fa2694baad774257f16ddbf60a7fc514d",
-    "title": "Winter Bell -ANOTHER+-",
-    "artist": "DJ TAKUAN /obj:BAECON",
-    "url": "https://llllllllllll.sakura.ne.jp/djtakuan/b_BMS/winter.zip",
-    "url_diff": "https://darksabun.club/mirror/akred/baecon/snow-ANOTHERplusminus_f.bms",
-    "level": "sl2"
-  },
-  {
     "md5": "2607ae29c8bad70ba7e6e8867ba6d385",
     "sha256": "e44e90966f5463cb5efda1a805653a082313948eef6dc59183416b59b512576d",
     "title": "World Against 2 [7K Insane]",
@@ -7608,15 +7599,6 @@
     "title": "E.V.E [BLACK ANOTHER]",
     "artist": "SOMON",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=142",
-    "level": "sl7"
-  },
-  {
-    "md5": "b047cd30dc747891da0678a5c1ee26a3",
-    "sha256": "e23f0156be6c507e5b16ead2e4376ed32d7a5f06709b38d49ec7280a6d5b0c34",
-    "title": "Earthlight [Twilight]",
-    "artist": "sky_delta obj.Lapis",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=497&event=110",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00456.zip",
     "level": "sl7"
   },
   {

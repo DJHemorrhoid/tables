@@ -17493,15 +17493,6 @@
     "level": "sl9"
   },
   {
-    "md5": "a1831d5847e272dd0013079a504a3991",
-    "sha256": "31320cbd44f2734875713bd397136e54df35b968fb1c9e6dac9fe8f1a0e4aec7",
-    "title": "vexodes [SJ]",
-    "artist": "nitro obj.seojoon",
-    "url": "https://9domu46i.com/yuruyuru/phase20.html",
-    "url_diff": "https://stellabms.xyz/upload/8024",
-    "level": "sl9,微縦連7"
-  },
-  {
     "md5": "eac293270dec624734c81eb52074623d",
     "sha256": "4b7fdeaaefbebb58062645f901263e12afcc357f9ddaf4e20b6f6379092503ab",
     "title": "Beachside Pixel [DRIZZLE2]",
@@ -17552,6 +17543,15 @@
     "artist": "Is-m & muramasa obj : どくだみ草",
     "url": "https://web.archive.org/web/20040627062927/http://www.is-m.jp/music/bms/dlcgi/dlcount.cgi?file=remote_c.zip",
     "url_diff": "https://darksabun.club/event/renewal2/",
+    "level": "sl9,微縦連9"
+  },
+  {
+    "md5": "a1831d5847e272dd0013079a504a3991",
+    "sha256": "31320cbd44f2734875713bd397136e54df35b968fb1c9e6dac9fe8f1a0e4aec7",
+    "title": "vexodes [SJ]",
+    "artist": "nitro obj.seojoon",
+    "url": "https://9domu46i.com/yuruyuru/phase20.html",
+    "url_diff": "https://stellabms.xyz/upload/8024",
     "level": "sl9,微縦連9"
   },
   {
@@ -20334,6 +20334,14 @@
     "artist": "Kud Cuisune obj:でっていう99",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=146",
     "url_diff": "https://stellabms.xyz/upload/6027",
+    "level": "微縦連11"
+  },
+  {
+    "md5": "78894cb9bce218a87c9295a1634914b0",
+    "title": "織姫 -指姫-",
+    "artist": "DJ TAKUAN 及び 佐倉アヤキ 及び obj:Keysa",
+    "url": "https://llllllllllll.sakura.ne.jp/djtakuan/b_BMS/orihime.zip",
+    "url_diff": "https://www.bms-ir.org/new/uploader/11/versions/1/download",
     "level": "微縦連11"
   },
   {
