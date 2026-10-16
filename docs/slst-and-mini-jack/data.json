@@ -40915,15 +40915,6 @@
     "level": "st7,連打複合7"
   },
   {
-    "md5": "e0c3fdbfc1f7bd71ea15d84ba53a2b4d",
-    "sha256": "17d6993e0790df036f56ada42a0e773c7d4c25d04a65aa9d99b64627e9b8597e",
-    "title": "ハードルネッサンバ -L A S T  B O S S-",
-    "artist": "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj:七海",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
-    "url_diff": "https://www.dropbox.com/s/e53jzryb1vpjxul/hardrenaisamba_nanami.zip?dl=1",
-    "level": "st7,連打複合7"
-  },
-  {
     "md5": "4c15481e291b99ec1352a5b1a159f91a",
     "sha256": "539250532cef84226a06026a5b094f4d7099085d0333451bcf11f2e8c9280902",
     "title": "レシュノルティア [Ephemeral Bloom]",
@@ -41321,6 +41312,12 @@
     "artist": "Ino(chronoize) obj:1mi",
     "url": "https://www.dropbox.com/s/u9vdyo79f1crhyj/Ino_BOFXVII_NekoGirl.zip?dl=1",
     "url_diff": "https://stellabms.xyz/upload/8023",
+    "level": "連打複合7"
+  },
+  {
+    "md5": "e0c3fdbfc1f7bd71ea15d84ba53a2b4d",
+    "title": "ハードルネッサンバ -L A S T B O S S-",
+    "artist": "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj:七海",
     "level": "連打複合7"
   },
   {
