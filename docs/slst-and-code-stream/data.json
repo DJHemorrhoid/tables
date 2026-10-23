@@ -12496,6 +12496,14 @@
     "level": "乱打4"
   },
   {
+    "md5": "a0e2fac4996c0d029a5f4da89d549435",
+    "title": "Cosmic Raid [Assault]",
+    "artist": "xellox obj.Cosmic Invader",
+    "url": "http://clockxellox.sakura.ne.jp/",
+    "url_diff": "https://stellabms.xyz/upload/8467",
+    "level": "乱打4"
+  },
+  {
     "md5": "45d3ff07a13dc0513ffbedc0d893e9a6",
     "title": "Cross Galaxy[HARDEST]",
     "artist": "kanone/差分　赤い人 mov:deadblue238",
@@ -14710,6 +14718,14 @@
     "artist": "SHIKI // BGA:あかくらげ & M.H /obj.D-BLUE",
     "url": "http://web.archive.org/web/20041105135659/http://kobe.cool.ne.jp/linker/endlessdream.zip",
     "url_diff": "http://bmssabun2.web.fc2.com/",
+    "level": "乱打5"
+  },
+  {
+    "md5": "c8263621c53ca2e171c9f3cb180959cb",
+    "title": "Everblue [7key Cocother]",
+    "artist": "Ym1024 feat. lamie*/コ Movie : highluin",
+    "url": "http://yellowmapleleaf.com/bms/ym37_everblue_ogg.rar",
+    "url_diff": "https://web.archive.org/web/20190325223637/http://sabosabun.tank.jp/sabun/Everblue%20sabun.zip",
     "level": "乱打5"
   },
   {
@@ -17125,7 +17141,7 @@
     "title": "Lily [S-]",
     "artist": "tolz feat. 音街ウナ obj:S",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=127",
-    "url_diff": "https://stellabms.xyz/upload/4107",
+    "url_diff": "https://stellabms.xyz/upload/3561",
     "level": "sl7"
   },
   {
@@ -23506,14 +23522,6 @@
     "artist": "カラフル・サウンズ・ポート/さ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
     "url_diff": "https://web.archive.org/web/20170430203824/http://sabosabun.tank.jp/sabun/eternal%20drain%20sabun.zip",
-    "level": "乱打10"
-  },
-  {
-    "md5": "c8263621c53ca2e171c9f3cb180959cb",
-    "title": "Everblue [7key Cocother]",
-    "artist": "Ym1024 feat. lamie*/コ Movie : highluin",
-    "url": "http://yellowmapleleaf.com/bms/ym37_everblue_ogg.rar",
-    "url_diff": "https://web.archive.org/web/20190325223637/http://sabosabun.tank.jp/sabun/Everblue%20sabun.zip",
     "level": "乱打10"
   },
   {
@@ -30250,6 +30258,14 @@
     "artist": "MINT BGA : Can.D-mtmrw obj:SUGAR.",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=96",
     "url_diff": "https://stellabms.xyz/upload/4660",
+    "level": "重発狂0"
+  },
+  {
+    "md5": "e39b3a3994c722da25798ddbdf25b380",
+    "title": "Cold Rain [SP MANIAC]",
+    "artist": "ohon obj:IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8466",
     "level": "重発狂0"
   },
   {
