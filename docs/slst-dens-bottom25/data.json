@@ -1053,6 +1053,14 @@
     "level": "sl1"
   },
   {
+    "md5": "182939df1d668089393a76a616f90edd",
+    "sha256": "4ac0a13843c53fb8f6a183a3413e44b94885537a34b0c8cc562442b37e052ac4",
+    "title": "燐寸と緞帳 [SP ANOTHER]",
+    "artist": "Juka_Box feat. 綜花",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=149",
+    "level": "sl1"
+  },
+  {
     "md5": "fe1a95215519a0467e44950422a9e112",
     "sha256": "36d03bf0953dbde9f00142f9345fdcef0673827e3d079a9ecd17c64f9c7cd5d2",
     "title": "電波塔 [712kHz]",
@@ -1739,6 +1747,14 @@
     "artist": "ak+q/obj:凩",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=200",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01527.zip",
+    "level": "sl3"
+  },
+  {
+    "md5": "789db4f93ee9d7846856222cd829fae2",
+    "sha256": "5a7b3bb3c6e8cc0cfaa602a2248b0b1764462334c7c65fb2e5bba954524617fc",
+    "title": "Field of Hopes and Dreams [Extra]",
+    "artist": "Original:Toby Fox BMS:Lily",
+    "url": "https://www.dropbox.com/scl/fi/r7wzmme3in2o3idnvlon0/FIeld-of-Hopes-and-Dreams_ogg.zip?rlkey=i0s1qess06cdqgiio18a2x90p&dl=1",
     "level": "sl3"
   },
   {
@@ -2613,6 +2629,14 @@
     "title": "Hydrangea Cafe(BMS edit) [ANOTHER]",
     "artist": "SiiM4Mu",
     "url": "https://venue.bmssearch.net/bmstukuru2025/43",
+    "level": "sl5"
+  },
+  {
+    "md5": "52e28f132f699a560e7e2e9baef5e944",
+    "sha256": "5f386b48aa32afae774a3e6e4b17cbf563ca56942384c56c44bc1321e52bed2a",
+    "title": "Inherited World [ANOTHER]",
+    "artist": "sak Movie:猫太郎",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=104",
     "level": "sl5"
   },
   {
@@ -4095,6 +4119,15 @@
     "artist": "mugijet | LED",
     "url": "https://drive.google.com/file/d/1N1HwmBG8C04CqesTgP20EyqWxz-2EV03/view?usp=sharing",
     "url_diff": "https://stellabms.xyz/upload/4881",
+    "level": "sl9"
+  },
+  {
+    "md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
+    "sha256": "92a62a24588968de566b56fceb6c8b761401ea1de31ce7bad5dadee14a26bd35",
+    "title": "ニニ - ニサシゴ -",
+    "artist": "テヅカ × Qayo BGI: MUSH.T × PHage / OBJ: swa",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=253",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02435.zip",
     "level": "sl9"
   },
   {
@@ -8047,6 +8080,15 @@
     "level": "st4"
   },
   {
+    "md5": "d04d06f2cc477e4dca800b10d4d0d321",
+    "sha256": "50022e170f05114b5a32c4ff90890bd6dd03606faf4d3cf79afb5f8738c4802d",
+    "title": "WHATEVER -Decimation-",
+    "artist": "letro_box obj:Y2K",
+    "url": "https://web.archive.org/web/20060630212202/http://www.ismusic.ne.jp/letro_box/WHATEVER.zip",
+    "url_diff": "https://venue.bmssearch.net/sd_black/1",
+    "level": "st4"
+  },
+  {
     "md5": "a3bfdf5af7c5cd84459e23a18fbfad5e",
     "sha256": "c15227ff02cd6bddccd57c4fb3ad3c951cdaa40bfd79874d9ea2bf46451dbbbf",
     "title": "Whiteout [#ffffff]",
@@ -8313,12 +8355,11 @@
     "level": "st5"
   },
   {
-    "md5": "5873e00db2e5e8cecb776ba053b17d0f",
-    "sha256": "3aedbd62895861848f00f9120d5a83971257ad93327c88af4b6bd907067b16d9",
-    "title": "EXILE(大人のためのディレイ講座)",
-    "artist": "-45/obj.maco*j",
-    "url": "http://malie.noor.jp/",
-    "url_diff": "http://onmacodayo.web.fc2.com/exile/EXILE_deray_.bms",
+    "md5": "def39e4dcf79a556d34392aad7bc89cf",
+    "sha256": "d8cc8bde5bece26f9b12613ba580e18d160c5598331120711c1b02d0593eedfd",
+    "title": "Escape [SP FROM REALITY]",
+    "artist": "Star* vs SamaR3N BG by Star* & AZVW_2 / obj Cryo-Myosotis",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=133",
     "level": "st5"
   },
   {
@@ -8486,15 +8527,6 @@
     "artist": "Grand thaw / obj:chack",
     "url": "http://www5f.biglobe.ne.jp/~careless/",
     "url_diff": "http://chack3sabun.web.fc2.com/",
-    "level": "st5"
-  },
-  {
-    "md5": "c7bfe0504b2e103f156a1d6e4c113efb",
-    "sha256": "3c87e11179bbbb9a04d2f3b39620245a23eb16336926daf9d0ccfb2444d27154",
-    "title": "Regain [///]",
-    "artist": "ProjectG obj tyrcs",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137",
-    "url_diff": "https://stellabms.xyz/upload/1335",
     "level": "st5"
   },
   {
@@ -8745,6 +8777,15 @@
     "level": "st5"
   },
   {
+    "md5": "0954ab1b0b38fe13d61021e145a1a6a4",
+    "sha256": "1c819a3077c48d745c731b451e0f5d510f6431b5cfcc2892089120df3206b111",
+    "title": "不思議の国のアリス -PHANTASM-",
+    "artist": "由蘭 / obj:Lian",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/dINDXDzb",
+    "url_diff": "https://web.archive.org/web/20260113194747/https://bmsoflian.web.fc2.com/bms2/20220322_LianSabun.zip",
+    "level": "st5"
+  },
+  {
     "md5": "97d9e1983109da4547fd166baba074fd",
     "sha256": "1ee2c494f68ad59d1c19d7ffb9b9cee716a72a162f5532966d4609aeb85eccaa",
     "title": "幽林 [森]",
@@ -8760,6 +8801,15 @@
     "artist": "主人公 /差分 赤い人",
     "url": "http://www1.axfc.net/uploader/He/so/273565",
     "url_diff": "http://akred.web.fc2.com/bmsfile/lastbattle-INFERNO.bms",
+    "level": "st5"
+  },
+  {
+    "md5": "f9c2d8dda9f181f880dadef52d515ff8",
+    "sha256": "1df144253f918084f54114a79bf1c6281c88f8b4736c9c2913ddefde9dddfaf0",
+    "title": "現実をカットアップしてみた [VR]",
+    "artist": "Yu^ta obj:antimongen",
+    "url": "http://famousbms.web.fc2.com/",
+    "url_diff": "https://stellabms.xyz/upload/2385",
     "level": "st5"
   },
   {
@@ -8779,6 +8829,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116",
     "url_diff": "https://www.dropbox.com/s/hehq2jqj98w2asl/_44_magicalgirl_KILL.zip?dl=0",
     "level": "st5"
+  },
+  {
+    "md5": "62cbf8e0d9f37f9ad736b4ada63e6d08",
+    "sha256": "b59a4e58f86df7d1b5badab4ee30cacb8b3efcd3d3ad943f0b56dc27db2c2961",
+    "title": "0xFFFF [SA]",
+    "artist": "ROKINA OBJ:ランダマイザ",
+    "url": "http://livrenoir.web.fc2.com/",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00658.zip",
+    "level": "st6"
   },
   {
     "md5": "6038e11f9394d2f6ee17df3a105cde4b",
@@ -9022,6 +9081,14 @@
     "level": "st6"
   },
   {
+    "md5": "15332499605e96be0a80c530d0740efb",
+    "sha256": "5c9f5ce79ef9c044c92d63a94545f26b8ae56c3a6c665a7affd9605cbd5ba367",
+    "title": "gazer [MASTER]",
+    "artist": "scytheleg Remixed by くっちー obj.BAECON",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=292&event=140",
+    "level": "st6"
+  },
+  {
     "md5": "0a2ef1a74e2bf188bc129066c95b6e86",
     "sha256": "c8d7cd9c3bb6d9cf0cba8d05bb77e26f53c42f6e39eb86384b529aeebd14fa7a",
     "title": "not 桜 (KOOKY)",
@@ -9144,15 +9211,6 @@
     "artist": "daisan/obj.もにもに",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=83",
     "url_diff": "https://stellabms.xyz/upload/132",
-    "level": "st6"
-  },
-  {
-    "md5": "f9c2d8dda9f181f880dadef52d515ff8",
-    "sha256": "1df144253f918084f54114a79bf1c6281c88f8b4736c9c2913ddefde9dddfaf0",
-    "title": "現実をカットアップしてみた [VR]",
-    "artist": "Yu^ta obj:antimongen",
-    "url": "http://famousbms.web.fc2.com/",
-    "url_diff": "https://stellabms.xyz/upload/2385",
     "level": "st6"
   },
   {
@@ -9663,6 +9721,15 @@
     "level": "st8"
   },
   {
+    "md5": "886962d3ad5cf3bf2767c76662e384ee",
+    "sha256": "497d76163da242b75aad77293563edd9160a85b4173001c2d8e2808309c23bd6",
+    "title": "Secret Chaser [Sinister Charters]",
+    "artist": "utzbo BGA: ShakeJ obj:IBARAGI_YOSHIMI vs potechang",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=149",
+    "url_diff": "https://stellabms.xyz/upload/6473",
+    "level": "st8"
+  },
+  {
     "md5": "514e944bfd86b3dd6d380b88ba0cf9cb",
     "sha256": "b4bb76b781c1cd9399deef453f2611ebc532b4c59bfe491f5f7656f243313e18",
     "title": "Signal [Forlornness]",
@@ -10073,15 +10140,6 @@
     "level": "st10"
   },
   {
-    "md5": "565ee8d466cd4dca179ffb4a3ac0eb0e",
-    "sha256": "fe102fb7fc643afc701a4424d8e61aa8d4309f08cbe3de7e45cd561c9108f52b",
-    "title": "Misdirection -Ragnarok-",
-    "artist": "enxel vs D.J.Nero / selene.",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=88",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03352.zip",
-    "level": "st10"
-  },
-  {
     "md5": "d354c9cc5f4ee407d0e377e25fcbb126",
     "sha256": "46c731ddad3f73539c4bfc42a7280bbdcca30e49dc2e780fc2bd32832beff732",
     "title": "Moon-gate [DELAYMASTER+]",
@@ -10097,6 +10155,15 @@
     "artist": "Silentroom × 駿",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01999.zip",
+    "level": "st10"
+  },
+  {
+    "md5": "47069b1b81611852c96acd9b5c3f69a9",
+    "sha256": "a6aad124aa2adb8c090a9ad7ee9c10c7497263aa2223307523ac9a5edea4b4fb",
+    "title": "Promised Prayer [Fragile Guest Star]",
+    "artist": "nmk BGA:出前 obj:Guanacoite",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=129",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04234.zip",
     "level": "st10"
   },
   {

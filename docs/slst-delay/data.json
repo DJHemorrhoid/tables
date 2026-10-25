@@ -930,14 +930,6 @@
     "level": "sl12,dl-1"
   },
   {
-    "md5": "e7b9e195177092a076e305f2671ece45",
-    "sha256": "11b54961f7c762cac5dcc6fe142066fd1037379ec8f1f819cccd190c4471f31e",
-    "title": "MARENOIA [INSANE]",
-    "artist": "LeaF Movie:Optie&Fiz",
-    "url": "http://leafbms.web.fc2.com/song.html",
-    "level": "sl12,dl-1"
-  },
-  {
     "md5": "7ec4081796258a2b21d91f90e8670cbc",
     "sha256": "0e9ff1e842b642ed8c39967baf0c9027f760b9a73fce12caf2c664b4b69c9798",
     "title": "Strahlzwerg [AromaMateria]",
@@ -1143,6 +1135,14 @@
     "url": "https://onedrive.live.com/?id=578814ACC2BD5A74%21140&cid=578814ACC2BD5A74",
     "url_diff": "http://akred.web.fc2.com/bmsfile/windrush-INFELNO.bme",
     "level": "st0,///13"
+  },
+  {
+    "md5": "e7b9e195177092a076e305f2671ece45",
+    "sha256": "11b54961f7c762cac5dcc6fe142066fd1037379ec8f1f819cccd190c4471f31e",
+    "title": "MARENOIA [INSANE]",
+    "artist": "LeaF Movie:Optie&Fiz",
+    "url": "http://leafbms.web.fc2.com/song.html",
+    "level": "st0,dl-1"
   },
   {
     "md5": "baee0a1921fc5041b44d7d87c7b5548d",
@@ -2917,6 +2917,15 @@
     "level": "st6,dl6"
   },
   {
+    "md5": "f1016373c759e9e0e06dd6487bca0e0d",
+    "sha256": "be540146b97c2bcfe74c63c7b1df7f4d8fec4dd07377a70ffd12990fee7b24b3",
+    "title": "Satori ～3rd EyEs [DELAYMASTER]",
+    "artist": "BMS:くっちー / BGA:あっきー / 差分　赤い人",
+    "url": "https://web.archive.org/web/20130612003510/http://page.freett.com/ykyk00/bof2009.html",
+    "url_diff": "https://darksabun.club/mirror/akred/ak-red-new.html",
+    "level": "st6,dl6"
+  },
+  {
     "md5": "3a3fc6d399c85550b4e36c7432e61e94",
     "sha256": "39c123e8d7fb7b83eacc390fde419120e3841ffac383e02e1297618496c19743",
     "title": "Stomachache $%^@&*(#!!",
@@ -3822,6 +3831,15 @@
     "artist": "Arctures vs DJ KemoNOiZE / UnK-now vs 37X",
     "url": "https://drive.google.com/file/d/1Dr6102o7n30a89QodzB9REvWMw7me8GH/view",
     "url_diff": "https://web.archive.org/web/20191203063932/http://sagena.harisen.jp/bms/dpoint.zip",
+    "level": "st9,dl9"
+  },
+  {
+    "md5": "e7228f14710be4ce97b158eeb7d7c2fc",
+    "sha256": "5eba36e708781ea475142390ca9ff8ef8daf9605f7879fca4d3efaa4f636845a",
+    "title": "fragmentation",
+    "artist": "Black hood / T",
+    "url": "https://www.luzeria.net/?p=387",
+    "url_diff": "https://stellabms.xyz/upload/979",
     "level": "st9,dl9"
   },
   {

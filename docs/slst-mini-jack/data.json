@@ -1908,6 +1908,15 @@
     "level": "st5,連打複合5"
   },
   {
+    "md5": "def39e4dcf79a556d34392aad7bc89cf",
+    "sha256": "d8cc8bde5bece26f9b12613ba580e18d160c5598331120711c1b02d0593eedfd",
+    "title": "Escape [SP FROM REALITY]",
+    "artist": "Star* vs SamaR3N BG by Star* & AZVW_2 / obj Cryo-Myosotis",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=133",
+    "url_diff": "同梱譜面",
+    "level": "st5,連打複合5"
+  },
+  {
     "md5": "87b6810739d2f3761300e8180b543dbe",
     "sha256": "d5b96f4331d03336f00741821d76ddb3aca2c8ddf9c42b9158d8c8dc57674d3c",
     "title": "Fake it [INSANE]",
@@ -2201,6 +2210,15 @@
     "artist": "wa. / obj:potechang",
     "url": "https://drive.usercontent.google.com/u/0/uc?id=19gubhZo7hzAAfyqow3UHMblvEeilLc7T&export=download",
     "url_diff": "https://stellabms.xyz/upload/6673",
+    "level": "st5,連打複合5"
+  },
+  {
+    "md5": "0954ab1b0b38fe13d61021e145a1a6a4",
+    "sha256": "1c819a3077c48d745c731b451e0f5d510f6431b5cfcc2892089120df3206b111",
+    "title": "不思議の国のアリス -PHANTASM-",
+    "artist": "由蘭 / obj:Lian",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/dINDXDzb",
+    "url_diff": "https://web.archive.org/web/20260113194747/https://bmsoflian.web.fc2.com/bms2/20220322_LianSabun.zip",
     "level": "st5,連打複合5"
   },
   {
@@ -2803,6 +2821,15 @@
     "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / pattern for some reason +.5",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
     "url_diff": "https://fsrs.darksabun.club/sabun/fsrs/teumessia_fsrs.zip",
+    "level": "st7,連打複合7"
+  },
+  {
+    "md5": "2c888fb1fe77aea7bf1559cbbd13eae3",
+    "sha256": "560d2a51c249138cbc708619fccfd774adbcb810360f3b1b31ee15d0f475f41a",
+    "title": "ハードルネッサンバ -L A S T  B O S S-",
+    "artist": "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj:七海 (fix ver.)",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
+    "url_diff": "https://stellabms.xyz/upload/8479",
     "level": "st7,連打複合7"
   },
   {
