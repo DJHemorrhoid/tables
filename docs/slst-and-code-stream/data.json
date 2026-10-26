@@ -224,7 +224,7 @@
     "sha256": "c84ece04dd0f63ea05f1df9ac837bfb975d68a58117c916d1bb6a8ec734bd71d",
     "title": "Day Life (Happy-Chowayo Remix!!) [激辛]",
     "artist": "Warak Remixed by JURUMA",
-    "url": "https://event.yaruki0.net/kowloon/impression/1",
+    "url": "https://drive.google.com/file/d/1X1wXo-ldNEEawnY9C0OsVjrQZOVBmAmc/view?usp=sharing",
     "level": "sl0"
   },
   {
@@ -6906,15 +6906,6 @@
     "level": "sl2"
   },
   {
-    "md5": "90904b58fa7ce61ba864648cb04aa30c",
-    "sha256": "a2f77d0624cc1bbc3ec0194e71ae84fb7325977417b100061f72182be7d51282",
-    "title": "風花 (ANOTHER)",
-    "artist": "LuL / BAECON",
-    "url": "http://estish.nobody.jp/",
-    "url_diff": "https://darksabun.club/mirror/akred/baecon/03_kazehana_7a_f.bme",
-    "level": "sl2"
-  },
-  {
     "md5": "843e88268a449b08a1e76a5320ef9a4f",
     "sha256": "419633189fcaca8579dc6ac0e82ecfcac40683b8430ef8ec36d32572e141db7b",
     "title": "A c i - L - - t w i  l i g h t -",
@@ -7558,6 +7549,15 @@
     "artist": "天音/さ",
     "url": "http://loli.sakura.ne.jp/",
     "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "level": "sl2,乱打2"
+  },
+  {
+    "md5": "90904b58fa7ce61ba864648cb04aa30c",
+    "sha256": "a2f77d0624cc1bbc3ec0194e71ae84fb7325977417b100061f72182be7d51282",
+    "title": "風花 (ANOTHER)",
+    "artist": "LuL / BAECON",
+    "url": "http://estish.nobody.jp/",
+    "url_diff": "https://darksabun.club/mirror/akred/baecon/03_kazehana_7a_f.bme",
     "level": "sl2,乱打2"
   },
   {
@@ -24376,7 +24376,7 @@
     "sha256": "69b75902ff40d0be89be723fbc7092db3604b05a9a4159780f4db35664550388",
     "title": "Day Life (Happy-Chowayo Remix!!) [麻辣2]",
     "artist": "Warak Remixed by JURUMA",
-    "url": "https://event.yaruki0.net/kowloon/impression/1",
+    "url": "https://drive.google.com/file/d/1X1wXo-ldNEEawnY9C0OsVjrQZOVBmAmc/view?usp=sharing",
     "level": "sl11"
   },
   {
@@ -30482,6 +30482,14 @@
     "artist": "L-Mys(Toy Musical)",
     "url": "http://tm2.toymusical.net/download.html",
     "url_diff": "http://drowsy.hannnari.com/index.html",
+    "level": "重発狂0"
+  },
+  {
+    "md5": "4f41f8c40d4d8072c6bac682aa17e91e",
+    "title": "5億円が欲しいRENAISSANCE -Heaven-",
+    "artist": "69 de 74 // 差分 Eri BGI:れおん/黒鵜織羽",
+    "url": "https://dropbox.com/s/z7ylf1l80grpybm/%5B69%20de%2074%5D5oku_RENAISSANCE_ogg.zip?dl=1",
+    "url_diff": "https://stellabms.xyz/upload/8488",
     "level": "重発狂0"
   },
   {
@@ -46642,6 +46650,14 @@
     "artist": "numuto obj:sgn",
     "url": "https://k-bms.com/party_pabat/party.jsp?board_num=24&num=20&order=reg&odtype=a&ckattempt=1",
     "url_diff": "https://stellabms.xyz/upload/7547",
+    "level": "重発狂5"
+  },
+  {
+    "md5": "89fede27ece4c87110903090f705c9e9",
+    "title": "cryona [crystalline]",
+    "artist": "42SoL mov. rime / obj:Criyajuh",
+    "url": "https://manbow.nothing.sh/event//event.cgi?action=More_def&num=82&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8491",
     "level": "重発狂5"
   },
   {

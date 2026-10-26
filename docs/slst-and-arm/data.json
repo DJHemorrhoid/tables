@@ -429,7 +429,7 @@
     "sha256": "c84ece04dd0f63ea05f1df9ac837bfb975d68a58117c916d1bb6a8ec734bd71d",
     "title": "Day Life (Happy-Chowayo Remix!!) [激辛]",
     "artist": "Warak Remixed by JURUMA",
-    "url": "https://event.yaruki0.net/kowloon/impression/1",
+    "url": "https://drive.google.com/file/d/1X1wXo-ldNEEawnY9C0OsVjrQZOVBmAmc/view?usp=sharing",
     "level": "sl0"
   },
   {
@@ -6878,15 +6878,6 @@
     "level": "sl2"
   },
   {
-    "md5": "90904b58fa7ce61ba864648cb04aa30c",
-    "sha256": "a2f77d0624cc1bbc3ec0194e71ae84fb7325977417b100061f72182be7d51282",
-    "title": "風花 (ANOTHER)",
-    "artist": "LuL / BAECON",
-    "url": "http://estish.nobody.jp/",
-    "url_diff": "https://darksabun.club/mirror/akred/baecon/03_kazehana_7a_f.bme",
-    "level": "sl2"
-  },
-  {
     "md5": "1a44d758b16a45f0dae807be9208dd02",
     "sha256": "ab27652d9ea5a5536ba05333af0f96a700c78a15c37089c52bac6be9ef3f7621",
     "title": "7 colors* -Prismatic Colors-",
@@ -7135,6 +7126,15 @@
     "artist": "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin / obj. DK",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=127",
     "url_diff": "https://darksabun.club/bceg/event/bofxv/",
+    "level": "sl2,Ude2"
+  },
+  {
+    "md5": "90904b58fa7ce61ba864648cb04aa30c",
+    "sha256": "a2f77d0624cc1bbc3ec0194e71ae84fb7325977417b100061f72182be7d51282",
+    "title": "風花 (ANOTHER)",
+    "artist": "LuL / BAECON",
+    "url": "http://estish.nobody.jp/",
+    "url_diff": "https://darksabun.club/mirror/akred/baecon/03_kazehana_7a_f.bme",
     "level": "sl2,Ude2"
   },
   {
@@ -13056,6 +13056,14 @@
     "artist": "Judah BGA:Lucifer obj:1/8",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=96",
     "url_diff": "http://oneeighth.web.fc2.com/",
+    "level": "Ude5"
+  },
+  {
+    "md5": "3ee49462368a1e7818818062f98d90bd",
+    "title": "From Megalopolis with Love [Z_style]",
+    "artist": "牧野 Sliced by И / obj: zakoPeko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=305&event=116",
+    "url_diff": "https://stellabms.xyz/upload/8492",
     "level": "Ude5"
   },
   {
@@ -20572,7 +20580,7 @@
     "sha256": "69b75902ff40d0be89be723fbc7092db3604b05a9a4159780f4db35664550388",
     "title": "Day Life (Happy-Chowayo Remix!!) [麻辣2]",
     "artist": "Warak Remixed by JURUMA",
-    "url": "https://event.yaruki0.net/kowloon/impression/1",
+    "url": "https://drive.google.com/file/d/1X1wXo-ldNEEawnY9C0OsVjrQZOVBmAmc/view?usp=sharing",
     "level": "sl11"
   },
   {
@@ -21824,6 +21832,14 @@
     "artist": "Reku Mochizuki feat. せやかて硝酸太郎 / illust:きち BMS:Chart_Generator / obj:Keysa",
     "url": "https://venue.bmssearch.net/letsbmsedit4/23",
     "url_diff": "https://stellabms.xyz/upload/7686",
+    "level": "Ude11"
+  },
+  {
+    "md5": "24fa2d56f75a6935efdd3d301fcc4105",
+    "title": "L'eau a Paris [Nice Seine]",
+    "artist": "THE WIZARDCRAFT(Hex Margarita&kdcysth) obj.baza-ru",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8486",
     "level": "Ude11"
   },
   {
