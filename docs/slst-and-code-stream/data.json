@@ -56,14 +56,6 @@
     "level": "sl0"
   },
   {
-    "md5": "ba1f2f70e02d9a4f9a1e85fc668ede65",
-    "sha256": "e977611222ec76edf0e741f74d94e57035f5f73a15d839034fa126d676df853e",
-    "title": "Aqua Vitae [ANOTHER]",
-    "artist": "Nima",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=149",
-    "level": "sl0"
-  },
-  {
     "md5": "70b6f38f9a5536c0826c15155c471d51",
     "sha256": "b92ef241458894e09d19797877da2ab5bd9ce25804c3d9d9734067a1f0d8290e",
     "title": "Assault TAXI",
@@ -1404,6 +1396,14 @@
     "artist": "Lokan",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=457&event=133",
     "url_diff": "同梱譜面",
+    "level": "sl0,乱打0"
+  },
+  {
+    "md5": "ba1f2f70e02d9a4f9a1e85fc668ede65",
+    "sha256": "e977611222ec76edf0e741f74d94e57035f5f73a15d839034fa126d676df853e",
+    "title": "Aqua Vitae [ANOTHER]",
+    "artist": "Nima",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=149",
     "level": "sl0,乱打0"
   },
   {
@@ -13510,14 +13510,6 @@
     "level": "sl5"
   },
   {
-    "md5": "3e85c076857ccec48336ede25a49f22e",
-    "sha256": "9b1e468c8e1cd560ecfe11031f674947ca7c74ee3e933af399c6f3a36bcd31b7",
-    "title": "Let me go Seaside (Sao-Sao Brilliance Mix)",
-    "artist": "KARUT(Arr.アリスク大好きクン）",
-    "url": "https://venue.bmssearch.net/kivotos/10",
-    "level": "sl5"
-  },
-  {
     "md5": "613f9ef44931e428223b74dd512a7b14",
     "sha256": "2101d8845f4db55026c4d6b12cededcd3475a1150f127733d65e22df430d8e78",
     "title": "Littlegirl Complex -Hope-",
@@ -14448,6 +14440,14 @@
     "artist": "あとぅす feat.橘花音 BGI:りーふぱいザウルス",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=133",
     "url_diff": "同梱譜面",
+    "level": "sl5,乱打5"
+  },
+  {
+    "md5": "3e85c076857ccec48336ede25a49f22e",
+    "sha256": "9b1e468c8e1cd560ecfe11031f674947ca7c74ee3e933af399c6f3a36bcd31b7",
+    "title": "Let me go Seaside (Sao-Sao Brilliance Mix)",
+    "artist": "KARUT(Arr.アリスク大好きクン）",
+    "url": "https://venue.bmssearch.net/kivotos/10",
     "level": "sl5,乱打5"
   },
   {
@@ -30981,14 +30981,6 @@
     "level": "st1"
   },
   {
-    "md5": "c1448eda95cef5ef4a11c85a2f0366dc",
-    "sha256": "a667ed23b3841ff1a934d3e6c12c51e19f37dc6902bbb380ba028576ded0c3b6",
-    "title": "\"Flagon\" [BF]",
-    "artist": "Lemi. BGA:raii / obj:BAECON vs Fender",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=185&event=149",
-    "level": "st1"
-  },
-  {
     "md5": "9f8df86d3df3af71c44a07edd431527f",
     "sha256": "9ca5ac843277fed324e9c40970e48457e28e762c776e4b87c86bcf533168ec5e",
     "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP MARYTHER]",
@@ -32658,6 +32650,14 @@
     "url": "https://clockxellox.sakura.ne.jp/",
     "url_diff": "http://sagena.harisen.jp/bms/redream_7X.zip",
     "level": "st1,重発狂0"
+  },
+  {
+    "md5": "c1448eda95cef5ef4a11c85a2f0366dc",
+    "sha256": "a667ed23b3841ff1a934d3e6c12c51e19f37dc6902bbb380ba028576ded0c3b6",
+    "title": "\"Flagon\" [BF]",
+    "artist": "Lemi. BGA:raii / obj:BAECON vs Fender",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=185&event=149",
+    "level": "st1,重発狂1"
   },
   {
     "md5": "2b58433bd9124e40c53276a7c4a821f9",
