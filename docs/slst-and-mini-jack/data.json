@@ -31985,15 +31985,6 @@
     "level": "st3"
   },
   {
-    "md5": "0a1d898ac0133a9aa706b6854d069a96",
-    "sha256": "bdebfe31aeed9d49f502c124ceed077dd3fd9a6402065051c8b5f876f8d754c2",
-    "title": "スーパーイザナギオブジェクト [アメノオシホミミ]",
-    "artist": "er obj:剣竜",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=102",
-    "url_diff": "http://flowermaster.web.fc2.com/kikaku/kikaku9.zip",
-    "level": "st3"
-  },
-  {
     "md5": "30a4c9e1ed2f9f6a9ae83609a290fe3b",
     "sha256": "f966fab054ee564cc2d4d93e53925ca0795f4ecca403f09b986e7d1163c605e2",
     "title": "タイヨウパラダイス(Lemon beads J-core bootleg) -もういっかい!-",
@@ -32718,6 +32709,15 @@
     "artist": "MiKaDo (Original:ZUN)",
     "url": "https://venue.bmssearch.net/ondanre2/2",
     "url_diff": "同梱譜面",
+    "level": "st3,連打複合3"
+  },
+  {
+    "md5": "0a1d898ac0133a9aa706b6854d069a96",
+    "sha256": "bdebfe31aeed9d49f502c124ceed077dd3fd9a6402065051c8b5f876f8d754c2",
+    "title": "スーパーイザナギオブジェクト [アメノオシホミミ]",
+    "artist": "er obj:剣竜",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=102",
+    "url_diff": "http://flowermaster.web.fc2.com/kikaku/kikaku9.zip",
     "level": "st3,連打複合3"
   },
   {
