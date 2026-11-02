@@ -425,14 +425,6 @@
     "level": "sl0"
   },
   {
-    "md5": "e6e5eb41c233a01812c5f54508a298ca",
-    "sha256": "c84ece04dd0f63ea05f1df9ac837bfb975d68a58117c916d1bb6a8ec734bd71d",
-    "title": "Day Life (Happy-Chowayo Remix!!) [激辛]",
-    "artist": "Warak Remixed by JURUMA",
-    "url": "https://drive.google.com/file/d/1X1wXo-ldNEEawnY9C0OsVjrQZOVBmAmc/view?usp=sharing",
-    "level": "sl0"
-  },
-  {
     "md5": "1f17bdf52d77a37c2b1d80afa67ec969",
     "sha256": "faa7405f94ffd55381c79fbe11335cc9a556a3927a43ada9fd912fe7e8401650",
     "title": "Dear Glint",
@@ -1890,6 +1882,14 @@
     "artist": "ですワ",
     "url": "https://www.dropbox.com/s/tr2ifhcb9u94eah/MAGURO_DSW_ogg.zip?dl=0",
     "level": "sl0"
+  },
+  {
+    "md5": "e6e5eb41c233a01812c5f54508a298ca",
+    "sha256": "c84ece04dd0f63ea05f1df9ac837bfb975d68a58117c916d1bb6a8ec734bd71d",
+    "title": "Day Life (Happy-Chowayo Remix!!) [激辛]",
+    "artist": "Warak Remixed by JURUMA",
+    "url": "https://drive.google.com/file/d/1X1wXo-ldNEEawnY9C0OsVjrQZOVBmAmc/view?usp=sharing",
+    "level": "sl0,Ude0"
   },
   {
     "md5": "be75d2aa1742255f3fdaa94d11ba166f",

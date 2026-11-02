@@ -28128,6 +28128,13 @@
     "level": "乱打12"
   },
   {
+    "md5": "055fc60216469dd91ab1b40097b8022f",
+    "title": "RE_EXECUTiON [F]",
+    "artist": "VXΛ mov:140/fth / obj:Fender",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=152",
+    "level": "乱打12"
+  },
+  {
     "md5": "1af9d41d8fd74007da59b8e590d394f5",
     "title": "Remembrance [Vestigium]",
     "artist": "Lian BGI:Altcore obj:sgn",
@@ -33717,6 +33724,14 @@
     "artist": "SKY. obj:M1CH1",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=147",
     "url_diff": "https://stellabms.xyz/upload/8355",
+    "level": "重発狂1"
+  },
+  {
+    "md5": "4de74b555f167c984e09d55ef8b6c37e",
+    "title": "BAMBOO TWIST [spiral]",
+    "artist": "Ras vs Nankumo BGA：plano arr:SNN obj:ugd",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=418&event=146",
+    "url_diff": "https://stellabms.xyz/upload/8507",
     "level": "重発狂1"
   },
   {
@@ -42492,15 +42507,6 @@
     "level": "st4"
   },
   {
-    "md5": "893ecfa83a462e0ff22092e747526739",
-    "sha256": "095a9d7df2af261bb2a40e9d2f9a6f21a6e7cf3be2260afe92e12c5e4f361564",
-    "title": "sttra ry ffarp -Xe-",
-    "artist": "蝙蝠姉妹 obj：LindBlum",
-    "url": "https://nkiankw.net/kemobeats/",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05587.zip",
-    "level": "st4"
-  },
-  {
     "md5": "c4695000cde192926bdf0d87d2b72769",
     "sha256": "583587cd944f24286d76c87daad25fdf764b2596e9dbcf0f18b15a4cb3efd719",
     "title": "techいも [cookie]",
@@ -43384,6 +43390,15 @@
     "level": "st4,重発狂4"
   },
   {
+    "md5": "893ecfa83a462e0ff22092e747526739",
+    "sha256": "095a9d7df2af261bb2a40e9d2f9a6f21a6e7cf3be2260afe92e12c5e4f361564",
+    "title": "sttra ry ffarp -Xe-",
+    "artist": "蝙蝠姉妹 obj：LindBlum",
+    "url": "https://nkiankw.net/kemobeats/",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05587.zip",
+    "level": "st4,重発狂4"
+  },
+  {
     "md5": "00fc1a4e00ecc77789cbc822962c3eed",
     "sha256": "f5faf5f37f25c396e94b87af6cb711d7ac311de99a4e08d4de1bbfeb9e7fe5ef",
     "title": "sweet pop [not sweet]",
@@ -43709,6 +43724,14 @@
     "artist": "455 / rio / black train",
     "url": "http://malie.noor.jp/",
     "url_diff": "http://absolute.pv.land.to/",
+    "level": "重発狂4"
+  },
+  {
+    "md5": "bf349bda6cd6ed437320dbb0564d7fa2",
+    "title": "GEN-χ feat. 重音テト [Take-Me-Higher]",
+    "artist": "∀S∀ obj:ugd",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8499",
     "level": "重発狂4"
   },
   {
@@ -46518,6 +46541,14 @@
     "level": "重発狂5"
   },
   {
+    "md5": "650e8472e7a74456beb471feb5c9903c",
+    "title": "Fragile -LAST BOSS-",
+    "artist": "Lime / Kankitsu obj:IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=465&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8505",
+    "level": "重発狂5"
+  },
+  {
     "md5": "840481288f15b9b3c7ae6d5d00a61a27",
     "title": "Frostline [GOD]",
     "artist": "S.Percentage / obj:Criyajuh",
@@ -48903,6 +48934,14 @@
     "artist": "髭姫 feat.えみゅう。 BGA：NRF obj：でっていう99",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=140",
     "url_diff": "https://stellabms.xyz/upload/6014",
+    "level": "重発狂6"
+  },
+  {
+    "md5": "fc94b3ec607ce3fb9ebf9a79c00e988e",
+    "title": "泡沫のセイレーン [Sargasso]",
+    "artist": "Roise feat.高城みよ / obj:potechang",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8565",
     "level": "重発狂6"
   },
   {
@@ -53124,6 +53163,14 @@
     "level": "重発狂9"
   },
   {
+    "md5": "df4af740dc84007a614ee9d74c6d48e3",
+    "title": "Lacrimosa [Mournful]",
+    "artist": "Abel & RiraN Movie:Minho Obj:Normid",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=255&event=140",
+    "url_diff": "https://stellabms.xyz/upload/8494",
+    "level": "重発狂9"
+  },
+  {
     "md5": "e93c615995e4d8be71b01b8e1dbbd499",
     "title": "Luna Light [Time Performance]",
     "artist": "TiS obj:IBARAGI_YOSHIMI",
@@ -53209,6 +53256,14 @@
     "artist": "DJ Saw-Low obj:Frs1pw",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=148",
     "url_diff": "https://stellabms.xyz/upload/5797",
+    "level": "重発狂9"
+  },
+  {
+    "md5": "34c41ff271302f23fa3eb10d6ff5865e",
+    "title": "あかず [Another Dimensions]",
+    "artist": "かたぎり ft. 可不 BGA: 2nd_identity obj:IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=146",
+    "url_diff": "https://stellabms.xyz/upload/4503",
     "level": "重発狂9"
   },
   {
