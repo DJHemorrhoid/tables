@@ -12324,6 +12324,14 @@
     "level": "微縦連5"
   },
   {
+    "md5": "75a7fc1b1f5681e3bdcea72bf993037c",
+    "title": "Praying to the Snow [Requiem on the Ice]",
+    "artist": "おみー feat.Eleanor Forte obj: 泣く子",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=149",
+    "url_diff": "https://stellabms.xyz/upload/8434",
+    "level": "微縦連5"
+  },
+  {
     "md5": "0b08680ec31a23477d672a77b4255d77",
     "title": "astral.exe [r-technique]",
     "artist": "Synzak & Laxeno57 (Movie: kkmfd) obj:R054",
@@ -15887,15 +15895,6 @@
     "level": "sl8"
   },
   {
-    "md5": "fb43b150eea77603f3edc1bd3c527884",
-    "sha256": "fc2c3826df17e9843814fd8d221ade82b0987e3e7c33eb2c795a377ec00b24d3",
-    "title": "YAKUI [Freak]",
-    "artist": "はがね obj:Fender + B_K",
-    "url": "https://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/21/",
-    "url_diff": "https://darksabun.club/mirror/beatkim/insane.html",
-    "level": "sl8"
-  },
-  {
     "md5": "8be565db62cb59739c827c5ee0884801",
     "sha256": "50a0bf1abcf5569862f69ae55d1158b0e95a31108331986cc4ad79e815d1f7cc",
     "title": "Zero Feet [INSANE]",
@@ -16493,6 +16492,15 @@
     "artist": "paraneumann 差分：Decimal",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
     "url_diff": "https://stellabms.xyz/upload/3150",
+    "level": "sl8,微縦連8"
+  },
+  {
+    "md5": "fb43b150eea77603f3edc1bd3c527884",
+    "sha256": "fc2c3826df17e9843814fd8d221ade82b0987e3e7c33eb2c795a377ec00b24d3",
+    "title": "YAKUI [Freak]",
+    "artist": "はがね obj:Fender + B_K",
+    "url": "https://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/21/",
+    "url_diff": "https://darksabun.club/mirror/beatkim/insane.html",
     "level": "sl8,微縦連8"
   },
   {
@@ -19025,6 +19033,14 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=102",
     "url_diff": "http://www.dropbox.com/s/1fcphqzg80xn7uu/_odoru-spKF.zip?dl=0",
     "level": "sl10,微縦連10"
+  },
+  {
+    "md5": "bad6674b47e14d795ee6651db9b906d7",
+    "title": "Oath:Return [Citrine]",
+    "artist": "MiKaDo feat. はらもりよしな Guitar:裸(ﾗｵｳ)王 BGA:MiKaDo Illust&obj:JURUMA",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=153",
+    "url_diff": "https://stellabms.xyz/upload/8487",
+    "level": "微縦連10"
   },
   {
     "md5": "7d22bcb2b698dd540498e3cd900acd05",
@@ -33341,15 +33357,6 @@
     "level": "st4"
   },
   {
-    "md5": "5a3fdbe101050220b6afb68277770bc1",
-    "sha256": "7f84339c29892bad643f6a02a6c3e9636d78f7796f3d9449e095afc64a1bf05f",
-    "title": "Dual Personality [Noble]",
-    "artist": "siqlo BGA:八重幸 obj: 鈴木佳奈",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132",
-    "url_diff": "https://drive.google.com/file/d/1v9iTywpUN8oB_koKjDJoSyUci7XHedEy/view?usp=drive_link",
-    "level": "st4"
-  },
-  {
     "md5": "5ce27b4e33c330006aceebbd592d4f88",
     "sha256": "2b492ff41529bebafff9d6405caaafc943972204c4de1684ee1106ef70a41bbf",
     "title": "Dynasty of Extinction [Destruction]",
@@ -34782,15 +34789,6 @@
     "level": "st4"
   },
   {
-    "md5": "63b6e7c49164fba09e5014c5526d8805",
-    "sha256": "e1e52c9ac1ac6a1cdbbc34732b44c30a7a78425d8c368a2a3da5f8adfdd08423",
-    "title": "リックのうた [HAMSTER]",
-    "artist": "9-zen うた：ずんだもん と きりたん obj:はむすぎ",
-    "url": "https://sites.google.com/view/bms-list-9-zen",
-    "url_diff": "https://www.dropbox.com/scl/fi/ej8rgd4nn5loi2zcvssae/.zip?rlkey=guq6jh3fe9b5ak7yyu1xzlhc0&dl=1",
-    "level": "st4"
-  },
-  {
     "md5": "a0e534d02c919996fef1f2a83c44c418",
     "sha256": "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
     "title": "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
@@ -35129,6 +35127,15 @@
     "level": "st4,連打複合4"
   },
   {
+    "md5": "5a3fdbe101050220b6afb68277770bc1",
+    "sha256": "7f84339c29892bad643f6a02a6c3e9636d78f7796f3d9449e095afc64a1bf05f",
+    "title": "Dual Personality [Noble]",
+    "artist": "siqlo BGA:八重幸 obj: 鈴木佳奈",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132",
+    "url_diff": "https://drive.google.com/file/d/1v9iTywpUN8oB_koKjDJoSyUci7XHedEy/view?usp=drive_link",
+    "level": "st4,連打複合4"
+  },
+  {
     "md5": "a4a8ff60bb83ed47e5e452942b138521",
     "sha256": "b05f0728b9a9fe60328ba9615ef43a7e4da14e89f5deedd5a713b098c305229b",
     "title": "EXCEED ENERGY [Ain't too proud to rely on!]",
@@ -35444,6 +35451,15 @@
     "level": "st4,連打複合4"
   },
   {
+    "md5": "63b6e7c49164fba09e5014c5526d8805",
+    "sha256": "e1e52c9ac1ac6a1cdbbc34732b44c30a7a78425d8c368a2a3da5f8adfdd08423",
+    "title": "リックのうた [HAMSTER]",
+    "artist": "9-zen うた：ずんだもん と きりたん obj:はむすぎ",
+    "url": "https://sites.google.com/view/bms-list-9-zen",
+    "url_diff": "https://www.dropbox.com/scl/fi/ej8rgd4nn5loi2zcvssae/.zip?rlkey=guq6jh3fe9b5ak7yyu1xzlhc0&dl=1",
+    "level": "st4,連打複合4"
+  },
+  {
     "md5": "a77e3d96ab456ead6a3cc2a753516138",
     "sha256": "47c4f6cf1d38a954c51b7bf3d17dccf5ce8833fa9d4fb34875ddcb819c2553db",
     "title": "墓守少女 [Possessive]",
@@ -35551,6 +35567,14 @@
     "artist": "Suzuka obj:IBARAGI_YOSHIMI",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=131",
     "url_diff": "https://stellabms.xyz/upload/7385",
+    "level": "連打複合4"
+  },
+  {
+    "md5": "00e6a82ca94d52181391001bfeb3d833",
+    "title": "L2NEON(Radio Edit) ［Re:link］",
+    "artist": "DJ JUNOU obj:SNN",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8530",
     "level": "連打複合4"
   },
   {
@@ -38062,6 +38086,14 @@
     "title": "80μИ℃ё [78]",
     "artist": "EFB37-1 / obj:Criyajuh",
     "url_diff": "https://darksabun.github.io/mirror/absolute/bof/up0717.zip",
+    "level": "連打複合5"
+  },
+  {
+    "md5": "2b00ff288a3e455e01e6fd86dbe5fedf",
+    "title": "A.B.L.D. [M.J.L.D.]",
+    "artist": "KaKi Movie : kokodoko obj:IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=75&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8493",
     "level": "連打複合5"
   },
   {
@@ -43274,6 +43306,14 @@
     "artist": "sun3 / BGA:Johnny obj:1mi",
     "url": "https://www.axfc.net/u/2673091?key=bms",
     "url_diff": "https://github.com/mi1-bm/1mi/raw/refs/heads/main/SABUN/Messier333_lich.zip",
+    "level": "連打複合8"
+  },
+  {
+    "md5": "9a7d2c2e4a5ed38cb55559e2cbab00df",
+    "title": "The Berserker [Ain't too proud to rely on!]",
+    "artist": "corok-Bb obj:IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8520",
     "level": "連打複合8"
   },
   {

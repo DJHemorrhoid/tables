@@ -771,15 +771,6 @@
     "level": "sl0"
   },
   {
-    "md5": "f8c78f4b7f17342f704d08a3fac90984",
-    "sha256": "df76613e6b3f17085c9c7ae15635eea3f15d43d490d17f32c4d0854d5c43b5eb",
-    "title": "Time to beat the odds [orbit]",
-    "artist": "影虎。 BMS:Qayo BGA:yan / illust:Viosgit / obj:hecando",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=140",
-    "url_diff": "https://stellabms.xyz/upload/3996",
-    "level": "sl0"
-  },
-  {
     "md5": "b979150d4fc37505d6b3d299f6a6265a",
     "sha256": "2d38e050cb1bbbe7513381c1e2e5101f85ac3d53f7e971e1705aed32bde714fa",
     "title": "Tiny Leda",
@@ -1940,6 +1931,15 @@
     "artist": "TaW Movie: MES19 / obj: Lennon",
     "url": "https://drive.google.com/uc?id=1xQiHjuKBqqy9MFldc5zzmotjgKGgs1qx",
     "url_diff": "同梱譜面",
+    "level": "sl0,乱打0"
+  },
+  {
+    "md5": "f8c78f4b7f17342f704d08a3fac90984",
+    "sha256": "df76613e6b3f17085c9c7ae15635eea3f15d43d490d17f32c4d0854d5c43b5eb",
+    "title": "Time to beat the odds [orbit]",
+    "artist": "影虎。 BMS:Qayo BGA:yan / illust:Viosgit / obj:hecando",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=140",
+    "url_diff": "https://stellabms.xyz/upload/3996",
     "level": "sl0,乱打0"
   },
   {
@@ -15069,6 +15069,14 @@
     "level": "乱打5"
   },
   {
+    "md5": "75a7fc1b1f5681e3bdcea72bf993037c",
+    "title": "Praying to the Snow [Requiem on the Ice]",
+    "artist": "おみー feat.Eleanor Forte obj: 泣く子",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=149",
+    "url_diff": "https://stellabms.xyz/upload/8434",
+    "level": "乱打5"
+  },
+  {
     "md5": "db51ec910de65e837109b5b6670ace6f",
     "title": "R4T5 [EX]",
     "artist": "KaKi / И BGA:kokodoko",
@@ -20917,6 +20925,14 @@
     "level": "乱打8"
   },
   {
+    "md5": "8143533b3badba3effc4b364efa1e5b6",
+    "title": "私のアニメ愛はお前らなんかに止めらんない！[DOPANIME]",
+    "artist": "クソガキ　／ obj:koyuzu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8469",
+    "level": "乱打8"
+  },
+  {
     "md5": "daa27761d91f93229ab773b88e0bb1bf",
     "title": "織姫(Independent from God, Everlasting love remix) [ANOTHER++]",
     "artist": "DJ TAKUAN 及び 佐倉アヤキ remixed by uet",
@@ -23783,6 +23799,14 @@
     "artist": "CC'n'A / Ryuka obj:Ameflu",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=96",
     "url_diff": "https://drive.google.com/file/d/1Irgy3CryKWZIWUs8p0z7cO48NxQxcFKN/view?usp=sharing",
+    "level": "乱打10"
+  },
+  {
+    "md5": "5b457a7ae7e44b617d1995a9e40d5c90",
+    "title": "AzureFall [SP REUNION]",
+    "artist": "RNY obj.Lanait vs うに",
+    "url": "https://venue.bmssearch.net/bmscoycc/5",
+    "url_diff": "https://stellabms.xyz/upload/8509",
     "level": "乱打10"
   },
   {
@@ -30625,6 +30649,14 @@
     "artist": "Yu^ta",
     "url": "http://yuinore.net/2017/02/smc-package/",
     "url_diff": "同梱譜面",
+    "level": "重発狂0"
+  },
+  {
+    "md5": "2955a13b3957d951877653920a54e599",
+    "title": "Gasoline Blood [RE.TRAIN]",
+    "artist": "ですワ BGI:空読無 白眼/obj:SNN",
+    "url": "https://bmssearch.net/bmses/kw053YgNZaZ7yB",
+    "url_diff": "https://stellabms.xyz/upload/8535",
     "level": "重発狂0"
   },
   {
@@ -41007,6 +41039,14 @@
     "level": "重発狂3"
   },
   {
+    "md5": "92402cdd564d2cc287f35f8d6bee362b",
+    "title": "恋 [片思い]",
+    "artist": "Yu^ta obj:mukyu--",
+    "url": "https://www.dropbox.com/scl/fi/4fh1ow0v2yjqp8d4962jp/yuta_2026_noid.zip?rlkey=pszpvi1qvyyti782bndk43fn4&dl=1",
+    "url_diff": "https://stellabms.xyz/upload/8523",
+    "level": "重発狂3"
+  },
+  {
     "md5": "9411e537de375e53156063f9ed530349",
     "title": "星少女ステラユニオン -Celestial-",
     "artist": "LiA / obj:ugd BGA:Milk_tya / Illust:hrchem",
@@ -41044,6 +41084,14 @@
     "artist": "こどものなみだ / obj:水素",
     "url": "http://tm2.toymusical.net/",
     "url_diff": "http://suisonosabun.web.fc2.com/siromahou_sabun.rar",
+    "level": "重発狂3"
+  },
+  {
+    "md5": "ccc7b300026d4c284415066d339364f9",
+    "title": "私のアニメ愛はお前らなんかに止めらんない！[DOPANIME+]",
+    "artist": "クソガキ　／ obj:koyuzu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8469",
     "level": "重発狂3"
   },
   {
