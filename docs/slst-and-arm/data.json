@@ -13114,6 +13114,14 @@
     "level": "Ude5"
   },
   {
+    "md5": "d0422400b776d8e33c19741eb08ce6f4",
+    "title": "タイトル画面／デモのうた [DRIZZLE]",
+    "artist": "9-zen うた：琴葉茜 と きりたん さぶん : きーさ",
+    "url": "https://drive.usercontent.google.com/download?id=1aWEUbBwPCUKzxNdqYL0DyojR2W0BiHPr&export=download&authuser=0",
+    "url_diff": "https://stellabms.xyz/upload/8546",
+    "level": "Ude5"
+  },
+  {
     "md5": "a03d9dacc0eb5c2b5133815bc0e034b4",
     "title": "仕事終了後超光速前進？？目標☆中華料理店！ [DRIZZLE]",
     "artist": "FreshP & すずにゃん 皿洗い:keysa",
@@ -16272,15 +16280,6 @@
     "level": "sl8"
   },
   {
-    "md5": "b7e1ee08a0c1059be0dcc681358e854f",
-    "sha256": "407844c37b038944b8db79b8e04b9b130b50778c1a619859dbddfd712256baa6",
-    "title": "FREEZE [Polar-Lunar]",
-    "artist": "lixound feat. 薛南 mov:Xquid / obj:kurekoduki",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=137",
-    "url_diff": "https://stellabms.xyz/upload/8407",
-    "level": "sl8"
-  },
-  {
     "md5": "ec20139eee51f5ffcf25bd5dcd505e4c",
     "sha256": "b6429ce6066adc8e9a5fb90f4b417175171d7de38bbac218fe7c66f70bed8405",
     "title": "Flower Drops [yumether]",
@@ -17310,6 +17309,15 @@
     "artist": "megawolf77 bga & obj. PizeroFox / 差分：Decimal(深夜テンション)",
     "url": "https://horieyuuka.github.io/Songs",
     "url_diff": "https://stellabms.xyz/upload/3816",
+    "level": "sl8,Ude8"
+  },
+  {
+    "md5": "b7e1ee08a0c1059be0dcc681358e854f",
+    "sha256": "407844c37b038944b8db79b8e04b9b130b50778c1a619859dbddfd712256baa6",
+    "title": "FREEZE [Polar-Lunar]",
+    "artist": "lixound feat. 薛南 mov:Xquid / obj:kurekoduki",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=137",
+    "url_diff": "https://stellabms.xyz/upload/8407",
     "level": "sl8,Ude8"
   },
   {
@@ -21891,6 +21899,14 @@
     "level": "Ude11"
   },
   {
+    "md5": "7cfb8f69c9c12531f74c8bbfa467d770",
+    "title": "シンフォニックライツ [gazing]",
+    "artist": "Est feat. 雪歌ユフ / obj.meisaiidol",
+    "url": "https://dropbox.com/s/fey39psbwzyndft/est137_sl.zip?dl=0",
+    "url_diff": "https://stellabms.xyz/upload/8579",
+    "level": "Ude11"
+  },
+  {
     "md5": "9ce56cd8806895c676a002022b6ae325",
     "title": "午後のこいしちゃん [Philosophy7]",
     "artist": "er",
@@ -21904,6 +21920,14 @@
     "artist": "momo★yama obj:1834356",
     "url": "https://venue.bmssearch.net/bmskanji2/24",
     "url_diff": "https://stellabms.xyz/upload/5905",
+    "level": "Ude11"
+  },
+  {
+    "md5": "f81b3d3916b38587df466cc523106447",
+    "title": "白[静かな世界]",
+    "artist": "Sound-Box(feat.A.Dokuga) obj:FriedSnow",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=133",
+    "url_diff": "https://stellabms.xyz/upload/8435",
     "level": "Ude11"
   },
   {
@@ -25163,7 +25187,7 @@
     "title": "ラスティゲート [Nebula]",
     "artist": "あとぅす feat.はらもりよしな BGI:りーふぱいザウルス / obj:mirume",
     "url": "https://venue.bmssearch.net/bmstukuru2025/65",
-    "url_diff": "https://mega.nz/file/GWBlRALJ#SyyMBVvPj5TMQ_N04GxQb1ifeXy4zm_Cf54RWuDeiEg",
+    "url_diff": "https://stellabms.xyz/upload/5078",
     "level": "st0"
   },
   {
