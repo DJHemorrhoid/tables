@@ -25,8 +25,8 @@
     },
     "slst-mini-jack": {
       "recipe_id": "2a10f95899c4",
-      "content_hash": "4c92a48cf9b2221e2c6fe9e7c1310b9b85e0b1228ec3926444ed9af6fb64da2e",
-      "published_at": "2026-11-05 04:00"
+      "content_hash": "1d0fdf363c1d14d543e9ae2bd78d95f145cf9aee6fda8c3e09d63e35940e2429",
+      "published_at": "2026-11-07 04:00"
     },
     "slst-arm": {
       "recipe_id": "df8e90264a21",
@@ -40,8 +40,8 @@
     },
     "slst-only": {
       "recipe_id": "c281011d2d6b",
-      "content_hash": "8149ba5e788f9aff4be999c83b95060b1edd65b4ab27560713aba314e0d65def",
-      "published_at": "2026-11-05 04:00"
+      "content_hash": "2bb1cd369f48f9b9ac11d8055d2f6b1d9d2760dd8fcedb8a6e482f0a89a70377",
+      "published_at": "2026-11-07 04:00"
     },
     "slst-dens-top10": {
       "recipe_id": "b8e18ebd440f",
@@ -80,8 +80,8 @@
     },
     "slst-and-mini-jack": {
       "recipe_id": "69bb3e4b068a",
-      "content_hash": "fc25047966d7507c45dac48522ab9b6fef6097d62aac165414efa1d015fecb80",
-      "published_at": "2026-11-05 04:00"
+      "content_hash": "6efaf243458289b9088e303489dc201d14a1cb65c2eab3fb17596530d60dbe27",
+      "published_at": "2026-11-07 04:00"
     },
     "slst-and-arm": {
       "recipe_id": "8237600c3377",
