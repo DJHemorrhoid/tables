@@ -215,15 +215,6 @@
     "level": "sl1"
   },
   {
-    "md5": "37f5309c50a7cbc2d43243ace22c91ac",
-    "sha256": "904746165e22c9a6e295f63062ebb80605d2d57ddf01b30e1cd5e2d684fb2a43",
-    "title": "Alitatrieb [Madness]",
-    "artist": "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04060.zip",
-    "level": "sl1"
-  },
-  {
     "md5": "6a3bedc150a3115c6dfd84de6fbbe6eb",
     "sha256": "6754298f1806d5dd1d2cde7c3b28f262fc4f6b5365d6bce7c2854aac0ca2cd8c",
     "title": "Azure Zephyr [7A]",
@@ -1122,6 +1113,14 @@
     "level": "sl5"
   },
   {
+    "md5": "7e8138a072007fa7bf95265d8f9073b2",
+    "sha256": "fc459aca0ae644ca57ac5a5df2fb56d3cac7f608e87f4cc786c5999f74f3d523",
+    "title": "ラスティゲート [INSANE]",
+    "artist": "あとぅす feat.はらもりよしな BGI:りーふぱいザウルス / obj:Lian",
+    "url": "https://venue.bmssearch.net/bmstukuru2025/65",
+    "level": "sl5"
+  },
+  {
     "md5": "de40be2b4c0d069304e5dcde4a92358e",
     "sha256": "1859223fc193276b4d68ff1d4b88e82581504cbf96e9e5883e272dad6fb74edf",
     "title": "レシュノルティア [INSANE]",
@@ -1647,20 +1646,21 @@
     "level": "sl9"
   },
   {
-    "md5": "12465f3ced547f6a6735f94c9f6751b1",
-    "sha256": "eb2ba98abba94b7c4f58e0b44d99b4443ede4554edc52260b1454d27dcfa0c41",
-    "title": "Kaleidoscope [SP INSANE]",
-    "artist": "Lycoris vs. Pied d'Alouette",
-    "url": "https://venue.bmssearch.net/mutualfaith3/4",
-    "level": "sl9"
-  },
-  {
     "md5": "5ee670f21b8191ab70ce806f1b613f7e",
     "sha256": "d180bd0204ff167ae4629c75269882d30a4ad7fb287a1f405826197b0ea0d42d",
     "title": "MEPHISTO [FS]",
     "artist": "LeaF / Movie:猫太郎 obj:Fender vs siokaze",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=83",
     "url_diff": "http://fenderbms.web.fc2.com/",
+    "level": "sl9"
+  },
+  {
+    "md5": "0613e7c54f9c026d9460e106eb7db194",
+    "sha256": "9d2b8d187ff783c43e8b431295b5d2b716b2ac1d7679415d77f34260c1f9dffc",
+    "title": "The infant daughter Frandle's -Luna-",
+    "artist": "celas / selene.",
+    "url": "https://web.archive.org/web/20140612155001/http://creation-records.info/bms/c_oen_ogg.rar",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04683.zip",
     "level": "sl9"
   },
   {
@@ -1690,12 +1690,12 @@
     "level": "sl9"
   },
   {
-    "md5": "cf7c4f006cd571da3b83e355bc64f314",
-    "sha256": "baa8c777729230bb861f4b61f6e0949bf6fa6652a7e95b4c17dfa9122086d472",
-    "title": "永劫綺譚の純潔葬花 -Red Lily-",
-    "artist": "nmk feat.橘花音 Guitar:はらたま BGA:わっふゑ / selene.",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=116",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02264.zip",
+    "md5": "1ece10286bda18b476901d2bc1a2c3ab",
+    "sha256": "7412e3eaf5eded0b63b0a6d9e0ff514f7d01b2ee84d79d7ecb9998663d564648",
+    "title": "一曲即発☆スグロイド for しりとり動画 [MANIAQ]",
+    "artist": "Yu^ta feat. 東工大アニメ研 obj:PiPiNeko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=412&event=104",
+    "url_diff": "https://stellabms.xyz/upload/5820",
     "level": "sl9"
   },
   {
@@ -1788,11 +1788,12 @@
     "level": "sl10"
   },
   {
-    "md5": "060abd98a13dd37e0ef02db935696b80",
-    "sha256": "e38d5dcd2dd6651aa61641c1976a708c8effad82f11f8358bb3e14022c992b93",
-    "title": "Let's Go With...(TearDrop Remix)feat.Mai/重音テト[coaster]",
-    "artist": "やまだぶりん a.k.a ゲヘナアカモップ BGI:たんっっ　obj:CC",
-    "url": "https://venue.bmssearch.net/morekivotos/8",
+    "md5": "6f238b795e94632f6efcc6e83c8a1380",
+    "sha256": "bad870d1e591a4aae773b7c78b123dc3b7c5e0f582d4e565da71989093078c34",
+    "title": "はるかぜの湊に [pendulum]",
+    "artist": "9-zen obj:potechang",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=118",
+    "url_diff": "https://stellabms.xyz/upload/3660",
     "level": "sl10"
   },
   {
@@ -1910,6 +1911,15 @@
     "artist": "fen/obj:BOKKI",
     "url": "http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=60",
     "url_diff": "https://web.archive.org/web/20181105023415/http://www.geocities.jp/bokki_chinpoman/",
+    "level": "sl11"
+  },
+  {
+    "md5": "99bb66461525c5d4a4a591202a954436",
+    "sha256": "bb9f8c2670d9170fe130cbd2b7935b887272be591549b2600fa8042df4a13e8c",
+    "title": "Ready to Go [もちたま7]",
+    "artist": "fen obj:momochi",
+    "url": "https://drive.google.com/file/d/1yTgwN-a-wkbqa6teugOd2EojXShYSk9Z/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/4934",
     "level": "sl11"
   },
   {
@@ -2147,6 +2157,15 @@
     "level": "st0"
   },
   {
+    "md5": "980b7568638e93ac83692e320786ff6d",
+    "sha256": "bb8a5a7f3729b3669f626faa55446fa36ede883e799e92c473ae5759e9ac853a",
+    "title": "Ancient Enchant [Ain't too proud to rely on!]",
+    "artist": "ビタミンc obj:IBARAGI_YOSHIMI",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/302",
+    "url_diff": "https://stellabms.xyz/upload/6607",
+    "level": "st0"
+  },
+  {
     "md5": "5c943a97872537375106024c4b807586",
     "sha256": "67abf083a66350b2fee089cce3946970789d84fea17c4b758a2554677e396e1d",
     "title": "Angedicinae [pardi]",
@@ -2288,15 +2307,6 @@
     "level": "st0"
   },
   {
-    "md5": "76a49e7d3c55ba7ae399884113f397e1",
-    "sha256": "50bbb696de6da6ae680d9a056442ee559e176998110eb7bde5c5b7da19f9aa78",
-    "title": "図書室のエルザ [フィジカル図書認識]",
-    "artist": "橘花音 かなえゆめ composed by nmk Illustration:かぜっと / マッチョ",
-    "url": "http://yatai.ath.cx/c03_shuffle2/detail.php?n=20",
-    "url_diff": "https://stellabms.xyz/upload/5869",
-    "level": "st0"
-  },
-  {
     "md5": "d6d7bf153fb957140a921a4b75aad14b",
     "sha256": "ae44d94a850d1e315895bf09e462cea324a1efe9d41008cfec17ca30308cc2f2",
     "title": "濡羽色ノ天使 [SP Angelic]",
@@ -2347,15 +2357,6 @@
     "artist": "立秋feat.ちょこ / obj: Mary_Sue",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=140",
     "url_diff": "https://marysue.darksabun.club/",
-    "level": "st1"
-  },
-  {
-    "md5": "3d11da08834644a1c8af528a027649f9",
-    "sha256": "a64c905fb41d7ab208df0018834319e97b68c4550637832633104d9f154408a3",
-    "title": "Alastor [Dead End]",
-    "artist": "鳩 / obj:muscleMEN",
-    "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02170.zip",
     "level": "st1"
   },
   {
@@ -2550,6 +2551,15 @@
     "artist": "kei_iwata / Gt. stuv / KeiuO + 内村徹 obj:魔女",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=146",
     "url_diff": "https://stellabms.xyz/upload/5474",
+    "level": "st1"
+  },
+  {
+    "md5": "9f86713f9acbefb6eb03e5659c589984",
+    "sha256": "903df4e691b64f0387059e95d80eee38d65841f94d03a9a0ba856c327510de4e",
+    "title": "デデデのうた [デデデのらんだ]",
+    "artist": "9-zen うた：琴葉茜 と ずんだもん と きりたん と らんだもん",
+    "url": "https://drive.usercontent.google.com/download?id=1gJOacvxSPSTrkAcAxGVJa8cpudq33ADf&export=download&authuser=0",
+    "url_diff": "https://stellabms.xyz/upload/6395",
     "level": "st1"
   },
   {
@@ -2835,6 +2845,14 @@
     "artist": "rrl/さ",
     "url": "https://drive.google.com/file/d/1MVGJK0xXFIb1PDPVLCO1e66PHgVCZ_sh/view?usp=drive_link",
     "url_diff": "https://web.archive.org/web/20161115090331/http://sabosabun.tank.jp/sabun/egao%20sabun.zip",
+    "level": "st2"
+  },
+  {
+    "md5": "212481d4c3135e3f0dbfba13302025ca",
+    "sha256": "e29b439ac4c60b17684e5577fb26d178c59c0328b78456d16742f27be491ae65",
+    "title": "精霊幻想 [7-Ω]",
+    "artist": "sasakure.∩K",
+    "url": "https://drive.google.com/uc?id=1le9y5S9qWd3MMbgkyN9XdixhVBaM9NR_",
     "level": "st2"
   },
   {
@@ -3159,6 +3177,15 @@
     "level": "st4"
   },
   {
+    "md5": "75e93ab5c25415d5616be99d6c6637e3",
+    "sha256": "cd58a4b7449adc903ef2437751470041ff6801247611e8ce99f2f75d8d840ef9",
+    "title": "BAMBOO TWIST [TRAIN]",
+    "artist": "Ras vs Nankumo BGA：plano arr+obj:SNN",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=418&event=146",
+    "url_diff": "https://stellabms.xyz/upload/7925",
+    "level": "st4"
+  },
+  {
     "md5": "1088fa714225c6d1c779f9c1f45ea78a",
     "sha256": "904b461463747ead8998370363e793ddcd27c6816c982c2a29fdd3f445dd15ea",
     "title": "BLOODY ROSE [Unfulfilled]",
@@ -3281,15 +3308,6 @@
     "artist": "parakeet 41 /obj.laner BGA:yuru",
     "url": "https://drive.google.com/file/d/17_xK_md3Um4MHTgp2aerV-JKXPQvEP7w/view?usp=drive_link",
     "url_diff": "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/all201807_laner.rar",
-    "level": "st4"
-  },
-  {
-    "md5": "ef2167e3aa935c4617dc6ff00fe8dbf7",
-    "sha256": "01ddfa4aa82fbbd9fd8cf4d25b5e2cb32966fa877326626c96d130c2b32b25ca",
-    "title": "story of dreamers [extra vision]",
-    "artist": "ノア remixed by otokaz obj:1008",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=65",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05419.zip",
     "level": "st4"
   },
   {
@@ -3934,15 +3952,6 @@
     "level": "st8"
   },
   {
-    "md5": "c46a81cb184f5a804c119930d6eba748",
-    "sha256": "486bab83d726b9b3dd05319278ba6c4ffdf2467f9c89afc590e738ab063304dc",
-    "title": "FREEDOM DiVE [FOUR DIMENSIONS]",
-    "artist": "xi / air",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50",
-    "url_diff": "http://yahoo.jp/box/twZ9In",
-    "level": "st8"
-  },
-  {
     "md5": "fdb9d7d8eaca594231dda88b539253cb",
     "sha256": "b5efc5ee8f5cd07d54d25075b53be23a718932199c8ff3c33133e91206f36f21",
     "title": "Life is PIANO [Other]",
@@ -4012,6 +4021,15 @@
     "artist": "SAMBA MASTER 佐藤 -SATOH- / reobj:Ds",
     "url": "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=61",
     "url_diff": "http://sagena.harisen.jp/",
+    "level": "st8"
+  },
+  {
+    "md5": "e9f1f73045cfde54d74a98809aa1d4ce",
+    "sha256": "b48fce3f5e2df6ca97f16a74ba77b79fc7b01e6bc7326e1c6dc4a8c76e6fad95",
+    "title": "ロッカー -強:Shadow-",
+    "artist": "ATEMAK / `o' / re:obj.shadow",
+    "url": "https://leucine.web.fc2.com/",
+    "url_diff": "https://stellabms.xyz/upload/2520",
     "level": "st8"
   },
   {

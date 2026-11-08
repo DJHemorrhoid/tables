@@ -984,6 +984,15 @@
     "level": "st2,連打複合2"
   },
   {
+    "md5": "db1dbdd70e6b36e2e6be22e89a6be883",
+    "sha256": "c2bbdd8de82593255619639386049df2aac3ec5913b420d9a7984f5f23fd0255",
+    "title": "LOVE'S REBIRTH \"Truth Mix\" [WHALE'S  REBIRTH]",
+    "artist": "TAROS / obj. hplaner",
+    "url": "https://web.archive.org/web/20010816060121/http://www.jan.sakura.ne.jp:80/~taros/lovesrebirth_truthmix.exe",
+    "url_diff": "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "level": "st2,連打複合2"
+  },
+  {
     "md5": "d314f67bb881c58aa6c8f5efed6630cb",
     "sha256": "24415c707a985bd764a1a6fff66927a562ffd11bcc975c1df0167bb975808119",
     "title": "Mario Paint (Time Regression Mix for BMS) [MANIAC]",
@@ -1906,6 +1915,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=104",
     "url_diff": "https://stellabms.xyz/upload/242",
     "level": "st5,連打複合4"
+  },
+  {
+    "md5": "bf51dfaa1fb8e0998ea6f482fcfd266f",
+    "sha256": "fbe716eeef4fcd82d78dcb2bb70c705435878956922d8a121aaaf9d1f72e82d3",
+    "title": "BLAZE YOUR SOUL [Crucible of Worlds]",
+    "artist": "sound piercer x ginkiha (mov : 1B) obj.Siphonophore",
+    "url": "https://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=46",
+    "url_diff": "https://stellabms.xyz/upload/8437",
+    "level": "st5,連打複合5"
   },
   {
     "md5": "5840b34a2307d3d3feb189d8a4892005",
@@ -3290,6 +3308,15 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=235&event=142",
     "url_diff": "https://drive.usercontent.google.com/u/0/uc?id=1naHlYMB9WI8fzfWyvyge-r9Ua3ifb_hm&export=download",
     "level": "st10,連打複合9"
+  },
+  {
+    "md5": "358408c9f6b106e21a810b90460f055e",
+    "sha256": "4c12053ee55a575f395598cbd1d4be8f9f15a669a6826c9391dea8a8dd6494df",
+    "title": "サウンドコラージュ・ダイスキズム [SUPERLOVE]",
+    "artist": "Vo:初音ミク obj:qfeileadh",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/36",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/57",
+    "level": "st11,連打複合11"
   },
   {
     "md5": "a83bb07f9531b1e03b35f8f35d2e3e41",
