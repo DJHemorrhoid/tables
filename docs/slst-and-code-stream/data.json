@@ -878,14 +878,6 @@
     "level": "sl0"
   },
   {
-    "md5": "7f1e9efd45eaeea99928f4de86358418",
-    "sha256": "fdbd170798ebcfc46b25cd9e100bf9dfb11e18234344794b17c489663e7ba559",
-    "title": "epilogue [terrfiction]",
-    "artist": "VeetaCrush bga: あるし obj: Scely",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=137",
-    "level": "sl0"
-  },
-  {
     "md5": "e93b6d91c62b661c38cbd52a33cd4cfb",
     "sha256": "1d94968918081f903fd80a1caeea89a659c7e90d4546a7deadf064671dd0bee3",
     "title": "flashBack [ANOTHER]",
@@ -2001,6 +1993,15 @@
     "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=137",
     "url_diff": "同梱譜面",
+    "level": "sl0,乱打0"
+  },
+  {
+    "md5": "7f1e9efd45eaeea99928f4de86358418",
+    "sha256": "fdbd170798ebcfc46b25cd9e100bf9dfb11e18234344794b17c489663e7ba559",
+    "title": "epilogue [terrfiction]",
+    "artist": "VeetaCrush bga: あるし obj: Scely",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=137",
+    "url_diff": "https://mocha-repository.info/song.php?sha256=fdbd170798ebcfc46b25cd9e100bf9dfb11e18234344794b17c489663e7ba559",
     "level": "sl0,乱打0"
   },
   {
@@ -21872,15 +21873,6 @@
     "level": "sl9,乱打8"
   },
   {
-    "md5": "1ece10286bda18b476901d2bc1a2c3ab",
-    "sha256": "7412e3eaf5eded0b63b0a6d9e0ff514f7d01b2ee84d79d7ecb9998663d564648",
-    "title": "一曲即発☆スグロイド for しりとり動画 [MANIAQ]",
-    "artist": "Yu^ta feat. 東工大アニメ研 obj:PiPiNeko",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=412&event=104",
-    "url_diff": "https://stellabms.xyz/upload/5820",
-    "level": "sl9,乱打8"
-  },
-  {
     "md5": "22aee2d625d790b62a4d8cd4946aba92",
     "sha256": "254941cc71e4b960efed5b7ad5a2ca36ef8c4e9a0fce429aa81a0af0da452d24",
     "title": "Alcubierre Drive [INSANE]",
@@ -22388,6 +22380,15 @@
     "artist": "ATEMAK obj:Lyco",
     "url": "http://leucine.web.fc2.com/",
     "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
+    "level": "sl9,乱打9"
+  },
+  {
+    "md5": "1ece10286bda18b476901d2bc1a2c3ab",
+    "sha256": "7412e3eaf5eded0b63b0a6d9e0ff514f7d01b2ee84d79d7ecb9998663d564648",
+    "title": "一曲即発☆スグロイド for しりとり動画 [MANIAQ]",
+    "artist": "Yu^ta feat. 東工大アニメ研 obj:PiPiNeko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=412&event=104",
+    "url_diff": "https://stellabms.xyz/upload/5820",
     "level": "sl9,乱打9"
   },
   {
@@ -25324,15 +25325,6 @@
     "level": "sl11"
   },
   {
-    "md5": "99bb66461525c5d4a4a591202a954436",
-    "sha256": "bb9f8c2670d9170fe130cbd2b7935b887272be591549b2600fa8042df4a13e8c",
-    "title": "Ready to Go [もちたま7]",
-    "artist": "fen obj:momochi",
-    "url": "https://drive.google.com/file/d/1yTgwN-a-wkbqa6teugOd2EojXShYSk9Z/view?usp=drive_link",
-    "url_diff": "https://stellabms.xyz/upload/4934",
-    "level": "sl11,乱打10"
-  },
-  {
     "md5": "5e9288a898ee171dc721e6248e2fbd6f",
     "sha256": "fd229046e6419f70f0ec991519bf7e86889c0ea035870e3245abf4125c97724f",
     "title": "night starter [DARK NIGHT]",
@@ -25661,6 +25653,15 @@
     "artist": "fen/obj:BOKKI",
     "url": "http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=60",
     "url_diff": "https://web.archive.org/web/20181105023415/http://www.geocities.jp/bokki_chinpoman/",
+    "level": "sl11,乱打11"
+  },
+  {
+    "md5": "99bb66461525c5d4a4a591202a954436",
+    "sha256": "bb9f8c2670d9170fe130cbd2b7935b887272be591549b2600fa8042df4a13e8c",
+    "title": "Ready to Go [もちたま7]",
+    "artist": "fen obj:momochi",
+    "url": "https://drive.google.com/file/d/1yTgwN-a-wkbqa6teugOd2EojXShYSk9Z/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/4934",
     "level": "sl11,乱打11"
   },
   {
@@ -51898,6 +51899,15 @@
     "level": "st8"
   },
   {
+    "md5": "e9f1f73045cfde54d74a98809aa1d4ce",
+    "sha256": "b48fce3f5e2df6ca97f16a74ba77b79fc7b01e6bc7326e1c6dc4a8c76e6fad95",
+    "title": "ロッカー -強:Shadow-",
+    "artist": "ATEMAK / `o' / re:obj.shadow",
+    "url": "https://leucine.web.fc2.com/",
+    "url_diff": "https://stellabms.xyz/upload/2520",
+    "level": "st8"
+  },
+  {
     "md5": "9f6765080cc37cb4dcd30e96c25dc262",
     "sha256": "d82a7ee2a0ca1d8bbeb1c7705d2c298d401fa1eb4f38576bf95914a722de7042",
     "title": "地獄の業火で焼肉大会！？ [蕪羅亭魔梨威]",
@@ -52234,15 +52244,6 @@
     "artist": "11.Soccer Team",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=600&event=110",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01626.zip",
-    "level": "st8,重発狂8"
-  },
-  {
-    "md5": "e9f1f73045cfde54d74a98809aa1d4ce",
-    "sha256": "b48fce3f5e2df6ca97f16a74ba77b79fc7b01e6bc7326e1c6dc4a8c76e6fad95",
-    "title": "ロッカー -強:Shadow-",
-    "artist": "ATEMAK / `o' / re:obj.shadow",
-    "url": "https://leucine.web.fc2.com/",
-    "url_diff": "https://stellabms.xyz/upload/2520",
     "level": "st8,重発狂8"
   },
   {
