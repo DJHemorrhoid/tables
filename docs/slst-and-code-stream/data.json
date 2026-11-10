@@ -2828,14 +2828,6 @@
     "level": "sl1"
   },
   {
-    "md5": "58814f1e2da1612b57376c8493b7116b",
-    "sha256": "f0ef7a6497e48de7d8daf56623718fe17320e6907a45aafcd22024d273a11e23",
-    "title": "DAE [SP ANOTHER]",
-    "artist": "k",
-    "url": "https://venue.bmssearch.net/bmscoycc/8",
-    "level": "sl1"
-  },
-  {
     "md5": "bd951c2b4c7128cb59959ac03245f75f",
     "sha256": "8fd0fa1e68d5b0f6dd685ce51c630072ceb96dae7c284d19a3dfc54b2f9def78",
     "title": "Dance Doll Dream [HARD]",
@@ -4428,6 +4420,14 @@
     "artist": "BTB Mov : mzet :-p & OLB / Obj. BTB vs B_K vs Z_N",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=96",
     "url_diff": "同梱譜面",
+    "level": "sl1,乱打1"
+  },
+  {
+    "md5": "58814f1e2da1612b57376c8493b7116b",
+    "sha256": "f0ef7a6497e48de7d8daf56623718fe17320e6907a45aafcd22024d273a11e23",
+    "title": "DAE [SP ANOTHER]",
+    "artist": "k",
+    "url": "https://venue.bmssearch.net/bmscoycc/8",
     "level": "sl1,乱打1"
   },
   {
@@ -8007,6 +8007,14 @@
     "level": "乱打2"
   },
   {
+    "md5": "6a53772d5714288f8b64b18103636dd5",
+    "title": "m. Nature's chlorofying rootwire frames [SP AWAKE]",
+    "artist": "42SoL obj: LEO Sailko",
+    "url": "https://www.dropbox.com/scl/fi/jb7lsjdpwunyjiuykwihx/20-chlorofyLQ.zip?rlkey=0zq5rxiavx5p6tpo2quk1r5tg&st=vhj848id&e=1&dl=0",
+    "url_diff": "https://stellabms.xyz/upload/8514",
+    "level": "乱打2"
+  },
+  {
     "md5": "98ad0aa0c38fd189f19a225edd3517e1",
     "title": "metropolis sector01:GATE [Overclock Area 01 (rand3-1)]",
     "artist": "TaW",
@@ -10366,6 +10374,14 @@
     "artist": "D.J.Nero / 薄杏 (Object)",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=65",
     "url_diff": "http://lalha.web.fc2.com/index.html",
+    "level": "乱打3"
+  },
+  {
+    "md5": "d0837cc4ad9daba41ed7efcd590ca284",
+    "title": "Justice Executor [Justice]",
+    "artist": "二階堂ヒロ obj:サンシャイン池崎",
+    "url": "https://venue.bmssearch.net/bmstukuru2026/85",
+    "url_diff": "https://stellabms.xyz/upload/8592",
     "level": "乱打3"
   },
   {
@@ -13355,14 +13371,6 @@
     "level": "sl5"
   },
   {
-    "md5": "6d187a9a074d281d8353be192b1c4a7c",
-    "sha256": "bf1ef1eba4892d8fcaa1a437288f7d98f2ad1e7027e1e33df16a9a4f1d2515dd",
-    "title": "5th Drop Shooter [EXPLODER]",
-    "artist": "原木シィタケ obj:Mr.Faine illust:原木シィタケ",
-    "url": "https://drive.google.com/uc?export=download&id=1lbBTOkL4iQQnAqkRR2xu2YTOUOq680vV",
-    "level": "sl5"
-  },
-  {
     "md5": "906ea3be1e23273830fe5a1405200e52",
     "sha256": "b693f0d70eec8c75c098d9b322f9f5d865dd5a567f62589d0e989a62e524fdbd",
     "title": "8bit Adventurer",
@@ -14473,6 +14481,14 @@
     "artist": "Reku Mochizuki obj : BAECON",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=146",
     "level": "sl5,乱打4"
+  },
+  {
+    "md5": "6d187a9a074d281d8353be192b1c4a7c",
+    "sha256": "bf1ef1eba4892d8fcaa1a437288f7d98f2ad1e7027e1e33df16a9a4f1d2515dd",
+    "title": "5th Drop Shooter [EXPLODER]",
+    "artist": "原木シィタケ obj:Mr.Faine illust:原木シィタケ",
+    "url": "https://drive.google.com/uc?export=download&id=1lbBTOkL4iQQnAqkRR2xu2YTOUOq680vV",
+    "level": "sl5,乱打5"
   },
   {
     "md5": "4d5af0704be44f54edcc34c4c663600d",
@@ -17085,6 +17101,14 @@
     "level": "乱打6"
   },
   {
+    "md5": "77ed3e00fd1c8e33f5b7287ae0a79f44",
+    "title": "Masquerade Wars ［TORITHER］",
+    "artist": "ルゼ VS dawn-system BGA:A-ZERO Project obj:torisan",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=464",
+    "url_diff": "https://stellabms.xyz/upload/8521",
+    "level": "乱打6"
+  },
+  {
     "md5": "2de63fd44b0d534cba821b082ff8f732",
     "title": "Mercury Prayer [Bless]",
     "artist": "anubasu-anubasu BGA by FF9900　OBJ by screw",
@@ -17467,15 +17491,6 @@
     "artist": "Syatten / obj:BAECON",
     "url": "http://web.archive.org/web/20070629155910/http://www.planetoid.biz/?page_id=8",
     "url_diff": "http://akred.web.fc2.com/baecon/windMk2.bme",
-    "level": "sl7"
-  },
-  {
-    "md5": "39ad67fbdc031d92ea62e8bc0efdf2ca",
-    "sha256": "4fff39d3631bcaa6f2bffbf567f87ece515127dfe8125ff766b1c7ca3070e4eb",
-    "title": "Kirby in Luminous Land [ZOI]",
-    "artist": "れおん obj:SUZUKAZEΛ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=127",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
     "level": "sl7"
   },
   {
@@ -18295,6 +18310,15 @@
     "level": "sl7,乱打7"
   },
   {
+    "md5": "39ad67fbdc031d92ea62e8bc0efdf2ca",
+    "sha256": "4fff39d3631bcaa6f2bffbf567f87ece515127dfe8125ff766b1c7ca3070e4eb",
+    "title": "Kirby in Luminous Land [ZOI]",
+    "artist": "れおん obj:SUZUKAZEΛ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=127",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "level": "sl7,乱打7"
+  },
+  {
     "md5": "f2076c425519a5786045c2a4f7e1e182",
     "sha256": "7ef107b579c7e2237b6b5fb0a8a947e3e43eb7eba74a2c6c0a8087ed46c3cd5e",
     "title": "Lebensumlauf [INSANE]",
@@ -18607,6 +18631,14 @@
     "level": "乱打7"
   },
   {
+    "md5": "ca8bc5d9687f1c80db3cea2e3a41f195",
+    "title": "ADiOS [去りゆく逆流]",
+    "artist": "WhiteXoon / 差分 CDLV BMS: Star* / BGA: TARA#376 / Illust: mitaiiii + TARA#376",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8543",
+    "level": "乱打7"
+  },
+  {
     "md5": "fab42f5fcb41b2069786ec581d3ef3a6",
     "title": "Agitatus [SP AMETHER-A]",
     "artist": "Takapy / obj:AMERIA",
@@ -18834,6 +18866,14 @@
     "artist": "フロン / ラズベリル / obj: black train",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=65",
     "url_diff": "http://absolute.pv.land.to/",
+    "level": "乱打7"
+  },
+  {
+    "md5": "f5bb4ff4d21f90f607da10436b4f96ea",
+    "title": "Luminaria [Antares]",
+    "artist": "Lime / obj:83929",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=137",
+    "url_diff": "https://stellabms.xyz/upload/8545",
     "level": "乱打7"
   },
   {
@@ -21370,15 +21410,6 @@
     "level": "sl9"
   },
   {
-    "md5": "6590e1d47be1a689037593e7d1759b56",
-    "sha256": "ddb068b3ef13457011793803fc8e7ff35c0d949fd7911b8ee4a7d0b75ed0a633",
-    "title": "Kafka [Thrylos]",
-    "artist": "Abel & Kamisys obj:でっていう99",
-    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=22&num=39&order=reg&odtype=a",
-    "url_diff": "https://stellabms.xyz/upload/8263",
-    "level": "sl9"
-  },
-  {
     "md5": "12465f3ced547f6a6735f94c9f6751b1",
     "sha256": "eb2ba98abba94b7c4f58e0b44d99b4443ede4554edc52260b1454d27dcfa0c41",
     "title": "Kaleidoscope [SP INSANE]",
@@ -22112,6 +22143,15 @@
     "artist": "S-10duck-TL12XD feat. re_you Illustration by Neru&Keiyuu / obj.七海千秋",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=356&event=116",
     "url_diff": "https://www.dropbox.com/s/j992l1azoy58w20/JR_nanami02.bms?dl=0",
+    "level": "sl9,乱打9"
+  },
+  {
+    "md5": "6590e1d47be1a689037593e7d1759b56",
+    "sha256": "ddb068b3ef13457011793803fc8e7ff35c0d949fd7911b8ee4a7d0b75ed0a633",
+    "title": "Kafka [Thrylos]",
+    "artist": "Abel & Kamisys obj:でっていう99",
+    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=22&num=39&order=reg&odtype=a",
+    "url_diff": "https://stellabms.xyz/upload/8263",
     "level": "sl9,乱打9"
   },
   {
@@ -24045,6 +24085,14 @@
     "artist": "RNY obj.Lanait vs うに",
     "url": "https://venue.bmssearch.net/bmscoycc/5",
     "url_diff": "https://stellabms.xyz/upload/8509",
+    "level": "乱打10"
+  },
+  {
+    "md5": "6da50dffdedc47bf490331219a805ad9",
+    "title": "Blooming!! [sbmstyle]",
+    "artist": "こはのん(kohaxy+Hanon) obj. sbs93310",
+    "url": "https://venue.bmssearch.net/3/73",
+    "url_diff": "https://stellabms.xyz/upload/8552",
     "level": "乱打10"
   },
   {
@@ -26168,6 +26216,14 @@
     "artist": "源屋feat.ユスラ obj:trainer / juuqi",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=36",
     "url_diff": "https://stellabms.xyz/upload/7495",
+    "level": "乱打11"
+  },
+  {
+    "md5": "d18efe651ef183166276cfeb684b977c",
+    "title": "Masquerade Wars ［TORISANE］",
+    "artist": "ルゼ VS dawn-system BGA:A-ZERO Project obj:torisan",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=464",
+    "url_diff": "https://stellabms.xyz/upload/8521",
     "level": "乱打11"
   },
   {
@@ -37477,6 +37533,14 @@
     "artist": "anubasu-anubasu BGA by 出前 obj.ぶんぺ～",
     "url": "https://bmssearch.net/bmses/1_kWxr8q_ykdtQ",
     "url_diff": "https://stellabms.xyz/upload/3549",
+    "level": "重発狂2"
+  },
+  {
+    "md5": "ae147c572cf39c9d1e7a9fb37e4e5be8",
+    "title": "Judah [Keter]",
+    "artist": "上杉うた obj.Mallow♪",
+    "url": "https://web.archive.org/web/20170227051837/http://creation-records.info/bms/judah_ogg.rar",
+    "url_diff": "https://stellabms.xyz/upload/8576",
     "level": "重発狂2"
   },
   {
@@ -49331,6 +49395,14 @@
     "level": "重発狂6"
   },
   {
+    "md5": "8395ee58d22ffbbf76ffb9abf5d513eb",
+    "title": "vermin flavor [Intense]",
+    "artist": "かたぎり BGA: 2_i obj:potechang",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=473&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8575",
+    "level": "重発狂6"
+  },
+  {
     "md5": "6692c300f4455fc00d60a46e73d77213",
     "title": "βehexeη‐δ [PLAY MoRE]",
     "artist": "GRAPEWiLD (Movie : rep obj : IBARAGI_YOSHIMI)",
@@ -53732,6 +53804,14 @@
     "artist": "DJ Saw-Low obj:Frs1pw",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=148",
     "url_diff": "https://stellabms.xyz/upload/5797",
+    "level": "重発狂9"
+  },
+  {
+    "md5": "04ee4de3ab53a30cdb3cbde6afa453b9",
+    "title": "vermin flavor [Immortal]",
+    "artist": "かたぎり BGA: 2_i obj:potechang",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=473&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8575",
     "level": "重発狂9"
   },
   {

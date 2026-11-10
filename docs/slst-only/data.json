@@ -1405,14 +1405,6 @@
     "level": "sl1"
   },
   {
-    "md5": "58814f1e2da1612b57376c8493b7116b",
-    "sha256": "f0ef7a6497e48de7d8daf56623718fe17320e6907a45aafcd22024d273a11e23",
-    "title": "DAE [SP ANOTHER]",
-    "artist": "k",
-    "url": "https://venue.bmssearch.net/bmscoycc/8",
-    "level": "sl1"
-  },
-  {
     "md5": "5493f9a488c8d3ae64742b74770d9fa3",
     "sha256": "cde08eaeaa5cfdd64874c542d2109bdcb1935a03a3ac0bfb02b1164728923d55",
     "title": "Dirge in Magenta [SP ANOTHER]",
@@ -6279,14 +6271,6 @@
     "level": "sl5"
   },
   {
-    "md5": "6d187a9a074d281d8353be192b1c4a7c",
-    "sha256": "bf1ef1eba4892d8fcaa1a437288f7d98f2ad1e7027e1e33df16a9a4f1d2515dd",
-    "title": "5th Drop Shooter [EXPLODER]",
-    "artist": "原木シィタケ obj:Mr.Faine illust:原木シィタケ",
-    "url": "https://drive.google.com/uc?export=download&id=1lbBTOkL4iQQnAqkRR2xu2YTOUOq680vV",
-    "level": "sl5"
-  },
-  {
     "md5": "906ea3be1e23273830fe5a1405200e52",
     "sha256": "b693f0d70eec8c75c098d9b322f9f5d865dd5a567f62589d0e989a62e524fdbd",
     "title": "8bit Adventurer",
@@ -7922,15 +7906,6 @@
     "level": "sl7"
   },
   {
-    "md5": "39ad67fbdc031d92ea62e8bc0efdf2ca",
-    "sha256": "4fff39d3631bcaa6f2bffbf567f87ece515127dfe8125ff766b1c7ca3070e4eb",
-    "title": "Kirby in Luminous Land [ZOI]",
-    "artist": "れおん obj:SUZUKAZEΛ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=127",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "level": "sl7"
-  },
-  {
     "md5": "6e11da8e42c4d65619f2bdf50e9d45d9",
     "sha256": "f9c7abe1b7836bec2b72e3e346dd3b10fa2688b9a98b6fd28ec6de8ff51bb61f",
     "title": "LOSHAXI -Hopeless-",
@@ -9013,15 +8988,6 @@
     "artist": "kanoryo feat.Hanon U",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=110",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=Justitia",
-    "level": "sl9"
-  },
-  {
-    "md5": "6590e1d47be1a689037593e7d1759b56",
-    "sha256": "ddb068b3ef13457011793803fc8e7ff35c0d949fd7911b8ee4a7d0b75ed0a633",
-    "title": "Kafka [Thrylos]",
-    "artist": "Abel & Kamisys obj:でっていう99",
-    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=22&num=39&order=reg&odtype=a",
-    "url_diff": "https://stellabms.xyz/upload/8263",
     "level": "sl9"
   },
   {
@@ -15509,15 +15475,6 @@
     "artist": "witch's slave / obj:sak",
     "url": "http://web.archive.org/web/20180124133508/http://gmtn.sub.jp/bofu2017_disperagioia.zip",
     "url_diff": "http://gnqg.rosx.net/upload/",
-    "level": "st7"
-  },
-  {
-    "md5": "8f7614310f2c334fc1550ea8dce3f650",
-    "sha256": "c293da25e76347c0e4bb6001eec4377b0ca8a035365deff25180d1aa70ccffaa",
-    "title": "ぱぴぽ？ -ぺぴぱ？-",
-    "artist": "ねこみりん feat.まるもこ Movie:むらしん / Illust:なか / obj:七海",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=408&event=137",
-    "url_diff": "https://egosa0424.github.io/sabun/papipo_nanami_fix.zip",
     "level": "st7"
   },
   {

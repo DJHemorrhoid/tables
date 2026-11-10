@@ -15227,6 +15227,14 @@
     "level": "微縦連7"
   },
   {
+    "md5": "3f0474be663894ec5907a8805b9ad8e7",
+    "title": "Distant World [=]",
+    "artist": "ohon // 差分 Eri",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=139",
+    "url_diff": "https://stellabms.xyz/upload/8555",
+    "level": "微縦連7"
+  },
+  {
     "md5": "59a3b329b08391c38139791471b33a29",
     "title": "Journey into the Unicorn Forest [Immaculate]",
     "artist": "Limstella obj.White",
@@ -33345,6 +33353,14 @@
     "level": "連打複合3"
   },
   {
+    "md5": "962fed58f9fe305ed9aa3cf8f31cfbcc",
+    "title": "Masquerade Wars ［TORISANE＋］",
+    "artist": "ルゼ VS dawn-system BGA:A-ZERO Project obj:torisan",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=464",
+    "url_diff": "https://stellabms.xyz/upload/8521",
+    "level": "連打複合3"
+  },
+  {
     "md5": "e4bcebddca7300749f15530561c5858a",
     "title": "My Hardcore -PROHIBITED-",
     "artist": "dust.c obj:SNN",
@@ -38717,6 +38733,14 @@
     "level": "連打複合5"
   },
   {
+    "md5": "78e606e859cf6a6ec3dfc0ae86cc3e1c",
+    "title": "et pourquoi pas [for some reason]",
+    "artist": "sam (devthefox) pattern for some reason",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=306&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8558",
+    "level": "連打複合5"
+  },
+  {
     "md5": "8686a0c863462475b425aaf4f29bee84",
     "title": "neoport 18 [7K Assez Difficile]",
     "artist": "Kud Cuisune obj. LuvTek",
@@ -41557,15 +41581,6 @@
     "level": "st7"
   },
   {
-    "md5": "8f7614310f2c334fc1550ea8dce3f650",
-    "sha256": "c293da25e76347c0e4bb6001eec4377b0ca8a035365deff25180d1aa70ccffaa",
-    "title": "ぱぴぽ？ -ぺぴぱ？-",
-    "artist": "ねこみりん feat.まるもこ Movie:むらしん / Illust:なか / obj:七海",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=408&event=137",
-    "url_diff": "https://egosa0424.github.io/sabun/papipo_nanami_fix.zip",
-    "level": "st7"
-  },
-  {
     "md5": "d67b56f453043aaf9c90edd5a456ee86",
     "sha256": "7e0f6dd9fb44e89ed9ead411a320098f43318276319f3571533473904269c839",
     "title": "キミとボクへの葬送歌 [Forbidden]",
@@ -41973,6 +41988,15 @@
     "artist": "dandeless obj: LuvTek",
     "url": "https://venue.bmssearch.net/bmstukuru2023/43",
     "url_diff": "同梱譜面",
+    "level": "st7,連打複合7"
+  },
+  {
+    "md5": "8f7614310f2c334fc1550ea8dce3f650",
+    "sha256": "c293da25e76347c0e4bb6001eec4377b0ca8a035365deff25180d1aa70ccffaa",
+    "title": "ぱぴぽ？ -ぺぴぱ？-",
+    "artist": "ねこみりん feat.まるもこ Movie:むらしん / Illust:なか / obj:七海",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=408&event=137",
+    "url_diff": "https://egosa0424.github.io/sabun/papipo_nanami_fix.zip",
     "level": "st7,連打複合7"
   },
   {
