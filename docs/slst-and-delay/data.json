@@ -21938,6 +21938,14 @@
     "level": "dl-2"
   },
   {
+    "md5": "5a214ca3931dbdfc8a36382ca005fd2c",
+    "title": "シアワセナ　ホシ[Vesta]",
+    "artist": "Micelle / obj:koyuzu",
+    "url": "https://venue.bmssearch.net/bmstukuru2020/8",
+    "url_diff": "https://stellabms.xyz/upload/8554",
+    "level": "dl-2"
+  },
+  {
     "md5": "6261a2a4419800b14869bfbcbaad5671",
     "title": "爽の滴[Deのlay]",
     "artist": "GanniGanni obj:FriedSnow",
@@ -25787,15 +25795,6 @@
     "level": "///13"
   },
   {
-    "md5": "08a1d5332e1659a1b4b010f99510346e",
-    "sha256": "a20354d902b58026eadc7c80bf7e9fd14bd742d9598e1b45fa8121a3804d6d30",
-    "title": "Dusk Recapture [EXT]",
-    "artist": "keyc obj:MineC24",
-    "url": "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%2117690&parId=FC95A680740CA8C9%21201&o=OneUp",
-    "url_diff": "https://www.dropbox.com/s/v835o30gye0cn9u/_dr7%5B07EGS%5D.bms?dl=1",
-    "level": "///13"
-  },
-  {
     "md5": "c5d701e9e5c46a27b8aff763d5a64f14",
     "sha256": "58eb17854e73329030828d8e02e76744b1ac9d19d25930f6e7d1a34f836380ac",
     "title": "Etude Op. 10, No. 5 [Accurate]",
@@ -25999,14 +25998,6 @@
     "level": "dl0"
   },
   {
-    "md5": "633653aae7e0fc373c476e0a9a1979b9",
-    "title": "ヒメタイプ [typeD]",
-    "artist": "ノクティス・江口・チェラム obj. リュウミコ・野口・パンティ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03408",
-    "level": "dl0"
-  },
-  {
     "md5": "cc9c01b3c0e8dcd3dbc5059823a6ec8d",
     "title": "夭 [Polar-Lunar]",
     "artist": "DJ MossyStone feat. 可可Aletta BGA: JamSugar / obj:kurekoduki",
@@ -26136,6 +26127,14 @@
     "url": "https://drive.google.com/u/0/uc?id=1WOVd1AaqeLeP6CZjbkfRWRzU_iZ_I5Uc&export=download",
     "url_diff": "https://github.com/TristanDavis97/Sabuns/raw/main/7keys_tristandelayvis.zip",
     "level": "dl0,///13"
+  },
+  {
+    "md5": "633653aae7e0fc373c476e0a9a1979b9",
+    "title": "ヒメタイプ [typeD]",
+    "artist": "ノクティス・江口・チェラム obj. リュウミコ・野口・パンティ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03408",
+    "level": "dl0,///7"
   },
   {
     "md5": "9188a4c9876386173ba35158edf23a15",
@@ -44746,6 +44745,14 @@
     "level": "dl7"
   },
   {
+    "md5": "1c2a28456caf23cf941f1f58395c4204",
+    "title": "Buuuuuuurstraffic [Purgatorium]",
+    "artist": "HOUJIROU / obj.meisaiidol",
+    "url": "https://dropbox.bms.ms/u/107522853/bms/%5BMaple_brit",
+    "url_diff": "https://stellabms.xyz/upload/8598",
+    "level": "dl7"
+  },
+  {
     "md5": "e86648a958817615f3883fb12dbe8a54",
     "title": "DEATH SENTENCE -Have you ever been mellow?-",
     "artist": "kohaxy BMS Area vs nothing (that) created me",
@@ -52168,6 +52175,14 @@
     "artist": "猫蟹丸 / obj: black train / .....",
     "url": "http://web.archive.org/web/20041211212724/http://knm.sakura.ne.jp/pms/key/key11.html",
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up0532.zip",
+    "level": "dl12"
+  },
+  {
+    "md5": "523383f9956d971220e7b36164500ef5",
+    "title": "田中 [破天荒]",
+    "artist": "立秋 feat.ちょこ obj:消しゴム",
+    "url": "https://drive.google.com/file/d/1pbZmq49MA47Nl5zD-cKKdplNhmJ3pj1F/view?usp=sharing",
+    "url_diff": "https://stellabms.xyz/upload/8574",
     "level": "dl12"
   },
   {

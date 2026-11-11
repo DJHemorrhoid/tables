@@ -6794,15 +6794,6 @@
     "level": "sl11,乱打11"
   },
   {
-    "md5": "99bb66461525c5d4a4a591202a954436",
-    "sha256": "bb9f8c2670d9170fe130cbd2b7935b887272be591549b2600fa8042df4a13e8c",
-    "title": "Ready to Go [もちたま7]",
-    "artist": "fen obj:momochi",
-    "url": "https://drive.google.com/file/d/1yTgwN-a-wkbqa6teugOd2EojXShYSk9Z/view?usp=drive_link",
-    "url_diff": "https://stellabms.xyz/upload/4934",
-    "level": "sl11,乱打11"
-  },
-  {
     "md5": "4c0f369bdf3cd195fab755481a78bde8",
     "sha256": "5745b8545b132bb84bbf42a37afb063c87005e6a0699eb5f58429dbf493b2e97",
     "title": "Romancecar (Kukan Junkyu Edit) [Nemesis]",
@@ -7115,6 +7106,15 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02429.zip",
     "level": "sl11,乱打11"
+  },
+  {
+    "md5": "99bb66461525c5d4a4a591202a954436",
+    "sha256": "bb9f8c2670d9170fe130cbd2b7935b887272be591549b2600fa8042df4a13e8c",
+    "title": "Ready to Go [もちたま7]",
+    "artist": "fen obj:momochi",
+    "url": "https://drive.google.com/file/d/1yTgwN-a-wkbqa6teugOd2EojXShYSk9Z/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/4934",
+    "level": "sl11,乱打12"
   },
   {
     "md5": "2391b1c72074436cf655fd465e9176ca",

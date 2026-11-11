@@ -42192,6 +42192,12 @@
     "level": "連打複合7"
   },
   {
+    "md5": "528b7445564699f91a8b506120c6b0c0",
+    "title": "FREEDOM DiVE [LAST BOSS]",
+    "artist": "xi",
+    "level": "連打複合7"
+  },
+  {
     "md5": "bb2f16f585dd5274dab081facc4b3b69",
     "title": "GIMMICK [messy]",
     "artist": "Ms.Sill / 七海 / И Movie: かたい更地",
@@ -46003,6 +46009,14 @@
     "level": "dl11"
   },
   {
+    "md5": "1d5c1c034b976470cd8e7287ad0c3bfa",
+    "title": "PΓIIVIAΓY -Harether-",
+    "artist": "クレオパトラ7世 / obj:HARE",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=152",
+    "url_diff": "https://stellabms.xyz/upload/8612",
+    "level": "dl11"
+  },
+  {
     "md5": "4e8047d3e6fc04366e2b92fcf67cef02",
     "sha256": "ba5642d63f1bd2685babd3e5c5962ecdfe615831441c8f54456007b15926c26d",
     "title": "Avantgarde [Oripathy]",
@@ -46758,6 +46772,14 @@
     "artist": "かたぎり BGI:mst OBJ:lolicorn vs punicorn",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=123",
     "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=3402",
+    "level": "連打複合12"
+  },
+  {
+    "md5": "393290ef24a73b07491036a54bcb8c6f",
+    "title": "Misdirection [SP NOMERCY]",
+    "artist": "enxel vs D.J.Nero",
+    "url": "https://drive.google.com/file/d/12qwfeyROLDjAWMiZOJyqGVcEEk9z4isz/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/8605",
     "level": "連打複合12"
   },
   {
