@@ -28159,15 +28159,6 @@
     "level": "st2"
   },
   {
-    "md5": "77f35267910c788d39705856a611656c",
-    "sha256": "8f5b0f0e1d217dab3b69180c88da023f51eee484565b7438754bf978003c96af",
-    "title": "Electric Spark 2017 -Genocide-",
-    "artist": "shimizushi / selene.",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=116",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01297.zip",
-    "level": "st2"
-  },
-  {
     "md5": "b6aba5810b09bc6af607c3eb299f4053",
     "sha256": "54a6c2af55d0e038285d80ba82f7ff875fc737c4763a021f7d2c507ea333ee50",
     "title": "End Time A⇒Side [Hexagon]",
@@ -30126,6 +30117,15 @@
     "artist": "ちよもも魔法使い & DJ Momo OBJ:たまさくらちゃん",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=144",
     "url_diff": "https://stellabms.xyz/upload/4013",
+    "level": "st2,連打複合2"
+  },
+  {
+    "md5": "77f35267910c788d39705856a611656c",
+    "sha256": "8f5b0f0e1d217dab3b69180c88da023f51eee484565b7438754bf978003c96af",
+    "title": "Electric Spark 2017 -Genocide-",
+    "artist": "shimizushi / selene.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=116",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01297.zip",
     "level": "st2,連打複合2"
   },
   {
