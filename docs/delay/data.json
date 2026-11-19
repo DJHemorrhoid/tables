@@ -710,6 +710,14 @@
     "level": "///2"
   },
   {
+    "md5": "4116a9a1d9fd5cd47676d50f3b76189a",
+    "title": "Orange Ocean [DDDelay]",
+    "artist": "BMS:9-zen obj:53414",
+    "url": "https://drive.google.com/uc?export=download&id=1MuF7YwjZUKOwoClvGfnX0Cx9_oRC19cz",
+    "url_diff": "https://stellabms.xyz/upload/8623",
+    "level": "///2"
+  },
+  {
     "md5": "e865d4cf96b7c3c7a4657e67854744ad",
     "title": "Proline [Another+]",
     "artist": "Yu^ta / obj: ClassICNooB",
@@ -4166,6 +4174,13 @@
     "level": "///12"
   },
   {
+    "md5": "9326351614bf5f5b2d93ceca1be6d640",
+    "title": "celeste -SUGAR STORY Remix-",
+    "artist": "otenami",
+    "url": "https://venue.bmssearch.net/kivotos/6",
+    "level": "///12"
+  },
+  {
     "md5": "c763be463235f2f490f151f3a2841134",
     "sha256": "f8a5add15cdf54f7742e4a4acce83fa581487042dd2a1a249d38a310d4784c2d",
     "title": "dddああああ",
@@ -4257,6 +4272,8 @@
     "md5": "161d06770e076845466c3717a0d5d51e",
     "title": "天叢雲剣 [Type-D]",
     "artist": "しらいし / obj.ぶんぺ～",
+    "url": "https://www.axfc.net/u/2301392",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/stellabms-uploader/001130.zip",
     "level": "///12"
   },
   {
@@ -4353,13 +4370,6 @@
     "title": "稲田姫様に叱られるから　 (BEGINNER)",
     "artist": "BMS：Ｆ／Ａ１８ MIDI：ロウファ BGA:LZH OBJ:air",
     "url": "http://fa18af.sakura.ne.jp/bmsfa18/bmsfa18.html",
-    "level": "dl-1"
-  },
-  {
-    "md5": "2f67a713658be4350e0e1a11f2c646b5",
-    "title": "豹変シーン、ピース写真でいけますか！？ [いけません]",
-    "artist": "momo★yama (VOCAL:Mai・Ryo)",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=149",
     "level": "dl-1"
   },
   {
@@ -4573,6 +4583,13 @@
     "artist": "牧野 obj.Guanacoite",
     "url": "https://dropbox.bms.ms/u/64302289/makino_anolog_yokochou.rar",
     "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04053",
+    "level": "dl-1,///12"
+  },
+  {
+    "md5": "2f67a713658be4350e0e1a11f2c646b5",
+    "title": "豹変シーン、ピース写真でいけますか！？ [いけません]",
+    "artist": "momo★yama (VOCAL:Mai・Ryo)",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=149",
     "level": "dl-1,///12"
   },
   {
