@@ -1909,6 +1909,15 @@
     "level": "sl2,乱打2"
   },
   {
+    "md5": "807dff82ec0b635c6035b155f1f1b83b",
+    "sha256": "12d826196715c4f32adce4e09992ed7884d106af4bc145ba0bd17a59da7038c5",
+    "title": "aura[Empress]",
+    "artist": "daisan feat. 天城あくる / aoid",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=88",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/aura.zip",
+    "level": "sl2,乱打2"
+  },
+  {
     "md5": "95cc933f61be66e8f63fa0bdc464b49e",
     "sha256": "5b111354778db9ac280e45a2fb1c1772364551e43b5a22b9ee88af8c0497777d",
     "title": "char fleuri [Flower　Park]",
@@ -2810,6 +2819,15 @@
     "title": "Cup of the Stardust [SP Boyd1]",
     "artist": "てのり",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=151",
+    "level": "sl4,乱打4"
+  },
+  {
+    "md5": "d2f6aefc9664145b3bd7a6055f814ef1",
+    "sha256": "bda086614747b7f99bc4884de8e78e0d983a89bfc3e82e36bd380d9757055993",
+    "title": "Cutter [ZOI]",
+    "artist": "EmoCosine / 出前 obj:SUZUKAZEΛ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=133",
+    "url_diff": "https://dl.dropboxusercontent.com/s/sosxt5kqht4hmm6/bofxvi_emocosine_cutter_zoi.zip",
     "level": "sl4,乱打4"
   },
   {
@@ -3968,6 +3986,15 @@
     "artist": "ginkiha あ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=83",
     "url_diff": "http://drowsy.hannnari.com/index.html",
+    "level": "sl6,乱打6"
+  },
+  {
+    "md5": "02bcf63063f2748d334c353e30368e8d",
+    "sha256": "1dea4ca64e3ac889147e490b5597a38acb2c3eb98be4e0cb4043d93ca8791179",
+    "title": "Fatal Function [Maniac]",
+    "artist": "corok-Bb obj: marquee",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=123",
+    "url_diff": "https://drive.google.com/file/d/1uwKqfA7I9-An1vqmcjqT9H2Y6R14oHuE/view?usp=drive_link",
     "level": "sl6,乱打6"
   },
   {
@@ -11308,6 +11335,15 @@
     "artist": "Utuka obj:potechang",
     "url": "https://venue.bmssearch.net/freebattle/25",
     "url_diff": "https://stellabms.xyz/upload/4158",
+    "level": "st3,重発狂3"
+  },
+  {
+    "md5": "6e9f4edfbb72508d021ba5de7f164034",
+    "sha256": "4653f5b16cf53ba0f189d5bb4e293c7a64fac78148c66ec66cde6e9357aa0de4",
+    "title": "PHYSALIS [MASTER]",
+    "artist": "TAG bms.Spehs & Hihumi // movie.ShakeJ // obj.櫻井桃華",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=146",
+    "url_diff": "https://drive.google.com/file/d/1eQfBbLgI-q2kSP9Vy8jMPswzDy_c0b_r/view",
     "level": "st3,重発狂3"
   },
   {

@@ -6336,15 +6336,6 @@
     "level": "sl2"
   },
   {
-    "md5": "807dff82ec0b635c6035b155f1f1b83b",
-    "sha256": "12d826196715c4f32adce4e09992ed7884d106af4bc145ba0bd17a59da7038c5",
-    "title": "aura[Empress]",
-    "artist": "daisan feat. 天城あくる / aoid",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=88",
-    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/aura.zip",
-    "level": "sl2"
-  },
-  {
     "md5": "a9f78afc697354a3da59af5e0ee16e1c",
     "sha256": "03c92f7e2982eb25c479002a9e8f6ad8ef48e2c3b35b380b850caaf0fd2c60e6",
     "title": "breakfast special",
@@ -7383,6 +7374,15 @@
     "title": "Ultimate Weapon[ANOTHER]",
     "artist": "TetraElemental",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
+    "level": "sl2,乱打2"
+  },
+  {
+    "md5": "807dff82ec0b635c6035b155f1f1b83b",
+    "sha256": "12d826196715c4f32adce4e09992ed7884d106af4bc145ba0bd17a59da7038c5",
+    "title": "aura[Empress]",
+    "artist": "daisan feat. 天城あくる / aoid",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=88",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/aura.zip",
     "level": "sl2,乱打2"
   },
   {
@@ -10996,15 +10996,6 @@
     "level": "sl4"
   },
   {
-    "md5": "d2f6aefc9664145b3bd7a6055f814ef1",
-    "sha256": "bda086614747b7f99bc4884de8e78e0d983a89bfc3e82e36bd380d9757055993",
-    "title": "Cutter [ZOI]",
-    "artist": "EmoCosine / 出前 obj:SUZUKAZEΛ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=133",
-    "url_diff": "https://dl.dropboxusercontent.com/s/sosxt5kqht4hmm6/bofxvi_emocosine_cutter_zoi.zip",
-    "level": "sl4"
-  },
-  {
     "md5": "042c4a5eef0789d2f27f734da07c251c",
     "sha256": "ee11950af49372bfe38c7dff63985b36bd49efc8fc89d17f866efe6c654e40bf",
     "title": "Dark Candy [DRIZZLE]",
@@ -12196,6 +12187,15 @@
     "title": "Cup of the Stardust [SP Boyd1]",
     "artist": "てのり",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=151",
+    "level": "sl4,乱打4"
+  },
+  {
+    "md5": "d2f6aefc9664145b3bd7a6055f814ef1",
+    "sha256": "bda086614747b7f99bc4884de8e78e0d983a89bfc3e82e36bd380d9757055993",
+    "title": "Cutter [ZOI]",
+    "artist": "EmoCosine / 出前 obj:SUZUKAZEΛ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=133",
+    "url_diff": "https://dl.dropboxusercontent.com/s/sosxt5kqht4hmm6/bofxvi_emocosine_cutter_zoi.zip",
     "level": "sl4,乱打4"
   },
   {
@@ -15718,15 +15718,6 @@
     "level": "sl6"
   },
   {
-    "md5": "02bcf63063f2748d334c353e30368e8d",
-    "sha256": "1dea4ca64e3ac889147e490b5597a38acb2c3eb98be4e0cb4043d93ca8791179",
-    "title": "Fatal Function [Maniac]",
-    "artist": "corok-Bb obj: marquee",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=123",
-    "url_diff": "https://drive.google.com/file/d/1uwKqfA7I9-An1vqmcjqT9H2Y6R14oHuE/view?usp=drive_link",
-    "level": "sl6"
-  },
-  {
     "md5": "a309711f9a41169b22d21c6590443c06",
     "sha256": "0600495d4e88bf350c84c1ba9cd233da9f637b347b4e5260ab0f43769b394c70",
     "title": "Fractal(i)xis (null)",
@@ -16655,6 +16646,15 @@
     "artist": "ginkiha あ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=83",
     "url_diff": "http://drowsy.hannnari.com/index.html",
+    "level": "sl6,乱打6"
+  },
+  {
+    "md5": "02bcf63063f2748d334c353e30368e8d",
+    "sha256": "1dea4ca64e3ac889147e490b5597a38acb2c3eb98be4e0cb4043d93ca8791179",
+    "title": "Fatal Function [Maniac]",
+    "artist": "corok-Bb obj: marquee",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=123",
+    "url_diff": "https://drive.google.com/file/d/1uwKqfA7I9-An1vqmcjqT9H2Y6R14oHuE/view?usp=drive_link",
     "level": "sl6,乱打6"
   },
   {
@@ -38743,15 +38743,6 @@
     "level": "st3"
   },
   {
-    "md5": "6e9f4edfbb72508d021ba5de7f164034",
-    "sha256": "4653f5b16cf53ba0f189d5bb4e293c7a64fac78148c66ec66cde6e9357aa0de4",
-    "title": "PHYSALIS [MASTER]",
-    "artist": "TAG bms.Spehs & Hihumi // movie.ShakeJ // obj.櫻井桃華",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=146",
-    "url_diff": "https://drive.google.com/file/d/1eQfBbLgI-q2kSP9Vy8jMPswzDy_c0b_r/view",
-    "level": "st3"
-  },
-  {
     "md5": "a5604183afc075ba7b730d4d2cb763a0",
     "sha256": "0d09df4be8af84077f275fd62eb66c77f24b7d66549af66cb4059645e4b11d85",
     "title": "Pernicious Deed [陸上]",
@@ -40278,6 +40269,15 @@
     "artist": "Utuka obj:potechang",
     "url": "https://venue.bmssearch.net/freebattle/25",
     "url_diff": "https://stellabms.xyz/upload/4158",
+    "level": "st3,重発狂3"
+  },
+  {
+    "md5": "6e9f4edfbb72508d021ba5de7f164034",
+    "sha256": "4653f5b16cf53ba0f189d5bb4e293c7a64fac78148c66ec66cde6e9357aa0de4",
+    "title": "PHYSALIS [MASTER]",
+    "artist": "TAG bms.Spehs & Hihumi // movie.ShakeJ // obj.櫻井桃華",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=146",
+    "url_diff": "https://drive.google.com/file/d/1eQfBbLgI-q2kSP9Vy8jMPswzDy_c0b_r/view",
     "level": "st3,重発狂3"
   },
   {
