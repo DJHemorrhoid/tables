@@ -1449,6 +1449,15 @@
     "level": "sl1,乱打1"
   },
   {
+    "md5": "c25ab88d53778ccfbe69ddb12998a35c",
+    "sha256": "b3e356e7cc1be03e33eed5d851ed0764cb3500dac9cdf1ee4e21b686a097c9a4",
+    "title": "Serika [INSANE]",
+    "artist": "箱崎 星梨花 / mov:永吉 昴 obj by DK",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=88",
+    "url_diff": "https://frozensat.github.io/sabun/Serika_7I-fix.zip",
+    "level": "sl1,乱打2"
+  },
+  {
     "md5": "175243192b0e570c0694a16186e5dc3e",
     "sha256": "3c7c5f4665fe3aec40263f6be140fc2131825cd6eb378109608d9e9d82037ace",
     "title": "Ring Ring Ring ☆ Let's H! [M@STER]",
@@ -3540,6 +3549,15 @@
     "artist": "ProjectG Obj.Triforce",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
     "url_diff": "https://darksabun.club/bceg/event/bofxv/",
+    "level": "sl5,乱打5"
+  },
+  {
+    "md5": "c2584057469480172479f0b166aff5fa",
+    "sha256": "c14a634cae066d482bb76fea56648d7d0b7cdd2c42adb2ba558db6c8dfbf978a",
+    "title": "My Hardcore [Difficult]",
+    "artist": "dust.c / obj:みっと",
+    "url": "http://www.dropbox.com/s/j57om8jhew33ulh/My%20Hardcore.zip",
+    "url_diff": "http://zzssccaxd.wix.com/bmsabun",
     "level": "sl5,乱打5"
   },
   {
@@ -7159,14 +7177,6 @@
     "artist": "fen obj:momochi",
     "url": "https://drive.google.com/file/d/1yTgwN-a-wkbqa6teugOd2EojXShYSk9Z/view?usp=drive_link",
     "url_diff": "https://stellabms.xyz/upload/4934",
-    "level": "sl11,乱打12"
-  },
-  {
-    "md5": "2391b1c72074436cf655fd465e9176ca",
-    "sha256": "ef9925e2695c44c3ee43e442b4e66de4ab78145b5e312b35c0e30aef1f5c0aef",
-    "title": "Rush-Hour [SP LEGGENDARIA]",
-    "artist": "litmus* obj:BAECON",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=140",
     "level": "sl11,乱打12"
   },
   {

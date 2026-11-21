@@ -1904,15 +1904,6 @@
     "level": "sl1"
   },
   {
-    "md5": "c25ab88d53778ccfbe69ddb12998a35c",
-    "sha256": "b3e356e7cc1be03e33eed5d851ed0764cb3500dac9cdf1ee4e21b686a097c9a4",
-    "title": "Serika [INSANE]",
-    "artist": "箱崎 星梨花 / mov:永吉 昴 obj by DK",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=88",
-    "url_diff": "https://frozensat.github.io/sabun/Serika_7I-fix.zip",
-    "level": "sl1"
-  },
-  {
     "md5": "478e9793e0337833d835208626bcdacd",
     "sha256": "8cf74962166852266d824b6b65c77cc9651f43e9eb8bae9f96f373c72a6545bd",
     "title": "Showguts -otoshi.d-",
@@ -6476,15 +6467,6 @@
     "level": "sl5"
   },
   {
-    "md5": "c2584057469480172479f0b166aff5fa",
-    "sha256": "c14a634cae066d482bb76fea56648d7d0b7cdd2c42adb2ba558db6c8dfbf978a",
-    "title": "My Hardcore [Difficult]",
-    "artist": "dust.c / obj:みっと",
-    "url": "http://www.dropbox.com/s/j57om8jhew33ulh/My%20Hardcore.zip",
-    "url_diff": "http://zzssccaxd.wix.com/bmsabun",
-    "level": "sl5"
-  },
-  {
     "md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
     "sha256": "379df1a951ae1ca9aad2e9f4d9975c54987faf2c8a9e9783c250acc2a88ee618",
     "title": "NIRVANA [SP INSANE]",
@@ -6978,14 +6960,6 @@
     "artist": "椎名まゆり / obj:Monsta",
     "url": "https://www.dropbox.com/s/8k9jv25hpd9u42n/%E6%98%9F%E5%B1%91%E3%82%A2%E3%83%9D%E3%83%88%E3%83%BC%E3%82%B7%E3%82%B9.zip?dl=0",
     "url_diff": "https://web.archive.org/web/20200306165639/http://3228monsta.web.fc2.com/",
-    "level": "sl5"
-  },
-  {
-    "md5": "e5d67212b0a5c62476a77be325fb9650",
-    "sha256": "c46f2618087a7148698be71e15c6194511d7d16f8086be0baa33801938f0b17a",
-    "title": "暴走 ~ out of control",
-    "artist": "Tatsh (Movie: MUSH.T / BMS: Zris)",
-    "url": "https://venue.bmssearch.net/letsbmsedit4/26",
     "level": "sl5"
   },
   {
@@ -9896,6 +9870,14 @@
     "artist": "sta / obj : Mary_Sue",
     "url": "https://bit192.info/files/bms.html",
     "url_diff": "https://marysue.darksabun.club/",
+    "level": "sl11"
+  },
+  {
+    "md5": "2391b1c72074436cf655fd465e9176ca",
+    "sha256": "ef9925e2695c44c3ee43e442b4e66de4ab78145b5e312b35c0e30aef1f5c0aef",
+    "title": "Rush-Hour [SP LEGGENDARIA]",
+    "artist": "litmus* obj:BAECON",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=140",
     "level": "sl11"
   },
   {
