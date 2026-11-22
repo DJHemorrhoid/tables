@@ -2979,15 +2979,6 @@
     "level": "st0,腕0"
   },
   {
-    "md5": "4d9f062b2048d3c11062449b48e81488",
-    "sha256": "2dd12110cbb0e5eeeed0711223ffd33c9b434a25ee7d89e1f10b08390189342a",
-    "title": "ラケシスと永遠の祈祷者 [Stella]",
-    "artist": "しーけー obj:mute",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=110",
-    "url_diff": "http://gnqg.rosx.net/upload/",
-    "level": "st0,腕0"
-  },
-  {
     "md5": "961618e954a9d2e870af548fce62c55f",
     "sha256": "376f016eddf6d08c7205e170be3841b56f49a020740cc0c34996b0d207845f2d",
     "title": "情熱の大阪",
@@ -3055,6 +3046,15 @@
     "artist": "Pinky obj.うに",
     "url": "https://www.mediafire.com/file/wn2tam0wwm05qyi/%255BPinky%255D_Wunderbar.zip/file",
     "url_diff": "https://stellabms.xyz/upload/7207",
+    "level": "st1,腕0"
+  },
+  {
+    "md5": "4d9f062b2048d3c11062449b48e81488",
+    "sha256": "2dd12110cbb0e5eeeed0711223ffd33c9b434a25ee7d89e1f10b08390189342a",
+    "title": "ラケシスと永遠の祈祷者 [Stella]",
+    "artist": "しーけー obj:mute",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=110",
+    "url_diff": "http://gnqg.rosx.net/upload/",
     "level": "st1,腕0"
   },
   {
@@ -4146,6 +4146,15 @@
     "level": "st3,腕3"
   },
   {
+    "md5": "c36bd7c8267942449ae213f7b46300b2",
+    "sha256": "04813fa0eccae9d40a838da1607dd27a6566b82fa9fd1fa650097ccad02486bd",
+    "title": "花鳥風月 [お祭り運営委員会]",
+    "artist": "Phorni obj:TAKANASHI_HOSHINO",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=364&event=83",
+    "url_diff": "https://stellabms.xyz/upload/5570",
+    "level": "st3,腕3"
+  },
+  {
     "md5": "10b4f116f4f4140ee977e0bdf788e55a",
     "sha256": "f22dc7446105e708c01c4c00907b8793b860c8610669cb89ee149c61fe57b7ae",
     "title": "雪色夜望（BMS Edit） [whitest]",
@@ -5064,6 +5073,15 @@
     "level": "st5,腕5"
   },
   {
+    "md5": "a6e39e68dd270f621dd5f1c0ef95ada0",
+    "sha256": "319bf3c972303c5a366a8acee0a46d30227e0e224ee72564ab88dc1341d75a2a",
+    "title": "ティアラメンツ [Deep Ocean's MemOry]",
+    "artist": "SpadeK Illust:Lim obj:potechang",
+    "url": "https://venue.bmssearch.net/bmstukuru2025/92",
+    "url_diff": "https://stellabms.xyz/upload/5080",
+    "level": "st5,腕5"
+  },
+  {
     "md5": "915ea0341a6a33bcc399356000359308",
     "sha256": "07baedd6d15a3e9b64b7abca5c19a878fe1190babe881354bb50208a7ee6c5a4",
     "title": "ナツイノ [ガチオシ]",
@@ -5746,6 +5764,15 @@
     "level": "st7,腕8"
   },
   {
+    "md5": "ec5cfca54e8ce69f662a68bad4db9ee5",
+    "sha256": "e379cf2c4a53776c176f007886f59f99d350c769aca57b6e371f3000f2453f4e",
+    "title": "Meaning of Existence [miracle]",
+    "artist": "TKR/obj.もにもに BGA:seizan",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=95",
+    "url_diff": "https://stellabms.xyz/upload/517",
+    "level": "st8,腕7"
+  },
+  {
     "md5": "32388dd5d425e025cd651096501cf694",
     "sha256": "f975f688fc8470c0ddf4717a0fe50a23ae8ed8aa6c2ce0a190a845d5510a6edb",
     "title": "AIWS [Other]",
@@ -5860,6 +5887,14 @@
     "artist": "長沼浩太(魚屋) / obj. Tristan97 Movie:長沼浩太(ぜひ！！！！)",
     "url": "https://drive.google.com/u/0/uc?id=1nSH4fytVa4nXOTLtG1elhHvVmcEob-c5&export=download",
     "url_diff": "https://github.com/TristanDavis97/Sabuns/blob/main/%5Bnaganuma%5DNATTO_T97_fix.zip?raw=true",
+    "level": "st8,腕8"
+  },
+  {
+    "md5": "15ff0328fd3a0850ae6abb94bc85f83f",
+    "sha256": "3a1b7185e7e978b2ffe14a9e92b90d8f60c3b350c7b83c58de8de596b1fc4ca1",
+    "title": "Nostalgic in Niigata [INSANE]",
+    "artist": "SiiM4Mu",
+    "url": "https://venue.bmssearch.net/bmstukuru2025/28",
     "level": "st8,腕8"
   },
   {

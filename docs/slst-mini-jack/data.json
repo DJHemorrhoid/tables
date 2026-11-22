@@ -1236,6 +1236,15 @@
     "level": "st3,連打複合3"
   },
   {
+    "md5": "488462df486b787b9f7907dfdb5af9a1",
+    "sha256": "2698bcfd9088d6604be4e62cebfe064617ba10608bfed3de91148fd336d51bf6",
+    "title": "Magical Night Special [あたたかいまほう]",
+    "artist": "Dogsix mov : 出前 obj : IBARAGI_YOSHIMI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=146",
+    "url_diff": "https://stellabms.xyz/upload/5737",
+    "level": "st3,連打複合3"
+  },
+  {
     "md5": "1bca8c429f5edf8c46ee749999be7845",
     "sha256": "fd28eeabcad836bd40090a9ac504e9ca17b7b891f72fd43eb9403f1a98dfea38",
     "title": "Maharaja Trance [simultaneous]",
@@ -2609,6 +2618,15 @@
     "level": "st6,連打複合6"
   },
   {
+    "md5": "cee6ca596e55954864cab21ec8bcca96",
+    "sha256": "ed4a4add378e3bfb9972cea4e36a2c34e52887a0e7621e23a0025c2e229e34e9",
+    "title": "名もなき [HEARTFUL]",
+    "artist": "大前 司 movie:空読無 白眼 & 銹月 / obj:魔女",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/37",
+    "url_diff": "https://stellabms.xyz/upload/5540",
+    "level": "st6,連打複合6"
+  },
+  {
     "md5": "5746bb34554bed4bb1e17acefb9f0420",
     "sha256": "2487b8a1fd9652414de93eececb834ec16957eb78b7df41c91d59596684c70da",
     "title": "夏の空、少女のアポリオン [Ephemeral Memories]",
@@ -2968,6 +2986,15 @@
     "level": "st7,連打複合7"
   },
   {
+    "md5": "528b7445564699f91a8b506120c6b0c0",
+    "sha256": "5501991f2a4f2d7637a193444662a952d5504fd4e6530f9a1a28abee7494c095",
+    "title": "FREEDOM DiVE [LAST BOSS]",
+    "artist": "xi / obj:BAECON",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50",
+    "url_diff": "https://darksabun.club/mirror/akred/baecon/dive_LASTBOSS.bme",
+    "level": "st8,連打複合7"
+  },
+  {
     "md5": "21031ac1c4f700c8d22c0dda6e52159d",
     "sha256": "2b6bb4ff6a16514770da262b8ba90402af03bd67d8abf464745c7d0797779f7b",
     "title": "Amplifying Effect -SP INSANE-",
@@ -3200,6 +3227,15 @@
     "url": "https://drive.google.com/file/d/0B3C7qRU5MILfY2M2YVlra0YzcFk/view",
     "url_diff": "https://stellabms.xyz/upload/1771",
     "level": "st8,連打複合8"
+  },
+  {
+    "md5": "cc4f47393a4ccf44e1261c6f7ba305cc",
+    "sha256": "5381c654e96cb347809e0174fc3e781209e0935d96ef434ff754ff94abb4a9be",
+    "title": "Miracletale -To The Future-",
+    "artist": "kooridori & TRIAL BGA:浪漫映像制作倶楽部 / OBJ:七海",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=142",
+    "url_diff": "https://egosa0424.github.io/sabun/Miracletale_nanami.zip",
+    "level": "st8,連打複合9"
   },
   {
     "md5": "e50ee2da76698a7a60ee7ae14d91263b",

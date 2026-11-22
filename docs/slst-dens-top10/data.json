@@ -215,6 +215,15 @@
     "level": "sl1"
   },
   {
+    "md5": "37f5309c50a7cbc2d43243ace22c91ac",
+    "sha256": "904746165e22c9a6e295f63062ebb80605d2d57ddf01b30e1cd5e2d684fb2a43",
+    "title": "Alitatrieb [Madness]",
+    "artist": "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04060.zip",
+    "level": "sl1"
+  },
+  {
     "md5": "6a3bedc150a3115c6dfd84de6fbbe6eb",
     "sha256": "6754298f1806d5dd1d2cde7c3b28f262fc4f6b5365d6bce7c2854aac0ca2cd8c",
     "title": "Azure Zephyr [7A]",
@@ -437,6 +446,15 @@
     "level": "sl2"
   },
   {
+    "md5": "a5bcfb406710e0e78492cca7690169df",
+    "sha256": "80e2c0954f486081ca71a0dba312ba0723dd144be3addea328d42c33fe10dc3b",
+    "title": "CHASER [DRIZZLE]",
+    "artist": "SHIKI obj:Keysa",
+    "url": "https://web.archive.org/web/20210929150352/http://shiki2.sakura.ne.jp/shiki_chasermq.rar",
+    "url_diff": "https://stellabms.xyz/upload/7295",
+    "level": "sl2"
+  },
+  {
     "md5": "ee82e875029b3d87e4f13eb93d09c7de",
     "sha256": "92e5654902639f1a70d7ba2df1c2ec5372b00b1984a9fa3fe372e2224a52e854",
     "title": "COSMIC INVITATION [GNOSIS]",
@@ -475,15 +493,6 @@
     "title": "Epic Bellum -universum- [BlackAnother]",
     "artist": "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=110",
-    "level": "sl2"
-  },
-  {
-    "md5": "bde981560115cc2f7fa6e5a93b1c13dc",
-    "sha256": "69527f9bd2591184084fff5a374323eda3e7463bbdc1a0beb869185112136a62",
-    "title": "Existence [Another+]",
-    "artist": "Ryo Nakamura Movie : Photonskyto obj : sitoras",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=295&event=104",
-    "url_diff": "http://absolute.pv.land.to/uploader/src/up6257.zip",
     "level": "sl2"
   },
   {
@@ -1655,15 +1664,6 @@
     "level": "sl9"
   },
   {
-    "md5": "0613e7c54f9c026d9460e106eb7db194",
-    "sha256": "9d2b8d187ff783c43e8b431295b5d2b716b2ac1d7679415d77f34260c1f9dffc",
-    "title": "The infant daughter Frandle's -Luna-",
-    "artist": "celas / selene.",
-    "url": "https://web.archive.org/web/20140612155001/http://creation-records.info/bms/c_oen_ogg.rar",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04683.zip",
-    "level": "sl9"
-  },
-  {
     "md5": "295dfc6bac48fd8a805173be0a5360d0",
     "sha256": "1ba5fc448c982bd23cd4fd32dce07b312a255829a061cab11fbd513b3f4e2124",
     "title": "fragments J-CoreRemix -Luna-",
@@ -1687,6 +1687,15 @@
     "artist": "wa. /差分　赤い人",
     "url": "http://skydrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21271#cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
     "url_diff": "https://darksabun.club/mirror/akred/bmsfile/_morion_HARDESTf.bme",
+    "level": "sl9"
+  },
+  {
+    "md5": "447b6b0e912923da96a4e6d78f26468f",
+    "sha256": "a0b7b7d1983a028d15d6c22e0b76435aa57bba5ebffaabc7a5fa5a015485a363",
+    "title": "ルーネイトエルフ～霧の湖の物語～ [KANITHER]",
+    "artist": "9-zen obj.かに",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
     "level": "sl9"
   },
   {
@@ -1788,6 +1797,14 @@
     "level": "sl10"
   },
   {
+    "md5": "060abd98a13dd37e0ef02db935696b80",
+    "sha256": "e38d5dcd2dd6651aa61641c1976a708c8effad82f11f8358bb3e14022c992b93",
+    "title": "Let's Go With...(TearDrop Remix)feat.Mai/重音テト[coaster]",
+    "artist": "やまだぶりん a.k.a ゲヘナアカモップ BGI:たんっっ　obj:CC",
+    "url": "https://venue.bmssearch.net/morekivotos/8",
+    "level": "sl10"
+  },
+  {
     "md5": "6f238b795e94632f6efcc6e83c8a1380",
     "sha256": "bad870d1e591a4aae773b7c78b123dc3b7c5e0f582d4e565da71989093078c34",
     "title": "はるかぜの湊に [pendulum]",
@@ -1851,6 +1868,15 @@
     "level": "sl11"
   },
   {
+    "md5": "1abcae664a42b09d1b25dc7696b3769f",
+    "sha256": "b04ed18e94304ae9b1f550acfa4811e5959cbf5c2c3576b0c1914486dd4a508f",
+    "title": "Black Lair [EXPERT]",
+    "artist": "削除 feat. void / 浪漫映像制作倶楽部 / obj : И",
+    "url": "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
+    "url_diff": "http://bms.parksulab.xyz",
+    "level": "sl11"
+  },
+  {
     "md5": "1bc3c15a4c40d87dbffa8be429140478",
     "sha256": "6da13c3214c07c7688a5cca18b8754d420316eb5d0c63429de64161694194ab0",
     "title": "DANCING KIWI [WARK]",
@@ -1911,15 +1937,6 @@
     "artist": "fen/obj:BOKKI",
     "url": "http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=60",
     "url_diff": "https://web.archive.org/web/20181105023415/http://www.geocities.jp/bokki_chinpoman/",
-    "level": "sl11"
-  },
-  {
-    "md5": "99bb66461525c5d4a4a591202a954436",
-    "sha256": "bb9f8c2670d9170fe130cbd2b7935b887272be591549b2600fa8042df4a13e8c",
-    "title": "Ready to Go [もちたま7]",
-    "artist": "fen obj:momochi",
-    "url": "https://drive.google.com/file/d/1yTgwN-a-wkbqa6teugOd2EojXShYSk9Z/view?usp=drive_link",
-    "url_diff": "https://stellabms.xyz/upload/4934",
     "level": "sl11"
   },
   {
@@ -1995,15 +2012,6 @@
     "level": "sl12"
   },
   {
-    "md5": "0f02775a367c932432b0e31bb38acc3b",
-    "sha256": "c5c79e124cd049a0b3a5d3b087033e2556e14a2b0d9253c624a03b1a0b3e23d8",
-    "title": "DEATH SENTENCE [Eliminator]",
-    "artist": "kohaxy obj.Mallow♪ vs zowni",
-    "url": "https://venue.bmssearch.net/bmsshuin3/52",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05482.zip",
-    "level": "sl12"
-  },
-  {
     "md5": "9b3b8e98a362e86546551d5a16052364",
     "sha256": "423e9dee0c5859618c7601aff0c0128b4aabe3c68028a015521fb795b9160b6d",
     "title": "Daydreamer [EX]",
@@ -2046,6 +2054,15 @@
     "artist": "D.J.Nero / selene.",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=71",
     "url_diff": "https://drive.google.com/uc?export=download&id=1cH2B29xOnPxx1LIiTo8LEv0t9FwRKJG-",
+    "level": "sl12"
+  },
+  {
+    "md5": "99bb66461525c5d4a4a591202a954436",
+    "sha256": "bb9f8c2670d9170fe130cbd2b7935b887272be591549b2600fa8042df4a13e8c",
+    "title": "Ready to Go [もちたま7]",
+    "artist": "fen obj:momochi",
+    "url": "https://drive.google.com/file/d/1yTgwN-a-wkbqa6teugOd2EojXShYSk9Z/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/4934",
     "level": "sl12"
   },
   {
@@ -3952,6 +3969,15 @@
     "level": "st8"
   },
   {
+    "md5": "c46a81cb184f5a804c119930d6eba748",
+    "sha256": "486bab83d726b9b3dd05319278ba6c4ffdf2467f9c89afc590e738ab063304dc",
+    "title": "FREEDOM DiVE [FOUR DIMENSIONS]",
+    "artist": "xi / air",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50",
+    "url_diff": "http://yahoo.jp/box/twZ9In",
+    "level": "st8"
+  },
+  {
     "md5": "fdb9d7d8eaca594231dda88b539253cb",
     "sha256": "b5efc5ee8f5cd07d54d25075b53be23a718932199c8ff3c33133e91206f36f21",
     "title": "Life is PIANO [Other]",
@@ -4077,6 +4103,15 @@
     "level": "st9"
   },
   {
+    "md5": "a38700e8b213e4f3ec30399c6e99f9d8",
+    "sha256": "9a46d9c7bb2fa299275386f51fb47f604eb2fb616bb01252e84dc45f7f8374c0",
+    "title": "La Mort de Notre Soleil -Godslayer-",
+    "artist": "AYhaz / nyannurs obj. tyrcs",
+    "url": "https://yaritaihoudie.free.fr/bms/boxofsins/la_mort_de_notre_soleil.rar",
+    "url_diff": "https://stellabms.xyz/upload/1311",
+    "level": "st9"
+  },
+  {
     "md5": "941dd04846cbeb1c92c7ad7cd272819e",
     "sha256": "eb249c60a3c294acd39a9195406abb48e523f9a478c15088491de766a5e25fd3",
     "title": "Prog-M -PoLYgLoT-",
@@ -4148,6 +4183,15 @@
     "level": "st10"
   },
   {
+    "md5": "068d285479ce0d3ed9fd87a2d12ae7b9",
+    "sha256": "7e3ae036bd0e0777c8420d52ce5fcbd1b61117313bd93b6e11d0e69dd1f5448d",
+    "title": "CUNNY TRIO [Immortal]",
+    "artist": "福建高速音楽研究学会（猫龍+DJ NORMAL1ZER+DJ Momo）/ obj:potechang",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=148",
+    "url_diff": "https://stellabms.xyz/upload/5726",
+    "level": "st10"
+  },
+  {
     "md5": "84578297a427579d3b8c056f32ef8522",
     "sha256": "7c1b7fda1ad75b1de6ee1f4f2aca58022ac47dd09ed82d20373606b8bbd2b0db",
     "title": "Eternal Super Hyper Ultimate Doggo [Endmost Supreme Highest Universal Drumming]",
@@ -4175,15 +4219,6 @@
     "level": "st10"
   },
   {
-    "md5": "8298c24c98efed81599ddf7a2fabec17",
-    "sha256": "e8faf08274b332c13d7a72d17dfb407ac74ee7bbd3d3107990f5d85742317c16",
-    "title": "Total Eclipse of the Sun -32HELL-",
-    "artist": "-45 obj:PiPiNeko",
-    "url": "https://drive.google.com/file/d/1dFmUVUO1oEPytDkYAjkOBF3MWG-uaDym/view?usp=drive_link",
-    "url_diff": "https://stellabms.xyz/upload/5638",
-    "level": "st10"
-  },
-  {
     "md5": "3369ff2213f08ab8a68d6af0556bec25",
     "sha256": "baaf7ac11c428bb499a7523683c1f367602e6c39c9e56a5f05c287cf1bfee1cd",
     "title": "new earth [Voyage Without Purpose or Passion]",
@@ -4202,12 +4237,21 @@
     "level": "st11"
   },
   {
-    "md5": "45b1bff2a54e2cb1bab20449c5a7c7f3",
-    "sha256": "553c6d4e3fc82bc9fe54a8992a7d744e69f7ec1e1a971cfbca3d8206ddb15086",
-    "title": "PEACE BREAKER [PURGE]",
-    "artist": "Omnipotenx obj:42",
-    "url": "http://srdbms.otodo.net/",
-    "url_diff": "http://obj42.web.fc2.com/ ",
+    "md5": "80a5ada4bb522345a935f9fac866fd54",
+    "sha256": "544209fcca085eb305d510970191c00fe58001890a22ef3f2e933a2817b75f47",
+    "title": "Love-Colored Look of the Sky [S2]",
+    "artist": "Yu^ta obj:西京極ラム子",
+    "url": "https://web.archive.org/web/20190109013852/http://music.geocities.jp/yutaorqnlaboratory",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05581.zip",
+    "level": "st11"
+  },
+  {
+    "md5": "8298c24c98efed81599ddf7a2fabec17",
+    "sha256": "e8faf08274b332c13d7a72d17dfb407ac74ee7bbd3d3107990f5d85742317c16",
+    "title": "Total Eclipse of the Sun -32HELL-",
+    "artist": "-45 obj:PiPiNeko",
+    "url": "https://drive.google.com/file/d/1dFmUVUO1oEPytDkYAjkOBF3MWG-uaDym/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/5638",
     "level": "st11"
   },
   {
@@ -4216,15 +4260,6 @@
     "title": "neo tinnitus [Other]",
     "artist": "SP-# remixed by LeaF obj:Omino",
     "url": "https://venue.bmssearch.net/bmstukuru2024/9",
-    "level": "st11"
-  },
-  {
-    "md5": "c9bb605b537f0a739c26a2a4890e2dac",
-    "sha256": "1742be365e481e19110a67e60b89d78bdcdfba9e1735fe97d33024cf8a408f5a",
-    "title": "オトゲラヴ！ [初回限定版豪華三大特典付]",
-    "artist": "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん obj.綾地寧々",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=96",
-    "url_diff": "http://absolute.pv.land.to/uploader/src/up5693.rar",
     "level": "st11"
   },
   {
