@@ -21344,7 +21344,7 @@
     "title": "Seventh Summer of Love [Loves Only You]",
     "artist": "void obj:Guanacoite",
     "url": "http://mournfinale.com/bms/void_-_Seventh_Summer_of_Love.zip",
-    "url_diff": "https://darksabun.club/event/bbbb/venue/",
+    "url_diff": "https://darksabun.club/event/bbbb/sabun/SeventhSummerofLove_sl5_Guanacoite.zip",
     "level": "sl10"
   },
   {
@@ -29258,6 +29258,15 @@
     "level": "st1"
   },
   {
+    "md5": "64434cbed41e1b05c602b83f5b2ce184",
+    "sha256": "60306221fbd87519a7fa6eb78778db8faf9bec9f79d47c1f78d164898533e869",
+    "title": "DANCING KIWI [BIRD]",
+    "artist": "えびです OBJ:PHILO",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=489&event=133",
+    "url_diff": "https://stellabms.xyz/upload/8444",
+    "level": "st1"
+  },
+  {
     "md5": "4e83a16bf10958458c9ef371674ca34f",
     "sha256": "373a236d2f8ad5248372a7ebf38a9a47c3f50986518610af7d8f062cff239a20",
     "title": "DAYBREAK [FUTURE7]",
@@ -31415,15 +31424,6 @@
     "artist": "上杉うた with 星明 / obj:n",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=54",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02244.zip",
-    "level": "st1,dl1"
-  },
-  {
-    "md5": "64434cbed41e1b05c602b83f5b2ce184",
-    "sha256": "60306221fbd87519a7fa6eb78778db8faf9bec9f79d47c1f78d164898533e869",
-    "title": "DANCING KIWI [BIRD]",
-    "artist": "えびです OBJ:PHILO",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=489&event=133",
-    "url_diff": "https://stellabms.xyz/upload/8444",
     "level": "st1,dl1"
   },
   {
